@@ -1,0 +1,101 @@
+{
+  "_quelle": "https://www.volleyballer.de/news/49463.html (Staffeleinteilung 2026/27, abgerufen 2026-09-20)",
+  "ligen": {
+    "vbl-pro": {
+      "name": "Sparda 2. Liga Pro (Frauen)",
+      "sport": "Volleyball",
+      "vereine": [
+        { "name": "BayerVolleys Leverkusen", "ort": "Leverkusen", "land": "NRW" },
+        { "name": "DSHS SnowTrex Köln", "ort": "Köln", "land": "NRW" },
+        { "name": "Eintracht Spontent Düsseldorf", "ort": "Düsseldorf", "land": "NRW" },
+        { "name": "ESA Grimma Volleys", "ort": "Grimma", "land": "SN" },
+        { "name": "NawaRo Straubing", "ort": "Straubing", "land": "BY" },
+        { "name": "Neuseenland-Volleys Markkleeberg", "ort": "Markkleeberg", "land": "SN" },
+        { "name": "SC Union Emlichheim", "ort": "Emlichheim", "land": "NI" },
+        { "name": "Sparkassen Wildcats Stralsund", "ort": "Stralsund", "land": "MV" },
+        { "name": "SV Lohhof", "ort": "Unterschleißheim", "land": "BY" },
+        { "name": "TV Planegg-Krailling", "ort": "Planegg", "land": "BY", "pilot": true },
+        { "name": "TV Waldgirmes", "ort": "Lahnau", "land": "HE" },
+        { "name": "VCO Dresden", "ort": "Dresden", "land": "SN", "hinweis": "Sonderspielrecht, Bundesstützpunkt" },
+        { "name": "VfL Oythe", "ort": "Vechta", "land": "NI" }
+      ]
+    },
+    "vbl-frauen-sued": {
+      "name": "2. Bundesliga Frauen Süd",
+      "sport": "Volleyball",
+      "vereine": [
+        { "name": "Black Forest Volleys Offenburg", "ort": "Offenburg", "land": "BW" },
+        { "name": "DJK SB München-Ost", "ort": "München", "land": "BY" },
+        { "name": "Erfurt electronic", "ort": "Erfurt", "land": "TH" },
+        { "name": "proWIN Volleys TV Holz", "ort": "Heusweiler", "land": "SL" },
+        { "name": "Rote Raben Vilsbiburg II", "ort": "Vilsbiburg", "land": "BY" },
+        { "name": "Sparda BSP Stuttgart", "ort": "Stuttgart", "land": "BW", "hinweis": "Sonderspielrecht" },
+        { "name": "SSC Freisen", "ort": "Freisen", "land": "SL" },
+        { "name": "SV Karlsruhe-Beiertheim", "ort": "Karlsruhe", "land": "BW" },
+        { "name": "TG Bad Soden", "ort": "Bad Soden", "land": "HE" },
+        { "name": "TSV Unterhaching", "ort": "Unterhaching", "land": "BY" },
+        { "name": "TV Dingolfing", "ort": "Dingolfing", "land": "BY" },
+        { "name": "TV SUSPA Altdorf", "ort": "Altdorf", "land": "BY" },
+        { "name": "VC Wiesbaden II", "ort": "Wiesbaden", "land": "HE" }
+      ]
+    },
+    "vbl-maenner-sued": {
+      "name": "2. Bundesliga Männer Süd",
+      "sport": "Volleyball",
+      "vereine": [
+        { "name": "BADEN VOLLEYS SSC Karlsruhe II", "ort": "Karlsruhe", "land": "BW" },
+        { "name": "Blue Volleys Gotha", "ort": "Gotha", "land": "TH" },
+        { "name": "CERATONIA Volleys Eltmann", "ort": "Eltmann", "land": "BY" },
+        { "name": "Donau Volleys Regensburg", "ort": "Regensburg", "land": "BY" },
+        { "name": "Enervigo Volleys Dresden", "ort": "Dresden", "land": "SN" },
+        { "name": "Keiler Volleys Stuttgart", "ort": "Stuttgart", "land": "BW" },
+        { "name": "L.E. Volleys", "ort": "Leipzig", "land": "SN" },
+        { "name": "SV Schwaig", "ort": "Schwaig bei Nürnberg", "land": "BY" },
+        { "name": "TSV Mühldorf", "ort": "Mühldorf am Inn", "land": "BY" },
+        { "name": "TuS Kriftel", "ort": "Kriftel", "land": "HE" },
+        { "name": "TV 1895 Mömlingen", "ort": "Mömlingen", "land": "BY" },
+        { "name": "TSV Grafing", "ort": "Grafing", "land": "BY" },
+        { "name": "Volley YoungStars Friedrichshafen", "ort": "Friedrichshafen", "land": "BW", "hinweis": "Sonderspielrecht" }
+      ]
+    },
+    "vbl-frauen-nord": {
+      "name": "2. Bundesliga Frauen Nord",
+      "sport": "Volleyball",
+      "vereine": [
+        { "name": "BBSC Berlin", "ort": "Berlin", "land": "BE" },
+        { "name": "BSV Ostbevern", "ort": "Ostbevern", "land": "NRW" },
+        { "name": "FC 47 Leschede", "ort": "Emsbüren", "land": "NI" },
+        { "name": "Grün-Weiß Eimsbüttel", "ort": "Hamburg", "land": "HH" },
+        { "name": "RC Sorpesee", "ort": "Sundern", "land": "NRW" },
+        { "name": "SC Potsdam", "ort": "Potsdam", "land": "BB" },
+        { "name": "Schweriner SC II", "ort": "Schwerin", "land": "MV", "hinweis": "Sonderspielrecht" },
+        { "name": "SSF Bonn", "ort": "Bonn", "land": "NRW" },
+        { "name": "Team 48 Hildesheim", "ort": "Hildesheim", "land": "NI" },
+        { "name": "TUSA City Girls Düsseldorf", "ort": "Düsseldorf", "land": "NRW" },
+        { "name": "TV Hörde", "ort": "Dortmund", "land": "NRW" },
+        { "name": "USC Münster II", "ort": "Münster", "land": "NRW" },
+        { "name": "VCO Münster", "ort": "Münster", "land": "NRW", "hinweis": "Sonderspielrecht" },
+        { "name": "VC Osnabrück", "ort": "Osnabrück", "land": "NI" }
+      ]
+    },
+    "vbl-maenner-nord": {
+      "name": "2. Bundesliga Männer Nord",
+      "sport": "Volleyball",
+      "vereine": [
+        { "name": "Eimsbütteler TV", "ort": "Hamburg", "land": "HH" },
+        { "name": "FC Schüttorf 09", "ort": "Schüttorf", "land": "NI" },
+        { "name": "Kieler TV", "ort": "Kiel", "land": "SH" },
+        { "name": "MLK Volleys Köln", "ort": "Köln", "land": "NRW" },
+        { "name": "PSV Neustrelitz", "ort": "Neustrelitz", "land": "MV" },
+        { "name": "SV Lindow-Gransee", "ort": "Gransee", "land": "BB" },
+        { "name": "Tebu Volleys", "ort": "Berlin", "land": "BE" },
+        { "name": "TSV Giesen GRIZZLYS II", "ort": "Giesen", "land": "NI" },
+        { "name": "TuB Bocholt", "ort": "Bocholt", "land": "NRW" },
+        { "name": "TuS Mondorf", "ort": "Niederkassel", "land": "NRW" },
+        { "name": "USC Braunschweig", "ort": "Braunschweig", "land": "NI" },
+        { "name": "VC Juniors Frankfurt", "ort": "Frankfurt", "land": "HE", "hinweis": "Sonderspielrecht" },
+        { "name": "VV Humann Essen", "ort": "Essen", "land": "NRW" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "verein": { "name": "NawaRo Straubing", "ort": "Straubing", "land": "BY", "liga": "vbl-pro", "liga_name": "Sparda 2. Liga Pro (Frauen)", "sport": "Volleyball" },
+  "ergebnis": {
+    "website": "https://www.nawaro-straubing.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "vivenu (vorher Cortex Tickets)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Turmair-Volleyballarena, Peterswöhrd 5, Straubing",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": { "name": null, "rolle": "FTSV Volleyball GmbH, Ludwigsplatz 26, Straubing", "kontakt": null },
+    "naechstes_heimspiel": "03.10.2026, 19:00 gegen Eintracht Spontent Düsseldorf",
+    "beobachtung": "Ehemaliger Erstligist mit eigener GmbH; Tickets laufen über einen Online-Shop (vivenu, „Zum Ticketshop“ auf der Spiele-Seite), inkl. Dauerkarten und ermäßigter Vorverkaufspreise. Nächstes Heimspiel 3.10. gegen Düsseldorf.",
+    "quellen": ["https://www.nawaro-straubing.de/spiele/", "https://nawaro.cortex-tickets.de/"],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-20", "modell": "claude-opus-5 (Claude Code Sitzung)", "schritte": 4,
+    "quellen_belegt": ["https://www.nawaro-straubing.de/spiele/", "https://nawaro.cortex-tickets.de/"],
+    "quellen_nur_suchtreffer": [], "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Professionell organisiert, voll ausgestatteter Ticketshop. Kein Passly-Kandidat erster Wahl.",
+    "kosten_usd": 0
+  }
+}

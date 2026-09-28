@@ -1,0 +1,14 @@
+{
+  "name": "passly-outreach",
+  "private": true,
+  "type": "module",
+  "description": "Recherche-Agent: findet Vereine und Veranstalter ohne (guten) Vorverkauf und bereitet den Erstkontakt vor",
+  "scripts": {
+    "recherche": "node --env-file-if-exists=.env recherche.mjs",
+    "pruefe": "node pruefe.mjs",
+    "bericht": "node --env-file-if-exists=.env bericht.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.127.0"
+  }
+}

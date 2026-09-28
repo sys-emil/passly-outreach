@@ -1,0 +1,26 @@
+{
+  "verein": { "name": "Sparkassen Wildcats Stralsund", "ort": "Stralsund", "land": "MV", "liga": "vbl-pro", "liga_name": "Sparda 2. Liga Pro (Frauen)", "sport": "Volleyball" },
+  "ergebnis": {
+    "website": "https://www.vc-stralsund.de/wildcats/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eingebetteter Online-Ticketshop (Anbieter hinter Cookie-Sperre nicht erkennbar)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Diesterweg-Halle, Stralsund",
+    "kapazitaet": null,
+    "instagram": "stralsunderwildcats",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Ticketseite bettet einen externen Ticketshop ein („Heimspieltickets“, durch Cookie-Einstellungen blockiert); Online-Vorverkauf existiert also, Anbieter und Preise nicht abrufbar. Aktive Instagram- und WhatsApp-Kanäle.",
+    "quellen": ["https://www.vc-stralsund.de/wildcats/tickets/"],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-20", "modell": "claude-opus-5 (Claude Code Sitzung)", "schritte": 3,
+    "quellen_belegt": ["https://www.vc-stralsund.de/wildcats/tickets/"],
+    "quellen_nur_suchtreffer": ["https://www.instagram.com/stralsunderwildcats/"],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Anbieter im Browser prüfen (Cookies akzeptieren). Wahrscheinlich kein Kandidat.",
+    "kosten_usd": 0
+  }
+}

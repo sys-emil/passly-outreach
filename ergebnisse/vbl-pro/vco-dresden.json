@@ -1,0 +1,25 @@
+{
+  "verein": { "name": "VCO Dresden", "ort": "Dresden", "land": "SN", "liga": "vbl-pro", "liga_name": "Sparda 2. Liga Pro (Frauen)", "sport": "Volleyball", "hinweis": "Sonderspielrecht, Bundesstützpunkt" },
+  "ergebnis": {
+    "website": null,
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Nachwuchsteam des Bundesstützpunkts mit Sonderspielrecht; keine eigene Ticketseite gefunden, Suchtreffer führen zum Dresdner SC (1. Liga, Reservix) und zum VC Dresden (anderer Verein, 2. BL Süd Männer, eigener Shop).",
+    "quellen": ["https://vc-dresden.de/volleyball-dresden-tickets-fur-bundesliga-spiele/"],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-20", "modell": "claude-opus-5 (Claude Code Sitzung)", "schritte": 2,
+    "quellen_belegt": ["https://vc-dresden.de/volleyball-dresden-tickets-fur-bundesliga-spiele/"],
+    "quellen_nur_suchtreffer": [], "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Stützpunktteam, kein Verein mit Zuschauergeschäft. Nicht weiterverfolgen.",
+    "kosten_usd": 0
+  }
+}

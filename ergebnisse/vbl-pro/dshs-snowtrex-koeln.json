@@ -1,0 +1,26 @@
+{
+  "verein": { "name": "DSHS SnowTrex Köln", "ort": "Köln", "land": "NRW", "liga": "vbl-pro", "liga_name": "Sparda 2. Liga Pro (Frauen)", "sport": "Volleyball" },
+  "ergebnis": {
+    "website": "https://www.dshs-snowtrex-koeln.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "ticket.io (dshs-snowtrex-koeln.ticket.io)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 8,
+    "halle": "Halle 22 der Deutschen Sporthochschule Köln",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": { "name": null, "rolle": "Ticketing", "kontakt": "tickets@dshs-snowtrex-koeln.de" },
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Kein Ticketverkauf vor Ort – Tickets nur online erhältlich!“ über ticket.io, 8 € / 4 €, Stornierung per Mail bis Donnerstag mittags. Sportlich-professionell aufgestellt (Sporthochschule).",
+    "quellen": ["https://www.dshs-snowtrex-koeln.de/heimspiele_anreise/tickets/"],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-20", "modell": "claude-opus-5 (Claude Code Sitzung)", "schritte": 2,
+    "quellen_belegt": ["https://www.dshs-snowtrex-koeln.de/heimspiele_anreise/tickets/"],
+    "quellen_nur_suchtreffer": ["https://dshs-snowtrex-koeln.ticket.io/"],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Kein Kandidat: Online-only-Verkauf funktioniert bereits. Interessant höchstens die Rückgabe-Funktion (sie stornieren heute per Mail von Hand).",
+    "kosten_usd": 0
+  }
+}

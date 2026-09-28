@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "ESA Grimma Volleys",
+    "ort": "Grimma",
+    "land": "SN",
+    "liga": "vbl-pro",
+    "liga_name": "Sparda 2. Liga Pro (Frauen)",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.vv-grimma.de",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Muldentalhalle, Grimma Süd",
+    "kapazitaet": null,
+    "instagram": "esagrimmavolleys",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "VV Grimma e.V.",
+      "kontakt": "info@vv-grimma.de"
+    },
+    "naechstes_heimspiel": "27.11.2026, 19:00 gegen BayerVolleys Leverkusen (laut Volleybox; Saisonstart 17.9. gegen Stralsund)",
+    "beobachtung": "Der „Karten-Shop“ auf der Vereinsseite führt zu indoortrends, einem Merchandise-Shop, nicht zu Tickets. Dauerkarten (120 € / 108 €) wurden für 2025/26 per Mail an info@vv-grimma.de bestellt und bar an der Abendkasse beim ersten Heimspiel abgeholt. Kein Online-Ticketverkauf auffindbar; einzelne Heimspiele waren zuletzt sogar eintrittsfrei (März 2025).",
+    "quellen": [
+      "https://www.vv-grimma.de/v4/",
+      "https://www.vv-grimma.de/v4/index.php?site=tickets&gender=damen&tid=1",
+      "https://www.vv-grimma.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-20",
+    "modell": "claude-opus-5 (Claude Code Sitzung)",
+    "schritte": 6,
+    "quellen_belegt": [
+      "https://www.vv-grimma.de/v4/",
+      "https://www.vv-grimma.de/v4/index.php?site=tickets&gender=damen&tid=1",
+      "https://www.vv-grimma.de/"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://medienportal-grimma.de/46405/freier-eintritt-bei-den-esa-grimma-volleys-zum-naechsten-heimspiel/",
+      "https://www.instagram.com/esagrimmavolleys/"
+    ],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Dauerkarten-per-Mail-und-Bargeld ist genau das Muster. Website veraltet (v4), Menüpunkt „Eintrittspreise“ nicht abgerufen: Einzelpreis von Hand prüfen.",
+    "kosten_usd": 0
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab auf eurer Seite gesehen, dass die Dauerkarten per Mail bestellt und bar beim ersten Heimspiel abgeholt werden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Dauerkarte und Einzeltickets über einen Link, Gäste zahlen per Karte oder PayPal, an der Tür wird gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten am Telefon, um zu schauen, ob das für die Muldentalhalle passt?\n\n**Telefonleitfaden**\n\n- Anrufen: Vorstand VV Grimma e.V., Kontakt über info@vv-grimma.de erfragen.\n- Einstieg: Saisonstart am 17.9. gegen Stralsund, Dauerkarten 120 Euro per Mail und Bargeld an der Abendkasse.\n- Frage: Wie viel Aufwand ist die Dauerkartenliste und die Abendkasse bei einem vollen Heimspiel?\n- Angebot: Nächstes Heimspiel (27.11. gegen Leverkusen) als kostenlosen Testlauf einrichten, Dauerkarte fürs Frühjahr gleich mit.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Rückruftermin vereinbaren."
+}

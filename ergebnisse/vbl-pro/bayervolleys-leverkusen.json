@@ -1,0 +1,26 @@
+{
+  "verein": { "name": "BayerVolleys Leverkusen", "ort": "Leverkusen", "land": "NRW", "liga": "vbl-pro", "liga_name": "Sparda 2. Liga Pro (Frauen)", "sport": "Volleyball" },
+  "ergebnis": {
+    "website": "https://www.bayer-volleyball-bundesliga.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket (events.vereinsticket.de/tsvbayer04)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 9,
+    "halle": "Ostermann-Arena, Leverkusen",
+    "kapazitaet": 3500,
+    "instagram": null,
+    "ansprechperson": { "name": null, "rolle": "Volleyballabteilung TSV Bayer 04", "kontakt": "Volleyball@TSVBayer04.de" },
+    "naechstes_heimspiel": "18.10.2026, 16:00 gegen TV Planegg-Krailling",
+    "beobachtung": "Großverein (TSV Bayer 04) mit fertigem Vereinsticket-Shop, alle elf Heimspiele 2026/27 online gelistet, Abendkasse zusätzlich; Ostermann-Arena mit 3.500 Plätzen. Nächstes Heimspiel 18.10. gegen Planegg-Krailling.",
+    "quellen": ["https://events.vereinsticket.de/tsvbayer04/vo-bayervolleys"],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-20", "modell": "claude-opus-5 (Claude Code Sitzung)", "schritte": 3,
+    "quellen_belegt": ["https://events.vereinsticket.de/tsvbayer04/vo-bayervolleys"],
+    "quellen_nur_suchtreffer": ["https://www.tsvbayer04.de/sportangebote/volleyball/spielorte-und-anreise/"],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Preise 9 € / 6 € / VIP 30 € und Kapazität 3.500 nur aus Suchtreffern. Kein Kandidat: Konzernverein mit eigener Ticketinfrastruktur.",
+    "kosten_usd": 0
+  }
+}

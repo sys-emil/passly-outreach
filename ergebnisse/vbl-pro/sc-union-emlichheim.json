@@ -1,0 +1,26 @@
+{
+  "verein": { "name": "SC Union Emlichheim", "ort": "Emlichheim", "land": "NI", "liga": "vbl-pro", "liga_name": "Sparda 2. Liga Pro (Frauen)", "sport": "Volleyball" },
+  "ergebnis": {
+    "website": "https://scuvolleyball.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix (auch über ADticket gelistet)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 8,
+    "halle": "Vechtetalhalle, Lägen Diek 12, Emlichheim",
+    "kapazitaet": null,
+    "instagram": "scu.volleyball",
+    "ansprechperson": null,
+    "naechstes_heimspiel": "31.10.2026, 16:00 gegen BayerVolleys Leverkusen",
+    "beobachtung": "Tickets „an der Abendkasse und online“ über Reservix; 8 € (7 € mit GN-Card), Jugend/Studenten/Senioren 6 €, Dauerkarte 69 € / 49 €. Nächstes Heimspiel 31.10. gegen Leverkusen.",
+    "quellen": ["https://scuvolleyball.de/tickets/"],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-20", "modell": "claude-opus-5 (Claude Code Sitzung)", "schritte": 2,
+    "quellen_belegt": ["https://scuvolleyball.de/tickets/"],
+    "quellen_nur_suchtreffer": ["https://www.reservix.de/tickets-sc-union-emlichheim-i/t16577", "https://www.adticket.de/SC-Union-Emlichheim.html"],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Hat schon Online-Vorverkauf plus Dauerkarte. Nur mit Kostenargument (Reservix-Gebühren) oder Abendkasse-im-selben-System interessant.",
+    "kosten_usd": 0
+  }
+}

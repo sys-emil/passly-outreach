@@ -1,0 +1,44 @@
+{
+  "verein": {
+    "name": "TV Waldgirmes",
+    "ort": "Lahnau",
+    "land": "HE",
+    "liga": "vbl-pro",
+    "liga_name": "Sparda 2. Liga Pro (Frauen)",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://tv-waldgirmes.de",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 10,
+    "halle": "Sporthalle Lahntalschule, Lahnau",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Ticketseite nennt nur Preise (Erwachsene 10 €, Studenten 8 €, Jugend 5 €, Kinder/Mitglieder frei) und keinen Verkaufsweg: kein Shop, kein Link, kein Reservierungshinweis. Der Gesamtspielplan hängt als Bild auf der Seite. Damen 1 und Herren 1 (3. Liga) spielen beide in der Lahntalschule.",
+    "quellen": [
+      "https://tv-waldgirmes.de/vbherren1/tickets/",
+      "https://tv-waldgirmes.de/category/volleyball-damen1/",
+      "https://tv-waldgirmes.de/gesamtspielplan/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-20",
+    "modell": "claude-opus-5 (Claude Code Sitzung)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://tv-waldgirmes.de/vbherren1/tickets/",
+      "https://tv-waldgirmes.de/category/volleyball-damen1/",
+      "https://tv-waldgirmes.de/gesamtspielplan/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Zwei Bundesliga-/Drittligateams in einer Halle, also viele Heimspieltage. Instagram und Ansprechperson noch nachschlagen (Facebook-Seite „TV Waldgirmes Team Damen 1“ existiert).",
+    "kosten_usd": 0
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, auf eurer Ticketseite stehen die Preise für die Damen in der 2. Liga Pro und die Herren in der 3. Liga, aber kein Weg, vorher eine Karte zu bekommen. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link für beide Teams, Gäste zahlen per Karte oder PayPal, an der Tür wird mit dem Handy gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen: Abteilungsleitung Volleyball TV Waldgirmes (Kontakt über die Website, Bereich Volleyball).\n- Einstieg: Zwei Teams in einer Halle (Lahntalschule), viele Heimspieltage, Ticketpreise 10 / 8 / 5 Euro online sichtbar, aber kein Vorverkaufsweg.\n- Frage: Wie kommen die Leute heute an Karten, und wie voll ist die Halle bei den Damen?\n- Angebot: Das nächste Heimspiel der Damen kostenlos einrichten, die Herren nach dem Test mit demselben Konto.\n- Abschluss: Link zu getpassly.de/sportvereine, Termin für einen zweiten Anruf."
+}

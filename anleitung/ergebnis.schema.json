@@ -1,0 +1,139 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "website",
+    "vorverkauf",
+    "anbieter",
+    "eintritt_frei",
+    "ticketpreis_eur",
+    "halle",
+    "kapazitaet",
+    "instagram",
+    "ansprechperson",
+    "naechstes_heimspiel",
+    "beobachtung",
+    "quellen",
+    "sicherheit"
+  ],
+  "properties": {
+    "website": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Website des Vereins bzw. der Abteilung"
+    },
+    "vorverkauf": {
+      "type": "string",
+      "enum": [
+        "keiner",
+        "manuell",
+        "anbieter",
+        "eintritt_frei",
+        "unbekannt"
+      ],
+      "description": "keiner = nur Abendkasse; manuell = per E-Mail/Telefon/Formular/Liste; anbieter = Online-Shop eines Ticketanbieters; eintritt_frei = kein Eintritt; unbekannt = nicht feststellbar"
+    },
+    "anbieter": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Name des Ticketanbieters, falls vorhanden"
+    },
+    "eintritt_frei": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "ticketpreis_eur": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "description": "Regulärer Erwachsenenpreis in Euro"
+    },
+    "halle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "kapazitaet": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "description": "Zuschauerkapazität der Halle"
+    },
+    "instagram": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Instagram-Handle ohne @"
+    },
+    "ansprechperson": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "rolle",
+        "kontakt"
+      ],
+      "properties": {
+        "name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "rolle": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "kontakt": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "E-Mail oder Telefon, wie öffentlich angegeben"
+        }
+      }
+    },
+    "naechstes_heimspiel": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Datum und Gegner, wie auf der Website"
+    },
+    "beobachtung": {
+      "type": "string",
+      "description": "Ein konkreter, prüfbarer Satz zur Ticketsituation"
+    },
+    "quellen": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Nur URLs, die mit web_fetch gelesen wurden"
+    },
+    "sicherheit": {
+      "type": "string",
+      "enum": [
+        "hoch",
+        "mittel",
+        "niedrig"
+      ],
+      "description": "Wie belastbar ist die Einordnung des Vorverkaufs"
+    }
+  }
+}

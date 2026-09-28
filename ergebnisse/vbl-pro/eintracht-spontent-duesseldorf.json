@@ -1,0 +1,46 @@
+{
+  "verein": {
+    "name": "Eintracht Spontent Düsseldorf",
+    "ort": "Düsseldorf",
+    "land": "NRW",
+    "liga": "vbl-pro",
+    "liga_name": "Sparda 2. Liga Pro (Frauen)",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://eintracht-spontent.de",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle Luisen-Gymnasium, Düsseldorf",
+    "kapazitaet": null,
+    "instagram": "eintrachtspontent",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein (Alte Farbwerke, Halle 29, Ronsdorfer Str. 74)",
+      "kontakt": "eintracht@spontent.lol"
+    },
+    "naechstes_heimspiel": "04.10.2026 (Sonntag), Sporthalle Luisen-Gymnasium",
+    "beobachtung": "Die Website nennt das nächste Heimspiel am 4.10. in der Sporthalle Luisen-Gymnasium, aber weder Preise noch einen Verkaufsweg oder Ticketlink; die Reichweite läuft über Streaming (Twitch, Dyn, YouTube, TikTok).",
+    "quellen": [
+      "https://eintracht-spontent.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-20",
+    "modell": "claude-opus-5 (Claude Code Sitzung)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://eintracht-spontent.de/"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://de.wikipedia.org/wiki/Eintracht_Spontent"
+    ],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Von Streamern (Spontent) gegründeter Verein, junges Publikum, sehr Instagram-/TikTok-affin. Genau die Zielgruppe für einen Link in der Bio. Klären, ob Eintritt frei ist.",
+    "kosten_usd": 0
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass ihr am 4.10. euer nächstes Heimspiel in der Sporthalle Luisen-Gymnasium habt, und auf der Seite steht nichts zu Tickets. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte, PayPal oder Apple Pay, an der Tür wird gescannt. Für den Verein kostenlos. Wie läuft der Einlass bei euch gerade?\n\n**Telefonleitfaden**\n\n- Kontakt: eintracht@spontent.lol, Instagram @eintrachtspontent (Reichweite läuft über Twitch, TikTok, YouTube).\n- Einstieg: Heimspiel am 4.10., Website ohne Ticketinfo.\n- Frage: Ist der Eintritt frei oder gibt es eine Abendkasse, und wie regelt ihr die Kapazität der Schulhalle?\n- Angebot: Kostenlose Tickets mit Kapazitätsgrenze oder bezahlte, beides über einen Link; Einrichtung fürs nächste Heimspiel kostenlos.\n- Abschluss: Link zu getpassly.de/sportvereine, Rückmeldung per DM abwarten."
+}
