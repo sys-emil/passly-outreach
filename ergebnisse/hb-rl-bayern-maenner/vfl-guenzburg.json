@@ -9,7 +9,7 @@
   },
   "ergebnis": {
     "website": "https://www.handball-guenzburg.de/",
-    "vorverkauf": "unbekannt",
+    "vorverkauf": "manuell",
     "anbieter": null,
     "eintritt_frei": false,
     "ticketpreis_eur": 9,
@@ -18,44 +18,55 @@
     "instagram": "vflguenzburghandball",
     "ansprechperson": {
       "name": "Jürgen Kees",
-      "rolle": "Hallenverwaltung und Spieltagsorganisation",
-      "kontakt": "juergen.kees@gmx.de, 0163/3112276"
+      "rolle": "Hallen- und Spieltagsmanager / Kommunikation öffentliche Stellen",
+      "kontakt": "0163/3112276"
     },
-    "naechstes_heimspiel": null,
-    "beobachtung": "Eintrittspreis-Seite für 2026/27: Herren I 9 € (ermäßigt 8 €), Dauerkarte 110 € (100 €), Kinder und Jugendliche bis 16 frei; ein Vorverkaufs- oder Bestellweg wird dort nicht genannt.",
+    "naechstes_heimspiel": "Sa 03.10.2026, 19:30 Uhr, gegen HC Erlangen III (Günzburg, Sporthalle)",
+    "beobachtung": "Eintritt Herren I 2026/27: 9 € (ermäßigt 8 €), Saisonkarte 110 € (100 €); die frühere Dauerkarten-Seite (Archivstand 27.05.2024, heute 404) nannte Vorbestellung per E-Mail oder Telefon und Verkauf an der Abendkasse gegen Barzahlung, einen Online-Shop gibt es nicht.",
     "quellen": [
       "https://www.handball-guenzburg.de/service/eintrittspreise/",
+      "https://web.archive.org/web/20240527094155/https://www.handball-guenzburg.de/service/vfl-dauerkarte/",
       "https://www.handball-guenzburg.de/",
       "https://www.handball-guenzburg.de/service/ansprechpartner/",
-      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/courtInfo?federation=BHV&location=5087"
+      "https://www.handball-guenzburg.de/2026/09/25/m1-auswaerts-in-rothenburg/",
+      "https://www.handball-guenzburg.de/2026/09/20/m1-erstes-spiel-erster-sieg/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
     "sicherheit": "niedrig"
   },
   "meta": {
     "recherchiert_am": "2026-09-28",
     "modell": "Claude Code Sitzung",
-    "schritte": 9,
+    "schritte": 21,
     "quellen_belegt": [
       "https://www.handball-guenzburg.de/service/eintrittspreise/",
       "https://www.handball-guenzburg.de/",
-      "https://www.handball-guenzburg.de/service/ansprechpartner/"
+      "https://www.handball-guenzburg.de/service/ansprechpartner/",
+      "https://www.handball-guenzburg.de/2026/09/25/m1-auswaerts-in-rothenburg/",
+      "https://www.handball-guenzburg.de/2026/09/20/m1-erstes-spiel-erster-sieg/"
     ],
     "quellen_nur_suchtreffer": [
-      "https://www.handball-guenzburg.de/2025/11/13/m1-spitzenspiel-in-der-rebayhalle/",
-      "https://www.handball.net/hallen/sportradar.dhbdata.3023"
+      "https://www.handball-guenzburg.de/2021/09/07/gluecklich-in-guenzburg-mit-der-vfl-eintrittskarte/",
+      "https://www.handball.net/vereine/nuliga.bhv.70301",
+      "https://www.facebook.com/vflguenzburghandball/?locale=de_DE"
     ],
     "quellen_nicht_nachvollziehbar": [
-      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/courtInfo?federation=BHV&location=5087"
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
-    "notiz": "Preise klar belegt, aber kein Hinweis, wo Karten erhältlich sind (weder Abendkasse noch Vorverkauf noch Online-Shop) auf Eintrittspreise-, Start-, Herren- und Ansprechpartner-Seite; vermutlich Tageskasse, aber nicht belegt, daher 'unbekannt'. Name 'Rebayhalle' und Adresse Rebaystraße 11 aus Suchtreffern; nuLiga führt die Halle als 'Günzburg, Sporthalle' (250125), dort Heimsieg 32:30 gegen HSC 2000 Coburg II am 19.09.2026. Nächstes Herren-Heimspiel nicht ermittelbar (nuLiga-Hallenplan zeigt Oktober nicht, Startseite listet nur Auswärtsspiel 26.09. in Rothenburg). Kapazität unbekannt. Abteilungsleiter Martin Frey ohne veröffentlichten Kontakt; Sponsoring: Armin Spengler (0174/6790024), Kasse: kasse@handball-guenzburg.de. E-Mails auf der Ansprechpartner-Seite sind per Cloudflare verschleiert (im HTML nicht im Klartext), Telefonnummer steht im Klartext. Aktion mit Freikarten-Kontingenten für Günzburger Vereine nur aus Suchtreffer.",
+    "notiz": "2. Durchgang: Kartenweg nur aus der Archivfassung der gelöschten Seite /service/vfl-dauerkarte/ (web.archive.org, Stand 27.05.2024, Saison mit Bayernliga-Herren): Saisonkarten-Vorbestellung per E-Mail oder Telefon (08221-2594400, 10-16 Uhr), Ausgabe im Foyer bzw. an der Abendkasse bei jedem Heimspiel der ersten Damen- und Herren-Mannschaft gegen Barzahlung. Die Live-Seite liefert heute 404; ob der Ablauf 2026/27 noch gilt, ist nicht belegt, daher 'manuell' mit Sicherheit niedrig (Einzelkarten offenbar nur Abendkasse). Aktuelle Eintrittspreise-Seite nennt nur Preise, keinen Verkaufsweg. Gelesen ohne Ticketinfo: Vorbericht 18.09. (Saisonauftakt gegen Coburg II), Spielbericht 20.09., Vorbericht 25.09. (Rothenburg). Der auf der Eintrittspreise-Seite verlinkte PDF-Flyer (VfL-GZ-Flyer26.pdf, Bild-PDF) ist nur die Hummel-Kleiderkollektion, keine Ticketinfo, daher nicht in quellen. 'Rebayhalle' steht jetzt im Vorbericht 25.09.; knapp 600 Zuschauer beim Auftakt laut Spielbericht 20.09. Nächstes Heimspiel aus nuLiga-Gesamtspielplan (statisch per curl gelesen). Kapazität weiter unbekannt. E-Mails auf der Ansprechpartner-Seite per Cloudflare verschleiert, daher nur Telefon von Jürgen Kees. Suchtreffer-Hinweis auf Artikel 2021 'Glücklich in Günzburg mit der VfL-Eintrittskarte' nicht abgerufen.",
     "kosten_usd": 0,
     "quellen_selbst_angegeben": [
       "https://www.handball-guenzburg.de/service/eintrittspreise/",
+      "https://web.archive.org/web/20240527094155/https://www.handball-guenzburg.de/service/vfl-dauerkarte/",
       "https://www.handball-guenzburg.de/",
       "https://www.handball-guenzburg.de/service/ansprechpartner/",
-      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/courtInfo?federation=BHV&location=5087"
+      "https://www.handball-guenzburg.de/2026/09/25/m1-auswaerts-in-rothenburg/",
+      "https://www.handball-guenzburg.de/2026/09/20/m1-erstes-spiel-erster-sieg/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
-    "quellen_nicht_pruefbar": [],
+    "quellen_nicht_pruefbar": [
+      "https://web.archive.org/web/20240527094155/https://www.handball-guenzburg.de/service/vfl-dauerkarte/"
+    ],
     "pruefung": {
       "am": "2026-09-28",
       "fakten": {
@@ -65,11 +76,16 @@
         "instagram": [
           "https://www.handball-guenzburg.de/service/eintrittspreise/",
           "https://www.handball-guenzburg.de/",
+          "https://www.handball-guenzburg.de/service/ansprechpartner/",
+          "https://www.handball-guenzburg.de/2026/09/25/m1-auswaerts-in-rothenburg/",
+          "https://www.handball-guenzburg.de/2026/09/20/m1-erstes-spiel-erster-sieg/"
+        ],
+        "ansprechperson": [
           "https://www.handball-guenzburg.de/service/ansprechpartner/"
         ],
-        "ansprechperson": []
+        "vorverkauf": []
       }
     }
   },
-  "entwurf": "**Instagram-DM**\n\nHi, auf eurer Eintrittspreis-Seite stehen für die Herren I 9 € und die Dauerkarte für 110 €, aber nicht, wo man die Karten bekommt. Ich baue Passly, einen Online-Vorverkauf für Vereine: Einzel- und Dauerkarten über einen Link, Gäste zahlen per Karte oder PayPal, an der Tür wird gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten für ein Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen: die Spieltagsorganisation der Handballabteilung; wer das ist, beim Verein erfragen.\n- Einstieg: Eintritt Herren I 9 € (ermäßigt 8 €), Dauerkarte 110 € (100 €), Kinder und Jugendliche bis 16 frei, ein Vorverkaufsweg steht nicht auf der Seite.\n- Frage: Wie kommen die Zuschauer gerade an ihre Karten, und was nervt daran?\n- Angebot: Ich richte euer nächstes Heimspiel kostenlos als Testlauf ein, Dauerkarte und Abendkasse laufen im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Termin für ein Gespräch vereinbaren, Link zu getpassly.de hinterherschicken."
+  "entwurf": "**Instagram-DM**\n\nHi, nächstes Heimspiel am 3.10. gegen Erlangen III. Auf eurer Eintrittspreis-Seite stehen 9 € für die Herren I und 110 € für die Saisonkarte, aber nicht, wo man die Karten bekommt. Ich baue Passly, einen Online-Vorverkauf für Vereine: Einzel- und Saisonkarten über einen Link, Gäste zahlen per Karte oder PayPal, an der Tür wird gescannt. Für den Verein kostenlos. Passt ein zehnminütiges Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen: Jürgen Kees, Hallen- und Spieltagsmanager, 0163/3112276.\n- Einstieg: Heimspiel am 3.10. um 19:30 gegen HC Erlangen III in der Rebayhalle, Eintritt Herren I 9 € (ermäßigt 8 €), Saisonkarte 110 € (100 €).\n- Frage: Wie kommen die Zuschauer gerade an Einzel- und Saisonkarten, und was nervt daran?\n- Angebot: Ich richte das Heimspiel gegen Erlangen kostenlos als Testlauf ein, Saisonkarte und Abendkasse laufen im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Termin für ein Gespräch vereinbaren, Link zu getpassly.de hinterherschicken."
 }

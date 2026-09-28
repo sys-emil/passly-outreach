@@ -9,9 +9,9 @@
   },
   "ergebnis": {
     "website": "https://www.haro2000.de/",
-    "vorverkauf": "unbekannt",
-    "anbieter": null,
-    "eintritt_frei": null,
+    "vorverkauf": "anbieter",
+    "anbieter": "Snapticket",
+    "eintritt_frei": false,
     "ticketpreis_eur": null,
     "halle": "Mehrzweckhalle Rothenburg",
     "kapazitaet": null,
@@ -21,24 +21,36 @@
       "rolle": "Abteilungsleiter Handball",
       "kontakt": "abteilungsleiter@haro2000.de"
     },
-    "naechstes_heimspiel": null,
-    "beobachtung": "Heimauftakt in der Mehrzweckhalle gegen den VfL Günzburg (29:30 verloren), nächstes Spiel am 3.10. auswärts bei der TG Landshut; Heimspiele werden auf HaRoTV live gestreamt.",
+    "naechstes_heimspiel": "Sa 10.10.2026, 19:30 Uhr, gegen HG München-Fürstenfeldbruck (Rothenburg, Halle 230344)",
+    "beobachtung": "Laut archivierter Startseite (Stand 10.04.2026, Saison 2025/26) gab es Tickets für die Heimspiele nur online über Snapticket, keine Abendkasse („Die Halle kann nur mit einem online erworbenen Ticket betreten werden“, Fragen an pressewart@haro2000.de); die heutige Startseite und die Vorberichte zur Saison 2026/27 nennen keinen Ticketweg mehr, nächstes Heimspiel ist Sa 10.10.2026, 19:30 Uhr, gegen HG München-Fürstenfeldbruck.",
     "quellen": [
+      "https://web.archive.org/web/20260410200328id_/https://www.haro2000.de/",
       "https://www.haro2000.de/",
       "https://www.haro2000.de/teams/herren-1/",
       "https://www.haro2000.de/heimspielauftakt-der-rothenburger-handballer-2/",
-      "https://www.haro2000.de/impressum/"
+      "https://www.haro2000.de/saisonauftakt-in-der-handball-regionalliga/",
+      "https://www.haro2000.de/in-den-letzten-spielminuten-den-sieg-aus-den-haenden-gegeben/",
+      "https://www.haro2000.de/haro-tv/",
+      "https://www.haro2000.de/abteilung/",
+      "https://www.haro2000.de/page-sitemap.xml",
+      "https://www.haro2000.de/post-sitemap.xml",
+      "https://www.haro2000.de/impressum/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
     "sicherheit": "niedrig"
   },
   "meta": {
     "recherchiert_am": "2026-09-28",
     "modell": "Claude Code Sitzung",
-    "schritte": 10,
+    "schritte": 30,
     "quellen_belegt": [
       "https://www.haro2000.de/",
       "https://www.haro2000.de/teams/herren-1/",
       "https://www.haro2000.de/heimspielauftakt-der-rothenburger-handballer-2/",
+      "https://www.haro2000.de/saisonauftakt-in-der-handball-regionalliga/",
+      "https://www.haro2000.de/in-den-letzten-spielminuten-den-sieg-aus-den-haenden-gegeben/",
+      "https://www.haro2000.de/haro-tv/",
+      "https://www.haro2000.de/abteilung/",
       "https://www.haro2000.de/impressum/"
     ],
     "quellen_nur_suchtreffer": [
@@ -46,16 +58,30 @@
       "https://www.haro2000.de/heimspielfinale-in-der-mehrzweckhalle/",
       "https://www.flz.de/rothenburg-mit-diesen-zielen-starten-die-handballer-in-die-regionalliga/cnt-id-ps-0bc18673-6f8c-4a3d-9111-331f3d87314a"
     ],
-    "quellen_nicht_nachvollziehbar": [],
-    "notiz": "Vorverkauf auf 'unbekannt' gesetzt (Nachkontrolle): Die Angabe 'nur online, keine Abendkasse' steht nur in Suchtreffern, nicht auf einer abgerufenen Seite. Vorverkauf-Einordnung stammt NUR aus Suchtreffer-Schnipseln (mehrfach übereinstimmend): Tickets für Heimspiele nur online, keine Abendkasse, Einlass nur mit Online-Ticket; Einzelspiel 7 € (erm. 5 €), Dauerkarte 77 € (erm. 55 €); Fragen zu Ticketbestellungen an pressewart@haro2000.de. Suchtreffer 'Heimspiel vs. VfL Günzburg' unter /produkt/... deutet auf einen eigenen WordPress-/WooCommerce-Shop hin, die Produktseite liefert aber heute 404, /tickets/ und /shop/ ebenfalls 404; daher Anbieter und Preis nicht belegt, sicherheit niedrig. Wahrscheinlich kein guter Passly-Kandidat, da bereits Online-Verkauf ohne Abendkasse. Datumsangabe Heimauftakt widersprüchlich (Vorbericht: 25.09.2026 19:30, Teamseite: Ergebnis 26.09.2026). Nächstes Heimspiel nicht auffindbar (handball.net-Spielplan 404); laut Vorbericht folgen TG Landshut (auswärts 3.10.) und HG München-Fürstenfeldbruck. Kapazität nicht angegeben.",
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.haro2000.de/page-sitemap.xml",
+      "https://www.haro2000.de/post-sitemap.xml",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
+    ],
+    "notiz": "2. Durchgang: Die Suchtreffer-Aussage „nur online, keine Abendkasse“ ist jetzt auf einer gelesenen Seite belegt, aber nur im Archiv: web.archive.org-Fassung der Startseite vom 10.04.2026 (per curl mit id_ gelesen) enthält den Block „Tickets für unsere Heimspiele … nur online kaufbar, es gibt keine Abendkasse … pressewart@haro2000.de … Jetzt Ticket online kaufen!“ mit Button-Link auf https://tickets.snapticket.de/events?lang=de&distributionId=178940 (Anbieter Snapticket; im selben Block noch veraltete „Corona-Leitlinien“). Die heutige Startseite (per curl, 305 KB Roh-HTML) enthält weder diesen Block noch einen Snapticket-, Shop- oder Ticket-Link; tickets.snapticket.de löst heute nicht mehr auf (WebFetch ENOTFOUND, curl 502) – ob Snapticket in 2026/27 noch genutzt wird, ist daher offen, deshalb sicherheit niedrig. Sitemaps (page/post) enthalten keine Shop-, Produkt- oder Ticketseite; im Archiv (CDX ab 2025) keine /produkt/-Seiten. Gelesen ohne Ticketangabe: Vorbericht Saisonauftakt 2026/27, Heimspielauftakt-Vorbericht, Spielbericht vom 28.09., HaRo-TV, Abteilung. Preise 7 € (erm. 5 €) und Dauerkarte 77 € (erm. 55 €) weiterhin NUR aus Suchtreffern, nirgends auf einer gelesenen Seite oder im Archiv gefunden → ticketpreis_eur null. Nächstes Heimspiel per curl aus dem nuLiga-Gesamtspielplan: Spiel 20011022, Halle 230344, 19:30 Uhr, Datumsspalte leer = gleicher Spieltag wie die Zeile davor (Sa 10.10.2026). Kapazität nirgends genannt. Wahrscheinlich kein Passly-Kandidat, falls weiterhin reiner Online-Verkauf; aber der Anbieterwechsel/-wegfall könnte ein Anlass sein – beim Verein zu klären.",
     "kosten_usd": 0,
     "quellen_selbst_angegeben": [
+      "https://web.archive.org/web/20260410200328id_/https://www.haro2000.de/",
       "https://www.haro2000.de/",
       "https://www.haro2000.de/teams/herren-1/",
       "https://www.haro2000.de/heimspielauftakt-der-rothenburger-handballer-2/",
-      "https://www.haro2000.de/impressum/"
+      "https://www.haro2000.de/saisonauftakt-in-der-handball-regionalliga/",
+      "https://www.haro2000.de/in-den-letzten-spielminuten-den-sieg-aus-den-haenden-gegeben/",
+      "https://www.haro2000.de/haro-tv/",
+      "https://www.haro2000.de/abteilung/",
+      "https://www.haro2000.de/page-sitemap.xml",
+      "https://www.haro2000.de/post-sitemap.xml",
+      "https://www.haro2000.de/impressum/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
-    "quellen_nicht_pruefbar": [],
+    "quellen_nicht_pruefbar": [
+      "https://web.archive.org/web/20260410200328id_/https://www.haro2000.de/"
+    ],
     "pruefung": {
       "am": "2026-09-28",
       "fakten": {
@@ -63,11 +89,16 @@
           "https://www.haro2000.de/",
           "https://www.haro2000.de/teams/herren-1/",
           "https://www.haro2000.de/heimspielauftakt-der-rothenburger-handballer-2/",
+          "https://www.haro2000.de/saisonauftakt-in-der-handball-regionalliga/",
+          "https://www.haro2000.de/in-den-letzten-spielminuten-den-sieg-aus-den-haenden-gegeben/",
+          "https://www.haro2000.de/haro-tv/",
+          "https://www.haro2000.de/abteilung/",
           "https://www.haro2000.de/impressum/"
         ],
         "ansprechperson": [
           "https://www.haro2000.de/impressum/"
-        ]
+        ],
+        "anbieter": []
       }
     }
   }

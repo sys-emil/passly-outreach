@@ -22,10 +22,16 @@
       "kontakt": "s.mittag@hbc-nuernberg.de, +49 176 20203063"
     },
     "naechstes_heimspiel": "So 25.10.2026, 16:30 Uhr, gegen HSC 2000 Coburg II (Nürnberg, Röthenbach-Ost)",
-    "beobachtung": "Weder die Seite der Männer 1 noch die Hallenseite oder die News auf hbc-nuernberg.de nennen Eintritt, Preise oder einen Ticketweg; nächstes Heimspiel der Männer 1 ist am 25.10. gegen HSC 2000 Coburg II in Röthenbach-Ost.",
+    "beobachtung": "Vereinsseite nennt für die Heimspiele der Männer 1 weder Eintritt noch Vorverkauf (gelesen: Startseite, Männer 1, Hallen, News, Förderverein, Spielberichte zum Auftakt und zum ersten Heimsieg sowie das Saisonheft „HBC Inside 2025“ als PDF); nächstes Heimspiel ist So 25.10.2026, 16:30 Uhr, gegen HSC 2000 Coburg II in Röthenbach-Ost.",
     "quellen": [
+      "https://hbc-nuernberg.de/",
       "https://hbc-nuernberg.de/maenner-1/",
       "https://hbc-nuernberg.de/hallen/",
+      "https://hbc-nuernberg.de/news/",
+      "https://hbc-nuernberg.de/erster-heimsieg-hbc-belohnt-sich-mit-den-ersten-zwei-punkten/",
+      "https://hbc-nuernberg.de/auftaktniederlage-im-1-saisonspiel/",
+      "https://hbc-nuernberg.de/foerderverein/",
+      "https://hbc-nuernberg.de/wp-content/uploads/2025/10/HBC_Inside2025_Saisonheft.pdf",
       "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
     "sicherheit": "niedrig"
@@ -33,23 +39,36 @@
   "meta": {
     "recherchiert_am": "2026-09-28",
     "modell": "Claude Code Sitzung",
-    "schritte": 9,
+    "schritte": 20,
     "quellen_belegt": [
+      "https://hbc-nuernberg.de/",
       "https://hbc-nuernberg.de/maenner-1/",
-      "https://hbc-nuernberg.de/hallen/"
+      "https://hbc-nuernberg.de/hallen/",
+      "https://hbc-nuernberg.de/news/",
+      "https://hbc-nuernberg.de/erster-heimsieg-hbc-belohnt-sich-mit-den-ersten-zwei-punkten/",
+      "https://hbc-nuernberg.de/auftaktniederlage-im-1-saisonspiel/",
+      "https://hbc-nuernberg.de/foerderverein/"
     ],
     "quellen_nur_suchtreffer": [
       "https://hbc-nuernberg.de/gesamtspielplan-hbc/",
-      "https://www.handball.net/vereine/nuliga.bhv.90313"
+      "https://www.handball.net/vereine/nuliga.bhv.90313",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/courtInfo?federation=BHV&location=5223"
     ],
     "quellen_nicht_nachvollziehbar": [
+      "https://hbc-nuernberg.de/wp-content/uploads/2025/10/HBC_Inside2025_Saisonheft.pdf",
       "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
-    "notiz": "Keine Angabe zu Eintritt oder Tickets auf Startseite, Männer-1-Seite, Hallen-, News- und Impressumsseite gefunden (Textsuche nach Eintritt/Abendkasse/€/Zuschauer). Ob Eintritt verlangt wird, bleibt offen. HBC ist Spielgemeinschaft von Post SV und TV Eibach 03. Heimspiele der Männer 1 laut nuLiga-Spielplan in Röthenbach-Ost (Hallennr. 230270); Saisonauftakt 26.9. dort 25:24 gegen TSV Lohr.",
+    "notiz": "2. Durchgang: Vorverkauf weiter nicht klärbar. Neu gelesen (per curl, Textsuche nach Eintritt/Ticket/Karte/Abendkasse/Dauerkarte/Kasse/€): Startseite, News, HBC-, Förderverein-Seite, beide Spielberichte der Männer 1 der Saison 2026/27 (Auftaktniederlage, erster Heimsieg) – nirgends ein Wort zu Eintritt oder Karten. Saisonheft „HBC Inside 2025“ (PDF, Stand Oktober 2025, also Vorsaison) ist fast nur Grafik; pdftotext lieferte nur den Spielplan, der Rest wurde per OCR (tesseract, 80 dpi) gelesen: keine Angabe zu Eintritt, Preisen oder Dauerkarten. Zwei Websuchen ohne Treffer zu Eintritt. Nächstes Heimspiel (25.10.2026, 16:30, HSC 2000 Coburg II, Halle 230270 Röthenbach-Ost) per curl aus dem nuLiga-Gesamtspielplan bestätigt; danach So 01.11.2026 gegen SG DJK Rimpar II. Ansprechperson Stefan Mittag steht im Kontakt-Widget der Männer-1-Seite; die E-Mail ist dort als HTML-Entities verschleiert (Telefon im Klartext), daher findet eine reine Textsuche sie evtl. nicht. Kapazität der Halle nirgends genannt. Offen: ob überhaupt Eintritt verlangt wird – nur direkt beim Verein zu klären.",
     "kosten_usd": 0,
     "quellen_selbst_angegeben": [
+      "https://hbc-nuernberg.de/",
       "https://hbc-nuernberg.de/maenner-1/",
       "https://hbc-nuernberg.de/hallen/",
+      "https://hbc-nuernberg.de/news/",
+      "https://hbc-nuernberg.de/erster-heimsieg-hbc-belohnt-sich-mit-den-ersten-zwei-punkten/",
+      "https://hbc-nuernberg.de/auftaktniederlage-im-1-saisonspiel/",
+      "https://hbc-nuernberg.de/foerderverein/",
+      "https://hbc-nuernberg.de/wp-content/uploads/2025/10/HBC_Inside2025_Saisonheft.pdf",
       "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
     "quellen_nicht_pruefbar": [],
@@ -57,8 +76,13 @@
       "am": "2026-09-28",
       "fakten": {
         "instagram": [
+          "https://hbc-nuernberg.de/",
           "https://hbc-nuernberg.de/maenner-1/",
-          "https://hbc-nuernberg.de/hallen/"
+          "https://hbc-nuernberg.de/hallen/",
+          "https://hbc-nuernberg.de/news/",
+          "https://hbc-nuernberg.de/erster-heimsieg-hbc-belohnt-sich-mit-den-ersten-zwei-punkten/",
+          "https://hbc-nuernberg.de/auftaktniederlage-im-1-saisonspiel/",
+          "https://hbc-nuernberg.de/foerderverein/"
         ],
         "ansprechperson": []
       }

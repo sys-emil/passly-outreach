@@ -7,17 +7,17 @@ Stand 2026-09-28. Punkte 0 bis 100, Schwelle für Entwürfe 45.
 | 88 | TG Landshut | keiner | 1500 |  | @tgl_handball |
 | 86 | HSC 2000 Coburg II | keiner |  | 6 € | @hsc2000coburg |
 | 81 | HT München | manuell |  | 10 € | @nurderht |
+| 81 | TSV Allach 09 | manuell |  | 8 € | @tsvmuenchenallach |
 | 80 | TSV Lohr | manuell | 600 |  | @lohrerfuechse |
+| 71 | VfL Günzburg | manuell |  | 9 € | @vflguenzburghandball |
 | 49 | Münchner Panther | anbieter (Brandcrock (eigener Ticketshop wphandball.brandcrock.com)) |  | 13 € | @bruckerpanther |
-| 47 | VfL Günzburg | unbekannt |  | 9 € | @vflguenzburghandball |
-| 43 | DJK Rimpar II | unbekannt |  |  | @woelfe.wuerzburg |
+| 43 | DJK Rimpar II | unbekannt |  |  | @jungwoelfe_djkrimpar_jugend |
 | 43 | HBC Nürnberg | unbekannt |  |  | @hbc_nuernberg |
-| 39 | TSV 2000 Rothenburg | unbekannt |  |  | @tsv2000handball |
 | 38 | HaSpo Bayreuth | anbieter (TicketTune) |  |  | @haspobayreuth_herren1 |
 | 38 | HC Erlangen III | anbieter (Reservix) |  |  | @hcerlangen_ev_mnlz |
-| 35 | TSV Allach 09 | unbekannt |  |  | @tsvmuenchenallach |
-| 31 | TSV Ottobeuren | unbekannt |  |  |  |
-| 25 | SV Anzing | unbekannt |  |  |  |
+| 35 | TSV Ottobeuren | unbekannt |  |  |  |
+| 33 | SV Anzing | unbekannt |  |  | @anzingerloewenhandball |
+| 28 | TSV 2000 Rothenburg | anbieter (Snapticket) |  |  | @tsv2000handball |
 
 ## TG Landshut · 88 Punkte
 
@@ -98,6 +98,33 @@ Hi, nächstes Heimspiel am 10.10. gegen Ottobeuren. Ich hab gelesen, dass die Sa
 - Angebot: Ich richte das Heimspiel gegen Ottobeuren kostenlos als Testlauf ein, Saisonkarte und Abendkasse laufen im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.
 - Abschluss: Treffen vor Ort in München vorschlagen, Link zu getpassly.de hinterherschicken.
 
+## TSV Allach 09 · 81 Punkte
+
+**Beobachtung:** Laut Artikel „Dauerkarte & Eintrittspreise Saison 2026/27“ (04.09.2026) kostet die Einzelkarte Herren 1 8 € (Mitglieder/ermäßigt 6 €, bis 17 Jahre frei), die Dauerkarte für 13 Heimspiele 90 € (ermäßigt 70 €), Vorbestellung nur per E-Mail an info@tsvallach.de; einen Online-Ticketshop nennt die Seite nicht. Nächstes Heimspiel: 10.10.2026, 18:00 gegen VfL Günzburg.
+
+- Vorverkauf: manuell, Sicherheit mittel
+- Halle: Städtische Sporthalle an der Eversbuschstraße, Eversbuschstraße 124, 80999 München
+- Preis: 8 €
+- Nächstes Heimspiel: Sa, 10.10.2026, 18:00 gegen VfL Günzburg
+- Instagram: https://instagram.com/tsvmuenchenallach
+- Ansprechperson: Vorbestellung Dauerkarten (Vereinsadresse), info@tsvallach.de
+- Website: https://www.tsvallach.de
+- Bewertung: +35 Vorverkauf per Mail/Telefon/Liste; +8 Kapazität unbekannt; +8 Preis 8 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich
+- Belegte Quellen: <https://www.tsvallach.de/news/1742/227/Dauerkarte-Eintrittspreise-Saison-202627.html>, <https://www.tsvallach.de/sportangebot/sporthallen-tsv-muenchen-allach-1909/staedtische-sporthalle-an-der-eversbuschstraße-tsv-allach-muenchen-1909.html>, <https://www.tsvallach.de/tsv-allach-handball/handball-senioren-tsv-muenchen-allach-1909/handball-senioren-herren-1-tsv-muenchen-allach-1909.html>, <https://www.tsvallach.de/news/1766/227/Derbyzeit-in-Allach.html>, <https://www.tsvallach.de/>
+- ⚠ Nicht nachvollziehbare Quellen: https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716
+
+**Instagram-DM**
+
+Hi, nächstes Heimspiel am 10.10. gegen Günzburg. Ich hab gesehen, dass eure Dauerkarte (90 €) nur per Mail vorbestellt wird und die Einzelkarte 8 € kostet. Ich baue Passly, einen Online-Vorverkauf für Vereine: Einzel- und Dauerkarten über einen Link, Gäste zahlen per Karte oder PayPal, an der Tür wird gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten für ein Telefonat?
+
+**Telefonleitfaden**
+
+- Anrufen bzw. schreiben: Vereinsadresse für die Dauerkarten-Vorbestellung (info@tsvallach.de), nach der Person fragen, die die Heimspiele der Herren 1 organisiert.
+- Einstieg: Heimspiel am 10.10. um 18:00 gegen VfL Günzburg, Einzelkarte 8 € (ermäßigt 6 €), Dauerkarte für 13 Heimspiele 90 € (ermäßigt 70 €), Vorbestellung laut Website nur per Mail.
+- Frage: Wie läuft die Vorbestellung per Mail gerade, und was nervt daran?
+- Angebot: Ich richte das Heimspiel gegen Günzburg kostenlos als Testlauf ein, Dauerkarte und Abendkasse laufen im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.
+- Abschluss: Treffen vor Ort in München vorschlagen, Link zu getpassly.de hinterherschicken.
+
 ## TSV Lohr · 80 Punkte
 
 **Beobachtung:** Heimauftakt am 3.10. um 19:30 gegen die SG DJK Rimpar II in der Spessarttorhalle; Dauerkarten 26/27 (110 €, ermäßigt 90 €) laut Website nur per Bestellformular (max. zwei Karten) mit anschließender Überweisung und Abholung bei den ersten beiden Heimspielen.
@@ -121,6 +148,35 @@ Hi, Heimauftakt am 3.10. gegen Rimpar in der Spessarttorhalle. Ich hab gesehen, 
 - Einstieg: Heimauftakt am 3.10. um 19:30 gegen Rimpar, Dauerkarten 110 € (ermäßigt 90 €) per Bestellformular, höchstens zwei Karten, Überweisung und Abholung in der Halle, Halle mit rund 600 Plätzen.
 - Frage: Wie aufwendig ist das mit Formular, Überweisung und Abholung, und was nervt daran?
 - Angebot: Ich richte das nächste Heimspiel kostenlos als Testlauf ein, Dauerkarte und Abendkasse laufen im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.
+- Abschluss: Termin für ein Gespräch vereinbaren, Link zu getpassly.de hinterherschicken.
+
+## VfL Günzburg · 71 Punkte
+
+**Beobachtung:** Eintritt Herren I 2026/27: 9 € (ermäßigt 8 €), Saisonkarte 110 € (100 €); die frühere Dauerkarten-Seite (Archivstand 27.05.2024, heute 404) nannte Vorbestellung per E-Mail oder Telefon und Verkauf an der Abendkasse gegen Barzahlung, einen Online-Shop gibt es nicht.
+
+- Vorverkauf: manuell, Sicherheit niedrig
+- Halle: Sporthalle Günzburg (Rebayhalle)
+- Preis: 9 €
+- Nächstes Heimspiel: Sa 03.10.2026, 19:30 Uhr, gegen HC Erlangen III (Günzburg, Sporthalle)
+- Instagram: https://instagram.com/vflguenzburghandball
+- Ansprechperson: Jürgen Kees, Hallen- und Spieltagsmanager / Kommunikation öffentliche Stellen, 0163/3112276
+- Website: https://www.handball-guenzburg.de/
+- Bewertung: +35 Vorverkauf per Mail/Telefon/Liste; +8 Kapazität unbekannt; +8 Preis 9 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; -10 Einordnung unsicher
+- Belegte Quellen: <https://www.handball-guenzburg.de/service/eintrittspreise/>, <https://www.handball-guenzburg.de/>, <https://www.handball-guenzburg.de/service/ansprechpartner/>, <https://www.handball-guenzburg.de/2026/09/25/m1-auswaerts-in-rothenburg/>, <https://www.handball-guenzburg.de/2026/09/20/m1-erstes-spiel-erster-sieg/>
+- ⚠ Nicht nachvollziehbare Quellen: https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716
+- Nicht prüfbar (JavaScript, gesperrt oder nichts zu prüfen): https://web.archive.org/web/20240527094155/https://www.handball-guenzburg.de/service/vfl-dauerkarte/
+- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-09-28): vorverkauf
+
+**Instagram-DM**
+
+Hi, nächstes Heimspiel am 3.10. gegen Erlangen III. Auf eurer Eintrittspreis-Seite stehen 9 € für die Herren I und 110 € für die Saisonkarte, aber nicht, wo man die Karten bekommt. Ich baue Passly, einen Online-Vorverkauf für Vereine: Einzel- und Saisonkarten über einen Link, Gäste zahlen per Karte oder PayPal, an der Tür wird gescannt. Für den Verein kostenlos. Passt ein zehnminütiges Telefonat?
+
+**Telefonleitfaden**
+
+- Anrufen: Jürgen Kees, Hallen- und Spieltagsmanager, 0163/3112276.
+- Einstieg: Heimspiel am 3.10. um 19:30 gegen HC Erlangen III in der Rebayhalle, Eintritt Herren I 9 € (ermäßigt 8 €), Saisonkarte 110 € (100 €).
+- Frage: Wie kommen die Zuschauer gerade an Einzel- und Saisonkarten, und was nervt daran?
+- Angebot: Ich richte das Heimspiel gegen Erlangen kostenlos als Testlauf ein, Saisonkarte und Abendkasse laufen im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.
 - Abschluss: Termin für ein Gespräch vereinbaren, Link zu getpassly.de hinterherschicken.
 
 ## Münchner Panther · 49 Punkte
@@ -148,51 +204,24 @@ Hi, ich hab gesehen, dass ihr Tages- und Dauerkarten schon online verkauft und d
 - Angebot: Ich richte ein Heimspiel kostenlos als Testlauf ein, Online-Tickets, Dauerkarte und Abendkasse im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.
 - Abschluss: Kurzen Termin in Fürstenfeldbruck vorschlagen, Link zu getpassly.de hinterherschicken.
 
-## VfL Günzburg · 47 Punkte
-
-**Beobachtung:** Eintrittspreis-Seite für 2026/27: Herren I 9 € (ermäßigt 8 €), Dauerkarte 110 € (100 €), Kinder und Jugendliche bis 16 frei; ein Vorverkaufs- oder Bestellweg wird dort nicht genannt.
-
-- Vorverkauf: unbekannt, Sicherheit niedrig
-- Halle: Sporthalle Günzburg (Rebayhalle)
-- Preis: 9 €
-- Instagram: https://instagram.com/vflguenzburghandball
-- Ansprechperson: Jürgen Kees, Hallenverwaltung und Spieltagsorganisation, juergen.kees@gmx.de, 0163/3112276
-- Website: https://www.handball-guenzburg.de/
-- Bewertung: +15 Vorverkauf nicht feststellbar; +8 Kapazität unbekannt; +8 Preis 9 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +10 Bayern, Besuch möglich; -10 Einordnung unsicher
-- Belegte Quellen: <https://www.handball-guenzburg.de/service/eintrittspreise/>, <https://www.handball-guenzburg.de/>, <https://www.handball-guenzburg.de/service/ansprechpartner/>
-- ⚠ Nicht nachvollziehbare Quellen: https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/courtInfo?federation=BHV&location=5087
-- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-09-28): ansprechperson
-
-**Instagram-DM**
-
-Hi, auf eurer Eintrittspreis-Seite stehen für die Herren I 9 € und die Dauerkarte für 110 €, aber nicht, wo man die Karten bekommt. Ich baue Passly, einen Online-Vorverkauf für Vereine: Einzel- und Dauerkarten über einen Link, Gäste zahlen per Karte oder PayPal, an der Tür wird gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten für ein Telefonat?
-
-**Telefonleitfaden**
-
-- Anrufen: die Spieltagsorganisation der Handballabteilung; wer das ist, beim Verein erfragen.
-- Einstieg: Eintritt Herren I 9 € (ermäßigt 8 €), Dauerkarte 110 € (100 €), Kinder und Jugendliche bis 16 frei, ein Vorverkaufsweg steht nicht auf der Seite.
-- Frage: Wie kommen die Zuschauer gerade an ihre Karten, und was nervt daran?
-- Angebot: Ich richte euer nächstes Heimspiel kostenlos als Testlauf ein, Dauerkarte und Abendkasse laufen im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.
-- Abschluss: Termin für ein Gespräch vereinbaren, Link zu getpassly.de hinterherschicken.
-
 ## DJK Rimpar II · 43 Punkte
 
-**Beobachtung:** Aufsteiger Männer II startete mit zwei Niederlagen (31:37 in Landshut, 23:40 daheim gegen HG München-Fürstenfeldbruck); nächstes Heimspiel am 18.10. gegen Coburg II. Auf wolfsrevier.de gibt es Tickets (Reservix) nur für die Profis, zur Zweiten steht dort weder Eintritt noch Vorverkauf.
+**Beobachtung:** Die Zweite läuft als „Jungwölfe U23“; weder Teamseite noch Saisonstart-Bericht (19.09.2026) noch die Vorberichte zu den Relegations-Heimspielen nennen Eintritt oder Kartenverkauf, sie werben nur mit Grill, Bar und DJ; die Ticketseite mit Reservix gilt nur für die Wölfe Würzburg.
 
 - Vorverkauf: unbekannt, Sicherheit niedrig
 - Halle: Dreifachsporthalle Markt Rimpar
 - Nächstes Heimspiel: So 18.10.2026, 15:00 Uhr, gegen HSC 2000 Coburg II (Dreifachsporthalle Markt Rimpar)
-- Instagram: https://instagram.com/woelfe.wuerzburg
-- Ansprechperson: Dr. Bastian Krenz, Abteilungsleiter Sport, Jugendkoordination (laut nuLiga Verantwortlicher Männer II), bastian.krenz@wolfsrevier.de, 0176 30542798
-- Website: https://www.wolfsrevier.de/djk-rimpar
+- Instagram: https://instagram.com/jungwoelfe_djkrimpar_jugend
+- Ansprechperson: Bastian Krenz, Trainer Jungwölfe U23 (Männer II), bastian.krenz@wolfsrevier.de, 0176 30542798
+- Website: https://www.wolfsrevier.de/jungwoelfe-u23
 - Bewertung: +15 Vorverkauf nicht feststellbar; +8 Kapazität unbekannt; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; -10 Einordnung unsicher
-- Belegte Quellen: <https://www.wolfsrevier.de/kontakte-rimparer-handballer>
-- ⚠ Nicht nachvollziehbare Quellen: https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716, https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/clubTeams?club=30383
+- Belegte Quellen: <https://www.wolfsrevier.de/jungwoelfe-u23>
+- ⚠ Nicht nachvollziehbare Quellen: https://www.wolfsrevier.de/nachrichten/saisonstart-jungwoelfe-u23, https://www.wolfsrevier.de/nachrichten/u23-vorbericht-relegation-tsv-herrsching, https://www.wolfsrevier.de/nachrichten/u23-vorbericht-relegation-green-night, https://www.wolfsrevier.de/anfahrt, https://www.wolfsrevier.de/tickets, https://www.wolfsrevier.de/kontakte-rimparer-handballer, https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716
 - ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-09-28): ansprechperson
 
 ## HBC Nürnberg · 43 Punkte
 
-**Beobachtung:** Weder die Seite der Männer 1 noch die Hallenseite oder die News auf hbc-nuernberg.de nennen Eintritt, Preise oder einen Ticketweg; nächstes Heimspiel der Männer 1 ist am 25.10. gegen HSC 2000 Coburg II in Röthenbach-Ost.
+**Beobachtung:** Vereinsseite nennt für die Heimspiele der Männer 1 weder Eintritt noch Vorverkauf (gelesen: Startseite, Männer 1, Hallen, News, Förderverein, Spielberichte zum Auftakt und zum ersten Heimsieg sowie das Saisonheft „HBC Inside 2025“ als PDF); nächstes Heimspiel ist So 25.10.2026, 16:30 Uhr, gegen HSC 2000 Coburg II in Röthenbach-Ost.
 
 - Vorverkauf: unbekannt, Sicherheit niedrig
 - Halle: Röthenbach-Ost, Am Röthenbacher Landgraben, 90451 Nürnberg
@@ -201,21 +230,9 @@ Hi, auf eurer Eintrittspreis-Seite stehen für die Herren I 9 € und die Dauerk
 - Ansprechperson: Stefan Mittag, Ansprechpartner Männer 1, s.mittag@hbc-nuernberg.de, +49 176 20203063
 - Website: https://hbc-nuernberg.de/
 - Bewertung: +15 Vorverkauf nicht feststellbar; +8 Kapazität unbekannt; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; -10 Einordnung unsicher
-- Belegte Quellen: <https://hbc-nuernberg.de/maenner-1/>, <https://hbc-nuernberg.de/hallen/>
-- ⚠ Nicht nachvollziehbare Quellen: https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716
+- Belegte Quellen: <https://hbc-nuernberg.de/>, <https://hbc-nuernberg.de/maenner-1/>, <https://hbc-nuernberg.de/hallen/>, <https://hbc-nuernberg.de/news/>, <https://hbc-nuernberg.de/erster-heimsieg-hbc-belohnt-sich-mit-den-ersten-zwei-punkten/>, <https://hbc-nuernberg.de/auftaktniederlage-im-1-saisonspiel/>, <https://hbc-nuernberg.de/foerderverein/>
+- ⚠ Nicht nachvollziehbare Quellen: https://hbc-nuernberg.de/wp-content/uploads/2025/10/HBC_Inside2025_Saisonheft.pdf, https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716
 - ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-09-28): ansprechperson
-
-## TSV 2000 Rothenburg · 39 Punkte
-
-**Beobachtung:** Heimauftakt in der Mehrzweckhalle gegen den VfL Günzburg (29:30 verloren), nächstes Spiel am 3.10. auswärts bei der TG Landshut; Heimspiele werden auf HaRoTV live gestreamt.
-
-- Vorverkauf: unbekannt, Sicherheit niedrig
-- Halle: Mehrzweckhalle Rothenburg
-- Instagram: https://instagram.com/tsv2000handball
-- Ansprechperson: Norbert Fink, Abteilungsleiter Handball, abteilungsleiter@haro2000.de
-- Website: https://www.haro2000.de/
-- Bewertung: +15 Vorverkauf nicht feststellbar; +8 Kapazität unbekannt; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +10 Bayern, Besuch möglich; -10 Einordnung unsicher
-- Belegte Quellen: <https://www.haro2000.de/>, <https://www.haro2000.de/teams/herren-1/>, <https://www.haro2000.de/heimspielauftakt-der-rothenburger-handballer-2/>, <https://www.haro2000.de/impressum/>
 
 ## HaSpo Bayreuth · 38 Punkte
 
@@ -247,40 +264,46 @@ Hi, auf eurer Eintrittspreis-Seite stehen für die Herren I 9 € und die Dauerk
 - ⚠ Nicht nachvollziehbare Quellen: https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716
 - ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-09-28): ansprechperson
 
-## TSV Allach 09 · 35 Punkte
+## TSV Ottobeuren · 35 Punkte
 
-**Beobachtung:** Der TSV München-Allach hat am 04.09.2026 „Dauerkarte & Eintrittspreise Saison 2026/27“ veröffentlicht („Die Preise bleiben stabil!“), die Preise stehen aber nur als Bild (Dauerkarten.png) auf der Seite; nächstes Heimspiel der Herren 1 am 10.10.2026 um 18:00 gegen VfL Günzburg.
-
-- Vorverkauf: unbekannt, Sicherheit niedrig
-- Halle: Städtische Sporthalle an der Eversbuschstraße, München-Allach
-- Nächstes Heimspiel: Sa, 10.10.26, 18:00 gegen VfL Günzburg
-- Instagram: https://instagram.com/tsvmuenchenallach
-- Website: https://www.tsvallach.de
-- Bewertung: +15 Vorverkauf nicht feststellbar; +8 Kapazität unbekannt; +8 Instagram vorhanden (DM möglich); +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; -10 Einordnung unsicher
-- Belegte Quellen: <https://www.tsvallach.de/>, <https://www.tsvallach.de/news/1742/227/Dauerkarte-Eintrittspreise-Saison-202627.html>, <https://www.tsvallach.de/tsv-allach-handball/handball-senioren-tsv-muenchen-allach-1909/handball-senioren-herren-1-tsv-muenchen-allach-1909.html>, <https://www.tsvallach.de/news/1478/227/Dauerkarte-Eintrittspreise-Saison-202526.html>
-
-## TSV Ottobeuren · 31 Punkte
-
-**Beobachtung:** Aufsteiger als Meister der Oberliga-Südstaffel; laut Herren-Seite gewann die Mannschaft vor 800 Zuschauern 44:16 gegen den Eichenauer SV. Zu Eintritt oder Tickets steht auf der Vereinswebsite nichts.
+**Beobachtung:** Vereinsseite nennt für die Heimspiele weder Eintritt noch Vorverkauf (gelesen: Startseite, Herren 1, Abteilungsleitung, Anfahrt, Downloads, Förderverein, Vorwort zum Heimspieltag 28.03.2026, News-Feed bis 01.04.2026); zuletzt steht dort nur, dass die Halle beim Aufstiegsspiel gegen Eichenau mit 800 Zuschauern voll besetzt war.
 
 - Vorverkauf: unbekannt, Sicherheit niedrig
 - Halle: Dreifachsporthalle Ottobeuren
+- Nächstes Heimspiel: So 04.10.2026, 16:00 Uhr, gegen HBC Nürnberg (Halle 270306 laut nuLiga)
 - Ansprechperson: Udo Bossmann, 1. Vorsitzender Handballabteilung, vorstand@tsv-ottobeuren-handball.de
 - Website: https://tsv-ottobeuren-handball.de/
-- Bewertung: +15 Vorverkauf nicht feststellbar; +8 Kapazität unbekannt; +8 Ansprechperson bekannt; +10 Bayern, Besuch möglich; -10 Einordnung unsicher
+- Bewertung: +15 Vorverkauf nicht feststellbar; +8 Kapazität unbekannt; +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; -10 Einordnung unsicher
 - Belegte Quellen: <https://tsv-ottobeuren-handball.de/?page_id=84>
-- ⚠ Nicht nachvollziehbare Quellen: https://tsv-ottobeuren-handball.de/, https://tsv-ottobeuren-handball.de/?page_id=14
+- ⚠ Nicht nachvollziehbare Quellen: https://tsv-ottobeuren-handball.de/, https://tsv-ottobeuren-handball.de/?page_id=14, https://tsv-ottobeuren-handball.de/?feed=rss2, https://tsv-ottobeuren-handball.de/?p=8043, https://tsv-ottobeuren-handball.de/?page_id=111, https://tsv-ottobeuren-handball.de/?page_id=117, https://tsv-ottobeuren-handball.de/?page_id=105, https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716
 
-## SV Anzing · 25 Punkte
+## SV Anzing · 33 Punkte
 
-**Beobachtung:** Nächstes Heimspielwochenende in der Löwenhöhle am 03./04.10.2026, Herren 1 am 03.10. um 18:00 gegen TSV München-Allach; auf der Handball-Website stehen weder Eintrittspreise noch ein Ticketlink.
+**Beobachtung:** Vereinsseite nennt für die Heimspiele der Herren 1 weder Eintritt noch Vorverkauf (gelesen: Startseite, Herren-1-Berichte, Hallen, Vorstand, „Schau Nei“ (leer), Spielbericht zum ersten Heimspiel, Saisonheft 2025/26 als PDF); nächstes Heimspiel am 03.10.2026 um 18:00 gegen TSV München-Allach in der Löwenhöhle.
 
 - Vorverkauf: unbekannt, Sicherheit niedrig
-- Halle: Sporthalle Anzing, Forsthof („Löwenhöhle“)
+- Halle: Sporthalle in Anzing, Forsthof, Am Sportzentrum 16, 85646 Anzing (Vinzenz-Fröschl-Halle, „Löwenhöhle“)
 - Nächstes Heimspiel: 03.10.2026, 18:00 gegen TSV München-Allach
-- Ansprechperson: Hubert Müller, Sportlicher Leiter Herren 1, mueller@alf-hb.de, 0173-3522581
+- Instagram: https://instagram.com/anzingerloewenhandball
+- Ansprechperson: Franz Brummer, Abteilungsleiter SV Anzing Handball, brummer@alf-hb.de, 0170 - 3248259
 - Website: https://www.handball-anzing.de
-- Bewertung: +15 Vorverkauf nicht feststellbar; +8 Kapazität unbekannt; +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; -10 Einordnung unsicher; -10 keine belegte Quelle
+- Bewertung: +15 Vorverkauf nicht feststellbar; +8 Kapazität unbekannt; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; -10 Einordnung unsicher; -10 keine belegte Quelle
 - Belegte Quellen: keine
-- ⚠ Nicht nachvollziehbare Quellen: https://www.handball-anzing.de/teams/view/1, https://www.handball-anzing.de/
-- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-09-28): ansprechperson
+- ⚠ Nicht nachvollziehbare Quellen: https://www.handball-anzing.de/, https://www.handball-anzing.de/images/saisonheft20252026web.pdf, https://www.handball-anzing.de/places, https://www.handball-anzing.de/teams/articles/1, https://www.handball-anzing.de/own_pages/view/74, https://www.handball-anzing.de/own_pages/view/44, https://www.handball-anzing.de/articles/view/3141, https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716
+- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-09-28): instagram, ansprechperson
+
+## TSV 2000 Rothenburg · 28 Punkte
+
+**Beobachtung:** Laut archivierter Startseite (Stand 10.04.2026, Saison 2025/26) gab es Tickets für die Heimspiele nur online über Snapticket, keine Abendkasse („Die Halle kann nur mit einem online erworbenen Ticket betreten werden“, Fragen an pressewart@haro2000.de); die heutige Startseite und die Vorberichte zur Saison 2026/27 nennen keinen Ticketweg mehr, nächstes Heimspiel ist Sa 10.10.2026, 19:30 Uhr, gegen HG München-Fürstenfeldbruck.
+
+- Vorverkauf: anbieter (Snapticket), Sicherheit niedrig
+- Halle: Mehrzweckhalle Rothenburg
+- Nächstes Heimspiel: Sa 10.10.2026, 19:30 Uhr, gegen HG München-Fürstenfeldbruck (Rothenburg, Halle 230344)
+- Instagram: https://instagram.com/tsv2000handball
+- Ansprechperson: Norbert Fink, Abteilungsleiter Handball, abteilungsleiter@haro2000.de
+- Website: https://www.haro2000.de/
+- Bewertung: 0 verkauft bereits online (Snapticket); +8 Kapazität unbekannt; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; -10 Einordnung unsicher
+- Belegte Quellen: <https://www.haro2000.de/>, <https://www.haro2000.de/teams/herren-1/>, <https://www.haro2000.de/heimspielauftakt-der-rothenburger-handballer-2/>, <https://www.haro2000.de/saisonauftakt-in-der-handball-regionalliga/>, <https://www.haro2000.de/in-den-letzten-spielminuten-den-sieg-aus-den-haenden-gegeben/>, <https://www.haro2000.de/haro-tv/>, <https://www.haro2000.de/abteilung/>, <https://www.haro2000.de/impressum/>
+- ⚠ Nicht nachvollziehbare Quellen: https://www.haro2000.de/page-sitemap.xml, https://www.haro2000.de/post-sitemap.xml, https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716
+- Nicht prüfbar (JavaScript, gesperrt oder nichts zu prüfen): https://web.archive.org/web/20260410200328id_/https://www.haro2000.de/
+- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-09-28): anbieter

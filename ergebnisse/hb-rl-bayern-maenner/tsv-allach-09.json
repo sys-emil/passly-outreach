@@ -9,57 +9,79 @@
   },
   "ergebnis": {
     "website": "https://www.tsvallach.de",
-    "vorverkauf": "unbekannt",
+    "vorverkauf": "manuell",
     "anbieter": null,
     "eintritt_frei": false,
-    "ticketpreis_eur": null,
-    "halle": "Städtische Sporthalle an der Eversbuschstraße, München-Allach",
+    "ticketpreis_eur": 8,
+    "halle": "Städtische Sporthalle an der Eversbuschstraße, Eversbuschstraße 124, 80999 München",
     "kapazitaet": null,
     "instagram": "tsvmuenchenallach",
-    "ansprechperson": null,
-    "naechstes_heimspiel": "Sa, 10.10.26, 18:00 gegen VfL Günzburg",
-    "beobachtung": "Der TSV München-Allach hat am 04.09.2026 „Dauerkarte & Eintrittspreise Saison 2026/27“ veröffentlicht („Die Preise bleiben stabil!“), die Preise stehen aber nur als Bild (Dauerkarten.png) auf der Seite; nächstes Heimspiel der Herren 1 am 10.10.2026 um 18:00 gegen VfL Günzburg.",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Vorbestellung Dauerkarten (Vereinsadresse)",
+      "kontakt": "info@tsvallach.de"
+    },
+    "naechstes_heimspiel": "Sa, 10.10.2026, 18:00 gegen VfL Günzburg",
+    "beobachtung": "Laut Artikel „Dauerkarte & Eintrittspreise Saison 2026/27“ (04.09.2026) kostet die Einzelkarte Herren 1 8 € (Mitglieder/ermäßigt 6 €, bis 17 Jahre frei), die Dauerkarte für 13 Heimspiele 90 € (ermäßigt 70 €), Vorbestellung nur per E-Mail an info@tsvallach.de; einen Online-Ticketshop nennt die Seite nicht. Nächstes Heimspiel: 10.10.2026, 18:00 gegen VfL Günzburg.",
     "quellen": [
-      "https://www.tsvallach.de/",
       "https://www.tsvallach.de/news/1742/227/Dauerkarte-Eintrittspreise-Saison-202627.html",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716",
+      "https://www.tsvallach.de/sportangebot/sporthallen-tsv-muenchen-allach-1909/staedtische-sporthalle-an-der-eversbuschstraße-tsv-allach-muenchen-1909.html",
       "https://www.tsvallach.de/tsv-allach-handball/handball-senioren-tsv-muenchen-allach-1909/handball-senioren-herren-1-tsv-muenchen-allach-1909.html",
-      "https://www.tsvallach.de/news/1478/227/Dauerkarte-Eintrittspreise-Saison-202526.html"
+      "https://www.tsvallach.de/news/1766/227/Derbyzeit-in-Allach.html",
+      "https://www.tsvallach.de/"
     ],
-    "sicherheit": "niedrig"
+    "sicherheit": "mittel"
   },
   "meta": {
     "recherchiert_am": "2026-09-28",
     "modell": "Claude Code Sitzung",
-    "schritte": 10,
+    "schritte": 16,
     "quellen_belegt": [
-      "https://www.tsvallach.de/",
       "https://www.tsvallach.de/news/1742/227/Dauerkarte-Eintrittspreise-Saison-202627.html",
+      "https://www.tsvallach.de/sportangebot/sporthallen-tsv-muenchen-allach-1909/staedtische-sporthalle-an-der-eversbuschstraße-tsv-allach-muenchen-1909.html",
       "https://www.tsvallach.de/tsv-allach-handball/handball-senioren-tsv-muenchen-allach-1909/handball-senioren-herren-1-tsv-muenchen-allach-1909.html",
-      "https://www.tsvallach.de/news/1478/227/Dauerkarte-Eintrittspreise-Saison-202526.html"
+      "https://www.tsvallach.de/news/1766/227/Derbyzeit-in-Allach.html",
+      "https://www.tsvallach.de/"
     ],
     "quellen_nur_suchtreffer": [
       "https://www.handball.net/vereine/nuliga.bhv.13819/spielplan"
     ],
-    "quellen_nicht_nachvollziehbar": [],
-    "notiz": "Preise nur aus Suchtreffer-Schnipsel zur Saison 2025/26: Herren 1 Eintritt 8 € (Mitglieder/ermäßigt 6 €, Jugend bis 17 frei), Dauerkarte 90 € / 70 € für 13 Heimspiele; laut Artikel 2026/27 „Preise bleiben stabil“, die Zahlen selbst stehen nur in einem Bild und waren nicht lesbar, daher Preisfeld leer. Wie Karten verkauft werden (Abendkasse, Mail, Shop), ließ sich nicht belegen. Heimspiele 10.10. (VfL Günzburg) und 24.10. (HG München-Fürstenfeldbruck = Münchner Panther) aus dem Spielplan-Widget der Startseite; Heim/Auswärts-Zuordnung nicht gegengeprüft. Laut Teamseite zuletzt 23:31 im Derby gegen HT München. Kein namentlicher Ansprechpartner Handball gefunden; Kontaktseite: https://www.tsvallach.de/tsv-allach-kontakt-impressum/kontakt-tsv-muenchen-allach-1909.html (nicht abgerufen). Instagram-Handle ist das Vereinskonto, nicht speziell Handball.",
+    "quellen_nicht_nachvollziehbar": [
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
+    ],
+    "notiz": "2. Durchgang: Die Preise 2026/27 stehen entgegen der Notiz aus Durchgang 1 als Text im HTML des Artikels (per curl gelesen): Einzelkarte Herren 1 8 €/6 € ermäßigt, Kombiticket H1+mB1 11 €/8 €, Dauerkarte Herren 1 90 €/70 €, Jugendliche bis 17 frei; „Vorbestellungen unter info@tsvallach.de“. Das eingebettete Bild (Dauerkarten.png, base64 im HTML) wurde extrahiert und gelesen (tesseract + Sichtprüfung): es enthält keine Preise, nur „Dauerkarte Saison 2026/27 – mB-Jugend (Vorrunde) & Herren 1 – Vorbestellung unter info@tsvallach.de“. Einstufung „manuell“ beruht auf der E-Mail-Vorbestellung der Dauerkarten; wie Einzelkarten verkauft werden, steht nirgends ausdrücklich (Artikel sagt nur „Mitgliedsausweis bitte am Eingang vorzeigen“, Vorbericht „Derbyzeit in Allach“ zum 26.09. nennt weder Kasse noch Preise), vermutlich Tageskasse, daher sicherheit mittel. Nächstes Heimspiel aus nuLiga-Gesamtspielplan (curl) bestätigt: 10.10.2026 18:00 TSV München-Allach – VfL Günzburg, danach 24.10. gegen HG München-Fürstenfeldbruck. Kapazität der Eversbuschhalle auf der Hallenseite nicht genannt. Kein namentlicher Handball-Ansprechpartner; Herren-1-Seite nennt Trainer Philipp Batzer und Team-Telefon 0172 8318465 / 0178 6641037 (Zuordnung der Nummern unklar), Geschäftsstelle Tel. 089 818 0 1210. Instagram ist das Vereinskonto (auf allen Vereinsseiten verlinkt), kein eigenes Handballkonto.",
     "kosten_usd": 0,
     "quellen_selbst_angegeben": [
-      "https://www.tsvallach.de/",
       "https://www.tsvallach.de/news/1742/227/Dauerkarte-Eintrittspreise-Saison-202627.html",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716",
+      "https://www.tsvallach.de/sportangebot/sporthallen-tsv-muenchen-allach-1909/staedtische-sporthalle-an-der-eversbuschstraße-tsv-allach-muenchen-1909.html",
       "https://www.tsvallach.de/tsv-allach-handball/handball-senioren-tsv-muenchen-allach-1909/handball-senioren-herren-1-tsv-muenchen-allach-1909.html",
-      "https://www.tsvallach.de/news/1478/227/Dauerkarte-Eintrittspreise-Saison-202526.html"
+      "https://www.tsvallach.de/news/1766/227/Derbyzeit-in-Allach.html",
+      "https://www.tsvallach.de/"
     ],
     "quellen_nicht_pruefbar": [],
     "pruefung": {
       "am": "2026-09-28",
       "fakten": {
+        "ticketpreis_eur": [
+          "https://www.tsvallach.de/news/1742/227/Dauerkarte-Eintrittspreise-Saison-202627.html"
+        ],
         "instagram": [
-          "https://www.tsvallach.de/",
           "https://www.tsvallach.de/news/1742/227/Dauerkarte-Eintrittspreise-Saison-202627.html",
+          "https://www.tsvallach.de/sportangebot/sporthallen-tsv-muenchen-allach-1909/staedtische-sporthalle-an-der-eversbuschstraße-tsv-allach-muenchen-1909.html",
           "https://www.tsvallach.de/tsv-allach-handball/handball-senioren-tsv-muenchen-allach-1909/handball-senioren-herren-1-tsv-muenchen-allach-1909.html",
-          "https://www.tsvallach.de/news/1478/227/Dauerkarte-Eintrittspreise-Saison-202526.html"
+          "https://www.tsvallach.de/news/1766/227/Derbyzeit-in-Allach.html",
+          "https://www.tsvallach.de/"
+        ],
+        "ansprechperson": [
+          "https://www.tsvallach.de/news/1742/227/Dauerkarte-Eintrittspreise-Saison-202627.html"
+        ],
+        "vorverkauf": [
+          "https://www.tsvallach.de/news/1742/227/Dauerkarte-Eintrittspreise-Saison-202627.html"
         ]
       }
     }
-  }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, nächstes Heimspiel am 10.10. gegen Günzburg. Ich hab gesehen, dass eure Dauerkarte (90 €) nur per Mail vorbestellt wird und die Einzelkarte 8 € kostet. Ich baue Passly, einen Online-Vorverkauf für Vereine: Einzel- und Dauerkarten über einen Link, Gäste zahlen per Karte oder PayPal, an der Tür wird gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten für ein Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen bzw. schreiben: Vereinsadresse für die Dauerkarten-Vorbestellung (info@tsvallach.de), nach der Person fragen, die die Heimspiele der Herren 1 organisiert.\n- Einstieg: Heimspiel am 10.10. um 18:00 gegen VfL Günzburg, Einzelkarte 8 € (ermäßigt 6 €), Dauerkarte für 13 Heimspiele 90 € (ermäßigt 70 €), Vorbestellung laut Website nur per Mail.\n- Frage: Wie läuft die Vorbestellung per Mail gerade, und was nervt daran?\n- Angebot: Ich richte das Heimspiel gegen Günzburg kostenlos als Testlauf ein, Dauerkarte und Abendkasse laufen im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Treffen vor Ort in München vorschlagen, Link zu getpassly.de hinterherschicken."
 }

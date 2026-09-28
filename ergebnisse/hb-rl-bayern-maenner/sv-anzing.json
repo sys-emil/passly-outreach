@@ -13,47 +13,65 @@
     "anbieter": null,
     "eintritt_frei": null,
     "ticketpreis_eur": null,
-    "halle": "Sporthalle Anzing, Forsthof („Löwenhöhle“)",
+    "halle": "Sporthalle in Anzing, Forsthof, Am Sportzentrum 16, 85646 Anzing (Vinzenz-Fröschl-Halle, „Löwenhöhle“)",
     "kapazitaet": null,
-    "instagram": null,
+    "instagram": "anzingerloewenhandball",
     "ansprechperson": {
-      "name": "Hubert Müller",
-      "rolle": "Sportlicher Leiter Herren 1",
-      "kontakt": "mueller@alf-hb.de, 0173-3522581"
+      "name": "Franz Brummer",
+      "rolle": "Abteilungsleiter SV Anzing Handball",
+      "kontakt": "brummer@alf-hb.de, 0170 - 3248259"
     },
     "naechstes_heimspiel": "03.10.2026, 18:00 gegen TSV München-Allach",
-    "beobachtung": "Nächstes Heimspielwochenende in der Löwenhöhle am 03./04.10.2026, Herren 1 am 03.10. um 18:00 gegen TSV München-Allach; auf der Handball-Website stehen weder Eintrittspreise noch ein Ticketlink.",
+    "beobachtung": "Vereinsseite nennt für die Heimspiele der Herren 1 weder Eintritt noch Vorverkauf (gelesen: Startseite, Herren-1-Berichte, Hallen, Vorstand, „Schau Nei“ (leer), Spielbericht zum ersten Heimspiel, Saisonheft 2025/26 als PDF); nächstes Heimspiel am 03.10.2026 um 18:00 gegen TSV München-Allach in der Löwenhöhle.",
     "quellen": [
-      "https://www.handball-anzing.de/teams/view/1",
-      "https://www.handball-anzing.de/"
+      "https://www.handball-anzing.de/",
+      "https://www.handball-anzing.de/images/saisonheft20252026web.pdf",
+      "https://www.handball-anzing.de/places",
+      "https://www.handball-anzing.de/teams/articles/1",
+      "https://www.handball-anzing.de/own_pages/view/74",
+      "https://www.handball-anzing.de/own_pages/view/44",
+      "https://www.handball-anzing.de/articles/view/3141",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
     "sicherheit": "niedrig"
   },
   "meta": {
     "recherchiert_am": "2026-09-28",
     "modell": "Claude Code Sitzung",
-    "schritte": 8,
+    "schritte": 15,
     "quellen_belegt": [],
     "quellen_nur_suchtreffer": [
       "https://www.instagram.com/anzingerloewen/",
-      "https://www.instagram.com/anzingerloewenhandball/",
       "https://www.handball.net/mannschaften/nuliga.bhv.1588616/spielplan",
       "https://www.facebook.com/AnzingerLoewen/"
     ],
     "quellen_nicht_nachvollziehbar": [
-      "https://www.handball-anzing.de/teams/view/1",
-      "https://www.handball-anzing.de/"
+      "https://www.handball-anzing.de/",
+      "https://www.handball-anzing.de/images/saisonheft20252026web.pdf",
+      "https://www.handball-anzing.de/places",
+      "https://www.handball-anzing.de/teams/articles/1",
+      "https://www.handball-anzing.de/own_pages/view/74",
+      "https://www.handball-anzing.de/own_pages/view/44",
+      "https://www.handball-anzing.de/articles/view/3141",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
-    "notiz": "Ticketsituation nicht feststellbar: weder handball-anzing.de (Startseite, Teamseite, Linkseite) noch sv-anzing.de/handball/ nennen Eintritt oder Vorverkauf; das Saisonheft 2025/26 (PDF) ließ sich in der Umgebung nicht lesen. Instagram 'anzingerloewen' (laut Suchtreffer Herren 1, ca. 4.700 Follower) und 'anzingerloewenhandball' nur aus Suchtreffern, auf der Vereinsseite nicht als Link gefunden, daher Feld leer. Weitere Kontakte laut Teamseite: Trainer Kay Hoffmann (kay.hoffmann76@gmx.de), Technischer Leiter Günter Erber (erber@alf-hb.de). Keine Abteilungsleitung gefunden.",
+    "notiz": "2. Durchgang: Saisonheft 2025/26 (PDF, 43 Seiten, von der Startseite verlinkt) per pdftotext gelesen: keine Angabe zu Eintritt, Preisen, Kasse oder Vorverkauf; ein Saisonheft 2026/27 ist nicht verlinkt. Aus dem PDF stammen der Hallenname „Vinzenz-Fröschl-Halle“/„Löwenhöhle“ und das Instagram-Konto: „Wir sind auch auf Instagram unter https://www.instagram.com/anzingerloewenhandball/“ (Abteilungskonto; auf den HTML-Seiten selbst ist kein Instagram-Link, nur Facebook). Das Konto 'anzingerloewen' (laut Suchtreffer Herren 1) ist weiterhin nicht von der Vereinsseite belegt. Weitere gelesene Seiten ohne Ticketinfo: „Schau Nei“ (own_pages/44, Inhalt leer), Hallen (/places), Herren-1-Berichtsliste (keine Vorberichte, nur Spielberichte), Spielbericht 1. Heimspiel gegen Rothenburg (articles/3141, Text nur als Zeitungsausschnitt-Bild, nicht per OCR gelesen). Nächstes Heimspiel per nuLiga-Gesamtspielplan (curl) und Teamseite bestätigt: 03.10.2026 18:00 SV Anzing – TSV München-Allach, danach 17.10. gegen TSV Ottobeuren. Ansprechperson neu: Abteilungsleiter Franz Brummer laut Seite „Vorstand SVA Handball“; dort außerdem 2. Abteilungsleiter Oli Ruf (ruf@alf-hb.de), Kassenwart Markus Schuster (schuster@alf-hb.de). Aus Durchgang 1 (Teamseite): Sportlicher Leiter Herren 1 Hubert Müller (mueller@alf-hb.de). Kapazität der Halle nirgends genannt. Offen: ob Eintritt verlangt wird und wie (Tageskasse?) – dafür müsste man den Verein fragen oder ein Saisonheft 2026/27 abwarten.",
     "kosten_usd": 0,
     "quellen_selbst_angegeben": [
-      "https://www.handball-anzing.de/teams/view/1",
-      "https://www.handball-anzing.de/"
+      "https://www.handball-anzing.de/",
+      "https://www.handball-anzing.de/images/saisonheft20252026web.pdf",
+      "https://www.handball-anzing.de/places",
+      "https://www.handball-anzing.de/teams/articles/1",
+      "https://www.handball-anzing.de/own_pages/view/74",
+      "https://www.handball-anzing.de/own_pages/view/44",
+      "https://www.handball-anzing.de/articles/view/3141",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
     "quellen_nicht_pruefbar": [],
     "pruefung": {
       "am": "2026-09-28",
       "fakten": {
+        "instagram": [],
         "ansprechperson": []
       }
     }

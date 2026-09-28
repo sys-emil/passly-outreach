@@ -21,36 +21,57 @@
       "rolle": "1. Vorsitzender Handballabteilung",
       "kontakt": "vorstand@tsv-ottobeuren-handball.de"
     },
-    "naechstes_heimspiel": null,
-    "beobachtung": "Aufsteiger als Meister der Oberliga-Südstaffel; laut Herren-Seite gewann die Mannschaft vor 800 Zuschauern 44:16 gegen den Eichenauer SV. Zu Eintritt oder Tickets steht auf der Vereinswebsite nichts.",
+    "naechstes_heimspiel": "So 04.10.2026, 16:00 Uhr, gegen HBC Nürnberg (Halle 270306 laut nuLiga)",
+    "beobachtung": "Vereinsseite nennt für die Heimspiele weder Eintritt noch Vorverkauf (gelesen: Startseite, Herren 1, Abteilungsleitung, Anfahrt, Downloads, Förderverein, Vorwort zum Heimspieltag 28.03.2026, News-Feed bis 01.04.2026); zuletzt steht dort nur, dass die Halle beim Aufstiegsspiel gegen Eichenau mit 800 Zuschauern voll besetzt war.",
     "quellen": [
       "https://tsv-ottobeuren-handball.de/",
       "https://tsv-ottobeuren-handball.de/?page_id=14",
-      "https://tsv-ottobeuren-handball.de/?page_id=84"
+      "https://tsv-ottobeuren-handball.de/?page_id=84",
+      "https://tsv-ottobeuren-handball.de/?feed=rss2",
+      "https://tsv-ottobeuren-handball.de/?p=8043",
+      "https://tsv-ottobeuren-handball.de/?page_id=111",
+      "https://tsv-ottobeuren-handball.de/?page_id=117",
+      "https://tsv-ottobeuren-handball.de/?page_id=105",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
     "sicherheit": "niedrig"
   },
   "meta": {
     "recherchiert_am": "2026-09-28",
     "modell": "Claude Code Sitzung",
-    "schritte": 10,
+    "schritte": 21,
     "quellen_belegt": [
       "https://tsv-ottobeuren-handball.de/?page_id=84"
     ],
     "quellen_nur_suchtreffer": [
       "https://www.facebook.com/tsvohandball/",
-      "https://www.handball.net/vereine/nuliga.bhv.70645/spielplan"
+      "https://www.handball.net/vereine/nuliga.bhv.70645/spielplan",
+      "https://tsv-ottobeuren-handball.de/?p=7171",
+      "https://www.tsv-ottobeuren.de/abteilungen/handball/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/clubInfoDisplay?club=30371"
     ],
     "quellen_nicht_nachvollziehbar": [
       "https://tsv-ottobeuren-handball.de/",
-      "https://tsv-ottobeuren-handball.de/?page_id=14"
+      "https://tsv-ottobeuren-handball.de/?page_id=14",
+      "https://tsv-ottobeuren-handball.de/?feed=rss2",
+      "https://tsv-ottobeuren-handball.de/?p=8043",
+      "https://tsv-ottobeuren-handball.de/?page_id=111",
+      "https://tsv-ottobeuren-handball.de/?page_id=117",
+      "https://tsv-ottobeuren-handball.de/?page_id=105",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
-    "notiz": "Vereinswebsite enthält keine Angaben zu Eintritt, Preisen oder Vorverkauf; Website wirkt teils veraltet (letzte News März/April 2026). Instagram: Die Startseite bindet nur einen Instagram-Feed (Plugin) ein, ohne Link auf ein Profil; Handle daher null (vom Abrufmodell vermutetes 'tsv_ottobeuren_handball' nicht belegt). Facebook-Seite 'tsvohandball' nur Suchtreffer. Nächstes Heimspiel unsicher: nuLiga-Vereinsspielplan (clubMeetings?club=30371, abgerufen) nennt So 04.10.2026 14:00 TSV Ottobeuren – TSV München-Allach, Liga-Kürzel 'RL MA'; das ist vermutlich die Regionalliga der männlichen A-Jugend (nuLiga kürzt die Männer-Regionalliga beim VfL Günzburg mit 'RL M' ab), daher nicht ins Feld übernommen. Kapazität unbekannt (nur 800 Zuschauer beim Meisterspiel belegt). Weitere Kontakte: sponsoring@tsv-ottobeuren-handball.de (Richard Schneider), herren1@tsv-ottobeuren-handball.de. Fan-Shop ist ein Erima-Teamshop (Kleidung, keine Tickets).",
+    "notiz": "2. Durchgang: Vorverkauf weiter unbekannt. Neu gelesen (curl): RSS-Feed mit den zehn letzten Beiträgen (18.03.-01.04.2026, Volltext, darunter Vorbericht 'Die Halle darf gerne brechend voll werden' zum Aufstiegsspiel und Vorwort zum Heimspieltag 28.03.), Anfahrt, Downloads (nur Förderverein-, Beitritts- und Versicherungs-PDFs), Förderverein; nirgends Eintritt, Preise, Abendkasse, Dauerkarte oder Ticketlink. Seit April 2026 keine neuen Beiträge, also auch kein Vorbericht zur Regionalliga-Saison. Die Seite des Hauptvereins (tsv-ottobeuren.de/abteilungen/handball/) war nicht erreichbar (curl Verbindungsabbruch, WebFetch 503), daher ungelesen; heimat-info.de-Profil ohne Inhalt. Nächstes Heimspiel jetzt aus dem nuLiga-Gesamtspielplan der Regionalliga (Gruppe 495716, per curl): So 04.10.2026 16:00 gegen HBC Nürnberg; damit ist die Vermutung aus dem 1. Durchgang bestätigt, dass das dort gefundene Spiel gegen Allach am 04.10. die A-Jugend betraf (die Männer spielten gegen Allach am 19.09. daheim, 33:36). Hallenname 'Dreifachsporthalle' laut Vereinsbeiträgen; nuLiga nennt nur Hallennummer 270306. Kapazität unbekannt; 800 Zuschauer bei 'vollbesetzter Halle' laut Spielbericht (Feed, ?p=8050), keine Kapazitätsangabe. Instagram weiter null (nur eingebetteter Feed ohne Profil-Link). Weitere Kontakte: sponsoring@tsv-ottobeuren-handball.de (Richard Schneider), herren1@tsv-ottobeuren-handball.de.",
     "kosten_usd": 0,
     "quellen_selbst_angegeben": [
       "https://tsv-ottobeuren-handball.de/",
       "https://tsv-ottobeuren-handball.de/?page_id=14",
-      "https://tsv-ottobeuren-handball.de/?page_id=84"
+      "https://tsv-ottobeuren-handball.de/?page_id=84",
+      "https://tsv-ottobeuren-handball.de/?feed=rss2",
+      "https://tsv-ottobeuren-handball.de/?p=8043",
+      "https://tsv-ottobeuren-handball.de/?page_id=111",
+      "https://tsv-ottobeuren-handball.de/?page_id=117",
+      "https://tsv-ottobeuren-handball.de/?page_id=105",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
     "quellen_nicht_pruefbar": [],
     "pruefung": {

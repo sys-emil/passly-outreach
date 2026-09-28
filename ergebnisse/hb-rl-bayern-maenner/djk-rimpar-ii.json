@@ -8,55 +8,73 @@
     "sport": "Handball"
   },
   "ergebnis": {
-    "website": "https://www.wolfsrevier.de/djk-rimpar",
+    "website": "https://www.wolfsrevier.de/jungwoelfe-u23",
     "vorverkauf": "unbekannt",
     "anbieter": null,
     "eintritt_frei": null,
     "ticketpreis_eur": null,
     "halle": "Dreifachsporthalle Markt Rimpar",
     "kapazitaet": null,
-    "instagram": "woelfe.wuerzburg",
+    "instagram": "jungwoelfe_djkrimpar_jugend",
     "ansprechperson": {
-      "name": "Dr. Bastian Krenz",
-      "rolle": "Abteilungsleiter Sport, Jugendkoordination (laut nuLiga Verantwortlicher Männer II)",
+      "name": "Bastian Krenz",
+      "rolle": "Trainer Jungwölfe U23 (Männer II)",
       "kontakt": "bastian.krenz@wolfsrevier.de, 0176 30542798"
     },
     "naechstes_heimspiel": "So 18.10.2026, 15:00 Uhr, gegen HSC 2000 Coburg II (Dreifachsporthalle Markt Rimpar)",
-    "beobachtung": "Aufsteiger Männer II startete mit zwei Niederlagen (31:37 in Landshut, 23:40 daheim gegen HG München-Fürstenfeldbruck); nächstes Heimspiel am 18.10. gegen Coburg II. Auf wolfsrevier.de gibt es Tickets (Reservix) nur für die Profis, zur Zweiten steht dort weder Eintritt noch Vorverkauf.",
+    "beobachtung": "Die Zweite läuft als „Jungwölfe U23“; weder Teamseite noch Saisonstart-Bericht (19.09.2026) noch die Vorberichte zu den Relegations-Heimspielen nennen Eintritt oder Kartenverkauf, sie werben nur mit Grill, Bar und DJ; die Ticketseite mit Reservix gilt nur für die Wölfe Würzburg.",
     "quellen": [
+      "https://www.wolfsrevier.de/jungwoelfe-u23",
+      "https://www.wolfsrevier.de/nachrichten/saisonstart-jungwoelfe-u23",
+      "https://www.wolfsrevier.de/nachrichten/u23-vorbericht-relegation-tsv-herrsching",
+      "https://www.wolfsrevier.de/nachrichten/u23-vorbericht-relegation-green-night",
+      "https://www.wolfsrevier.de/anfahrt",
+      "https://www.wolfsrevier.de/tickets",
       "https://www.wolfsrevier.de/kontakte-rimparer-handballer",
-      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716",
-      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/clubTeams?club=30383"
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
     "sicherheit": "niedrig"
   },
   "meta": {
     "recherchiert_am": "2026-09-28",
     "modell": "Claude Code Sitzung",
-    "schritte": 10,
+    "schritte": 33,
     "quellen_belegt": [
-      "https://www.wolfsrevier.de/kontakte-rimparer-handballer"
+      "https://www.wolfsrevier.de/jungwoelfe-u23"
     ],
     "quellen_nur_suchtreffer": [
-      "https://www.wolfsrevier.de/herren-ii-saisonabschlussbericht/"
+      "https://www.wolfsrevier.de/herren-ii-saisonabschlussbericht/",
+      "https://www.facebook.com/RimparerJungwoelfe/",
+      "https://www.wolfsrevier.de/jungwoelfe-u23-oberliga",
+      "https://www.handball.net/vereine/nuliga.bhv.60727/spielplan"
     ],
     "quellen_nicht_nachvollziehbar": [
-      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716",
-      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/clubTeams?club=30383"
+      "https://www.wolfsrevier.de/nachrichten/saisonstart-jungwoelfe-u23",
+      "https://www.wolfsrevier.de/nachrichten/u23-vorbericht-relegation-tsv-herrsching",
+      "https://www.wolfsrevier.de/nachrichten/u23-vorbericht-relegation-green-night",
+      "https://www.wolfsrevier.de/anfahrt",
+      "https://www.wolfsrevier.de/tickets",
+      "https://www.wolfsrevier.de/kontakte-rimparer-handballer",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
-    "notiz": "Zur Männer II gibt es auf wolfsrevier.de keine eigene Seite und keine Eintrittsinfo; Vorverkauf daher unbekannt. Die Ticketseite https://www.wolfsrevier.de/tickets (abgerufen) gilt für die Profis (Wölfe Würzburg, Reservix, 11/13 EUR) und zählt nicht. Instagram woelfe.wuerzburg ist das auf den Abteilungsseiten verlinkte Konto, aber faktisch das der Profi-Mannschaft; ein eigenes Konto der Zweiten wurde nicht gefunden. Heimhalle laut nuLiga-Spielplan meist Dreifachsporthalle Markt Rimpar (Hallennr. 210341), einzelne Spiele in der Rimpar DJK-Halle (210342). Spieltechnische Anfragen laut Kontaktseite an spieltechnik@wolfsrevier.de.",
+    "notiz": "2. Durchgang: Neu gefunden, dass die Männer II auf wolfsrevier.de 'Jungwölfe U23' heißen (Sitemap per curl ausgewertet). Gelesen ohne jede Angabe zu Eintritt/Karten/Abendkasse: Teamseite /jungwoelfe-u23, Saisonstart Jungwölfe U23 (19.09.2026), Saisonstart 2026/27 (18.09.2026), Vorberichte Relegation Herrsching und Green Night (April 2026, Heimspiel 25.04.), Vorberichte HSG Lauf-Heroldsberg (Okt. 2025) und Helmbrechts (Nov. 2024), Anfahrt, sowie /tickets, /einzeltickets, /ticketaktionen, /preise-hallenplan (nur Profis, U23 nicht erwähnt). Vorverkauf daher weiter unbekannt; ob Eintritt verlangt wird oder frei ist, bleibt offen. Instagram: Die Teamseite schreibt im Text 'Folge den @jungwoelfe_djkrimpar_herren', verlinkt aber https://www.instagram.com/jungwoelfe_djkrimpar_jugend/; eingetragen ist der verlinkte Handle, der Text-Handle ist abweichend und nicht verlinkt. Ansprechperson jetzt von der Teamseite (Trainer U23, mit Mail und Telefon im Klartext); laut Kontaktseite Abteilungsleiter Sport. Kapazität der Dreifachsporthalle nicht angegeben (Anfahrt nennt nur 2.900 für die tectake Arena der Profis). Budget überschritten (viele kurze curl-Abrufe).",
     "kosten_usd": 0,
     "quellen_selbst_angegeben": [
+      "https://www.wolfsrevier.de/jungwoelfe-u23",
+      "https://www.wolfsrevier.de/nachrichten/saisonstart-jungwoelfe-u23",
+      "https://www.wolfsrevier.de/nachrichten/u23-vorbericht-relegation-tsv-herrsching",
+      "https://www.wolfsrevier.de/nachrichten/u23-vorbericht-relegation-green-night",
+      "https://www.wolfsrevier.de/anfahrt",
+      "https://www.wolfsrevier.de/tickets",
       "https://www.wolfsrevier.de/kontakte-rimparer-handballer",
-      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716",
-      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/clubTeams?club=30383"
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
     ],
     "quellen_nicht_pruefbar": [],
     "pruefung": {
       "am": "2026-09-28",
       "fakten": {
         "instagram": [
-          "https://www.wolfsrevier.de/kontakte-rimparer-handballer"
+          "https://www.wolfsrevier.de/jungwoelfe-u23"
         ],
         "ansprechperson": []
       }
