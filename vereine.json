@@ -96,6 +96,27 @@
         { "name": "VC Juniors Frankfurt", "ort": "Frankfurt", "land": "HE", "hinweis": "Sonderspielrecht" },
         { "name": "VV Humann Essen", "ort": "Essen", "land": "NRW" }
       ]
+    },
+    "hb-rl-bayern-maenner": {
+      "name": "Handball Regionalliga Bayern Männer (BHV)",
+      "sport": "Handball",
+      "_quelle": "https://de.wikipedia.org/wiki/Handball-Regionalliga_Bayern (Teilnehmer 2026/27, Stand 5. Juni 2026, abgerufen 2026-09-28)",
+      "vereine": [
+        { "name": "DJK Rimpar II", "ort": "Rimpar", "land": "BY", "hinweis": "Zweite Mannschaft der DJK Rimpar Wölfe, Aufsteiger" },
+        { "name": "HaSpo Bayreuth", "ort": "Bayreuth", "land": "BY" },
+        { "name": "HBC Nürnberg", "ort": "Nürnberg", "land": "BY" },
+        { "name": "HC Erlangen III", "ort": "Erlangen", "land": "BY", "hinweis": "Dritte Mannschaft des HC Erlangen, Aufsteiger" },
+        { "name": "HSC 2000 Coburg II", "ort": "Coburg", "land": "BY", "hinweis": "Zweite Mannschaft des HSC 2000 Coburg" },
+        { "name": "HT München", "ort": "München", "land": "BY" },
+        { "name": "Münchner Panther", "ort": "Fürstenfeldbruck", "land": "BY", "hinweis": "Absteiger aus der 3. Liga; seit April 2026 Zusammenschluss von TuS Fürstenfeldbruck und Handballgemeinschaft München" },
+        { "name": "SV Anzing", "ort": "Anzing", "land": "BY" },
+        { "name": "TG Landshut", "ort": "Landshut", "land": "BY" },
+        { "name": "TSV 2000 Rothenburg", "ort": "Rothenburg ob der Tauber", "land": "BY" },
+        { "name": "TSV Allach 09", "ort": "München", "land": "BY" },
+        { "name": "TSV Lohr", "ort": "Lohr am Main", "land": "BY" },
+        { "name": "TSV Ottobeuren", "ort": "Ottobeuren", "land": "BY", "hinweis": "Aufsteiger" },
+        { "name": "VfL Günzburg", "ort": "Günzburg", "land": "BY" }
+      ]
     }
   }
 }
