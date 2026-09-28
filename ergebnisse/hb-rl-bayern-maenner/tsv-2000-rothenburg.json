@@ -1,0 +1,74 @@
+{
+  "verein": {
+    "name": "TSV 2000 Rothenburg",
+    "ort": "Rothenburg ob der Tauber",
+    "land": "BY",
+    "liga": "hb-rl-bayern-maenner",
+    "liga_name": "Handball Regionalliga Bayern Männer (BHV)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.haro2000.de/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Mehrzweckhalle Rothenburg",
+    "kapazitaet": null,
+    "instagram": "tsv2000handball",
+    "ansprechperson": {
+      "name": "Norbert Fink",
+      "rolle": "Abteilungsleiter Handball",
+      "kontakt": "abteilungsleiter@haro2000.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Heimauftakt in der Mehrzweckhalle gegen den VfL Günzburg (29:30 verloren), nächstes Spiel am 3.10. auswärts bei der TG Landshut; Heimspiele werden auf HaRoTV live gestreamt.",
+    "quellen": [
+      "https://www.haro2000.de/",
+      "https://www.haro2000.de/teams/herren-1/",
+      "https://www.haro2000.de/heimspielauftakt-der-rothenburger-handballer-2/",
+      "https://www.haro2000.de/impressum/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-28",
+    "modell": "Claude Code Sitzung",
+    "schritte": 10,
+    "quellen_belegt": [
+      "https://www.haro2000.de/",
+      "https://www.haro2000.de/teams/herren-1/",
+      "https://www.haro2000.de/heimspielauftakt-der-rothenburger-handballer-2/",
+      "https://www.haro2000.de/impressum/"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://www.haro2000.de/produkt/live-stream-ticket/",
+      "https://www.haro2000.de/heimspielfinale-in-der-mehrzweckhalle/",
+      "https://www.flz.de/rothenburg-mit-diesen-zielen-starten-die-handballer-in-die-regionalliga/cnt-id-ps-0bc18673-6f8c-4a3d-9111-331f3d87314a"
+    ],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorverkauf auf 'unbekannt' gesetzt (Nachkontrolle): Die Angabe 'nur online, keine Abendkasse' steht nur in Suchtreffern, nicht auf einer abgerufenen Seite. Vorverkauf-Einordnung stammt NUR aus Suchtreffer-Schnipseln (mehrfach übereinstimmend): Tickets für Heimspiele nur online, keine Abendkasse, Einlass nur mit Online-Ticket; Einzelspiel 7 € (erm. 5 €), Dauerkarte 77 € (erm. 55 €); Fragen zu Ticketbestellungen an pressewart@haro2000.de. Suchtreffer 'Heimspiel vs. VfL Günzburg' unter /produkt/... deutet auf einen eigenen WordPress-/WooCommerce-Shop hin, die Produktseite liefert aber heute 404, /tickets/ und /shop/ ebenfalls 404; daher Anbieter und Preis nicht belegt, sicherheit niedrig. Wahrscheinlich kein guter Passly-Kandidat, da bereits Online-Verkauf ohne Abendkasse. Datumsangabe Heimauftakt widersprüchlich (Vorbericht: 25.09.2026 19:30, Teamseite: Ergebnis 26.09.2026). Nächstes Heimspiel nicht auffindbar (handball.net-Spielplan 404); laut Vorbericht folgen TG Landshut (auswärts 3.10.) und HG München-Fürstenfeldbruck. Kapazität nicht angegeben.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.haro2000.de/",
+      "https://www.haro2000.de/teams/herren-1/",
+      "https://www.haro2000.de/heimspielauftakt-der-rothenburger-handballer-2/",
+      "https://www.haro2000.de/impressum/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-09-28",
+      "fakten": {
+        "instagram": [
+          "https://www.haro2000.de/",
+          "https://www.haro2000.de/teams/herren-1/",
+          "https://www.haro2000.de/heimspielauftakt-der-rothenburger-handballer-2/",
+          "https://www.haro2000.de/impressum/"
+        ],
+        "ansprechperson": [
+          "https://www.haro2000.de/impressum/"
+        ]
+      }
+    }
+  }
+}

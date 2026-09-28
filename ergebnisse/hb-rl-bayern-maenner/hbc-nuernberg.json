@@ -1,0 +1,67 @@
+{
+  "verein": {
+    "name": "HBC Nürnberg",
+    "ort": "Nürnberg",
+    "land": "BY",
+    "liga": "hb-rl-bayern-maenner",
+    "liga_name": "Handball Regionalliga Bayern Männer (BHV)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://hbc-nuernberg.de/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Röthenbach-Ost, Am Röthenbacher Landgraben, 90451 Nürnberg",
+    "kapazitaet": null,
+    "instagram": "hbc_nuernberg",
+    "ansprechperson": {
+      "name": "Stefan Mittag",
+      "rolle": "Ansprechpartner Männer 1",
+      "kontakt": "s.mittag@hbc-nuernberg.de, +49 176 20203063"
+    },
+    "naechstes_heimspiel": "So 25.10.2026, 16:30 Uhr, gegen HSC 2000 Coburg II (Nürnberg, Röthenbach-Ost)",
+    "beobachtung": "Weder die Seite der Männer 1 noch die Hallenseite oder die News auf hbc-nuernberg.de nennen Eintritt, Preise oder einen Ticketweg; nächstes Heimspiel der Männer 1 ist am 25.10. gegen HSC 2000 Coburg II in Röthenbach-Ost.",
+    "quellen": [
+      "https://hbc-nuernberg.de/maenner-1/",
+      "https://hbc-nuernberg.de/hallen/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-28",
+    "modell": "Claude Code Sitzung",
+    "schritte": 9,
+    "quellen_belegt": [
+      "https://hbc-nuernberg.de/maenner-1/",
+      "https://hbc-nuernberg.de/hallen/"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://hbc-nuernberg.de/gesamtspielplan-hbc/",
+      "https://www.handball.net/vereine/nuliga.bhv.90313"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
+    ],
+    "notiz": "Keine Angabe zu Eintritt oder Tickets auf Startseite, Männer-1-Seite, Hallen-, News- und Impressumsseite gefunden (Textsuche nach Eintritt/Abendkasse/€/Zuschauer). Ob Eintritt verlangt wird, bleibt offen. HBC ist Spielgemeinschaft von Post SV und TV Eibach 03. Heimspiele der Männer 1 laut nuLiga-Spielplan in Röthenbach-Ost (Hallennr. 230270); Saisonauftakt 26.9. dort 25:24 gegen TSV Lohr.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://hbc-nuernberg.de/maenner-1/",
+      "https://hbc-nuernberg.de/hallen/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-09-28",
+      "fakten": {
+        "instagram": [
+          "https://hbc-nuernberg.de/maenner-1/",
+          "https://hbc-nuernberg.de/hallen/"
+        ],
+        "ansprechperson": []
+      }
+    }
+  }
+}

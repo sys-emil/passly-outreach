@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "TSV Ottobeuren",
+    "ort": "Ottobeuren",
+    "land": "BY",
+    "liga": "hb-rl-bayern-maenner",
+    "liga_name": "Handball Regionalliga Bayern Männer (BHV)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://tsv-ottobeuren-handball.de/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Dreifachsporthalle Ottobeuren",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Udo Bossmann",
+      "rolle": "1. Vorsitzender Handballabteilung",
+      "kontakt": "vorstand@tsv-ottobeuren-handball.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Aufsteiger als Meister der Oberliga-Südstaffel; laut Herren-Seite gewann die Mannschaft vor 800 Zuschauern 44:16 gegen den Eichenauer SV. Zu Eintritt oder Tickets steht auf der Vereinswebsite nichts.",
+    "quellen": [
+      "https://tsv-ottobeuren-handball.de/",
+      "https://tsv-ottobeuren-handball.de/?page_id=14",
+      "https://tsv-ottobeuren-handball.de/?page_id=84"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-28",
+    "modell": "Claude Code Sitzung",
+    "schritte": 10,
+    "quellen_belegt": [
+      "https://tsv-ottobeuren-handball.de/?page_id=84"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://www.facebook.com/tsvohandball/",
+      "https://www.handball.net/vereine/nuliga.bhv.70645/spielplan"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://tsv-ottobeuren-handball.de/",
+      "https://tsv-ottobeuren-handball.de/?page_id=14"
+    ],
+    "notiz": "Vereinswebsite enthält keine Angaben zu Eintritt, Preisen oder Vorverkauf; Website wirkt teils veraltet (letzte News März/April 2026). Instagram: Die Startseite bindet nur einen Instagram-Feed (Plugin) ein, ohne Link auf ein Profil; Handle daher null (vom Abrufmodell vermutetes 'tsv_ottobeuren_handball' nicht belegt). Facebook-Seite 'tsvohandball' nur Suchtreffer. Nächstes Heimspiel unsicher: nuLiga-Vereinsspielplan (clubMeetings?club=30371, abgerufen) nennt So 04.10.2026 14:00 TSV Ottobeuren – TSV München-Allach, Liga-Kürzel 'RL MA'; das ist vermutlich die Regionalliga der männlichen A-Jugend (nuLiga kürzt die Männer-Regionalliga beim VfL Günzburg mit 'RL M' ab), daher nicht ins Feld übernommen. Kapazität unbekannt (nur 800 Zuschauer beim Meisterspiel belegt). Weitere Kontakte: sponsoring@tsv-ottobeuren-handball.de (Richard Schneider), herren1@tsv-ottobeuren-handball.de. Fan-Shop ist ein Erima-Teamshop (Kleidung, keine Tickets).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://tsv-ottobeuren-handball.de/",
+      "https://tsv-ottobeuren-handball.de/?page_id=14",
+      "https://tsv-ottobeuren-handball.de/?page_id=84"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-09-28",
+      "fakten": {
+        "ansprechperson": [
+          "https://tsv-ottobeuren-handball.de/?page_id=84"
+        ]
+      }
+    }
+  }
+}

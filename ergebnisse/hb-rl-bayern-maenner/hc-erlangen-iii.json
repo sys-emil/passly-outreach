@@ -1,0 +1,83 @@
+{
+  "verein": {
+    "name": "HC Erlangen III",
+    "ort": "Erlangen",
+    "land": "BY",
+    "liga": "hb-rl-bayern-maenner",
+    "liga_name": "Handball Regionalliga Bayern Männer (BHV)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://hc-erlangen-ev.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Karl-Heinz-Hiersemann-Halle (KHHH), Erlangen",
+    "kapazitaet": null,
+    "instagram": "hcerlangen_ev_mnlz",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Geschäftsstelle HC Erlangen e.V.",
+      "kontakt": "gsev@hc-erlangen-ev.de, 09131-972 60 60"
+    },
+    "naechstes_heimspiel": "So 11.10.2026, 16:30 Uhr, gegen TG Landshut (Erlangen, Karl-Heinz-Hiersemann Halle)",
+    "beobachtung": "Laut Saisonvorschau vom 26.08.2026 ermöglichen die Dauerkarten des HC Erlangen e.V. „u.a. auch den Zugang zu den U21-Spielen in der Regionalliga“; verkauft wird über einen Reservix-Ticketshop (ticketshop-hcerlangenev.reservix.de), nächstes Heimspiel am 11.10. gegen TG Landshut.",
+    "quellen": [
+      "https://hc-erlangen-ev.de/2026/08/26/regionalliga-maenner-hc-erlangen-u21-saison-2026-27/",
+      "https://hc-erlangen-ev.de/2026/08/26/saison-2026-27-dauerkartenverkauf-eroeffnet/",
+      "https://hc-erlangen-ev.de/saison/dauerkarten/",
+      "https://hc-erlangen-ev.de/unsere-teams/maennlich/u21/",
+      "https://hc-erlangen-ev.de/kontakt-copy/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-28",
+    "modell": "Claude Code Sitzung",
+    "schritte": 10,
+    "quellen_belegt": [
+      "https://hc-erlangen-ev.de/2026/08/26/regionalliga-maenner-hc-erlangen-u21-saison-2026-27/",
+      "https://hc-erlangen-ev.de/2026/08/26/saison-2026-27-dauerkartenverkauf-eroeffnet/",
+      "https://hc-erlangen-ev.de/saison/dauerkarten/",
+      "https://hc-erlangen-ev.de/unsere-teams/maennlich/u21/",
+      "https://hc-erlangen-ev.de/kontakt-copy/"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://www.europlan-online.de/karl-heinz-hiersemann-halle/stadion-20903.html",
+      "https://www.reservix.de/erlangen/venue/karl-heinz-hiersemann-halle/v3941"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
+    ],
+    "notiz": "HC Erlangen III = U21 des HC Erlangen e.V. (Nachwuchsverein; Profis/HBL laufen über Pro HC Erlangen GmbH mit eigenem Reservix-Shop, zählt nicht). Die Dauerkarte „All in One“ gilt laut News für „alle kostenpflichtigen Spiele“, die Leistungsbereich-Dauerkarte ausdrücklich auch für die Regionalliga/U21, daher Eintritt nicht frei. Der Reservix-Shop ticketshop-hcerlangenev.reservix.de antwortete mit 403, deshalb weder Einzelpreis noch Liste der eingestellten U21-Spiele geprüft; Sicherheit daher mittel. Kapazität 681 Sitz- und ca. 200 Stehplätze nur aus einem Suchtreffer-Schnipsel, nicht eingetragen. Trainer U21: Tobias Wannemacher (Jugendkoordinator, tobias.wannenmacher@hc-erlangen-ev.de laut Geschäftsstellenseite). Heimhalle laut nuLiga Hallennr. 240082.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://hc-erlangen-ev.de/2026/08/26/regionalliga-maenner-hc-erlangen-u21-saison-2026-27/",
+      "https://hc-erlangen-ev.de/2026/08/26/saison-2026-27-dauerkartenverkauf-eroeffnet/",
+      "https://hc-erlangen-ev.de/saison/dauerkarten/",
+      "https://hc-erlangen-ev.de/unsere-teams/maennlich/u21/",
+      "https://hc-erlangen-ev.de/kontakt-copy/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-09-28",
+      "fakten": {
+        "instagram": [
+          "https://hc-erlangen-ev.de/2026/08/26/regionalliga-maenner-hc-erlangen-u21-saison-2026-27/",
+          "https://hc-erlangen-ev.de/2026/08/26/saison-2026-27-dauerkartenverkauf-eroeffnet/",
+          "https://hc-erlangen-ev.de/saison/dauerkarten/",
+          "https://hc-erlangen-ev.de/unsere-teams/maennlich/u21/",
+          "https://hc-erlangen-ev.de/kontakt-copy/"
+        ],
+        "anbieter": [
+          "https://hc-erlangen-ev.de/saison/dauerkarten/",
+          "https://hc-erlangen-ev.de/unsere-teams/maennlich/u21/"
+        ],
+        "ansprechperson": []
+      }
+    }
+  }
+}

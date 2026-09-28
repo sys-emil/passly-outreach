@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "DJK Rimpar II",
+    "ort": "Rimpar",
+    "land": "BY",
+    "liga": "hb-rl-bayern-maenner",
+    "liga_name": "Handball Regionalliga Bayern Männer (BHV)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.wolfsrevier.de/djk-rimpar",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Dreifachsporthalle Markt Rimpar",
+    "kapazitaet": null,
+    "instagram": "woelfe.wuerzburg",
+    "ansprechperson": {
+      "name": "Dr. Bastian Krenz",
+      "rolle": "Abteilungsleiter Sport, Jugendkoordination (laut nuLiga Verantwortlicher Männer II)",
+      "kontakt": "bastian.krenz@wolfsrevier.de, 0176 30542798"
+    },
+    "naechstes_heimspiel": "So 18.10.2026, 15:00 Uhr, gegen HSC 2000 Coburg II (Dreifachsporthalle Markt Rimpar)",
+    "beobachtung": "Aufsteiger Männer II startete mit zwei Niederlagen (31:37 in Landshut, 23:40 daheim gegen HG München-Fürstenfeldbruck); nächstes Heimspiel am 18.10. gegen Coburg II. Auf wolfsrevier.de gibt es Tickets (Reservix) nur für die Profis, zur Zweiten steht dort weder Eintritt noch Vorverkauf.",
+    "quellen": [
+      "https://www.wolfsrevier.de/kontakte-rimparer-handballer",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/clubTeams?club=30383"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-28",
+    "modell": "Claude Code Sitzung",
+    "schritte": 10,
+    "quellen_belegt": [
+      "https://www.wolfsrevier.de/kontakte-rimparer-handballer"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://www.wolfsrevier.de/herren-ii-saisonabschlussbericht/"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/clubTeams?club=30383"
+    ],
+    "notiz": "Zur Männer II gibt es auf wolfsrevier.de keine eigene Seite und keine Eintrittsinfo; Vorverkauf daher unbekannt. Die Ticketseite https://www.wolfsrevier.de/tickets (abgerufen) gilt für die Profis (Wölfe Würzburg, Reservix, 11/13 EUR) und zählt nicht. Instagram woelfe.wuerzburg ist das auf den Abteilungsseiten verlinkte Konto, aber faktisch das der Profi-Mannschaft; ein eigenes Konto der Zweiten wurde nicht gefunden. Heimhalle laut nuLiga-Spielplan meist Dreifachsporthalle Markt Rimpar (Hallennr. 210341), einzelne Spiele in der Rimpar DJK-Halle (210342). Spieltechnische Anfragen laut Kontaktseite an spieltechnik@wolfsrevier.de.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.wolfsrevier.de/kontakte-rimparer-handballer",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/clubTeams?club=30383"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-09-28",
+      "fakten": {
+        "instagram": [
+          "https://www.wolfsrevier.de/kontakte-rimparer-handballer"
+        ],
+        "ansprechperson": []
+      }
+    }
+  }
+}

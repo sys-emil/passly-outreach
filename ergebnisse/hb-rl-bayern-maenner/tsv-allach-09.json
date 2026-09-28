@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "TSV Allach 09",
+    "ort": "München",
+    "land": "BY",
+    "liga": "hb-rl-bayern-maenner",
+    "liga_name": "Handball Regionalliga Bayern Männer (BHV)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.tsvallach.de",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Städtische Sporthalle an der Eversbuschstraße, München-Allach",
+    "kapazitaet": null,
+    "instagram": "tsvmuenchenallach",
+    "ansprechperson": null,
+    "naechstes_heimspiel": "Sa, 10.10.26, 18:00 gegen VfL Günzburg",
+    "beobachtung": "Der TSV München-Allach hat am 04.09.2026 „Dauerkarte & Eintrittspreise Saison 2026/27“ veröffentlicht („Die Preise bleiben stabil!“), die Preise stehen aber nur als Bild (Dauerkarten.png) auf der Seite; nächstes Heimspiel der Herren 1 am 10.10.2026 um 18:00 gegen VfL Günzburg.",
+    "quellen": [
+      "https://www.tsvallach.de/",
+      "https://www.tsvallach.de/news/1742/227/Dauerkarte-Eintrittspreise-Saison-202627.html",
+      "https://www.tsvallach.de/tsv-allach-handball/handball-senioren-tsv-muenchen-allach-1909/handball-senioren-herren-1-tsv-muenchen-allach-1909.html",
+      "https://www.tsvallach.de/news/1478/227/Dauerkarte-Eintrittspreise-Saison-202526.html"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-28",
+    "modell": "Claude Code Sitzung",
+    "schritte": 10,
+    "quellen_belegt": [
+      "https://www.tsvallach.de/",
+      "https://www.tsvallach.de/news/1742/227/Dauerkarte-Eintrittspreise-Saison-202627.html",
+      "https://www.tsvallach.de/tsv-allach-handball/handball-senioren-tsv-muenchen-allach-1909/handball-senioren-herren-1-tsv-muenchen-allach-1909.html",
+      "https://www.tsvallach.de/news/1478/227/Dauerkarte-Eintrittspreise-Saison-202526.html"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://www.handball.net/vereine/nuliga.bhv.13819/spielplan"
+    ],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Preise nur aus Suchtreffer-Schnipsel zur Saison 2025/26: Herren 1 Eintritt 8 € (Mitglieder/ermäßigt 6 €, Jugend bis 17 frei), Dauerkarte 90 € / 70 € für 13 Heimspiele; laut Artikel 2026/27 „Preise bleiben stabil“, die Zahlen selbst stehen nur in einem Bild und waren nicht lesbar, daher Preisfeld leer. Wie Karten verkauft werden (Abendkasse, Mail, Shop), ließ sich nicht belegen. Heimspiele 10.10. (VfL Günzburg) und 24.10. (HG München-Fürstenfeldbruck = Münchner Panther) aus dem Spielplan-Widget der Startseite; Heim/Auswärts-Zuordnung nicht gegengeprüft. Laut Teamseite zuletzt 23:31 im Derby gegen HT München. Kein namentlicher Ansprechpartner Handball gefunden; Kontaktseite: https://www.tsvallach.de/tsv-allach-kontakt-impressum/kontakt-tsv-muenchen-allach-1909.html (nicht abgerufen). Instagram-Handle ist das Vereinskonto, nicht speziell Handball.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tsvallach.de/",
+      "https://www.tsvallach.de/news/1742/227/Dauerkarte-Eintrittspreise-Saison-202627.html",
+      "https://www.tsvallach.de/tsv-allach-handball/handball-senioren-tsv-muenchen-allach-1909/handball-senioren-herren-1-tsv-muenchen-allach-1909.html",
+      "https://www.tsvallach.de/news/1478/227/Dauerkarte-Eintrittspreise-Saison-202526.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-09-28",
+      "fakten": {
+        "instagram": [
+          "https://www.tsvallach.de/",
+          "https://www.tsvallach.de/news/1742/227/Dauerkarte-Eintrittspreise-Saison-202627.html",
+          "https://www.tsvallach.de/tsv-allach-handball/handball-senioren-tsv-muenchen-allach-1909/handball-senioren-herren-1-tsv-muenchen-allach-1909.html",
+          "https://www.tsvallach.de/news/1478/227/Dauerkarte-Eintrittspreise-Saison-202526.html"
+        ]
+      }
+    }
+  }
+}

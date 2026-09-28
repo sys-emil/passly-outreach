@@ -1,0 +1,90 @@
+{
+  "verein": {
+    "name": "Münchner Panther",
+    "ort": "Fürstenfeldbruck",
+    "land": "BY",
+    "liga": "hb-rl-bayern-maenner",
+    "liga_name": "Handball Regionalliga Bayern Männer (BHV)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.tus-ffb-handball.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Brandcrock (eigener Ticketshop wphandball.brandcrock.com)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 13,
+    "halle": "Wittelsbacher Halle, Bahnhofstraße 15 / Eingang Stockmeierweg, 82256 Fürstenfeldbruck",
+    "kapazitaet": null,
+    "instagram": "bruckerpanther",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Geschäftsstelle / Ticketing TuS Fürstenfeldbruck Handball",
+      "kontakt": "bepartof@tus-ffb-handball.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Münchner Panther (Absteiger aus der 3. Liga, 13 Heimspiele in der Regionalliga) verkaufen Tages- und Dauerkarten über einen eigenen Webshop (wphandball.brandcrock.com); Tageskarte an der Abendkasse 13 € (ermäßigt 10 € / 5 €), Dauerkarte 150 €, Rückgabe online gekaufter Tickets ausgeschlossen.",
+    "quellen": [
+      "https://www.tus-ffb-handball.de/the-club/tickets/",
+      "https://www.tus-ffb-handball.de/the-club/tagestickets/",
+      "https://wphandball.brandcrock.com/dauerkarten/",
+      "https://www.tus-ffb-handball.de/erwachsene/herren-1/",
+      "https://www.tus-ffb-handball.de/the-club/anfahrt/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-28",
+    "modell": "Claude Code Sitzung",
+    "schritte": 10,
+    "quellen_belegt": [
+      "https://www.tus-ffb-handball.de/the-club/tickets/",
+      "https://www.tus-ffb-handball.de/the-club/tagestickets/",
+      "https://wphandball.brandcrock.com/dauerkarten/",
+      "https://www.tus-ffb-handball.de/erwachsene/herren-1/",
+      "https://www.tus-ffb-handball.de/the-club/anfahrt/"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://handball.brandcrock.com/dauerkarten.php",
+      "https://www.tus-ffb-handball.de/2026/04/operation-bundesliga-fuer-die-panther/",
+      "https://handballmuenchen.de/unsere-teams/"
+    ],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bereits echter Online-Vorverkauf: eigener Shop, gebaut von der Agentur Brandcrock (kein klassischer Ticketanbieter), Betreiber laut Shop 'Handballgemeinschaft München'. Vorverkaufsstellen ADAC FFB, TUI Reise Center FFB und Amper Kurier FFB sowie Abendkasse nur im Suchtreffer-Schnipsel gesehen (handball.brandcrock.com/dauerkarten.php, nicht abgerufen). Kapazität der Wittelsbacher Halle nicht gefunden. Nächstes Heimspiel ab 28.09. nicht ermittelt (Saisonstart 21.09. gegen Lohr 38:20, 26.09. auswärts in Rimpar); Spielplan unter /the-club/gesamtspielplan/ nicht abgerufen. Instagram-Handle noch unter altem Namen 'bruckerpanther' verlinkt; die HG München hat evtl. eigene Kanäle (handballmuenchen.de).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tus-ffb-handball.de/the-club/tickets/",
+      "https://www.tus-ffb-handball.de/the-club/tagestickets/",
+      "https://wphandball.brandcrock.com/dauerkarten/",
+      "https://www.tus-ffb-handball.de/erwachsene/herren-1/",
+      "https://www.tus-ffb-handball.de/the-club/anfahrt/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-09-28",
+      "fakten": {
+        "anbieter": [
+          "https://www.tus-ffb-handball.de/the-club/tickets/",
+          "https://www.tus-ffb-handball.de/the-club/tagestickets/",
+          "https://wphandball.brandcrock.com/dauerkarten/"
+        ],
+        "instagram": [
+          "https://www.tus-ffb-handball.de/the-club/tickets/",
+          "https://www.tus-ffb-handball.de/the-club/tagestickets/",
+          "https://www.tus-ffb-handball.de/erwachsene/herren-1/",
+          "https://www.tus-ffb-handball.de/the-club/anfahrt/"
+        ],
+        "ansprechperson": [
+          "https://www.tus-ffb-handball.de/the-club/tickets/",
+          "https://www.tus-ffb-handball.de/the-club/tagestickets/",
+          "https://wphandball.brandcrock.com/dauerkarten/",
+          "https://www.tus-ffb-handball.de/erwachsene/herren-1/",
+          "https://www.tus-ffb-handball.de/the-club/anfahrt/"
+        ],
+        "ticketpreis_eur": [
+          "https://wphandball.brandcrock.com/dauerkarten/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass ihr Tages- und Dauerkarten schon online verkauft und die Tageskarte an der Abendkasse 13 € kostet. Ich baue Passly: Online-Tickets, Dauerkarte und Abendkasse in einem System, an der Tür wird per Handy gescannt, für den Verein kostenlos. Falls das für euch interessant ist, passt ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen bzw. schreiben: Geschäftsstelle / Ticketing (bepartof@tus-ffb-handball.de).\n- Einstieg: Eigener Ticketshop für Tages- und Dauerkarten, Tageskarte an der Abendkasse 13 € (ermäßigt 10 € / 5 €), Dauerkarte 150 €, Heimspiele in der Wittelsbacher Halle.\n- Frage: Wie gut laufen Online-Verkauf und Abendkasse zusammen, und was nervt daran?\n- Angebot: Ich richte ein Heimspiel kostenlos als Testlauf ein, Online-Tickets, Dauerkarte und Abendkasse im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Kurzen Termin in Fürstenfeldbruck vorschlagen, Link zu getpassly.de hinterherschicken."
+}

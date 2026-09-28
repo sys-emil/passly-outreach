@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "HSC 2000 Coburg II",
+    "ort": "Coburg",
+    "land": "BY",
+    "liga": "hb-rl-bayern-maenner",
+    "liga_name": "Handball Regionalliga Bayern Männer (BHV)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.hsc2000.de/2-mannschaft/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 6,
+    "halle": "BGS-Halle Coburg",
+    "kapazitaet": null,
+    "instagram": "hsc2000coburg",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Geschäftsstelle HSC Coburg GmbH & Co. KG",
+      "kontakt": "geschaeftsstelle@hsc2000.de, 09561-7318500"
+    },
+    "naechstes_heimspiel": "So 11.10.2026, 14:00 Uhr, gegen TSV Lohr (Coburg, BGS Halle)",
+    "beobachtung": "Die Seite der 2. Mannschaft nennt Ticketpreise (Vollzahler 6,00 EUR, ermäßigt und Dauerkartenbesitzer 4,00 EUR) und „Einlass ist eine Stunde vor Spielbeginn“ in der BGS-Halle, aber keinen Vorverkaufsweg; nächstes Heimspiel am 11.10. gegen TSV Lohr.",
+    "quellen": [
+      "https://www.hsc2000.de/2-mannschaft/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-28",
+    "modell": "Claude Code Sitzung",
+    "schritte": 7,
+    "quellen_belegt": [
+      "https://www.hsc2000.de/2-mannschaft/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
+    ],
+    "notiz": "„keiner“ ist abgeleitet: Die Seite der 2. Mannschaft nennt Preise und Einlasszeit, aber weder Vorverkauf noch Abendkasse ausdrücklich. Im Online-Shop der Profis (ticket-onlineshop.com/ols/hsc2000/, WebFetch 503, per curl geladen) fand sich kein Spiel der Reserve. Die Seite wirkt nicht ganz aktuell (neueste News dort vom Mai 2025), die Preise könnten also aus der Vorsaison stammen. Kontakt ist die Geschäftsstelle der Profi-GmbH, eine eigene Ansprechperson der Zweiten ist nicht angegeben (Trainer Davor Rokavec). Instagram hsc2000coburg ist das Vereins-/Profikonto, ein eigenes Konto der Reserve wurde nicht gefunden. Kapazität der BGS-Halle nicht gefunden. Der Artikel https://www.hsc2000.de/hsc-ii-heimspiel-gegen-lohr/ (abgerufen) ist von 2019 und ohne Ticketinfo.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hsc2000.de/2-mannschaft/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-09-28",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.hsc2000.de/2-mannschaft/"
+        ],
+        "instagram": [
+          "https://www.hsc2000.de/2-mannschaft/"
+        ],
+        "ansprechperson": [],
+        "vorverkauf": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab auf der Seite eurer Zweiten gesehen: 6 € Eintritt in der BGS-Halle, nächstes Heimspiel am 11.10. gegen Lohr. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link, Gäste zahlen per Karte oder PayPal, an der Tür wird per Handy gescannt. Für den Verein kostenlos. Wäre ein zehnminütiges Telefonat für euch interessant?\n\n**Telefonleitfaden**\n\n- Anrufen: die Verantwortlichen für die Heimspiele der 2. Mannschaft; wer das ist, beim Verein erfragen.\n- Einstieg: Heimspiel der Zweiten am 11.10. gegen TSV Lohr in der BGS-Halle, Eintritt laut Teamseite 6 €, ermäßigt 4 €.\n- Frage: Wie kommen die Zuschauer bei der Zweiten gerade an ihre Karten, und was nervt daran?\n- Angebot: Ich richte das Heimspiel gegen Lohr kostenlos als Testlauf ein, Abendkasse im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Termin für ein Gespräch vereinbaren, Link zu getpassly.de hinterherschicken."
+}

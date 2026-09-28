@@ -1,0 +1,78 @@
+{
+  "verein": {
+    "name": "HaSpo Bayreuth",
+    "ort": "Bayreuth",
+    "land": "BY",
+    "liga": "hb-rl-bayern-maenner",
+    "liga_name": "Handball Regionalliga Bayern Männer (BHV)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://haspo-bayreuth.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "TicketTune",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Schulzentrum Ost (Sporthalle Ost), Äußere Badstr. 26, 95448 Bayreuth",
+    "kapazitaet": null,
+    "instagram": "haspobayreuth_herren1",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Geschäftsstelle/Verwaltung HaSpo Bayreuth",
+      "kontakt": "verwaltung@haspo-bayreuth.de, 0921 5087291"
+    },
+    "naechstes_heimspiel": "Sa 10.10.2026, 19:30 Uhr, gegen SV Anzing (Bayreuth, Sporthalle Ost)",
+    "beobachtung": "Die Startseite verlinkt für Heimspieltickets auf einen TicketTune-Shop (tickettune.com/haspo/veranstaltungen/), der am 28.09.2026 keine Veranstaltung listet („Für die Filterung wurden keine Ergebnisse gefunden!“); nächstes Heimspiel der Männer I ist am 10.10. gegen SV Anzing.",
+    "quellen": [
+      "https://haspo-bayreuth.de/",
+      "https://haspo-bayreuth.de/files/team.php?team=25&spiel=alle",
+      "https://haspo-bayreuth.de/files/single-news.php?id=453&titel=Eintrittskarten+f%C3%BCr+das+erste+Heimspiel+der+Saison+sind+Online",
+      "https://haspo.tickettune.com/haspo/veranstaltungen/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-28",
+    "modell": "Claude Code Sitzung",
+    "schritte": 9,
+    "quellen_belegt": [
+      "https://haspo-bayreuth.de/",
+      "https://haspo-bayreuth.de/files/team.php?team=25&spiel=alle",
+      "https://haspo-bayreuth.de/files/single-news.php?id=453&titel=Eintrittskarten+f%C3%BCr+das+erste+Heimspiel+der+Saison+sind+Online",
+      "https://haspo.tickettune.com/haspo/veranstaltungen/"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://region-bayreuth.de/en/organizer/haspo-bayreuth-e-v-handballsportverein-pvizl5",
+      "https://haspo-bayreuth.de/files/single-news.php?id=24&titel=Tickets+f%C3%BCr+das+n%C3%A4chste+Heimspiel"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
+    ],
+    "notiz": "Online-Vorverkauf über TicketTune ist belegt durch die News vom 12.09.2025 (Saison 2025/26, Spiel gegen TG Landshut) und den Shop-Link auf der Startseite; für 2026/27 war im Shop am Recherchetag kein Spiel eingestellt (die ersten beiden Heimspiele am 19.9. und 26.9. sind bereits gespielt). Preise und Kapazität nirgends gefunden. Vereinskonto auf Instagram laut Startseite: haspobayreuth_ ; die Team-Seite der Männer I verlinkt haspobayreuth_herren1. Name der Verwaltung (Bettina Wander) nur aus einem Suchtreffer von region-bayreuth.de, daher nicht eingetragen. Trainer Männer I laut Team-Seite: Matthias Bracher.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://haspo-bayreuth.de/",
+      "https://haspo-bayreuth.de/files/team.php?team=25&spiel=alle",
+      "https://haspo-bayreuth.de/files/single-news.php?id=453&titel=Eintrittskarten+f%C3%BCr+das+erste+Heimspiel+der+Saison+sind+Online",
+      "https://haspo.tickettune.com/haspo/veranstaltungen/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/groupPage?displayTyp=gesamt&displayDetail=meetings&championship=BHV+2026%2F27&group=495716"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-09-28",
+      "fakten": {
+        "anbieter": [
+          "https://haspo-bayreuth.de/",
+          "https://haspo-bayreuth.de/files/team.php?team=25&spiel=alle",
+          "https://haspo-bayreuth.de/files/single-news.php?id=453&titel=Eintrittskarten+f%C3%BCr+das+erste+Heimspiel+der+Saison+sind+Online",
+          "https://haspo.tickettune.com/haspo/veranstaltungen/"
+        ],
+        "instagram": [
+          "https://haspo-bayreuth.de/files/team.php?team=25&spiel=alle"
+        ],
+        "ansprechperson": []
+      }
+    }
+  }
+}

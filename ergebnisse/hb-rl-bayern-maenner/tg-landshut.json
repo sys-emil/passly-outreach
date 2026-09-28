@@ -1,0 +1,83 @@
+{
+  "verein": {
+    "name": "TG Landshut",
+    "ort": "Landshut",
+    "land": "BY",
+    "liga": "hb-rl-bayern-maenner",
+    "liga_name": "Handball Regionalliga Bayern Männer (BHV)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://tglhandball.de",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Halle Sportzentrum West, Sandnerstr. 7, 84034 Landshut",
+    "kapazitaet": 1500,
+    "instagram": "tgl_handball",
+    "ansprechperson": {
+      "name": "Dr. Christian Kraus",
+      "rolle": "1. Vorsitzender, Förderverein des Handballsports der TG Landshut e. V.",
+      "kontakt": "foerderverein@tg-landshut-handball.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Auf der Herren-1-Seite (Regionalliga 2026/27) steht: „Tickets sind am Spieltag an der Abendkasse zu erwerben“; die Preisangabe zur Erstattung nach dem Damenspiel ist noch ein Platzhalter („x EUR/x EUR“).",
+    "quellen": [
+      "https://tglhandball.de/h1/",
+      "https://tglhandball.de/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/courtInfo?federation=BHV&location=5260",
+      "https://de.wikipedia.org/wiki/TG_Landshut_(Handball)",
+      "https://tglhandball.de/impressum/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-28",
+    "modell": "Claude Code Sitzung",
+    "schritte": 10,
+    "quellen_belegt": [
+      "https://tglhandball.de/h1/",
+      "https://tglhandball.de/",
+      "https://de.wikipedia.org/wiki/TG_Landshut_(Handball)",
+      "https://tglhandball.de/impressum/"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://tglhandball.de/flipbook/8-heimspieltag/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/clubInfoDisplay?club=30760"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/courtInfo?federation=BHV&location=5260"
+    ],
+    "notiz": "Eintrittspreis unbekannt: Die Seite enthält nur den Platzhalter „x EUR/x EUR“; ein Suchtreffer-Schnipsel (ältere Fassung derselben Seite) nannte 9 EUR/6 EUR als Differenzbetrag, d. h. Kombi-Ticket Damen+Herren, Herrenpreis selbst nicht angegeben. Kapazität 1.500 nur aus Wikipedia. Nächstes Heimspiel ab 28.09. nicht gefunden: Hallenspielplan (nuLiga) zeigt zuletzt 19.09.2026 gegen SG DJK Rimpar II (37:31), danach keine Regionalliga-Spiele im angezeigten Zeitraum. Heimspiele laufen als Doppelspieltag mit den Damen. Ansprechperson ist der Förderverein (Impressum), keine Abteilungsleitung/Presse gefunden. Fanshop auf der Website vorhanden.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://tglhandball.de/h1/",
+      "https://tglhandball.de/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/courtInfo?federation=BHV&location=5260",
+      "https://de.wikipedia.org/wiki/TG_Landshut_(Handball)",
+      "https://tglhandball.de/impressum/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-09-28",
+      "fakten": {
+        "instagram": [
+          "https://tglhandball.de/h1/",
+          "https://tglhandball.de/",
+          "https://tglhandball.de/impressum/"
+        ],
+        "vorverkauf": [
+          "https://tglhandball.de/h1/"
+        ],
+        "kapazitaet": [
+          "https://de.wikipedia.org/wiki/TG_Landshut_(Handball)"
+        ],
+        "ansprechperson": [
+          "https://tglhandball.de/impressum/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, auf eurer Herren-Seite steht, dass es die Tickets für die Regionalliga-Heimspiele am Spieltag an der Abendkasse gibt. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link für Website und Instagram, Gäste zahlen per Karte, PayPal oder Apple Pay, an der Tür wird per Handy gescannt. Für den Verein kostenlos. Hättet ihr Lust auf ein kurzes Telefonat, zehn Minuten?\n\n**Telefonleitfaden**\n\n- Anrufen: Förderverein des Handballsports der TG Landshut, 1. Vorsitzender Dr. Christian Kraus (foerderverein@tg-landshut-handball.de), nach der Person fragen, die die Heimspieltage organisiert.\n- Einstieg: Laut Herren-Seite gibt es die Tickets am Spieltag an der Abendkasse, Heimspiele im Sportzentrum West.\n- Frage: Wie läuft der Kartenverkauf an den Spieltagen gerade, was nervt daran?\n- Angebot: Ich richte euer nächstes Heimspiel kostenlos als Testlauf ein, Abendkasse läuft im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Termin für ein kurzes Treffen in Landshut vorschlagen, danach Link zu getpassly.de schicken."
+}

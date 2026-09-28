@@ -1,0 +1,83 @@
+{
+  "verein": {
+    "name": "HT München",
+    "ort": "München",
+    "land": "BY",
+    "liga": "hb-rl-bayern-maenner",
+    "liga_name": "Handball Regionalliga Bayern Männer (BHV)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.ht-muenchen.de",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 10,
+    "halle": "Hachinga Halle, Grünauer Allee 6, Unterhaching / Handball Heimat Taufkirchen, Köglweg 104, Taufkirchen",
+    "kapazitaet": null,
+    "instagram": "nurderht",
+    "ansprechperson": {
+      "name": "Rudolf Jaron / Sandra Zeiler",
+      "rolle": "Heimspielorganisation (Unterhaching / Taufkirchen)",
+      "kontakt": "hallenverkauf@ht-muenchen.de"
+    },
+    "naechstes_heimspiel": "10.10.2026, 20:00 gegen TSV Ottobeuren",
+    "beobachtung": "Nächstes Heimspiel der Herren I am 10.10.2026 gegen TSV Ottobeuren; Einzelkarte Regionalliga Männer 10 € (ermäßigt 6 €), Saisonkarten (140 € / 90 € / VIP 200 €) laut Vereinsseite per Mail an wilhelm.becker@live.com vorzubestellen.",
+    "quellen": [
+      "https://www.ht-muenchen.de/teams/view/21",
+      "https://www.ht-muenchen.de/own_pages/view/52",
+      "https://www.ht-muenchen.de/clubnews/view/442",
+      "https://www.ht-muenchen.de/own_pages/view/21",
+      "https://www.ht-muenchen.de/places/index"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-28",
+    "modell": "Claude Code Sitzung",
+    "schritte": 8,
+    "quellen_belegt": [
+      "https://www.ht-muenchen.de/teams/view/21",
+      "https://www.ht-muenchen.de/own_pages/view/52",
+      "https://www.ht-muenchen.de/clubnews/view/442",
+      "https://www.ht-muenchen.de/own_pages/view/21",
+      "https://www.ht-muenchen.de/places/index"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://www.handball.net/mannschaften/nuliga.bhv.1680262/spielplan"
+    ],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Preise und Saisonkarten-Vorbestellung per Mail stammen aus dem Artikel vom 08.08.2025 (Saison 2025/26); für 2026/27 kein neuer Artikel gefunden. Wie Einzelkarten verkauft werden (vermutlich Abendkasse), steht nicht auf der Seite. Die Ticketseite verlinkt diginights.com, aber nur für ein Sonderevent (Sportlerfasching 01.03.2025 inkl. Regionalliga-Spiel), nicht als regulären Vorverkauf. Welche der beiden Hallen (Unterhaching/Taufkirchen) beim Spiel gegen Ottobeuren genutzt wird, ist unklar; Kapazität nirgends angegeben. Weitere Kontakte: Abteilungsleitung abteilungsleitung@ht-muenchen.de (Dr. Moritz Retzer, Wilhelm Becker), Presse presse@ht-muenchen.de.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.ht-muenchen.de/teams/view/21",
+      "https://www.ht-muenchen.de/own_pages/view/52",
+      "https://www.ht-muenchen.de/clubnews/view/442",
+      "https://www.ht-muenchen.de/own_pages/view/21",
+      "https://www.ht-muenchen.de/places/index"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-09-28",
+      "fakten": {
+        "instagram": [
+          "https://www.ht-muenchen.de/teams/view/21",
+          "https://www.ht-muenchen.de/own_pages/view/52",
+          "https://www.ht-muenchen.de/clubnews/view/442",
+          "https://www.ht-muenchen.de/own_pages/view/21",
+          "https://www.ht-muenchen.de/places/index"
+        ],
+        "ticketpreis_eur": [
+          "https://www.ht-muenchen.de/clubnews/view/442"
+        ],
+        "vorverkauf": [
+          "https://www.ht-muenchen.de/clubnews/view/442"
+        ],
+        "ansprechperson": [
+          "https://www.ht-muenchen.de/own_pages/view/21"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, nächstes Heimspiel am 10.10. gegen Ottobeuren. Ich hab gelesen, dass die Saisonkarten bei euch per Mail vorbestellt werden und die Einzelkarte 10 € kostet. Ich baue Passly, einen Online-Vorverkauf für Vereine: Einzelkarten und Saisonkarten über einen Link, Gäste zahlen per Karte oder PayPal, an der Tür wird gescannt. Für den Verein kostenlos. Passt ein zehnminütiges Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen: Heimspielorganisation, Rudolf Jaron / Sandra Zeiler (hallenverkauf@ht-muenchen.de).\n- Einstieg: Heimspiel am 10.10. gegen TSV Ottobeuren, Einzelkarte 10 € (ermäßigt 6 €), Saisonkarten laut Vereinsseite per Mail vorzubestellen.\n- Frage: Wie läuft der Vorverkauf gerade, vor allem bei den Saisonkarten, was nervt daran?\n- Angebot: Ich richte das Heimspiel gegen Ottobeuren kostenlos als Testlauf ein, Saisonkarte und Abendkasse laufen im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Treffen vor Ort in München vorschlagen, Link zu getpassly.de hinterherschicken."
+}

@@ -1,0 +1,75 @@
+{
+  "verein": {
+    "name": "VfL Günzburg",
+    "ort": "Günzburg",
+    "land": "BY",
+    "liga": "hb-rl-bayern-maenner",
+    "liga_name": "Handball Regionalliga Bayern Männer (BHV)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.handball-guenzburg.de/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 9,
+    "halle": "Sporthalle Günzburg (Rebayhalle)",
+    "kapazitaet": null,
+    "instagram": "vflguenzburghandball",
+    "ansprechperson": {
+      "name": "Jürgen Kees",
+      "rolle": "Hallenverwaltung und Spieltagsorganisation",
+      "kontakt": "juergen.kees@gmx.de, 0163/3112276"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Eintrittspreis-Seite für 2026/27: Herren I 9 € (ermäßigt 8 €), Dauerkarte 110 € (100 €), Kinder und Jugendliche bis 16 frei; ein Vorverkaufs- oder Bestellweg wird dort nicht genannt.",
+    "quellen": [
+      "https://www.handball-guenzburg.de/service/eintrittspreise/",
+      "https://www.handball-guenzburg.de/",
+      "https://www.handball-guenzburg.de/service/ansprechpartner/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/courtInfo?federation=BHV&location=5087"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-28",
+    "modell": "Claude Code Sitzung",
+    "schritte": 9,
+    "quellen_belegt": [
+      "https://www.handball-guenzburg.de/service/eintrittspreise/",
+      "https://www.handball-guenzburg.de/",
+      "https://www.handball-guenzburg.de/service/ansprechpartner/"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://www.handball-guenzburg.de/2025/11/13/m1-spitzenspiel-in-der-rebayhalle/",
+      "https://www.handball.net/hallen/sportradar.dhbdata.3023"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/courtInfo?federation=BHV&location=5087"
+    ],
+    "notiz": "Preise klar belegt, aber kein Hinweis, wo Karten erhältlich sind (weder Abendkasse noch Vorverkauf noch Online-Shop) auf Eintrittspreise-, Start-, Herren- und Ansprechpartner-Seite; vermutlich Tageskasse, aber nicht belegt, daher 'unbekannt'. Name 'Rebayhalle' und Adresse Rebaystraße 11 aus Suchtreffern; nuLiga führt die Halle als 'Günzburg, Sporthalle' (250125), dort Heimsieg 32:30 gegen HSC 2000 Coburg II am 19.09.2026. Nächstes Herren-Heimspiel nicht ermittelbar (nuLiga-Hallenplan zeigt Oktober nicht, Startseite listet nur Auswärtsspiel 26.09. in Rothenburg). Kapazität unbekannt. Abteilungsleiter Martin Frey ohne veröffentlichten Kontakt; Sponsoring: Armin Spengler (0174/6790024), Kasse: kasse@handball-guenzburg.de. E-Mails auf der Ansprechpartner-Seite sind per Cloudflare verschleiert (im HTML nicht im Klartext), Telefonnummer steht im Klartext. Aktion mit Freikarten-Kontingenten für Günzburger Vereine nur aus Suchtreffer.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.handball-guenzburg.de/service/eintrittspreise/",
+      "https://www.handball-guenzburg.de/",
+      "https://www.handball-guenzburg.de/service/ansprechpartner/",
+      "https://bhv-handball.liga.nu/cgi-bin/WebObjects/nuLigaHBDE.woa/wa/courtInfo?federation=BHV&location=5087"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-09-28",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.handball-guenzburg.de/service/eintrittspreise/"
+        ],
+        "instagram": [
+          "https://www.handball-guenzburg.de/service/eintrittspreise/",
+          "https://www.handball-guenzburg.de/",
+          "https://www.handball-guenzburg.de/service/ansprechpartner/"
+        ],
+        "ansprechperson": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, auf eurer Eintrittspreis-Seite stehen für die Herren I 9 € und die Dauerkarte für 110 €, aber nicht, wo man die Karten bekommt. Ich baue Passly, einen Online-Vorverkauf für Vereine: Einzel- und Dauerkarten über einen Link, Gäste zahlen per Karte oder PayPal, an der Tür wird gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten für ein Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen: die Spieltagsorganisation der Handballabteilung; wer das ist, beim Verein erfragen.\n- Einstieg: Eintritt Herren I 9 € (ermäßigt 8 €), Dauerkarte 110 € (100 €), Kinder und Jugendliche bis 16 frei, ein Vorverkaufsweg steht nicht auf der Seite.\n- Frage: Wie kommen die Zuschauer gerade an ihre Karten, und was nervt daran?\n- Angebot: Ich richte euer nächstes Heimspiel kostenlos als Testlauf ein, Dauerkarte und Abendkasse laufen im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Termin für ein Gespräch vereinbaren, Link zu getpassly.de hinterherschicken."
+}

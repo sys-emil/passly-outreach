@@ -1,0 +1,76 @@
+{
+  "verein": {
+    "name": "TSV Lohr",
+    "ort": "Lohr am Main",
+    "land": "BY",
+    "liga": "hb-rl-bayern-maenner",
+    "liga_name": "Handball Regionalliga Bayern Männer (BHV)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.lohrerfuechse.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Spessarttorhalle, Lohr am Main",
+    "kapazitaet": 600,
+    "instagram": "lohrerfuechse",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Kontaktadresse Lohrer Füchse (u. a. Dauerkarten-Bestellungen)",
+      "kontakt": "kontakt@lohrerfuechse.de"
+    },
+    "naechstes_heimspiel": "3.10.2026, 19:30 gegen SG DJK Rimpar II",
+    "beobachtung": "Heimauftakt am 3.10. um 19:30 gegen die SG DJK Rimpar II in der Spessarttorhalle; Dauerkarten 26/27 (110 €, ermäßigt 90 €) laut Website nur per Bestellformular (max. zwei Karten) mit anschließender Überweisung und Abholung bei den ersten beiden Heimspielen.",
+    "quellen": [
+      "https://www.lohrerfuechse.de/",
+      "https://www.lohrerfuechse.de/dauerkarten",
+      "https://www.lohrerfuechse.de/spielplan"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-28",
+    "modell": "Claude Code Sitzung",
+    "schritte": 8,
+    "quellen_belegt": [
+      "https://www.lohrerfuechse.de/",
+      "https://www.lohrerfuechse.de/dauerkarten",
+      "https://www.lohrerfuechse.de/spielplan"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://www.handball.net/hallen/nuliga.bhv.4985",
+      "https://www.lohr.de/tourismus-und-kultur/planen-buchen/veranstaltungen/veranstaltungskalender/details/2025-12-13_0000/grosser-handball-jahresabschluss-lohrer-fuechse-vs-tsv-haunstetten"
+    ],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Einordnung 'manuell' beruht auf dem Dauerkarten-Weg (Formular + Überweisung, Abholung in der Halle); ob und wie Einzeltickets verkauft werden (Abendkasse, Preis) war auf den gelesenen Seiten nicht zu finden, daher ticketpreis_eur null und sicherheit mittel. Kapazität 'rund 600 Zuschauer' laut Spielplan-Seite. Gegner Heimauftakt widersprüchlich: Startseite 'SG DJK Rimpar II', Spielplan-Seite laut Abruf 'SG DJK RIMPAR III'. Wikipedia nennt zusätzlich die Halle Nägelseestraße. Keine namentliche Ansprechperson gefunden; Suchtreffer nannte jugendleitung@lohrerfuechse.de. Reserve hat eigenes Instagram 'die_zwote' (nur Suchtreffer).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.lohrerfuechse.de/",
+      "https://www.lohrerfuechse.de/dauerkarten",
+      "https://www.lohrerfuechse.de/spielplan"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-09-28",
+      "fakten": {
+        "instagram": [
+          "https://www.lohrerfuechse.de/",
+          "https://www.lohrerfuechse.de/dauerkarten",
+          "https://www.lohrerfuechse.de/spielplan"
+        ],
+        "ansprechperson": [
+          "https://www.lohrerfuechse.de/dauerkarten"
+        ],
+        "vorverkauf": [
+          "https://www.lohrerfuechse.de/dauerkarten"
+        ],
+        "kapazitaet": [
+          "https://www.lohrerfuechse.de/spielplan"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, Heimauftakt am 3.10. gegen Rimpar in der Spessarttorhalle. Ich hab gesehen, dass eure Dauerkarten per Formular und Überweisung laufen und bei den ersten Heimspielen abgeholt werden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Dauerkarte und Einzeltickets über einen Link, Gäste zahlen per Karte oder PayPal, an der Tür wird gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten für ein Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen bzw. schreiben: Kontaktadresse der Lohrer Füchse (kontakt@lohrerfuechse.de), nach der Person fragen, die die Dauerkarten und die Heimspiele organisiert.\n- Einstieg: Heimauftakt am 3.10. um 19:30 gegen Rimpar, Dauerkarten 110 € (ermäßigt 90 €) per Bestellformular, höchstens zwei Karten, Überweisung und Abholung in der Halle, Halle mit rund 600 Plätzen.\n- Frage: Wie aufwendig ist das mit Formular, Überweisung und Abholung, und was nervt daran?\n- Angebot: Ich richte das nächste Heimspiel kostenlos als Testlauf ein, Dauerkarte und Abendkasse laufen im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Termin für ein Gespräch vereinbaren, Link zu getpassly.de hinterherschicken."
+}

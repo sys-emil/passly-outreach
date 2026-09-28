@@ -1,0 +1,61 @@
+{
+  "verein": {
+    "name": "SV Anzing",
+    "ort": "Anzing",
+    "land": "BY",
+    "liga": "hb-rl-bayern-maenner",
+    "liga_name": "Handball Regionalliga Bayern Männer (BHV)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.handball-anzing.de",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle Anzing, Forsthof („Löwenhöhle“)",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Hubert Müller",
+      "rolle": "Sportlicher Leiter Herren 1",
+      "kontakt": "mueller@alf-hb.de, 0173-3522581"
+    },
+    "naechstes_heimspiel": "03.10.2026, 18:00 gegen TSV München-Allach",
+    "beobachtung": "Nächstes Heimspielwochenende in der Löwenhöhle am 03./04.10.2026, Herren 1 am 03.10. um 18:00 gegen TSV München-Allach; auf der Handball-Website stehen weder Eintrittspreise noch ein Ticketlink.",
+    "quellen": [
+      "https://www.handball-anzing.de/teams/view/1",
+      "https://www.handball-anzing.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-09-28",
+    "modell": "Claude Code Sitzung",
+    "schritte": 8,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [
+      "https://www.instagram.com/anzingerloewen/",
+      "https://www.instagram.com/anzingerloewenhandball/",
+      "https://www.handball.net/mannschaften/nuliga.bhv.1588616/spielplan",
+      "https://www.facebook.com/AnzingerLoewen/"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.handball-anzing.de/teams/view/1",
+      "https://www.handball-anzing.de/"
+    ],
+    "notiz": "Ticketsituation nicht feststellbar: weder handball-anzing.de (Startseite, Teamseite, Linkseite) noch sv-anzing.de/handball/ nennen Eintritt oder Vorverkauf; das Saisonheft 2025/26 (PDF) ließ sich in der Umgebung nicht lesen. Instagram 'anzingerloewen' (laut Suchtreffer Herren 1, ca. 4.700 Follower) und 'anzingerloewenhandball' nur aus Suchtreffern, auf der Vereinsseite nicht als Link gefunden, daher Feld leer. Weitere Kontakte laut Teamseite: Trainer Kay Hoffmann (kay.hoffmann76@gmx.de), Technischer Leiter Günter Erber (erber@alf-hb.de). Keine Abteilungsleitung gefunden.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.handball-anzing.de/teams/view/1",
+      "https://www.handball-anzing.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-09-28",
+      "fakten": {
+        "ansprechperson": []
+      }
+    }
+  }
+}
