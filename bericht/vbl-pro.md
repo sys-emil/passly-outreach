@@ -1,6 +1,6 @@
 # Kandidaten Sparda 2. Liga Pro (Frauen)
 
-Stand 2026-09-28. Punkte 0 bis 100, Schwelle für Entwürfe 45.
+Stand 2026-11-13. Punkte 0 bis 100, Schwelle für Entwürfe 45.
 
 | Punkte | Verein | Vorverkauf | Kapazität | Preis | Instagram |
 |---:|---|---|---:|---:|---|
@@ -32,7 +32,7 @@ Stand 2026-09-28. Punkte 0 bis 100, Schwelle für Entwürfe 45.
 
 **Instagram-DM**
 
-Hi, Glückwunsch zum Aufstieg in die 2. Liga Pro! Ich hab gesehen, dass eure Tickets nur an der Abendkasse gibt und die Saisonkarten über die Geschäftsstelle laufen. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder PayPal, an der Tür wird mit dem Handy gescannt, Dauerkarte inklusive. Für euch kostenlos. Ich sitze in München, hättet ihr zehn Minuten am Telefon?
+Hi, Glückwunsch zum Aufstieg in die 2. Liga Pro! Ich hab gesehen, dass es eure Tickets nur an der Abendkasse gibt und die Saisonkarten über die Geschäftsstelle laufen. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, Dauerkarte inklusive. Für euch kostenlos. Ich sitze in München, hättet ihr zehn Minuten am Telefon?
 
 **Telefonleitfaden**
 
@@ -57,7 +57,7 @@ Hi, Glückwunsch zum Aufstieg in die 2. Liga Pro! Ich hab gesehen, dass eure Tic
 
 **Instagram-DM**
 
-Hi, ich hab auf eurer Seite gesehen, dass die Dauerkarten per Mail bestellt und bar beim ersten Heimspiel abgeholt werden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Dauerkarte und Einzeltickets über einen Link, Gäste zahlen per Karte oder PayPal, an der Tür wird gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten am Telefon, um zu schauen, ob das für die Muldentalhalle passt?
+Hi, ich hab auf eurer Seite gesehen, dass die Dauerkarten per Mail bestellt und bar beim ersten Heimspiel abgeholt werden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Dauerkarte und Einzeltickets über einen Link, Gäste zahlen per Karte oder Apple Pay, an der Tür wird gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten am Telefon, um zu schauen, ob das für die Muldentalhalle passt?
 
 **Telefonleitfaden**
 
@@ -80,7 +80,7 @@ Hi, ich hab auf eurer Seite gesehen, dass die Dauerkarten per Mail bestellt und 
 
 **Instagram-DM**
 
-Hi, auf eurer Ticketseite stehen die Preise für die Damen in der 2. Liga Pro und die Herren in der 3. Liga, aber kein Weg, vorher eine Karte zu bekommen. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link für beide Teams, Gäste zahlen per Karte oder PayPal, an der Tür wird mit dem Handy gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten am Telefon?
+Hi, auf eurer Ticketseite stehen die Preise für die Damen in der 2. Liga Pro und die Herren in der 3. Liga, aber kein Weg, vorher eine Karte zu bekommen. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link für beide Teams, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten am Telefon?
 
 **Telefonleitfaden**
 
@@ -105,7 +105,7 @@ Hi, auf eurer Ticketseite stehen die Preise für die Damen in der 2. Liga Pro un
 
 **Instagram-DM**
 
-Hi, ich hab gesehen, dass ihr am 4.10. euer nächstes Heimspiel in der Sporthalle Luisen-Gymnasium habt, und auf der Seite steht nichts zu Tickets. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte, PayPal oder Apple Pay, an der Tür wird gescannt. Für den Verein kostenlos. Wie läuft der Einlass bei euch gerade?
+Hi, ich hab gesehen, dass ihr am 4.10. euer nächstes Heimspiel in der Sporthalle Luisen-Gymnasium habt, und auf der Seite steht nichts zu Tickets. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird gescannt. Für den Verein kostenlos. Wie läuft der Einlass bei euch gerade?
 
 **Telefonleitfaden**
 

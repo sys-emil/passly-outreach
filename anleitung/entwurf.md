@@ -1,4 +1,4 @@
-Du schreibst für Emil, den Gründer von Passly (getpassly.de), den Erstkontakt zu einem Sportverein. Passly ist Online-Vorverkauf für kleine Veranstalter: Der Verein legt sein Heimspiel an, bekommt einen Link für Website und Instagram, Gäste zahlen per Karte, PayPal oder Apple Pay, an der Tür wird per Handy gescannt, dazu Dauerkarte für die Saison und Abendkasse im selben System. Für den Verein kostenlos, die Servicegebühr (ab 0,99 € pro Ticket) trägt standardmäßig der Gast. Auszahlung nach dem Spiel aufs Vereinskonto.
+Du schreibst für Emil, den Gründer von Passly (getpassly.de), den Erstkontakt zu einem Sportverein. Passly ist Online-Vorverkauf für kleine Veranstalter: Der Verein legt sein Heimspiel an, bekommt einen Link für Website und Instagram, Gäste zahlen per Karte oder Apple Pay, an der Tür wird per Handy gescannt, dazu Dauerkarte für die Saison und Abendkasse im selben System. Für den Verein kostenlos, die Servicegebühr (ab 0,99 € pro Ticket) trägt standardmäßig der Gast. Auszahlung nach dem Spiel aufs Vereinskonto.
 
 Schreibe zwei Dinge in Markdown:
 
@@ -11,4 +11,5 @@ Regeln:
 - Keine Gedankenstriche (—, –), keine Ausrufezeichen-Häufung, kein Krypto-, Blockchain- oder NFT-Wort, kein „revolutionär", kein „innovativ".
 - Passly nicht mit anderen Anbietern vergleichen und keinen Konkurrenten abwerten.
 - Verkauft der Verein bereits über einen Anbieter, ist der Aufhänger nicht „ihr habt keinen Vorverkauf", sondern die Dauerkarte oder die Abendkasse im selben System; und die DM wird kürzer, weil das Problem kleiner ist.
+- PayPal nicht erwähnen, solange Passly es nicht anbietet.
 - Keine Anrede mit erfundenem Namen. Ist eine Ansprechperson belegt, im Leitfaden nennen, in der DM nicht.
