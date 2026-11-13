@@ -42,7 +42,35 @@
     "quellen_nur_suchtreffer": [],
     "quellen_nicht_nachvollziehbar": [],
     "notiz": "Kapazität aus Zuschauerzahl „knapp 700“ beim Derby abgeleitet, keine offizielle Angabe. Saisonkarten existieren, werden aber offline verkauft: Dauerkarte ist der zweite Aufhänger.",
-    "kosten_usd": 0
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://lohhof-volleyball.de/tickets/",
+      "https://lohhof-volleyball.de/infos-fuer-gaeste/",
+      "https://lohhof-volleyball.de/category/damen/d1/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "instagram": [
+          "https://lohhof-volleyball.de/tickets/",
+          "https://lohhof-volleyball.de/infos-fuer-gaeste/",
+          "https://lohhof-volleyball.de/category/damen/d1/"
+        ],
+        "ansprechperson": [
+          "https://lohhof-volleyball.de/tickets/",
+          "https://lohhof-volleyball.de/infos-fuer-gaeste/",
+          "https://lohhof-volleyball.de/category/damen/d1/"
+        ],
+        "vorverkauf": [
+          "https://lohhof-volleyball.de/tickets/"
+        ],
+        "kapazitaet": [
+          "https://lohhof-volleyball.de/category/damen/d1/"
+        ],
+        "ticketpreis_eur": []
+      }
+    }
   },
   "entwurf": "**Instagram-DM**\n\nHi, Glückwunsch zum Aufstieg in die 2. Liga Pro! Ich hab gesehen, dass es eure Tickets nur an der Abendkasse gibt und die Saisonkarten über die Geschäftsstelle laufen. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, Dauerkarte inklusive. Für euch kostenlos. Ich sitze in München, hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen: Geschäftsstelle SV Lohhof, +49 89 310 15 90 (Mo bis Fr 9 bis 11 Uhr, Do 17 bis 19 Uhr), nach der Abteilungsleitung Volleyball fragen.\n- Einstieg: Aufstieg, knapp 700 Zuschauer beim Derby gegen Unterhaching, Tickets laut Website nur an der Abendkasse, Saisonkarten 70 Euro über die Geschäftsstelle.\n- Frage: Wie läuft die Abendkasse bei einem vollen Spiel, und wer zählt am Ende das Bargeld?\n- Angebot: Ich richte das nächste Heimspiel kostenlos als Testlauf ein, Abendkasse und Saisonkarte laufen im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Termin vor Ort in Unterschleißheim vorschlagen, Nachricht mit Link zu getpassly.de/sportvereine hinterherschicken."
 }

@@ -1,5 +1,12 @@
 {
-  "verein": { "name": "Neuseenland-Volleys Markkleeberg", "ort": "Markkleeberg", "land": "SN", "liga": "vbl-pro", "liga_name": "Sparda 2. Liga Pro (Frauen)", "sport": "Volleyball" },
+  "verein": {
+    "name": "Neuseenland-Volleys Markkleeberg",
+    "ort": "Markkleeberg",
+    "land": "SN",
+    "liga": "vbl-pro",
+    "liga_name": "Sparda 2. Liga Pro (Frauen)",
+    "sport": "Volleyball"
+  },
   "ergebnis": {
     "website": "https://neuseenland-volleys.de",
     "vorverkauf": "anbieter",
@@ -9,17 +16,41 @@
     "halle": "Neuseenlandhalle Markkleeberg",
     "kapazitaet": null,
     "instagram": null,
-    "ansprechperson": { "name": null, "rolle": "Ticketing", "kontakt": "ticket@neuseenland-volleys.de" },
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Ticketing",
+      "kontakt": "ticket@neuseenland-volleys.de"
+    },
     "naechstes_heimspiel": "03.10.2026, 18:00 gegen ESA Grimma Volleys",
     "beobachtung": "Eigener Vereinsticket-Shop mit QR-Tickets für alle Heimspiele 2026/27 (auch 3. Liga der zweiten Mannschaft), nächstes Heimspiel 3.10. gegen Grimma.",
-    "quellen": ["https://tsg1903.vereinsticket.de/vt-nvm/"],
+    "quellen": [
+      "https://tsg1903.vereinsticket.de/vt-nvm/"
+    ],
     "sicherheit": "hoch"
   },
   "meta": {
-    "recherchiert_am": "2026-09-20", "modell": "claude-opus-5 (Claude Code Sitzung)", "schritte": 2,
-    "quellen_belegt": ["https://tsg1903.vereinsticket.de/vt-nvm/"],
-    "quellen_nur_suchtreffer": [], "quellen_nicht_nachvollziehbar": [],
+    "recherchiert_am": "2026-09-20",
+    "modell": "claude-opus-5 (Claude Code Sitzung)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://tsg1903.vereinsticket.de/vt-nvm/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
     "notiz": "Kein Kandidat, Online-Verkauf läuft.",
-    "kosten_usd": 0
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://tsg1903.vereinsticket.de/vt-nvm/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://tsg1903.vereinsticket.de/vt-nvm/"
+        ],
+        "ansprechperson": []
+      }
+    }
   }
 }

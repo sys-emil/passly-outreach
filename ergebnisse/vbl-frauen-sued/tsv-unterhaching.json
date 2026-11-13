@@ -39,7 +39,10 @@
     "modell": "claude-opus-5-5 (Claude Code Sitzung)",
     "schritte": 9,
     "quellen_belegt": [
-      "https://tsv-unterhaching.de/volleyball/teams/damen-1"
+      "https://www.tsv-unterhaching.de/volleyball",
+      "https://tsv-unterhaching.de/volleyball/teams/damen-1",
+      "https://tsv-unterhaching.de/volleyball/ansprechpartner",
+      "https://tsv-unterhaching.de/volleyball/teams/damen-1/aktuelles"
     ],
     "quellen_nur_suchtreffer": [
       "https://tsvhachingmuenchen.de/wp-content/uploads/2024/09/Saisonheft-2024_2025-3.pdf",
@@ -47,9 +50,6 @@
     ],
     "quellen_nicht_nachvollziehbar": [
       "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8838.html",
-      "https://www.tsv-unterhaching.de/volleyball",
-      "https://tsv-unterhaching.de/volleyball/ansprechpartner",
-      "https://tsv-unterhaching.de/volleyball/teams/damen-1/aktuelles",
       "https://buchung.tsv-unterhaching.de",
       "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml"
     ],
@@ -68,10 +68,15 @@
     "pruefung": {
       "am": "2026-11-13",
       "fakten": {
+        "ansprechperson": [
+          "https://www.tsv-unterhaching.de/volleyball",
+          "https://tsv-unterhaching.de/volleyball/teams/damen-1",
+          "https://tsv-unterhaching.de/volleyball/ansprechpartner",
+          "https://tsv-unterhaching.de/volleyball/teams/damen-1/aktuelles"
+        ],
         "instagram": [
           "https://tsv-unterhaching.de/volleyball/teams/damen-1"
-        ],
-        "ansprechperson": []
+        ]
       }
     }
   }

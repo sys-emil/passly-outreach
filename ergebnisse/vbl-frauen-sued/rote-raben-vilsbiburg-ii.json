@@ -37,7 +37,8 @@
     "schritte": 8,
     "quellen_belegt": [
       "https://www.roteraben.de/",
-      "https://www.roteraben.de/tickets/ticketinfo"
+      "https://www.roteraben.de/tickets/ticketinfo",
+      "https://tickets.roteraben.de/"
     ],
     "quellen_nur_suchtreffer": [
       "https://www.eventim.de/artist/rote-raben-vilsbiburg/",
@@ -45,7 +46,6 @@
       "https://volleyball.bayern/ergebnisse/erwachsene/ueberbezirkliche-ligen/spiel-383875"
     ],
     "quellen_nicht_nachvollziehbar": [
-      "https://tickets.roteraben.de/",
       "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-3590.html"
     ],
     "notiz": "Zweitmannschaft eines Erstligisten: Ticketshop (vermutlich vivenu, Bild-URLs render.vivenu.com) läuft nur für die 1. Mannschaft; ob die Zweite Eintritt nimmt oder frei ist, steht nirgends. Halle laut Suchtreffer (BVV-Spielbericht Feb. 2026) Ballsporthalle Vilsbiburg, Urbanstraße; Kapazität laut news.de-Treffer 2.000 (1.400 Sitzplätze), beides nicht abgerufen. Instagram ist das Vereinskonto der Rote Raben, kein eigenes Konto der Zweiten. Entscheidung über Ticketing liegt wohl bei der Rote Raben Bundesligabetriebs GmbH, die schon einen Anbieter nutzt.",
@@ -64,7 +64,11 @@
           "https://www.roteraben.de/",
           "https://www.roteraben.de/tickets/ticketinfo"
         ],
-        "ansprechperson": []
+        "ansprechperson": [
+          "https://www.roteraben.de/",
+          "https://www.roteraben.de/tickets/ticketinfo",
+          "https://tickets.roteraben.de/"
+        ]
       }
     }
   }

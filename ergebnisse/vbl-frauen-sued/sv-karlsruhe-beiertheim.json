@@ -73,7 +73,9 @@
         "vorverkauf": [
           "https://sv-karlsruhe-beiertheim.de/volleyball/zweite-bundesliga/spielplan/"
         ],
-        "ansprechperson": []
+        "ansprechperson": [
+          "https://sv-karlsruhe-beiertheim.de/volleyball/abteilung/"
+        ]
       }
     }
   },

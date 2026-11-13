@@ -32,7 +32,6 @@ Stand 2026-11-13. Punkte 0 bis 100, Schwelle für Entwürfe 45.
 - Bewertung: +40 nur Abendkasse; +8 Kapazität unbekannt; +8 Preis 9.5 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; +7 Einordnung sicher
 - Belegte Quellen: <http://volleyball-altdorf.de/>, <https://volleyball-altdorf.de/damen-1/tickets/>, <https://volleyball-altdorf.de/kontakt/>
 - ⚠ Nicht nachvollziehbare Quellen: https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8698.html, https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml
-- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ansprechperson
 
 **Instagram-DM**
 
@@ -59,7 +58,6 @@ Hi, auf eurer Ticketseite steht, dass es Karten nur an der Abendkasse gibt, nur 
 - Bewertung: +40 nur Abendkasse; +8 Kapazität unbekannt; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
 - Belegte Quellen: <https://sv-karlsruhe-beiertheim.de/>, <https://sv-karlsruhe-beiertheim.de/volleyball/zweite-bundesliga/spielplan/>, <https://sv-karlsruhe-beiertheim.de/volleyball/zweite-bundesliga/das-team/>, <https://sv-karlsruhe-beiertheim.de/volleyball/abteilung/>
 - ⚠ Nicht nachvollziehbare Quellen: https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8163.html, https://www.wochenblatt-reporter.de/karlsruhe/c-sport/erstligist-kommt-zum-pokalfight_a422723
-- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ansprechperson
 
 **Instagram-DM**
 
@@ -110,9 +108,8 @@ Hi, ich hab gesehen, dass eure Dauerkarte für 60 Euro auf 50 Stück limitiert i
 - Ansprechperson: Rote Raben (Bundesliga-Kontakt), bundesliga@roteraben.de, 08741 - 3545
 - Website: https://www.roteraben.de
 - Bewertung: +15 Vorverkauf nicht feststellbar; +8 Kapazität unbekannt; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; -10 Einordnung unsicher
-- Belegte Quellen: <https://www.roteraben.de/>, <https://www.roteraben.de/tickets/ticketinfo>
-- ⚠ Nicht nachvollziehbare Quellen: https://tickets.roteraben.de/, https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-3590.html
-- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ansprechperson
+- Belegte Quellen: <https://www.roteraben.de/>, <https://www.roteraben.de/tickets/ticketinfo>, <https://tickets.roteraben.de/>
+- ⚠ Nicht nachvollziehbare Quellen: https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-3590.html
 
 ## TG Bad Soden · 43 Punkte
 
@@ -139,9 +136,8 @@ Hi, ich hab gesehen, dass eure Dauerkarte für 60 Euro auf 50 Stück limitiert i
 - Ansprechperson: Carolin Januschke, stellv. Abteilungsleitung Volleyball, Ansprechpartnerin Bundesliga Damen, Geschäftsstelle TSV Unterhaching: geschaeftsstelle@tsv-unterhaching.de, 089 611 00 294 (mittwochs 17–19 Uhr)
 - Website: https://www.tsv-unterhaching.de/volleyball
 - Bewertung: +15 Vorverkauf nicht feststellbar; +8 Kapazität unbekannt; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; -10 Einordnung unsicher
-- Belegte Quellen: <https://tsv-unterhaching.de/volleyball/teams/damen-1>
-- ⚠ Nicht nachvollziehbare Quellen: https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8838.html, https://www.tsv-unterhaching.de/volleyball, https://tsv-unterhaching.de/volleyball/ansprechpartner, https://tsv-unterhaching.de/volleyball/teams/damen-1/aktuelles, https://buchung.tsv-unterhaching.de, https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml
-- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ansprechperson
+- Belegte Quellen: <https://www.tsv-unterhaching.de/volleyball>, <https://tsv-unterhaching.de/volleyball/teams/damen-1>, <https://tsv-unterhaching.de/volleyball/ansprechpartner>, <https://tsv-unterhaching.de/volleyball/teams/damen-1/aktuelles>
+- ⚠ Nicht nachvollziehbare Quellen: https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8838.html, https://buchung.tsv-unterhaching.de, https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml
 
 ## VC Wiesbaden II · 43 Punkte
 
@@ -156,7 +152,7 @@ Hi, ich hab gesehen, dass eure Dauerkarte für 60 Euro auf 50 Stück limitiert i
 - Website: https://www.vc-wiesbaden.de/
 - Bewertung: 0 verkauft bereits online (vivenu); +8 Kapazität unbekannt; +8 Preis 5 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
 - Belegte Quellen: <https://vc-wiesbaden-rj5j.vivenushop.com/>, <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345711&c.view=teamMain>, <https://vc-wiesbaden-rj5j.vivenushop.com/section/tageskarten-2-bundesliga-heute-ab-18-uhr-6kxo>, <https://vc-wiesbaden-rj5j.vivenushop.com/event/vc-wiesbaden-ii-black-forest-volleys-offenburg-5m5ut5>, <https://www.vc-wiesbaden.de/>
-- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ticketpreis_eur, ansprechperson
+- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ticketpreis_eur
 
 ## TV Dingolfing · 37 Punkte
 
@@ -198,7 +194,7 @@ Hi, ich hab gesehen, dass eure Dauerkarte für 60 Euro auf 50 Stück limitiert i
 - Bewertung: 0 verkauft bereits online (eigener Online-Ticketshop auf prowin-volleys.de (Software nicht erkennbar)); +8 Kapazität unbekannt; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt
 - Belegte Quellen: <https://www.prowin-volleys.de/tickets>, <https://prowin-volleys.de/>, <https://prowin-volleys.de/sportstaetten>, <https://prowin-volleys.de/tickets>
 - ⚠ Nicht nachvollziehbare Quellen: https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-6471.html
-- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): anbieter, ansprechperson
+- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): anbieter
 
 ## SSC Freisen · 20 Punkte
 

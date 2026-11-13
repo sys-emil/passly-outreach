@@ -1,5 +1,12 @@
 {
-  "verein": { "name": "VfL Oythe", "ort": "Vechta", "land": "NI", "liga": "vbl-pro", "liga_name": "Sparda 2. Liga Pro (Frauen)", "sport": "Volleyball" },
+  "verein": {
+    "name": "VfL Oythe",
+    "ort": "Vechta",
+    "land": "NI",
+    "liga": "vbl-pro",
+    "liga_name": "Sparda 2. Liga Pro (Frauen)",
+    "sport": "Volleyball"
+  },
   "ergebnis": {
     "website": "https://www.vfl-oythe.com",
     "vorverkauf": "unbekannt",
@@ -9,18 +16,42 @@
     "halle": null,
     "kapazitaet": null,
     "instagram": "vfl.oythe.volleyball",
-    "ansprechperson": { "name": null, "rolle": "VfL Oythe 1947 e.V., Oythe 25, 49377 Vechta", "kontakt": null },
+    "ansprechperson": {
+      "name": null,
+      "rolle": "VfL Oythe 1947 e.V., Oythe 25, 49377 Vechta",
+      "kontakt": null
+    },
     "naechstes_heimspiel": null,
     "beobachtung": "Die Website (vfl-oythe.com) hat eine Seite „Ticket-Preise - Bundesliga“ mit 8 € / 5 € laut Suchtreffer, die Unterseiten liefern beim Abruf aber 404; die Startseite nennt weder Verkaufsweg noch Ticketlink. Ein Online-Shop ist nirgends verlinkt.",
-    "quellen": ["https://www.vfl-oythe.com/"],
+    "quellen": [
+      "https://www.vfl-oythe.com/"
+    ],
     "sicherheit": "niedrig"
   },
   "meta": {
-    "recherchiert_am": "2026-09-20", "modell": "claude-opus-5 (Claude Code Sitzung)", "schritte": 5,
-    "quellen_belegt": ["https://www.vfl-oythe.com/"],
-    "quellen_nur_suchtreffer": ["https://www.vfl-oythe.com/tickets", "https://www.instagram.com/vfl.oythe.volleyball/"],
-    "quellen_nicht_nachvollziehbar": [],
+    "recherchiert_am": "2026-09-20",
+    "modell": "claude-opus-5 (Claude Code Sitzung)",
+    "schritte": 5,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [
+      "https://www.vfl-oythe.com/tickets",
+      "https://www.instagram.com/vfl.oythe.volleyball/"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.vfl-oythe.com/"
+    ],
     "notiz": "Website ist ein JS-Baukasten, Unterseiten nicht abrufbar. Von Hand im Browser prüfen: vfl-oythe.com/tickets. Preis 8 € aus Suchtreffer für 2024/25.",
-    "kosten_usd": 0
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.vfl-oythe.com/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "ticketpreis_eur": [],
+        "instagram": []
+      }
+    }
   }
 }

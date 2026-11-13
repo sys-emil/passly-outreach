@@ -64,13 +64,17 @@
           "https://volleyball-altdorf.de/damen-1/tickets/",
           "https://volleyball-altdorf.de/kontakt/"
         ],
+        "ansprechperson": [
+          "http://volleyball-altdorf.de/",
+          "https://volleyball-altdorf.de/damen-1/tickets/",
+          "https://volleyball-altdorf.de/kontakt/"
+        ],
         "ticketpreis_eur": [
           "https://volleyball-altdorf.de/damen-1/tickets/"
         ],
         "vorverkauf": [
           "https://volleyball-altdorf.de/damen-1/tickets/"
-        ],
-        "ansprechperson": []
+        ]
       }
     }
   },

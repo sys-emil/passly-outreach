@@ -67,8 +67,13 @@
           "https://prowin-volleys.de/sportstaetten",
           "https://prowin-volleys.de/tickets"
         ],
-        "anbieter": [],
-        "ansprechperson": []
+        "ansprechperson": [
+          "https://www.prowin-volleys.de/tickets",
+          "https://prowin-volleys.de/",
+          "https://prowin-volleys.de/sportstaetten",
+          "https://prowin-volleys.de/tickets"
+        ],
+        "anbieter": []
       }
     }
   }

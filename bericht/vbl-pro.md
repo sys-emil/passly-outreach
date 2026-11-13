@@ -12,10 +12,10 @@ Stand 2026-11-13. Punkte 0 bis 100, Schwelle für Entwürfe 45.
 | 32 | BayerVolleys Leverkusen | anbieter (Vereinsticket (events.vereinsticket.de/tsvbayer04)) | 3500 | 9 € |  |
 | 31 | DSHS SnowTrex Köln | anbieter (ticket.io (dshs-snowtrex-koeln.ticket.io)) |  | 8 € |  |
 | 29 | NawaRo Straubing | anbieter (vivenu (vorher Cortex Tickets)) |  |  |  |
-| 29 | VfL Oythe | unbekannt |  | 8 € | @vfl.oythe.volleyball |
 | 27 | Neuseenland-Volleys Markkleeberg | anbieter (Vereinsticket (tsg1903.vereinsticket.de)) |  |  |  |
-| 16 | Sparkassen Wildcats Stralsund | anbieter (eingebetteter Online-Ticketshop (Anbieter hinter Cookie-Sperre nicht erkennbar)) |  |  | @stralsunderwildcats |
-| 13 | VCO Dresden | unbekannt |  |  |  |
+| 19 | VfL Oythe | unbekannt |  | 8 € | @vfl.oythe.volleyball |
+| 3 | VCO Dresden | unbekannt |  |  |  |
+| 0 | Sparkassen Wildcats Stralsund | anbieter (eingebetteter Online-Ticketshop (Anbieter hinter Cookie-Sperre nicht erkennbar)) |  |  | @stralsunderwildcats |
 
 ## SV Lohhof · 96 Punkte
 
@@ -29,6 +29,7 @@ Stand 2026-11-13. Punkte 0 bis 100, Schwelle für Entwürfe 45.
 - Website: https://lohhof-volleyball.de
 - Bewertung: +40 nur Abendkasse; +15 Halle passt (700); +8 Preis 7 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +10 Bayern, Besuch möglich; +7 Einordnung sicher
 - Belegte Quellen: <https://lohhof-volleyball.de/tickets/>, <https://lohhof-volleyball.de/infos-fuer-gaeste/>, <https://lohhof-volleyball.de/category/damen/d1/>
+- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ticketpreis_eur
 
 **Instagram-DM**
 
@@ -54,6 +55,7 @@ Hi, Glückwunsch zum Aufstieg in die 2. Liga Pro! Ich hab gesehen, dass es eure 
 - Website: https://www.vv-grimma.de
 - Bewertung: +35 Vorverkauf per Mail/Telefon/Liste; +8 Kapazität unbekannt; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt
 - Belegte Quellen: <https://www.vv-grimma.de/v4/>, <https://www.vv-grimma.de/v4/index.php?site=tickets&gender=damen&tid=1>, <https://www.vv-grimma.de/>
+- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ansprechperson, vorverkauf
 
 **Instagram-DM**
 
@@ -76,7 +78,9 @@ Hi, ich hab auf eurer Seite gesehen, dass die Dauerkarten per Mail bestellt und 
 - Preis: 10 €
 - Website: https://tv-waldgirmes.de
 - Bewertung: +40 nur Abendkasse; +8 Kapazität unbekannt; +8 Preis 10 €
-- Belegte Quellen: <https://tv-waldgirmes.de/vbherren1/tickets/>, <https://tv-waldgirmes.de/category/volleyball-damen1/>, <https://tv-waldgirmes.de/gesamtspielplan/>
+- Belegte Quellen: <https://tv-waldgirmes.de/vbherren1/tickets/>
+- ⚠ Nicht nachvollziehbare Quellen: https://tv-waldgirmes.de/category/volleyball-damen1/, https://tv-waldgirmes.de/gesamtspielplan/
+- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): vorverkauf
 
 **Instagram-DM**
 
@@ -140,6 +144,7 @@ Hi, ich hab gesehen, dass ihr am 4.10. euer nächstes Heimspiel in der Sporthall
 - Website: https://www.bayer-volleyball-bundesliga.de
 - Bewertung: 0 verkauft bereits online (Vereinsticket (events.vereinsticket.de/tsvbayer04)); +5 große Halle (3500); +8 Preis 9 €; +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
 - Belegte Quellen: <https://events.vereinsticket.de/tsvbayer04/vo-bayervolleys>
+- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ticketpreis_eur, kapazitaet
 
 ## DSHS SnowTrex Köln · 31 Punkte
 
@@ -163,19 +168,8 @@ Hi, ich hab gesehen, dass ihr am 4.10. euer nächstes Heimspiel in der Sporthall
 - Ansprechperson: FTSV Volleyball GmbH, Ludwigsplatz 26, Straubing
 - Website: https://www.nawaro-straubing.de
 - Bewertung: 0 verkauft bereits online (vivenu (vorher Cortex Tickets)); +8 Kapazität unbekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; +7 Einordnung sicher
-- Belegte Quellen: <https://www.nawaro-straubing.de/spiele/>, <https://nawaro.cortex-tickets.de/>
-
-## VfL Oythe · 29 Punkte
-
-**Beobachtung:** Die Website (vfl-oythe.com) hat eine Seite „Ticket-Preise - Bundesliga“ mit 8 € / 5 € laut Suchtreffer, die Unterseiten liefern beim Abruf aber 404; die Startseite nennt weder Verkaufsweg noch Ticketlink. Ein Online-Shop ist nirgends verlinkt.
-
-- Vorverkauf: unbekannt, Sicherheit niedrig
-- Preis: 8 €
-- Instagram: https://instagram.com/vfl.oythe.volleyball
-- Ansprechperson: VfL Oythe 1947 e.V., Oythe 25, 49377 Vechta
-- Website: https://www.vfl-oythe.com
-- Bewertung: +15 Vorverkauf nicht feststellbar; +8 Kapazität unbekannt; +8 Preis 8 €; +8 Instagram vorhanden (DM möglich); -10 Einordnung unsicher
-- Belegte Quellen: <https://www.vfl-oythe.com/>
+- Belegte Quellen: <https://www.nawaro-straubing.de/spiele/>
+- ⚠ Nicht nachvollziehbare Quellen: https://nawaro.cortex-tickets.de/
 
 ## Neuseenland-Volleys Markkleeberg · 27 Punkte
 
@@ -188,22 +182,41 @@ Hi, ich hab gesehen, dass ihr am 4.10. euer nächstes Heimspiel in der Sporthall
 - Website: https://neuseenland-volleys.de
 - Bewertung: 0 verkauft bereits online (Vereinsticket (tsg1903.vereinsticket.de)); +8 Kapazität unbekannt; +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
 - Belegte Quellen: <https://tsg1903.vereinsticket.de/vt-nvm/>
+- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ansprechperson
 
-## Sparkassen Wildcats Stralsund · 16 Punkte
+## VfL Oythe · 19 Punkte
 
-**Beobachtung:** Die Ticketseite bettet einen externen Ticketshop ein („Heimspieltickets“, durch Cookie-Einstellungen blockiert); Online-Vorverkauf existiert also, Anbieter und Preise nicht abrufbar. Aktive Instagram- und WhatsApp-Kanäle.
+**Beobachtung:** Die Website (vfl-oythe.com) hat eine Seite „Ticket-Preise - Bundesliga“ mit 8 € / 5 € laut Suchtreffer, die Unterseiten liefern beim Abruf aber 404; die Startseite nennt weder Verkaufsweg noch Ticketlink. Ein Online-Shop ist nirgends verlinkt.
 
-- Vorverkauf: anbieter (eingebetteter Online-Ticketshop (Anbieter hinter Cookie-Sperre nicht erkennbar)), Sicherheit mittel
-- Halle: Diesterweg-Halle, Stralsund
-- Instagram: https://instagram.com/stralsunderwildcats
-- Website: https://www.vc-stralsund.de/wildcats/
-- Bewertung: 0 verkauft bereits online (eingebetteter Online-Ticketshop (Anbieter hinter Cookie-Sperre nicht erkennbar)); +8 Kapazität unbekannt; +8 Instagram vorhanden (DM möglich)
-- Belegte Quellen: <https://www.vc-stralsund.de/wildcats/tickets/>
+- Vorverkauf: unbekannt, Sicherheit niedrig
+- Preis: 8 €
+- Instagram: https://instagram.com/vfl.oythe.volleyball
+- Ansprechperson: VfL Oythe 1947 e.V., Oythe 25, 49377 Vechta
+- Website: https://www.vfl-oythe.com
+- Bewertung: +15 Vorverkauf nicht feststellbar; +8 Kapazität unbekannt; +8 Preis 8 €; +8 Instagram vorhanden (DM möglich); -10 Einordnung unsicher; -10 keine belegte Quelle
+- Belegte Quellen: keine
+- ⚠ Nicht nachvollziehbare Quellen: https://www.vfl-oythe.com/
+- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ticketpreis_eur, instagram
 
-## VCO Dresden · 13 Punkte
+## VCO Dresden · 3 Punkte
 
 **Beobachtung:** Nachwuchsteam des Bundesstützpunkts mit Sonderspielrecht; keine eigene Ticketseite gefunden, Suchtreffer führen zum Dresdner SC (1. Liga, Reservix) und zum VC Dresden (anderer Verein, 2. BL Süd Männer, eigener Shop).
 
 - Vorverkauf: unbekannt, Sicherheit niedrig
-- Bewertung: +15 Vorverkauf nicht feststellbar; +8 Kapazität unbekannt; -10 Einordnung unsicher
-- Belegte Quellen: <https://vc-dresden.de/volleyball-dresden-tickets-fur-bundesliga-spiele/>
+- Bewertung: +15 Vorverkauf nicht feststellbar; +8 Kapazität unbekannt; -10 Einordnung unsicher; -10 keine belegte Quelle
+- Belegte Quellen: keine
+- Nicht prüfbar (JavaScript, gesperrt oder nichts zu prüfen): https://vc-dresden.de/volleyball-dresden-tickets-fur-bundesliga-spiele/
+
+## Sparkassen Wildcats Stralsund · 0 Punkte
+
+**Beobachtung:** Die Ticketseite bettet einen externen Ticketshop ein („Heimspieltickets“, durch Cookie-Einstellungen blockiert); Online-Vorverkauf existiert also, Anbieter und Preise nicht abrufbar. Aktive Instagram- und WhatsApp-Kanäle.
+
+- Vorverkauf: anbieter (eingebetteter Online-Ticketshop (Anbieter hinter Cookie-Sperre nicht erkennbar)), Sicherheit niedrig
+- Halle: Diesterweg-Halle, Stralsund
+- Instagram: https://instagram.com/stralsunderwildcats
+- Website: https://www.vc-stralsund.de/wildcats/
+- Bewertung: 0 verkauft bereits online (eingebetteter Online-Ticketshop (Anbieter hinter Cookie-Sperre nicht erkennbar)); +8 Kapazität unbekannt; +8 Instagram vorhanden (DM möglich); -10 Einordnung unsicher; -10 keine belegte Quelle
+- Belegte Quellen: keine
+- ⚠ Nicht nachvollziehbare Quellen: https://www.vc-stralsund.de/wildcats/tickets/
+- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): anbieter, instagram
+- Sicherheit von „mittel" auf „niedrig" gesetzt, keine Quelle belegt

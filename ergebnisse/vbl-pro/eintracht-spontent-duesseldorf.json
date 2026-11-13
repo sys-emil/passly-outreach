@@ -40,7 +40,22 @@
     ],
     "quellen_nicht_nachvollziehbar": [],
     "notiz": "Von Streamern (Spontent) gegründeter Verein, junges Publikum, sehr Instagram-/TikTok-affin. Genau die Zielgruppe für einen Link in der Bio. Klären, ob Eintritt frei ist.",
-    "kosten_usd": 0
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://eintracht-spontent.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "instagram": [
+          "https://eintracht-spontent.de/"
+        ],
+        "ansprechperson": [
+          "https://eintracht-spontent.de/"
+        ]
+      }
+    }
   },
   "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass ihr am 4.10. euer nächstes Heimspiel in der Sporthalle Luisen-Gymnasium habt, und auf der Seite steht nichts zu Tickets. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird gescannt. Für den Verein kostenlos. Wie läuft der Einlass bei euch gerade?\n\n**Telefonleitfaden**\n\n- Kontakt: eintracht@spontent.lol, Instagram @eintrachtspontent (Reichweite läuft über Twitch, TikTok, YouTube).\n- Einstieg: Heimspiel am 4.10., Website ohne Ticketinfo.\n- Frage: Ist der Eintritt frei oder gibt es eine Abendkasse, und wie regelt ihr die Kapazität der Schulhalle?\n- Angebot: Kostenlose Tickets mit Kapazitätsgrenze oder bezahlte, beides über einen Link; Einrichtung fürs nächste Heimspiel kostenlos.\n- Abschluss: Link zu getpassly.de/sportvereine, Rückmeldung per DM abwarten."
 }

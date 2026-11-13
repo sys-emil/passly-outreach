@@ -202,11 +202,20 @@ function faktenVon(e) {
   }
   if (e.instagram) add('instagram', [new RegExp(`instagram\\.com/${escape(e.instagram)}\\b`, 'i')], true);
   if (e.ansprechperson?.kontakt) {
-    const k = e.ansprechperson.kontakt.trim();
-    const muster = k.includes('@')
-      ? [new RegExp(escape(k), 'i'), new RegExp(escape(k.replace('@', ' (at) ')), 'i')]
-      : [new RegExp(k.replace(/\D/g, '').split('').join('[\\s/()+-]*'))];
-    add('ansprechperson', muster, true);
+    // Ein Feld hält oft mehrere Kontakte („info@…, ticket@…, +49 …“). Jeder wird
+    // einzeln gesucht; einer reicht als Beleg. Früher wurde die ganze Zeichenkette
+    // gesucht und bei mehreren Kontakten nie gefunden.
+    const muster = [];
+    for (const m of e.ansprechperson.kontakt.match(/[\w.+-]+@[\w-]+(\.[\w-]+)+/g) ?? []) {
+      const [lokal, domain] = m.split('@');
+      muster.push(new RegExp(escape(m), 'i'), new RegExp(`${escape(lokal)}\\s*(?:\\(at\\)|\\[at\\]|&#64;|&#x40;)\\s*${escape(domain)}`, 'i'));
+    }
+    for (const t of e.ansprechperson.kontakt.replace(/[\w.+-]+@[\w-]+(\.[\w-]+)+/g, ' ').match(/\+?\d[\d\s/()-]{5,}\d/g) ?? []) {
+      // Ländervorwahl weglassen: „+49 89 …" steht auf der Seite oft als „089 …".
+      const ziffern = t.replace(/\D/g, '').replace(/^49/, '').replace(/^0/, '');
+      if (ziffern.length >= 6) muster.push(new RegExp(ziffern.split('').join('[\\s/()+-]*')));
+    }
+    if (muster.length) add('ansprechperson', muster, true);
   }
   switch (e.vorverkauf) {
     case 'keiner':
