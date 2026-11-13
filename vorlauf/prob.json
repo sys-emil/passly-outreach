@@ -1,0 +1,1795 @@
+{
+  "liga": "prob",
+  "stand": "2026-11-13",
+  "quelle": "https://www.2basketballbundesliga.de/teams/?league=ProB",
+  "abrufe": 100,
+  "teams": [
+    {
+      "verband_name": "ART Giants Düsseldorf",
+      "team_id": "536",
+      "homepage": "https://www.art-giants.de",
+      "ticketlink": "https://www.eventim-light.com/de/a/69bd4a475f39760760531ca1",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/536",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/536",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Tobias Brodda",
+          "email": "brodda@art-giants.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Michael Brühl",
+          "email": "m.bruehl@scholljonges.de"
+        }
+      ],
+      "verband_emails": [
+        "brodda@art-giants.de",
+        "m.bruehl@scholljonges.de"
+      ],
+      "plz": "40227",
+      "ort": "Düsseldorf",
+      "hallen": [
+        "Comenius-Gymnasium Lütticher Str. 34 40545 Düsseldorf"
+      ],
+      "kapazitaet": 550,
+      "verein": "ART Giants Düsseldorf",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.art-giants.de/",
+        "https://www.art-giants.de/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.art-giants.de/tickets",
+          "stelle": "nkl. Halbzeitsnack und erhalten Sie ein personalisiertes Geschenk pro Dauerkarte. Einlass grds. ab 60 Minuten vor Spielbeginn. Bei einer Dauerkarte er"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@art-giants.de",
+        "tickets@art-giants.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://www.eventim-light.com/de/a/69bd4a475f39760760531ca1",
+        "wie": "2. Basketball-Bundesliga-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Baskets Juniors TSG Westerstede",
+      "team_id": "548",
+      "homepage": "https://www.ewe-baskets.de/nachwuchs/prob-team",
+      "ticketlink": null,
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/548",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/548",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Artur Gacaev",
+          "email": "artur.gacaev@ewe-baskets.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Christian Ruhe",
+          "email": "christian.ruhe@ewe-baskets.de"
+        }
+      ],
+      "verband_emails": [
+        "daniel.pleines@ewe-baskets.de",
+        "artur.gacaev@ewe-baskets.de",
+        "christian.ruhe@ewe-baskets.de"
+      ],
+      "plz": "26123",
+      "ort": "Oldenburg",
+      "ticket_hotline": "044136119932",
+      "hallen": [
+        "Hössenhalle Westerstede Jahnallee 1 26655 Westerstede Webseite"
+      ],
+      "kapazitaet": 500,
+      "verein": "Baskets Juniors TSG Westerstede",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "nachwuchs",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "BBA Hagen",
+      "team_id": "593",
+      "homepage": "https://www.bba-hagen.de",
+      "ticketlink": null,
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/593",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/593",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Kosta Filippou",
+          "email": "filippou@bba-hagen.de"
+        }
+      ],
+      "verband_emails": [
+        "filippou@bba-hagen.de"
+      ],
+      "plz": "58099",
+      "ort": "Hagen",
+      "hallen": [
+        "Otto Densch Halle Selbecker Str. 75 58091 Hagen"
+      ],
+      "kapazitaet": 500,
+      "verein": "BBA Hagen",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "nachwuchs",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "BSW Sixers",
+      "team_id": "545",
+      "homepage": "https://www.bsw-sixers.de",
+      "ticketlink": "https://bsw-sixers.online-ticket.de/index.php",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/545",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/545",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Maik Leuschner",
+          "email": "maik.leuschner@bsw-sixers.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Frieder Diestelhorst",
+          "email": "frieder.diestelhorst@bsw-sixers.de"
+        }
+      ],
+      "verband_emails": [
+        "info@bsw-sixers.de",
+        "maik.leuschner@bsw-sixers.de",
+        "frieder.diestelhorst@bsw-sixers.de"
+      ],
+      "plz": "06792",
+      "ort": "Sandersdorf-Brehna",
+      "hallen": [
+        "Ballsporthalle in Sandersdorf Am Sportzentrum 25 06792 Sandersdorf-Brehna"
+      ],
+      "kapazitaet": 950,
+      "verein": "BSW Sixers",
+      "land": "ST",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bsw-sixers.de/",
+        "https://bsw-sixers.online-ticket.de/index.php",
+        "https://bsw-sixers.de/index.php/news/barmer-2-basketball-bundesliga/spielbericht-spieltag-14-deutliche-niederlage-wedel",
+        "https://bsw-sixers.de/index.php/news/barmer-2-basketball-bundesliga/spieltag-14-sc-rist-wdel-bsw-sixers",
+        "https://bsw-sixers.de/index.php/news/barmer-2-basketball-bundesliga/spielbericht-spieltag-13-grossartige-kulisse-beim-christmas-game",
+        "https://bsw-sixers.de/index.php/news/barmer-2-basketball-bundesliga/spieltag-13-bsw-sixers-lok-bernau"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.bsw-sixers.de/",
+          "stelle": "im Interview vor dem Saisonstart Moritz Schneider neuer Kapitän Ticketvorverkauf ist gestartet PARTNER-News: Zängler GmbH verlängert Partnerschaft Ver"
+        },
+        "dauerkarte": {
+          "url": "https://www.bsw-sixers.de/",
+          "stelle": "bei den BSW Sixers BSW Sixers verabschieden Yassin Mahfouz Start des Dauerkartenverkaufs für die Saison 2024/25 Danke Fabian BSW Sixers verpflichten"
+        },
+        "von_hand": {
+          "url": "https://bsw-sixers.online-ticket.de/index.php",
+          "stelle": "eimspiele der BSW Sixers hier kaufen | BSW Sixers Zum Inhalt springen Reservierungszeit: Warenkorb () Suche Spielplan Anmelden Tickets & Eintrittskar"
+        },
+        "abendkasse": {
+          "url": "https://bsw-sixers.de/index.php/news/barmer-2-basketball-bundesliga/spieltag-13-bsw-sixers-lok-bernau",
+          "stelle": "das Christmas Game voraus. Tickets Tickets können online oder an der Abendkasse erworben werden. Livestream Das Spiel kann kostenfrei im Livestream a"
+        }
+      },
+      "instagram": [
+        "bswsixers_official"
+      ],
+      "emails": [
+        "info@bsw-sixers.de"
+      ],
+      "preise": [
+        {
+          "eur": 12,
+          "url": "https://bsw-sixers.online-ticket.de/index.php",
+          "stelle": "tickets ab 12,00 €"
+        },
+        {
+          "eur": 12,
+          "url": "https://bsw-sixers.online-ticket.de/index.php",
+          "stelle": "tickets ab 12,00 €"
+        },
+        {
+          "eur": 12,
+          "url": "https://bsw-sixers.online-ticket.de/index.php",
+          "stelle": "tickets ab 12,00 €"
+        },
+        {
+          "eur": 12,
+          "url": "https://bsw-sixers.online-ticket.de/index.php",
+          "stelle": "tickets ab 12,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "EN BASKETS Schwelm",
+      "team_id": "445",
+      "homepage": "https://www.en-baskets.de",
+      "ticketlink": "https://en-baskets.de/tickets",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/445",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/445",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Stephan Völkel",
+          "email": "stephan.voelkel@en-baskets.de"
+        }
+      ],
+      "verband_emails": [
+        "info@en-baskets.de",
+        "stephan.voelkel@en-baskets.de"
+      ],
+      "plz": "58332",
+      "ort": "Schwelm",
+      "ticket_hotline": "02333-797068-0",
+      "hallen": [
+        "Schwelm ArENa Milsperstr. 35 58332 Schwelm"
+      ],
+      "kapazitaet": 1500,
+      "verein": "EN BASKETS Schwelm",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://en-baskets.de/",
+        "https://en-baskets.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://en-baskets.de/tickets/",
+          "stelle": "der BC & RE Baskets) 135,00 Euro Tageskarten Kategorie Art Vorverkauf Abendkasse Normalzahler (B/C/D/E & H/I/J/K) 17,00 Euro 20,00 Euro Normalzahler ("
+        },
+        "vorverkauf": {
+          "url": "https://en-baskets.de/tickets/",
+          "stelle": "und Dauerkarten in der Schwelm-ArENa die nachfolgenden Preise: Lokale Vorverkaufsstellen in Schwelm Tabakwaren Thomas Born Oelkinghauser Strasse 7 Tel"
+        },
+        "von_hand": {
+          "url": "https://en-baskets.de/tickets/",
+          "stelle": "eis für Gästefans: Die Blöcke F & G sind überwiegend für unsere Gäste reserviert. Wird das zustehende Kartenkontingent von der Gastmannschaft nicht v"
+        },
+        "dauerkarte": {
+          "url": "https://en-baskets.de/tickets/",
+          "stelle": "Basketball-Bundesliga ProB – Saison 2026/2027 gelten für Tickets und Dauerkarten in der Schwelm-ArENa die nachfolgenden Preise: Lokale Vorverkaufsste"
+        }
+      },
+      "instagram": [
+        "enbasketsschwelm"
+      ],
+      "emails": [
+        "janine.schaeper@en-baskets.de"
+      ],
+      "preise": [
+        {
+          "eur": 17,
+          "url": "https://en-baskets.de/tickets/",
+          "stelle": "normalzahler (b/c/d/e & h/i/j/k) 17,00 euro"
+        },
+        {
+          "eur": 15,
+          "url": "https://en-baskets.de/tickets/",
+          "stelle": "normalzahler (a/l & f/g) 15,00 euro"
+        },
+        {
+          "eur": 17,
+          "url": "https://en-baskets.de/tickets/",
+          "stelle": "normalzahler (b/c/d/e & h/i/j/k) 17,00 euro"
+        },
+        {
+          "eur": 15,
+          "url": "https://en-baskets.de/tickets/",
+          "stelle": "normalzahler (a/l & f/g) 15,00 euro"
+        }
+      ],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://en-baskets.de/",
+        "wie": "eingebunden auf https://en-baskets.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Hertener Löwen",
+      "team_id": "510",
+      "homepage": "https://www.hertener-loewen.de",
+      "ticketlink": "https://tickets.hertener-loewen.de/",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/510",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/510",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Matthias Boenke",
+          "email": "matthias.boenke@hertener-loewen.de"
+        }
+      ],
+      "verband_emails": [
+        "prob@hertener-loewen.de",
+        "matthias.boenke@hertener-loewen.de"
+      ],
+      "plz": "45699",
+      "ort": "Recklinghausen",
+      "hallen": [
+        "Sporthalle der Rosa-Parks-Schule Fritz-Erler-Straße 2 45701 Herten Webseite"
+      ],
+      "kapazitaet": 1200,
+      "verein": "Hertener Löwen",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://hertener-loewen.de/",
+        "https://tickets.hertener-loewen.de/hertener-loewen/",
+        "https://hertener-loewen.de/index.php/datenschutz-tickets/",
+        "https://hertener-loewen.de/index.php/tickets-fuer-die-loewen/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://hertener-loewen.de/",
+          "stelle": "ehen 23. September 2026 Danke, Gilbert und Christian! 🦁 14 Sep. 2026 Vorverkauf zum 1. Heimspiel gestartet 14. September 2026 Sichere dir jetzt deine"
+        },
+        "von_hand": {
+          "url": "https://tickets.hertener-loewen.de/hertener-loewen/",
+          "stelle": "n. Wenn dies länger als einige Minuten dauert, kontaktiere uns bitte. Reservierung verlängern OK Du hast kein Ticket ausgewählt. Bitte eine Checkbox"
+        },
+        "dauerkarte": {
+          "url": "https://tickets.hertener-loewen.de/hertener-loewen/",
+          "stelle": "Grundschul-AGs & Grundschulliga 2026/2027 Verkauf beendet Mehr Infos Dauerkarten 2026/2027 Verkauf beendet Mehr Infos Hertener Löwen – ART Giants Düs"
+        },
+        "abendkasse": {
+          "url": "https://hertener-loewen.de/index.php/tickets-fuer-die-loewen/",
+          "stelle": "rtener-loewen.de/ . Der Verkauf von Einzelkarten erfolgt zudem an der Abendkasse ab einer Stunde vor Spielbeginn , wenn nach dem Verkauf im Internet n"
+        }
+      },
+      "instagram": [
+        "hertenerloewenbb"
+      ],
+      "emails": [
+        "info@hertener-loewen.de",
+        "technik@hertener-loewen.de",
+        "poststelle@ldi.nrw.de",
+        "Info@Hertener-Loewen.de",
+        "Technik@Hertener-Loewen.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "pretix",
+        "beleg": "https://tickets.hertener-loewen.de/hertener-loewen/",
+        "wie": "eingebunden auf https://tickets.hertener-loewen.de/hertener-loewen/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Iserlohn Kangaroos",
+      "team_id": "476",
+      "homepage": "https://www.iserlohn-kangaroos.de",
+      "ticketlink": "https://iserlohn-kangaroos.reservix.de/events",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/476",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/476",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Michael Dahmen",
+          "email": "m.dahmen@iserlohn-kangaroos.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Nadine Wodaege",
+          "email": "n.wodaege@iserlohn-kangaroos.de"
+        }
+      ],
+      "verband_emails": [
+        "kontakt@iserlohn-kangaroos.de",
+        "m.dahmen@iserlohn-kangaroos.de",
+        "n.wodaege@iserlohn-kangaroos.de"
+      ],
+      "plz": "58636",
+      "ort": "Iserlohn",
+      "ticket_hotline": "02371-9319090",
+      "hallen": [
+        "Matthias-Grothe-Halle Immermannstraße 7 58636 Iserlohn"
+      ],
+      "kapazitaet": 1412,
+      "verein": "Iserlohn Kangaroos",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.iserlohn-kangaroos.de/",
+        "https://iserlohn-kangaroos.de/tickets/",
+        "https://iserlohn-kangaroos.de/spieltags-momente/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.iserlohn-kangaroos.de/",
+          "stelle": "sored by © 2024 Iserlohn Kangaroos GmbH IMPRESSUM | DATENSCHUTZ JETZT DAUERKARTE Sichern! Gönn Dir die Dauerkarte für die Saison 26/27 und sichere Dir"
+        },
+        "abendkasse": {
+          "url": "https://iserlohn-kangaroos.de/tickets/",
+          "stelle": "itspreis: 249 € Tageskarten 🎟️ Erwachsene/Vollzahler Online: 14,00 € Abendkasse: 16,00 € 🎟️ Ermäßigte* Online: 10,00 € Abendkasse: 12,00 € 🎟️ Grund"
+        },
+        "vorverkauf": {
+          "url": "https://iserlohn-kangaroos.de/tickets/",
+          "stelle": ". Ticketinfos. Ticketshop. Ticketshop. Gutscheine. Gutscheine. Unsere Vorverkaufsstellen. Hemer Hohenlimburg Iserlohn Menden Tabak Semer Hauptstr. 16"
+        },
+        "von_hand": {
+          "url": "https://iserlohn-kangaroos.de/tickets/",
+          "stelle": ". Hinweise für Gästefans Der Block I ist überwiegend für unsere Gäste reserviert. Wird das zustehende Kartenkontingent von der Gastmannschaft nicht v"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "kontakt@iserlohn-kangaroos.de"
+      ],
+      "preise": [
+        {
+          "eur": 14,
+          "url": "https://iserlohn-kangaroos.de/tickets/",
+          "stelle": "erwachsene/vollzahler online: 14,00 €"
+        },
+        {
+          "eur": 14,
+          "url": "https://iserlohn-kangaroos.de/tickets/",
+          "stelle": "erwachsene/vollzahler online: 14,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://iserlohn-kangaroos.reservix.de/events",
+        "wie": "2. Basketball-Bundesliga-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Itzehoe Eagles",
+      "team_id": "555",
+      "homepage": "https://www.eagles-basketball.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/555",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/555",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Volker Hambrock",
+          "email": "volker.hambrock@hudo.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Sabine Reschke-Partey",
+          "email": "gs@eagles-basketball.de"
+        }
+      ],
+      "verband_emails": [
+        "gs@eagles-basketball.de",
+        "volker.hambrock@hudo.de"
+      ],
+      "plz": "25524",
+      "ort": "Itzehoe",
+      "hallen": [
+        "Sportzentrum am Lehmwohld Am Lehmwohld 49 25524 Itzehoe"
+      ],
+      "kapazitaet": 714,
+      "verein": "Itzehoe Eagles",
+      "land": "SH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.eagles-basketball.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "itzehoeeagles"
+      ],
+      "emails": [
+        "gs@eagles-basketball.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://www.eagles-basketball.de/",
+        "wie": "eingebunden auf https://www.eagles-basketball.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "LOK BERNAU",
+      "team_id": "513",
+      "homepage": "https://www.ssv-lok-bernau.de",
+      "ticketlink": "https://www.ssv-lok-bernau.de/tickets/",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/513",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/513",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Mike Marschke",
+          "email": "mike.marschke@bernau-basketball.gmbh"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Mike Marschke",
+          "email": "lok@bernau-basketball.gmbh"
+        }
+      ],
+      "verband_emails": [
+        "lok@bernau-basketball.gmbh",
+        "mike.marschke@bernau-basketball.gmbh"
+      ],
+      "plz": "16321",
+      "ort": "Bernau",
+      "hallen": [
+        "Sparkassen-Arena Bernau Ladeburger Chaussee 2 16321 Bernau"
+      ],
+      "kapazitaet": 2500,
+      "verein": "LOK BERNAU",
+      "land": "BB",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ssv-lok-bernau.de/",
+        "https://www.ssv-lok-bernau.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.ssv-lok-bernau.de/tickets/",
+          "stelle": "chen. Die Plastikkarte kann voraussichtlich am ersten Spieltag an der Abendkasse abgeholt werden – alle Details dazu erhaltet ihr vorab per E-Mail. Ei"
+        },
+        "dauerkarte": {
+          "url": "https://www.ssv-lok-bernau.de/tickets/",
+          "stelle": "ProB Nord Willkommen in der Sparkassen-Arena direkt zum Ticket-Shop > Dauerkarten Heimspiele - Hauptrunde 2026/27 PK 1 € 169,00* 1 x Dauerkarte Online"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SC Rist Wedel",
+      "team_id": "539",
+      "homepage": "https://www.scrist.de",
+      "ticketlink": "https://ristwedel.reservix.de/events",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/539",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/539",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Andrea Koschek",
+          "email": "koschek@scrist.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Britta Wien-Hansen",
+          "email": "wienhansen@scrist.de"
+        }
+      ],
+      "verband_emails": [
+        "gs@scrist.de",
+        "koschek@scrist.de",
+        "wienhansen@scrist.de"
+      ],
+      "plz": "22880",
+      "ort": "Wedel",
+      "hallen": [
+        "Steinberghalle Steinberg 16 22880 Wedel Webseite"
+      ],
+      "kapazitaet": 500,
+      "verein": "SC Rist Wedel",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.scrist.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "scristwedel_official"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://ristwedel.reservix.de/events",
+        "wie": "2. Basketball-Bundesliga-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Seawolves Academy",
+      "team_id": "584",
+      "homepage": "https://seawolves.de",
+      "ticketlink": "https://tickets.seawolves.de",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/584",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/584",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Ole Voigt",
+          "email": "ole.voigt@seawolves.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Laura Mohr",
+          "email": "laura.mohr@seawolves.de"
+        }
+      ],
+      "verband_emails": [
+        "office@seawolves.de",
+        "ole.voigt@seawolves.de",
+        "laura.mohr@seawolves.de"
+      ],
+      "plz": "18055",
+      "ort": "Rostock",
+      "ticket_hotline": "038120261155",
+      "hallen": [
+        "Arena Rostock Tschaikowskistraße 45 18069 Rostock"
+      ],
+      "kapazitaet": 1160,
+      "verein": "Seawolves Academy",
+      "land": "MV",
+      "land_aus_plz": true,
+      "typ": "nachwuchs",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SG Braunschweig",
+      "team_id": "441",
+      "homepage": "https://www.basketball-loewen.de",
+      "ticketlink": "https://www.ticket-onlineshop.com/ols/basketball-braunschweig/",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/441",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/441",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Nils Mittmann",
+          "email": "mittmann@basketball-loewen.de"
+        }
+      ],
+      "verband_emails": [
+        "info@basketball-loewen.de",
+        "mittmann@basketball-loewen.de"
+      ],
+      "plz": "38126",
+      "ort": "Braunschweig",
+      "hallen": [
+        "Alte Waage Weberstraße 1 38100 Braunschweig"
+      ],
+      "kapazitaet": 1100,
+      "verein": "SG Braunschweig",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.basketball-loewen.de/",
+        "https://www.basketball-loewen.de/gameday/rebound/",
+        "https://www.basketball-loewen.de/tickets/tickets-kaufen/",
+        "https://www.basketball-loewen.de/tickets/dauerkarten/",
+        "https://www.basketball-loewen.de/einzelticket/",
+        "https://www.basketball-loewen.de/tickets/sg-braunschweig-ticketinfos/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.basketball-loewen.de/",
+          "stelle": "ters Volkswagen Halle Tickets LÖWEN TICKET-ONLINESHOP Dyn Season Pass Dauerkarten 2026/27 Einzelkarten 2026/27 SG Braunschweig Tickets (ProB) SG Braun"
+        },
+        "abendkasse": {
+          "url": "https://www.basketball-loewen.de/tickets/dauerkarten/",
+          "stelle": "bertragung auf eine andere Ermäßigungsstufe muss die Differenz an der Tageskasse nachgezahlt werden; Käufer:innen können bei der Dauerkarten-Buchung z"
+        },
+        "von_hand": {
+          "url": "https://www.basketball-loewen.de/tickets/dauerkarten/",
+          "stelle": "tattfindet, ist dieses in der Dauerkarte enthalten; Ihr persönlicher, reservierter Sitzplatz bei allen Heimspielen in der easyCredit BBL; Exklusives"
+        }
+      },
+      "instagram": [
+        "dynbasketball"
+      ],
+      "emails": [
+        "tickets@basketball-loewen.de"
+      ],
+      "preise": [
+        {
+          "eur": 6,
+          "url": "https://www.basketball-loewen.de/tickets/sg-braunschweig-ticketinfos/",
+          "stelle": "normalzahler 6 euro"
+        },
+        {
+          "eur": 60,
+          "url": "https://www.basketball-loewen.de/tickets/sg-braunschweig-ticketinfos/",
+          "stelle": "normalzahler 60 euro"
+        }
+      ],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://www.ticket-onlineshop.com/ols/basketball-braunschweig/",
+        "wie": "2. Basketball-Bundesliga-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "TSV Neustadt temps Shooters",
+      "team_id": "585",
+      "homepage": "https://www.tsvneustadttempsshooters.de",
+      "ticketlink": "https://www.tsvneustadttempsshooters.de/tickets",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/585",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/585",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Jan Gebauer",
+          "email": "geschaeftsfuehrung@tsvneustadttempsshooters.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Jan Gebauer",
+          "email": "jangebauer11@gmx.net"
+        }
+      ],
+      "verband_emails": [
+        "jangebauer11@gmx.net",
+        "geschaeftsfuehrung@tsvneustadttempsshooters.de"
+      ],
+      "plz": "31535",
+      "ort": "Neustadt",
+      "hallen": [
+        "Gymnasiumsporthalle Neustadt Lindenstr. 52 31535 Neustadt"
+      ],
+      "kapazitaet": 999,
+      "verein": "TSV Neustadt temps Shooters",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsvneustadttempsshooters.de/",
+        "https://www.tsvneustadttempsshooters.de/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.tsvneustadttempsshooters.de/tickets",
+          "stelle": "tung! Nur noch Kartenzahlung möglich. Ab sofort werden Tickets an der Abendkasse nur noch per Kartenzahlung verkauft. Wir bitten um Verständnis. Eintr"
+        },
+        "vorverkauf": {
+          "url": "https://www.tsvneustadttempsshooters.de/tickets",
+          "stelle": "Tickets für den SHOOTERS-DOME KEIN ANSTEHEN ▪ KEINE WARTEZEIT TICKETS Vorverkauf via EMail an: email@tsvneustadttempsshooters.de Die Tickets sind im V"
+        },
+        "von_hand": {
+          "url": "https://www.tsvneustadttempsshooters.de/tickets",
+          "stelle": "NER FANZONE ANFAHRT TICKETS CATERING ...... JOBS BALLIN KITAS TICKETS Tickets für den SHOOTERS-DOME KEIN ANSTEHEN ▪ KEINE WARTEZEIT TICKETS Vorverkauf via EMail an: email@tsvneustadttempsshooters.de Die Tickets sind im Vorverkauf"
+        },
+        "dauerkarte": {
+          "url": "https://www.tsvneustadttempsshooters.de/tickets",
+          "stelle": "Saison 2026/2027: Tageskarte Erwachsene € 16,- Tageskarte U18 € 12,- Dauerkarte Erwachsene € 208,- Dauerkarte U18 € 156,- Dauerkarten Besitzer haben"
+        }
+      },
+      "instagram": [
+        "tsvneustadttempsshooters"
+      ],
+      "emails": [
+        "email@tsvneustadttempsshooters.de"
+      ],
+      "preise": [
+        {
+          "eur": 18,
+          "url": "https://www.tsvneustadttempsshooters.de/tickets",
+          "stelle": "tageskarte u18 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Uni Baskets Münster",
+      "team_id": "562",
+      "homepage": "https://www.unibaskets.ms",
+      "ticketlink": "https://www.unibaskets.ms/tickets/ticketshop/",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/562",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/562",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Helge Stuckenholz",
+          "email": "helge.stuckenholz@unibaskets.ms"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Steffen Karwinski",
+          "email": "steffen.karwinski@ubc.ms"
+        }
+      ],
+      "verband_emails": [
+        "helge.stuckenholz@unibaskets.ms",
+        "steffen.karwinski@ubc.ms"
+      ],
+      "plz": "48092",
+      "ort": "Münster",
+      "hallen": [
+        "Sporthalle Berg Fidel Am Berg Fidel 51 48153 Münster Webseite"
+      ],
+      "kapazitaet": 3000,
+      "verein": "Uni Baskets Münster",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://unibaskets.ms/",
+        "https://tickets.unibaskets.ms/",
+        "https://unibaskets.ms/news/tickets/",
+        "https://unibaskets.ms/tickets/kultursemesterticket/",
+        "https://unibaskets.ms/fans/anfahrt-heimspiele/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "unibaskets"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "vivenu",
+        "beleg": "https://tickets.unibaskets.ms/",
+        "wie": "eingebunden auf https://tickets.unibaskets.ms/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Ahorn Camp Baskets",
+      "team_id": "529",
+      "homepage": "https://www.ahorncamp-baskets.de",
+      "ticketlink": null,
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/529",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/529",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Jutta Kopf",
+          "email": "kopfh@gmx.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Hamed Ghayour",
+          "email": "hamed.ghayour@ahorncamp-baskets.de"
+        }
+      ],
+      "verband_emails": [
+        "kopfh@gmx.de",
+        "hamed.ghayour@ahorncamp-baskets.de"
+      ],
+      "plz": "67346",
+      "ort": "Speyer",
+      "hallen": [
+        "Sporthalle Speyer-Nord Birkenweg10 67346 Speyer"
+      ],
+      "kapazitaet": 700,
+      "verein": "Ahorn Camp Baskets",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ahorncamp-baskets.de/",
+        "https://www.ahorncamp-baskets.de/live"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.ahorncamp-baskets.de/live",
+          "stelle": "geskarten gelten jeweils für ein Heimspiel. Jetzt kaufen Jetzt Kaufen Dauerkarte 130€ 80€ 1 Dauerkarte Saison 2026/27 Dauerkarten gelten jeweils für d"
+        }
+      },
+      "instagram": [
+        "ahorncampbaskets"
+      ],
+      "emails": [
+        "gerd.kopf@ahorncamp-baskets.de"
+      ],
+      "preise": [
+        {
+          "eur": 12,
+          "url": "https://www.ahorncamp-baskets.de/live",
+          "stelle": "tickets normal ermäßigt tageskarte 12€"
+        }
+      ],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://www.ahorncamp-baskets.de/",
+        "wie": "eingebunden auf https://www.ahorncamp-baskets.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Basketball Löwen",
+      "team_id": "563",
+      "homepage": "https://www.basketball-loewen.com/",
+      "ticketlink": "https://Tickets@basketball-loewen.com",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/563",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/563",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Florian Gut",
+          "email": "florian.gut@googlemail.com"
+        }
+      ],
+      "verband_emails": [
+        "info@basketball-loewen.com",
+        "florian.gut@googlemail.com",
+        "Tickets@basketball-loewen.com"
+      ],
+      "plz": "99085",
+      "ort": "Erfurt",
+      "hallen": [
+        "Riethsporthalle Essener Straße 20 99089 Erfurt"
+      ],
+      "kapazitaet": 1500,
+      "verein": "Basketball Löwen",
+      "land": "TH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://basketball-loewen.com/",
+        "https://basketball-loewen.com/saison/profis/gameday/",
+        "https://basketball-loewen.com/tickets/dauerkarte.html"
+      ],
+      "nicht_lesbar": [
+        "https://Tickets@basketball-loewen.com (TypeError)"
+      ],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://basketball-loewen.com/",
+          "stelle": "Titans Fr, 13.11., 18:30 Uhr , Riethsporthalle Zum Livestream Tickets Dauerkarte Auswärts mit Gebrüll SKYLINERS Juniors – Basketball Löwen So, 15.11.,"
+        },
+        "von_hand": {
+          "url": "https://basketball-loewen.com/saison/profis/gameday/",
+          "stelle": "ätze wählen, fertig. Dein Platz steht auf dem Ticket und ist für dich reserviert. In allen anderen Blöcken wählst du frei innerhalb deines gebuchten"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@basketball-loewen.com",
+        "tickets@basketball-loewen.com"
+      ],
+      "preise": [
+        {
+          "eur": 0,
+          "url": "https://basketball-loewen.com/saison/profis/gameday/",
+          "stelle": "ticketshop auf 0,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Bayer Giants Leverkusen",
+      "team_id": "416",
+      "homepage": "https://www.giants-leverkusen.de",
+      "ticketlink": "https://ticketmastershops.com/?uid=FPQYY792",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/416",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/416",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Axel Pleuger",
+          "email": "axel.pleuger@tsvbayer04.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Yannick von Laufenberg",
+          "email": "vonlaufenberg-hethoya@t-online.de"
+        }
+      ],
+      "verband_emails": [
+        "axel.pleuger@tsvbayer04.de",
+        "vonlaufenberg-hethoya@t-online.de"
+      ],
+      "plz": "51373",
+      "ort": "Leverkusen",
+      "ticket_hotline": "01806-999 0000",
+      "hallen": [
+        "Ostermann Arena Bismarckstr. 125 51373 Leverkusen Webseite"
+      ],
+      "kapazitaet": 2771,
+      "verein": "Bayer Giants Leverkusen",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.giants-leverkusen.de/",
+        "https://www.giants-leverkusen.de/game-time/tickets/",
+        "https://www.giants-leverkusen.de/game-time/tickets/tageskarten-2203/",
+        "https://www.giants-leverkusen.de/game-time/tickets/dauerkarten-2204/"
+      ],
+      "nicht_lesbar": [
+        "https://ticketmastershops.com/?uid=FPQYY792 (ERR_TLS_CERT_ALTNAME_INVALID)"
+      ],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.giants-leverkusen.de/",
+          "stelle": "Physiotherapie Game-Time! Spielplan / Ergebnisse Tickets Tageskarten Dauerkarten Spielberichte Ostermann-Arena Lionel Dance-Team Partner Gigantische"
+        },
+        "abendkasse": {
+          "url": "https://www.giants-leverkusen.de/game-time/tickets/tageskarten-2203/",
+          "stelle": "eskarten 2026/2027 Preiskategorien Vollzahler Preis (online)** Preis (Tageskasse) Unterrang 19€ 20€ Mittelrang 16€ 17€ Oberrang 14€ 15€ Ermäßigt* Prei"
+        },
+        "vorverkauf": {
+          "url": "https://www.giants-leverkusen.de/game-time/tickets/dauerkarten-2204/",
+          "stelle": "t euch über alles Wichtige. Am 27.07.2026 um 12 Uhr startet der freie Vorverkauf. Dauerkarten-Fahrplan Frist Was passiert? Ab 30.06.2026 Start des exk"
+        },
+        "von_hand": {
+          "url": "https://www.giants-leverkusen.de/game-time/tickets/dauerkarten-2204/",
+          "stelle": "skunden. Bis 26.07.2026 Dein angestammter Platz ist exklusiv für Dich reserviert – danach verfällt das Vorkaufsrecht. 27.07.2026 12 Uhr Freier Vorver"
+        },
+        "eintritt_frei": {
+          "url": "https://www.giants-leverkusen.de/game-time/tickets/dauerkarten-2204/",
+          "stelle": "s, Trainingsbesuche). 15 % Rabatt auf Merchandise-Artikel im Fanshop. Freier Eintritt zu möglichen Vorbereitungsspielen in der Ostermann-Arena Digitale Wal"
+        }
+      },
+      "instagram": [
+        "bayergiantsleverkusen",
+        "ps_planbar"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.giants-leverkusen.de/",
+        "wie": "eingebunden auf https://www.giants-leverkusen.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "BBC Coburg",
+      "team_id": "559",
+      "homepage": "https://www.bbc-coburg.com",
+      "ticketlink": null,
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/559",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/559",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Wolfgang Gremmelmaier",
+          "email": "wolfgang.gremmelmaier@bbc-coburg.com"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Florian Keller",
+          "email": "florian.keller@bbc-coburg.com"
+        }
+      ],
+      "verband_emails": [
+        "office@bbc-coburg.com",
+        "wolfgang.gremmelmaier@bbc-coburg.com",
+        "florian.keller@bbc-coburg.com"
+      ],
+      "plz": "96450",
+      "ort": "Coburg",
+      "hallen": [
+        "HUK-COBURG arena Oudenaarder Straße 1 96450 Coburg Webseite"
+      ],
+      "kapazitaet": 3489,
+      "verein": "BBC Coburg",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bbc-coburg.com/",
+        "https://www.bbc-coburg.com/spieltagseinleger/",
+        "https://www.bbc-coburg.com/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.bbc-coburg.com/tickets/",
+          "stelle": "Informationen Sichert Euch Eure Tickets zu den Heimspielen an unseren Vorverkaufsstellen in der Apotheke im Wirtsgrund in Coburg oder in der Apotheke"
+        },
+        "dauerkarte": {
+          "url": "https://www.bbc-coburg.com/tickets/",
+          "stelle": "ger Tabelle Kader Management Sponsoren Tickets Fanshop Verein Tickets DAUERKARTEN 2026/27 Du weißt jetzt schon, dass Du auch nächste Saison am Start b"
+        }
+      },
+      "instagram": [
+        "bbc_coburg"
+      ],
+      "emails": [
+        "office@bbc-coburg.com"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://www.bbc-coburg.com/tickets/",
+        "wie": "eingebunden auf https://www.bbc-coburg.com/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "BG Hessing Leitershofen",
+      "team_id": "573",
+      "homepage": "https://www.hessing-kangaroos.de",
+      "ticketlink": "https://www.hessing-kangaroos.de/tickets",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/573",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/573",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Wayne Chicho Pittman",
+          "email": "pittman@hessing-kangaroos.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Mark Prinz",
+          "email": "fanbeauftragter@hessing-kangaroos.de"
+        }
+      ],
+      "verband_emails": [
+        "backoffice@hessing-kangaroos.de",
+        "pittman@hessing-kangaroos.de",
+        "fanbeauftragter@hessing-kangaroos.de"
+      ],
+      "plz": "86157",
+      "ort": "Augsburg",
+      "hallen": [
+        "Mehrzweckhalle Stadtbergen Am Sportpark 1 86391 Stadtbergen"
+      ],
+      "kapazitaet": 1500,
+      "verein": "BG Hessing Leitershofen",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://hessing-kangaroos.de/",
+        "https://hessing-kangaroos.de/tickets/",
+        "https://hessing-kangaroos.de/spielplan/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "kangaroos_official"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Culture City Weimar",
+      "team_id": "588",
+      "homepage": "https://www.culturecity.de",
+      "ticketlink": null,
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/588",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/588",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Thomas Fleddermann",
+          "email": "fleddermann@baskets-jena.com"
+        }
+      ],
+      "verband_emails": [
+        "fleddermann@baskets-jena.com"
+      ],
+      "plz": "07745",
+      "ort": "Jena",
+      "hallen": [
+        "Asbach-Sporthalle Florian-Geyer-Straße 77 99427 Weimar Webseite"
+      ],
+      "kapazitaet": 500,
+      "verein": "Culture City Weimar",
+      "land": "TH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.culturecity.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.culturecity.de/",
+          "stelle": "reise im Vorverkauf: 8,50 € für Vollzahler / 6,00 € ermäßigt – an der Abendkasse: 9,50 € für Vollzahler / 7,00 € ermäßigt) 📺 Livestream Ihr könnt das"
+        },
+        "vorverkauf": {
+          "url": "https://www.culturecity.de/",
+          "stelle": "cketshop , um Wartezeiten an der Halle zu vermeiden. (Ticketpreise im Vorverkauf: 8,50 € für Vollzahler / 6,00 € ermäßigt – an der Abendkasse: 9,50 €"
+        },
+        "eintritt_frei": {
+          "url": "https://www.culturecity.de/",
+          "stelle": "ab 18:00 Uhr den tschechischen Erstligisten BK Lokomotiva Plzen. Der Eintritt ist frei, zudem gibt es ab 14 Uhr ein 3x3-Nachwuchsturnier für den Nachwuchs a"
+        },
+        "dauerkarte": {
+          "url": "https://www.culturecity.de/",
+          "stelle": "(ermäßigt). An der Abendkasse betragen die Preise 9,50 € bzw. 7,00 €. Dauerkarten sind für 100 € (Vollzahler) und 72 € (ermäßigt) erhältlich. Die Ermä"
+        }
+      },
+      "instagram": [
+        "culture_city_weimar"
+      ],
+      "emails": [
+        "info@culturecity.de"
+      ],
+      "preise": [
+        {
+          "eur": 8.5,
+          "url": "https://www.culturecity.de/",
+          "stelle": "ticketpreise im vorverkauf: 8,50 €"
+        },
+        {
+          "eur": 6,
+          "url": "https://www.culturecity.de/",
+          "stelle": "vollzahler / 6,00 €"
+        },
+        {
+          "eur": 7,
+          "url": "https://www.culturecity.de/",
+          "stelle": "vollzahler / 7,00 €"
+        },
+        {
+          "eur": 8.5,
+          "url": "https://www.culturecity.de/",
+          "stelle": "tageskarten kosten im vorverkauf 8,50 €"
+        },
+        {
+          "eur": 6,
+          "url": "https://www.culturecity.de/",
+          "stelle": "vollzahler und 6,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://www.culturecity.de/",
+        "wie": "eingebunden auf https://www.culturecity.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Dragons Rhöndorf",
+      "team_id": "412",
+      "homepage": "https://www.dragons.de",
+      "ticketlink": "https://vivenu.com/seller/dragons-rhoendorf-4bc7",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/412",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/412",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Klaus Beydemüller",
+          "email": "dragons@dragons.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Tatjana Kreitz",
+          "email": "kreitz@dragons.de"
+        }
+      ],
+      "verband_emails": [
+        "dragons@dragons.de",
+        "kreitz@dragons.de"
+      ],
+      "plz": "53619",
+      "ort": "Rheinbreitbach",
+      "ticket_hotline": "02224-9890044",
+      "hallen": [
+        "DragonDome Menzenberger Straße 72 53604 Bad Honnef"
+      ],
+      "kapazitaet": 1500,
+      "verein": "Dragons Rhöndorf",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.dragons.de/",
+        "https://www.dragons.de/dauerkarten",
+        "https://www.dragons.de/ticketinformationen"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.dragons.de/",
+          "stelle": "Allgemeines News Teams Trainer Grundschule Fanshop Tickets Ticketshop Dauerkarten Ticketinformationen Sponsoren Kontakt 2. BBL Menü öffnen Menü schlie"
+        },
+        "abendkasse": {
+          "url": "https://www.dragons.de/dauerkarten",
+          "stelle": "g der Karten wenden Sie sich bitte per Mail an rosenthal@dragons.de . Abendkasse Die Abendkasse öffnet 60 Minuten vor Spielbeginn. Vor Ort wird eine A"
+        },
+        "vorverkauf": {
+          "url": "https://www.dragons.de/dauerkarten",
+          "stelle": "über unseren Onlineshop, an der Abendkasse und an unserer offiziellen Vorverkaufsstelle der Stadtinformation Bad Honnef erworben werden. Bitte beachte"
+        },
+        "von_hand": {
+          "url": "https://www.dragons.de/dauerkarten",
+          "stelle": "icket für eine Begleitperson kostenfrei erhalten. Für Ausstellung der Karten wenden Sie sich bitte per Mail an rosenthal@dragons.de . Abendkasse Die Abendkasse öffnet 60 Minuten"
+        }
+      },
+      "instagram": [
+        "dragons_rhoendorf"
+      ],
+      "emails": [
+        "rosenthal@dragons.de",
+        "tickets@dragons.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "vivenu",
+        "beleg": "https://vivenu.com/seller/dragons-rhoendorf-4bc7",
+        "wie": "2. Basketball-Bundesliga-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Dresden Titans",
+      "team_id": "547",
+      "homepage": "https://www.dresden-titans.de",
+      "ticketlink": "https://www.dresden-titans.de/tickets",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/547",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/547",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Nils Ruttmann",
+          "email": "nils.ruttmann@dresden-titans.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Felix Münch",
+          "email": "felix.muench@dresden-titans.de"
+        }
+      ],
+      "verband_emails": [
+        "nils.ruttmann@dresden-titans.de",
+        "felix.muench@dresden-titans.de"
+      ],
+      "plz": "01277",
+      "ort": "Dresden",
+      "ticket_hotline": "0179 4232932",
+      "hallen": [
+        "Cyberport Arena Bodenbacher Straße 154 01277 Dresden"
+      ],
+      "kapazitaet": 3000,
+      "verein": "Dresden Titans",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.dresden-titans.de/",
+        "https://www.dresden-titans.de/tickets",
+        "https://www.dresden-titans.de/saison/spieltagsheft"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.dresden-titans.de/tickets",
+          "stelle": "Straße 154, 01237 Dresden) statt. Eintrittskarten sind sowohl an den Tageskassen , als auch über den TICKET-ONLINE-SHOP und an allen Vorverkaufsstell"
+        },
+        "vorverkauf": {
+          "url": "https://www.dresden-titans.de/tickets",
+          "stelle": "n den Tageskassen , als auch über den TICKET-ONLINE-SHOP und an allen Vorverkaufsstellen unseres Partners egocentric System erhältlich. Sichert Euch b"
+        },
+        "von_hand": {
+          "url": "https://www.dresden-titans.de/tickets",
+          "stelle": "2026) - fester Sitzplatz - die Jahreskarte ist übertragbar - die Dauerkarten werden für die Saison 2026/2027 ausschließlich per E-Mail versandt Preiskategorien: Preiskategorie 1 für Block B / H / I / J /"
+        },
+        "dauerkarte": {
+          "url": "https://www.dresden-titans.de/tickets",
+          "stelle": "ause ausdrucken. Eintrittspreise Heimspiele 2026/27 Einzeltickets und Dauerkarten: Vollzahler Ermäßigt Familie Preis Kat. 1 Preis Kat 2 Preis Kat. 3 P"
+        }
+      },
+      "instagram": [
+        "dresdentitans"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://www.dresden-titans.de/tickets",
+        "wie": "eingebunden auf https://www.dresden-titans.de/tickets"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC Bayern Basketball II",
+      "team_id": "558",
+      "homepage": "https://fcbayern.com/basketball/de",
+      "ticketlink": "https://www.fcb-basketball.de/de/tickets/tageskarten/",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/558",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/558",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Adrian Sarmiento",
+          "email": "adrian.sarmiento@fcbayern.com"
+        }
+      ],
+      "verband_emails": [
+        "basketball@fcbayern.com",
+        "adrian.sarmiento@fcbayern.com"
+      ],
+      "plz": "81373",
+      "ort": "München",
+      "ticket_hotline": "089/20057000",
+      "hallen": [
+        "BMW Park Siegenburgerstr. 45 81373 München Webseite"
+      ],
+      "kapazitaet": 6500,
+      "verein": "FC Bayern Basketball II",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Porsche BBA Ludwigsburg",
+      "team_id": "575",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/575",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/575",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Yannis Wiele",
+          "email": "wiele@mhp-riesen-ludwigsburg.de"
+        }
+      ],
+      "verband_emails": [
+        "wiele@mhp-riesen-ludwigsburg.de"
+      ],
+      "plz": "71636",
+      "ort": "Ludwigsburg",
+      "hallen": [
+        "Rundsporthalle Ludwigsburg Kurfürstenstraße 23 71636 Ludwigsburg"
+      ],
+      "kapazitaet": 1818,
+      "verein": "Porsche BBA Ludwigsburg",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "nachwuchs",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SKYLINERS Juniors",
+      "team_id": "538",
+      "homepage": "https://www.frankfurt-skyliners.de/evjugend",
+      "ticketlink": null,
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/538",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/538",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Paul Nohner",
+          "email": "nohner@skyliners.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Paul Nohner",
+          "email": "nohner@skyliners.de"
+        }
+      ],
+      "verband_emails": [
+        "nohner@skyliners.de"
+      ],
+      "plz": "60439",
+      "ort": "Frankfurt",
+      "ticket_hotline": "069-92887640",
+      "hallen": [
+        "Basketball City Mainhattan Walter-Möller-Platz 2 60439 Frankfurt"
+      ],
+      "kapazitaet": 1086,
+      "verein": "SKYLINERS Juniors",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "nachwuchs",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SV Fellbach Flashers",
+      "team_id": "582",
+      "homepage": "https://www.basketball-fellbach.de/",
+      "ticketlink": "https://svfellbach.vereinsticket.de/",
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/582",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/582",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Andreas Tsiminos",
+          "email": "andreas.tsiminos@flashers.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Angelo Krishnasamy",
+          "email": "svf@flashers.de"
+        }
+      ],
+      "verband_emails": [
+        "andreas.tsiminos@flashers.de",
+        "svf@flashers.de"
+      ],
+      "plz": "70734",
+      "ort": "Fellbach",
+      "hallen": [
+        "Gäuäckersporthalle I Bühlstr. 141 70736 Fellbach"
+      ],
+      "kapazitaet": 620,
+      "verein": "SV Fellbach Flashers",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.basketball-fellbach.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "flashers_basketball"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://svfellbach.vereinsticket.de/",
+        "wie": "2. Basketball-Bundesliga-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "TSG Schöller SI Ravens Reutlingen",
+      "team_id": "591",
+      "homepage": "https://www.ravens-reutlingen.net",
+      "ticketlink": null,
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/591",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/591",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Georgios Tsouknidis",
+          "email": "jorgo.tsuknidis@tsg-reutlingen.de"
+        }
+      ],
+      "verband_emails": [
+        "basketball@tsg-reutlingen.de",
+        "jorgo.tsuknidis@tsg-reutlingen.de"
+      ],
+      "plz": "72762",
+      "ort": "Reutlingen",
+      "hallen": [
+        "Oskar-Kalbfell-Sporthalle Kanzleistraße 30 72764 Reutlingen"
+      ],
+      "verein": "TSG Schöller SI Ravens Reutlingen",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ravens-reutlingen.net/",
+        "https://www.ravens-reutlingen.net/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.ravens-reutlingen.net/",
+          "stelle": "üdwest 25/26 ⬆️ @barmer2basketballbundesliga ProB 26/27 🎟️ TICKETS & DAUERKARTEN 👇 🧡 STUDENT & FAMILY GAMEDAY! 🖤 Diesen Sonntag wird 7-0. THE STRE"
+        },
+        "abendkasse": {
+          "url": "https://www.ravens-reutlingen.net/tickets/",
+          "stelle": "lle. Karten gibt es online bei unserem Ticketpartner ditix und an der Abendkasse. 14 Heimspiele bis 1.400 Plätze frei Kinder bis 6 Alle Heimspiele Pre"
+        },
+        "vorverkauf": {
+          "url": "https://www.ravens-reutlingen.net/tickets/",
+          "stelle": "Kinder bis 6 Alle Heimspiele Preise Dauerkarte Nächstes Heimspiel Im Vorverkauf Ravens vs Weimar Sa 03.10. · 19:00 Uhr Einlass 18:00 Uhr · Oskar-Kalb"
+        }
+      },
+      "instagram": [
+        "youandmestudio.reutlingen"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 14,
+          "url": "https://www.ravens-reutlingen.net/tickets/",
+          "stelle": "tickets sichern vollzahler online 14,00 €"
+        },
+        {
+          "eur": 14,
+          "url": "https://www.ravens-reutlingen.net/tickets/",
+          "stelle": "tickets sichern vollzahler online 14,00 €"
+        },
+        {
+          "eur": 14,
+          "url": "https://www.ravens-reutlingen.net/tickets/",
+          "stelle": "tickets sichern vollzahler online 14,00 €"
+        },
+        {
+          "eur": 14,
+          "url": "https://www.ravens-reutlingen.net/tickets/",
+          "stelle": "vollzahler 14,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV Oberhaching Tropics",
+      "team_id": "564",
+      "homepage": "https://tsv-tropics.de",
+      "ticketlink": null,
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/564",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/564",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Mario Matic",
+          "email": "mariomatic1979@yahoo.de"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Bernd Schubert",
+          "email": "b.e.schubert@t-online.de"
+        }
+      ],
+      "verband_emails": [
+        "info@tsv-oberhaching.de",
+        "mariomatic1979@yahoo.de",
+        "b.e.schubert@t-online.de"
+      ],
+      "plz": "82041",
+      "ort": "Deisenhofen",
+      "hallen": [
+        "Grundschule Deisenhofen Schulstraße 4 82041 Oberhaching"
+      ],
+      "kapazitaet": 520,
+      "verein": "TSV Oberhaching Tropics",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tsv-tropics.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "pawliczek.media@gmail.com"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TV Langen",
+      "team_id": "482",
+      "homepage": "https://www.langen-basketball.de",
+      "ticketlink": null,
+      "verband_team_url": "https://www.2basketballbundesliga.de/kader/482",
+      "verband_kontakt_url": "https://www.2basketballbundesliga.de/kader/482",
+      "verband_kontakte": [
+        {
+          "rolle": "Verantwortlicher",
+          "name": "Jürgen Barth",
+          "email": "jogibarth5@gmail.com"
+        },
+        {
+          "rolle": "Fanbeauftragter",
+          "name": "Jürgen Barth",
+          "email": "jogibarth5@gmail.com"
+        }
+      ],
+      "verband_emails": [
+        "jogibarth5@gmail.com"
+      ],
+      "plz": "63225",
+      "ort": "Langen",
+      "hallen": [
+        "Sportpark Oberlinden Berliner Straße 85 63225 Langen"
+      ],
+      "kapazitaet": 504,
+      "verein": "TV Langen",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://langen-basketball.de/",
+        "https://langen-basketball.de/giraffen-mit-doppelspieltag-freitag-u-sonntag/",
+        "https://langen-basketball.de/giraffen-mit-doppelspieltag-freitag-u-sonntag/?s="
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "tvlangenbasketball"
+      ],
+      "emails": [
+        "jogibarth5@gmail.com"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    }
+  ]
+}

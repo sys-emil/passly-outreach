@@ -1,0 +1,70 @@
+{
+  "verein": {
+    "name": "Basketball Löwen",
+    "ort": "Erfurt",
+    "land": "TH",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.basketball-loewen.com/",
+    "vorverkauf": "anbieter",
+    "anbieter": "pretix (auf der Spieltagsseite eingebunden)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 12,
+    "halle": "Riethsporthalle Essener Straße 20 99089 Erfurt",
+    "kapazitaet": 1500,
+    "instagram": "basketball.loewen",
+    "ansprechperson": {
+      "name": "Florian Gut",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "florian.gut@googlemail.com"
+    },
+    "naechstes_heimspiel": "Fr, 20.11.2026, 18:30 Uhr gegen FC Bayern Basketball II, Riethsporthalle Erfurt",
+    "beobachtung": "Heimspiel gegen FC Bayern Basketball II am 20.11., Einzeltickets 8 € (Stehplatz) bis 16 € (Kategorie 1) online über pretix mit Sitzplatzwahl, Ticket als QR-Code per E-Mail.",
+    "quellen": [
+      "https://basketball-loewen.com/saison/profis/gameday/",
+      "https://www.2basketballbundesliga.de/kader/563"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://basketball-loewen.com/saison/profis/gameday/",
+      "https://www.2basketballbundesliga.de/kader/563"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag „manuell“ korrigiert: Spieltagsseite verkauft Einzeltickets online über pretix (Sitzplan, „Weiter zur Kasse“); die Mailadresse tickets@ ist nur Kontakt. Preise 13.11.: Kat. 1 16 €, Kat. 2 12 €, Kat. 3 und Fanblock 10,50 €, Stehplatz 8 €, VIP 119 €; ticketpreis_eur = Kat. 2. Abendkasse auf der Seite nicht erwähnt. Heutiges Heimspiel gegen Dresden Titans nicht als nächstes gezählt. Kapazität 1500 laut Kaderseite der Liga, nicht selbst abgerufen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://basketball-loewen.com/saison/profis/gameday/",
+      "https://www.2basketballbundesliga.de/kader/563"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://basketball-loewen.com/saison/profis/gameday/"
+        ],
+        "anbieter": [
+          "https://basketball-loewen.com/saison/profis/gameday/"
+        ],
+        "instagram": [
+          "https://basketball-loewen.com/saison/profis/gameday/"
+        ],
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/563"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/563"
+        ]
+      }
+    }
+  }
+}

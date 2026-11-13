@@ -46,6 +46,8 @@ const ANBIETER = [
   [/ticket-regional\.de/, 'Ticket Regional'],
   [/tickettoaster\.de/, 'TicketToaster'],
   [/tickettune\.(com|de)/, 'tickettune'],
+  [/online-ticket\.de/, 'online-ticket.de'],
+  [/ditix\.(shop|de)/, 'ditix'],
   // Im American Football verbreitet (GFL 2026: Berlin, Hildesheim, München, Pforzheim, Saarland).
   [/vbotickets\.com/, 'VBO Tickets'],
   [/vibe-shop\.io|vibe\.io|get-vibe\.de|egocentric\.systems/, 'vibe'],
@@ -73,7 +75,7 @@ if (!liga || !QUELLE) {
   console.error(`Liga ${ligaId} unbekannt oder ohne Quelle. Bekannt: ${Object.keys(vereineJson.ligen).join(', ')}`);
   process.exit(1);
 }
-QUELLE.name ??= { vbl: 'VBL', gfl: 'GFL' }[QUELLE.typ] ?? QUELLE.typ.toUpperCase();
+QUELLE.name ??= { vbl: 'VBL', gfl: 'GFL', '2bbl': '2. Basketball-Bundesliga' }[QUELLE.typ] ?? QUELLE.typ.toUpperCase();
 const heute = new Date().toISOString().slice(0, 10);
 let abrufe = 0;
 
@@ -83,7 +85,9 @@ let abrufe = 0;
 let listeUrl;
 let teams;
 try {
-  teams = QUELLE.typ === 'gfl' ? await stufe0Gfl(QUELLE) : await stufe0Vbl(QUELLE);
+  teams = QUELLE.typ === 'gfl' ? await stufe0Gfl(QUELLE)
+    : QUELLE.typ === '2bbl' ? await stufe0Basketball(QUELLE)
+    : await stufe0Vbl(QUELLE);
 } catch {
   process.exit(2);
 }
@@ -139,6 +143,58 @@ async function stufe0Vbl(q) {
     t.verband_kontakte = [...abschnitt.matchAll(/(\S*verantwortliche?r?|\S*manager\S*|trainer\S*|vorsitzende?r?|abteilungsleite\S*)\s+([^,]+?),\s+(\S+)(?:\s+e-mail:\s*([\w.+-]+@[\w-]+(?:\.[\w-]+)+))?/gi)]
       .map((m) => ({ rolle: m[1], name: `${m[3]} ${m[2]}`, email: m[4] ?? null }));
     t.verband_emails = [...new Set(k.roh.match(/[\w.+-]+@[\w-]+(?:\.[\w-]+)+/g) ?? [])].filter((e) => !/volleyball-bundesliga|sams|example/.test(e));
+  }
+  return teams;
+}
+
+// 2. Basketball-Bundesliga (ProA/ProB): /teams/?league=ProB nennt je Team Name und /kader/<id>;
+// die Kaderseite gliedert sich in h5-Abschnitte: Anschrift (mit Homepage), Verantwortlicher,
+// Sporthalle (mit Gesamtkapazität), Infos (Ticket-Hotline, Link „Ticket-Webseite").
+async function stufe0Basketball(q) {
+  listeUrl = q.url;
+  const liste = await holen(listeUrl);
+  if (!liste.ok) {
+    console.error(`Basketball-Seite nicht abrufbar (${liste.grund}): ${listeUrl}`);
+    throw new Error('quelle');
+  }
+  const basis = new URL(listeUrl).origin;
+  const paare = [...liste.roh.matchAll(/<h6 class="av-special-heading-tag[^"]*"[^>]*>([\s\S]*?)<\/h6>[\s\S]*?\/kader\/(\d+)/g)];
+  const teams = [];
+  for (const [, nameHtml, id] of paare) {
+    const url = `${basis}/kader/${id}`;
+    const t = { verband_name: text(nameHtml), team_id: id, homepage: null, ticketlink: null, verband_team_url: url, verband_kontakt_url: url, verband_kontakte: [], verband_emails: [] };
+    teams.push(t);
+    const s = await holen(url);
+    if (!s.ok) { t.verband_hinweis = `Kaderseite nicht lesbar (${s.grund})`; continue; }
+    const abschnitte = {};
+    for (const m of s.roh.matchAll(/<h5 class="av-special-heading-tag"[^>]*>([\s\S]*?)<\/h5>([\s\S]*?)(?=<h5 class="av-special-heading-tag"|<footer|$)/g)) {
+      abschnitte[text(m[1]).toLowerCase()] = { roh: m[2].slice(0, 3000), text: text(m[2].slice(0, 3000)) };
+    }
+    const links = (a) => [...(a?.roh ?? '').matchAll(/<a[^>]+href="(https?:\/\/[^"]+)"[^>]*>([\s\S]*?)<\/a>/g)].map((m) => [m[1], text(m[2])]).filter(([h]) => !/pics2|api\.2basketball/.test(h));
+    const an = abschnitte['anschrift'];
+    t.homepage = links(an)[0]?.[0] ?? null;
+    const plz = an?.text.match(/\b(\d{5}) ([A-ZÄÖÜ][\wäöüß.-]+(?: [A-ZÄÖÜ(][\wäöüß.()-]+)?)/);
+    if (plz) { t.plz = plz[1]; t.ort = plz[2].replace(/ (Tel|Fax|Mail).*$/, ''); }
+    t.ticketlink = links(abschnitte['infos']).find(([, txt]) => /ticket/i.test(txt))?.[0] ?? null;
+    const hotline = abschnitte['infos']?.text.match(/Ticket-Hotline:\s*([\d\s/+()-]{6,})/)?.[1]?.trim();
+    if (hotline) t.ticket_hotline = hotline;
+    const halle = abschnitte['sporthalle']?.text;
+    if (halle) {
+      t.hallen = [halle.split(/Gesamtkapazität/i)[0].trim().slice(0, 140)];
+      const kap = halle.match(/Gesamtkapazität:\s*([\d.]+)/i)?.[1];
+      if (kap) t.kapazitaet = Number(kap.replace(/\./g, ''));
+    }
+    for (const [rolle, a] of Object.entries(abschnitte)) {
+      if (!/verantwortlich|geschäftsführ|manager|ticket|presse|fanbeauftrag/.test(rolle)) continue;
+      const mail = a.text.match(/[\w.+-]+@[\w-]+(?:\.[\w-]+)+/)?.[0] ?? null;
+      const name = a.text.split(/ Mail:| Tel:| E-Mail/)[0].trim().slice(0, 60);
+      if (name) t.verband_kontakte.push({ rolle: rolle.replace(/^./, (c) => c.toUpperCase()), name, email: mail });
+    }
+    t.verband_emails = [...new Set(s.roh.match(/[\w.+-]+@[\w-]+(?:\.[\w-]+)+/g) ?? [])].filter((e) => !/2basketballbundesliga|example|sentry/.test(e));
+  }
+  if (teams.length === 0) {
+    console.error('Keine Teams auf der Basketball-Seite gefunden; hat sich der Aufbau geändert?');
+    throw new Error('quelle');
   }
   return teams;
 }
@@ -223,7 +279,7 @@ for (const t of teams) {
 for (const t of teams) {
   const n = `${t.verband_name} ${t.verein ?? ''}`;
   t.typ = /\bII\b|\b2\b/.test(n) ? 'zweitteam'
-    : /\bBSP\b|\bVCO\b|stützpunkt|akademie|internat|youngstars|junior/i.test(n) ? 'nachwuchs'
+    : /\bBSP\b|\bVCO\b|\bBBA\b|stützpunkt|akademie|academy|internat|youngstars|junior/i.test(n) ? 'nachwuchs'
     : 'verein';
   if (t.pilot) t.typ = 'pilot';
 }
@@ -347,7 +403,7 @@ function auswerten(t, s) {
     const m = s.klein.match(re);
     if (m && !t.funde[name]) t.funde[name] = { url: s.url, stelle: s.text.slice(Math.max(0, m.index - 70), m.index + m[0].length + 70).trim() };
   }
-  for (const m of s.klein.matchAll(/(?:erwachsen\w*|eintritt|tageskarte|vollzahler|normal|ticket\w*)[^€\d]{0,30}(\d{1,2}(?:[,.]\d{2})?)\s*(?:€|euro)/g)) {
+  for (const m of s.klein.matchAll(/(?:erwachsen\w*|eintritt|tageskarte|vollzahler|normal|ticket\w*)[^€\d]{0,30}(?<![a-zäöüß])(\d{1,2}(?:[,.]\d{2})?)\s*(?:€|euro)/g)) {
     if (t.preise.length < 5) t.preise.push({ eur: Number(m[1].replace(',', '.')), url: s.url, stelle: m[0].slice(0, 90) });
   }
 }
@@ -384,7 +440,7 @@ function ergebnisAus(t) {
       eintritt_frei: t.vorschlag === 'eintritt_frei' ? true : null,
       ticketpreis_eur: preis?.eur ?? null,
       halle: t.hallen?.[0] ?? null,
-      kapazitaet: null,
+      kapazitaet: t.kapazitaet ?? null,
       instagram: t.instagram.length === 1 ? t.instagram[0] : null,
       ansprechperson: kontakt ? { name: kontakt.name, rolle: `${kontakt.rolle} (laut ${QUELLE.name})`, kontakt: kontakt.email } : null,
       naechstes_heimspiel: null,
@@ -426,7 +482,7 @@ korrigieren; „TODO" ersetzen. vorverkauf ist der Vorschlag des Vorlaufs, prüf
 
 ## Startpunkte
 - Homepage: ${t.homepage ?? 'keine'}
-- Ticketlink (${QUELLE.name}): ${t.ticketlink ?? 'keiner'}
+- Ticketlink (${QUELLE.name}): ${t.ticketlink ?? 'keiner'}${t.ticket_hotline ? `\n- Ticket-Hotline laut ${QUELLE.name}: ${t.ticket_hotline}` : ''}${t.kapazitaet ? `\n- Kapazität laut ${QUELLE.name}: ${t.kapazitaet}` : ''}
 - Schon gelesen: ${t.gelesen.join(', ') || 'nichts'}${t.nicht_lesbar.length ? `\n- Nicht lesbar: ${t.nicht_lesbar.join(', ')}` : ''}
 - ${QUELLE.name}-Seite des Teams: ${t.verband_kontakt_url}
 - Kontakte laut ${QUELLE.name}: ${(t.verband_kontakte ?? []).map((k) => `${k.rolle} ${k.name}${k.email ? ` <${k.email}>` : ''}`).join('; ') || 'keine'}

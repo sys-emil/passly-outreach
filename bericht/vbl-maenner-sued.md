@@ -8,13 +8,13 @@ Stand 2026-11-13. Punkte 0 bis 100, Schwelle für Entwürfe 45.
 | 81 | TSV Mühldorf | keiner |  | 8 € | @tsvmuehldorfvolleyball |
 | 59 | L.E. Volleys | manuell |  | 8 € | @levolleys |
 | 52 | TV 1895 Mömlingen | keine_angabe |  |  |  |
-| 45 | TSV Grafing | anbieter (Wix Events (Ticketverkauf direkt auf der Vereinswebsite)) |  | 8 € | @volleyballgrafing |
 | 38 | Keiler Volleys Stuttgart | keine_angabe |  |  |  |
-| 35 | TuS Kriftel | anbieter (tickettune) |  | 6 € | @kriftelvolley |
-| 25 | Donau Volleys Regensburg | anbieter (vivenu) |  |  | @donauvolleys |
-| 17 | CERATONIA Volleys Eltmann | anbieter (Vereinsticket) |  |  |  |
-| 15 | Enervigo Volleys Dresden | anbieter (Eventim Light) |  |  | @volleyballclubdresden |
-| 7 | Blue Volleys Gotha | anbieter (Vereinsticket) |  |  |  |
+| 30 | TSV Grafing | anbieter (Wix Events (Ticketverkauf direkt auf der Vereinswebsite)) |  | 8 € | @volleyballgrafing |
+| 20 | TuS Kriftel | anbieter (tickettune) |  | 6 € | @kriftelvolley |
+| 10 | Donau Volleys Regensburg | anbieter (vivenu) |  |  | @donauvolleys |
+| 2 | CERATONIA Volleys Eltmann | anbieter (Vereinsticket) |  |  |  |
+| 0 | Blue Volleys Gotha | anbieter (Vereinsticket) |  |  |  |
+| 0 | Enervigo Volleys Dresden | anbieter (Eventim Light) |  |  | @volleyballclubdresden |
 
 ## SV Schwaig · 81 Punkte
 
@@ -117,7 +117,19 @@ Hi, auf eurer Seite der 2. Bundesliga steht nichts zu Eintritt oder Karten. Ich 
 - Frage: Was kostet der Eintritt, und wie läuft die Kasse am Spieltag?
 - Angebot: Ich richte das nächste Heimspiel kostenlos als Testlauf ein, Auszahlung aufs Vereinskonto.
 
-## TSV Grafing · 45 Punkte
+## Keiler Volleys Stuttgart · 38 Punkte
+
+**Beobachtung:** Die Volleyballseite des ASV Botnang hat für die Herren 1 einen Menüpunkt „Tickets“, auf der Seite selbst stehen aber weder Preise noch ein Verkaufsweg oder ein Shop-Link.
+
+- Vorverkauf: keine_angabe, Sicherheit mittel
+- Halle: Sporthalle Botnang Kauffmannstraße 39, 70195 Stuttgart
+- Ansprechperson: Simone Schulz, Abteilungsleitung Volleyball (ASV Botnang), abteilungsleiter.volleyball@asv-botnang.de
+- Website: https://asv-botnang.de/
+- Bewertung: +30 Website ohne Ticketangabe, kein Shop verlinkt; +8 Ansprechperson bekannt
+- Belegte Quellen: <http://asv-botnang.de/volleyball>
+- ⚠ Nicht nachvollziehbare Quellen: https://asv-botnang.de/, https://asv-botnang.de/volleyball/herren-1/tickets/, https://asv-botnang.de/volleyball/aktuelles/herren-1/
+
+## TSV Grafing · 30 Punkte
 
 **Beobachtung:** Heimspiel gegen Keiler Volleys Stuttgart am 14.11.2026, 19:00 Uhr; Tickets werden direkt auf fightingbayrisch.org über die Event-Seite mit Warenkorb und „Zur Kasse“ verkauft (Erwachsene 8 €, ermäßigt 5 €, Kinder 3 €).
 
@@ -128,7 +140,7 @@ Hi, auf eurer Seite der 2. Bundesliga steht nichts zu Eintritt oder Karten. Ich 
 - Instagram: https://instagram.com/volleyballgrafing
 - Ansprechperson: Marcus Bohle, Mannschaftsverantwortlicher (laut VBL), mail@fightingbayrisch.org
 - Website: https://www.fightingbayrisch.org/
-- Bewertung: 0 verkauft bereits online (Wix Events (Ticketverkauf direkt auf der Vereinswebsite)); +8 Preis 8 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; +7 Einordnung sicher
+- Bewertung: -15 verkauft bereits online (Wix Events (Ticketverkauf direkt auf der Vereinswebsite)); +8 Preis 8 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; +7 Einordnung sicher
 - Belegte Quellen: <https://www.fightingbayrisch.org/tickets>, <https://www.fightingbayrisch.org/event-details/heimspiel-vs-keiler-volleys-stuttgart>, <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344562&c.view=contact>
 
 **Instagram-DM**
@@ -143,19 +155,7 @@ Hi, ich hab gesehen, dass ihr eure Heimspiel-Tickets direkt auf fightingbayrisch
 - Angebot: Kostenloser Testlauf für ein Heimspiel mit Scanner und Abendkasse.
 - Abschluss: Treffen vor Ort in Grafing vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken.
 
-## Keiler Volleys Stuttgart · 38 Punkte
-
-**Beobachtung:** Die Volleyballseite des ASV Botnang hat für die Herren 1 einen Menüpunkt „Tickets“, auf der Seite selbst stehen aber weder Preise noch ein Verkaufsweg oder ein Shop-Link.
-
-- Vorverkauf: keine_angabe, Sicherheit mittel
-- Halle: Sporthalle Botnang Kauffmannstraße 39, 70195 Stuttgart
-- Ansprechperson: Simone Schulz, Abteilungsleitung Volleyball (ASV Botnang), abteilungsleiter.volleyball@asv-botnang.de
-- Website: https://asv-botnang.de/
-- Bewertung: +30 Website ohne Ticketangabe, kein Shop verlinkt; +8 Ansprechperson bekannt
-- Belegte Quellen: <http://asv-botnang.de/volleyball>
-- ⚠ Nicht nachvollziehbare Quellen: https://asv-botnang.de/, https://asv-botnang.de/volleyball/herren-1/tickets/, https://asv-botnang.de/volleyball/aktuelles/herren-1/
-
-## TuS Kriftel · 35 Punkte
+## TuS Kriftel · 20 Punkte
 
 **Beobachtung:** Heimspiel gegen VC Dresden am 21.11.2026 um 20 Uhr in der Weingartenhalle; Karten gibt es online über tickettune ab 6 €, dazu eine Saisonkarte 26/27 ab 60 €.
 
@@ -166,10 +166,10 @@ Hi, ich hab gesehen, dass ihr eure Heimspiel-Tickets direkt auf fightingbayrisch
 - Instagram: https://instagram.com/kriftelvolley
 - Ansprechperson: Danny Schleuning, Team-Manager 1. Herren, info@tus-kriftel-volleyball.de
 - Website: http://www.kriftel-volley.de
-- Bewertung: 0 verkauft bereits online (tickettune); +8 Preis 6 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
+- Bewertung: -15 verkauft bereits online (tickettune); +8 Preis 6 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
 - Belegte Quellen: <https://kriftelvolley.tickettune.com/kriftelvolley/veranstaltungen/>, <https://kriftel-volley.de/>, <https://kriftel-volley.de/herren-1-team>, <https://kriftel-volley.de/events/>
 
-## Donau Volleys Regensburg · 25 Punkte
+## Donau Volleys Regensburg · 10 Punkte
 
 **Beobachtung:** Verkauft Tickets online über vivenu (eingebunden auf https://donauvolleys.vivenushop.com/: https://donauvolleys.vivenushop.com/).
 
@@ -177,20 +177,30 @@ Hi, ich hab gesehen, dass ihr eure Heimspiel-Tickets direkt auf fightingbayrisch
 - Halle: Clermont-Ferrrand-Turnhalle Clermont-Ferrrand-Allee 21, 93049 Regensburg
 - Instagram: https://instagram.com/donauvolleys
 - Website: https://volleyball-regensburg.de/
-- Bewertung: 0 verkauft bereits online (vivenu); +8 Instagram vorhanden (DM möglich); +10 Bayern, Besuch möglich; +7 Einordnung sicher
+- Bewertung: -15 verkauft bereits online (vivenu); +8 Instagram vorhanden (DM möglich); +10 Bayern, Besuch möglich; +7 Einordnung sicher
 - Belegte Quellen: <https://donauvolleys.vivenushop.com/>, <https://volleyball-regensburg.de/>, <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781346142&c.view=contact>
 
-## CERATONIA Volleys Eltmann · 17 Punkte
+## CERATONIA Volleys Eltmann · 2 Punkte
 
 **Beobachtung:** Verkauft Tickets online über Vereinsticket (VBL-Ticketlink: https://vceltmann.vereinsticket.de/vo-volleyballbundesliga/).
 
 - Vorverkauf: anbieter (Vereinsticket), Sicherheit hoch
 - Halle: Georg-Schäfer-Sporthalle Oskar-Serrand-Straße 29, 97483 Eltmann
 - Website: http://www.vc-eltmann.de
-- Bewertung: 0 verkauft bereits online (Vereinsticket); +10 Bayern, Besuch möglich; +7 Einordnung sicher
+- Bewertung: -15 verkauft bereits online (Vereinsticket); +10 Bayern, Besuch möglich; +7 Einordnung sicher
 - Belegte Quellen: <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344633&c.view=teamMain>, <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344633&c.view=contact>
 
-## Enervigo Volleys Dresden · 15 Punkte
+## Blue Volleys Gotha · 0 Punkte
+
+**Beobachtung:** Verkauft Tickets online über Vereinsticket (VBL-Ticketlink: https://events.vereinsticket.de/vc-gotha).
+
+- Vorverkauf: anbieter (Vereinsticket), Sicherheit hoch
+- Halle: Ernestiner Sporthalle Am Tivoli 6, 99867 Gotha
+- Website: https://www.bluevolleys.de
+- Bewertung: -15 verkauft bereits online (Vereinsticket); +7 Einordnung sicher
+- Belegte Quellen: <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344413&c.view=teamMain>, <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344413&c.view=contact>
+
+## Enervigo Volleys Dresden · 0 Punkte
 
 **Beobachtung:** Verkauft Tickets online über Eventim Light (VBL-Ticketlink: https://www.eventim-light.com/de/a/62dfc2fbf520394ff5b2074a/).
 
@@ -198,15 +208,5 @@ Hi, ich hab gesehen, dass ihr eure Heimspiel-Tickets direkt auf fightingbayrisch
 - Halle: Volleydome Bürgerwiese Parkstr. 4 (Zufahrt über Gret-Palucca-Str. 8), 01069 Dresden
 - Instagram: https://instagram.com/volleyballclubdresden
 - Website: http://www.vc-dresden.de
-- Bewertung: 0 verkauft bereits online (Eventim Light); +8 Instagram vorhanden (DM möglich); +7 Einordnung sicher
+- Bewertung: -15 verkauft bereits online (Eventim Light); +8 Instagram vorhanden (DM möglich); +7 Einordnung sicher
 - Belegte Quellen: <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344596&c.view=teamMain>, <https://vc-dresden.de/>, <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344596&c.view=contact>
-
-## Blue Volleys Gotha · 7 Punkte
-
-**Beobachtung:** Verkauft Tickets online über Vereinsticket (VBL-Ticketlink: https://events.vereinsticket.de/vc-gotha).
-
-- Vorverkauf: anbieter (Vereinsticket), Sicherheit hoch
-- Halle: Ernestiner Sporthalle Am Tivoli 6, 99867 Gotha
-- Website: https://www.bluevolleys.de
-- Bewertung: 0 verkauft bereits online (Vereinsticket); +7 Einordnung sicher
-- Belegte Quellen: <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344413&c.view=teamMain>, <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344413&c.view=contact>

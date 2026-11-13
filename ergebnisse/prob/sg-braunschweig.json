@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "SG Braunschweig",
+    "ort": "Braunschweig",
+    "land": "NI",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.basketball-loewen.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Alte Waage Weberstraße 1 38100 Braunschweig",
+    "kapazitaet": 1100,
+    "instagram": "dynbasketball",
+    "ansprechperson": {
+      "name": "Nils Mittmann",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "mittmann@basketball-loewen.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (2. Basketball-Bundesliga-Ticketlink: https://www.ticket-onlineshop.com/ols/basketball-braunschweig/).",
+    "quellen": [
+      "https://www.2basketballbundesliga.de/kader/441",
+      "https://www.basketball-loewen.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 7,
+    "quellen_belegt": [
+      "https://www.2basketballbundesliga.de/kader/441",
+      "https://www.basketball-loewen.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. 2. Basketball-Bundesliga-Name „SG Braunschweig“. Gelesen: https://www.basketball-loewen.de/, https://www.basketball-loewen.de/gameday/rebound/, https://www.basketball-loewen.de/tickets/tickets-kaufen/, https://www.basketball-loewen.de/tickets/dauerkarten/, https://www.basketball-loewen.de/einzelticket/, https://www.basketball-loewen.de/tickets/sg-braunschweig-ticketinfos/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.2basketballbundesliga.de/kader/441",
+      "https://www.basketball-loewen.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/441"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/441"
+        ],
+        "anbieter": [
+          "https://www.basketball-loewen.de/"
+        ],
+        "instagram": []
+      }
+    }
+  }
+}

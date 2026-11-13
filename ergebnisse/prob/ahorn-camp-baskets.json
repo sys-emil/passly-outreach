@@ -1,0 +1,74 @@
+{
+  "verein": {
+    "name": "Ahorn Camp Baskets",
+    "ort": "Speyer",
+    "land": "RP",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.ahorncamp-baskets.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": 12,
+    "halle": "Sporthalle Speyer-Nord Birkenweg10 67346 Speyer",
+    "kapazitaet": 700,
+    "instagram": "ahorncampbaskets",
+    "ansprechperson": {
+      "name": "Jutta Kopf",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "kopfh@gmx.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Vereinsticket (eingebunden auf https://www.ahorncamp-baskets.de/: https://www.ahorncamp-baskets.de/).",
+    "quellen": [
+      "https://www.ahorncamp-baskets.de/",
+      "https://www.2basketballbundesliga.de/kader/529",
+      "https://www.ahorncamp-baskets.de/live"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.ahorncamp-baskets.de/",
+      "https://www.2basketballbundesliga.de/kader/529",
+      "https://www.ahorncamp-baskets.de/live"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. 2. Basketball-Bundesliga-Name „Ahorn Camp Baskets“. Gelesen: https://www.ahorncamp-baskets.de/, https://www.ahorncamp-baskets.de/live.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.ahorncamp-baskets.de/",
+      "https://www.2basketballbundesliga.de/kader/529",
+      "https://www.ahorncamp-baskets.de/live"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.ahorncamp-baskets.de/",
+          "https://www.ahorncamp-baskets.de/live"
+        ],
+        "instagram": [
+          "https://www.ahorncamp-baskets.de/"
+        ],
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/529"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/529"
+        ],
+        "ticketpreis_eur": [
+          "https://www.ahorncamp-baskets.de/live"
+        ]
+      }
+    }
+  }
+}

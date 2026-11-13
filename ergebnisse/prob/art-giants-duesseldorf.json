@@ -1,0 +1,61 @@
+{
+  "verein": {
+    "name": "ART Giants Düsseldorf",
+    "ort": "Düsseldorf",
+    "land": "NW",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.art-giants.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Comenius-Gymnasium Lütticher Str. 34 40545 Düsseldorf",
+    "kapazitaet": 550,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Tobias Brodda",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "brodda@art-giants.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim Light (2. Basketball-Bundesliga-Ticketlink: https://www.eventim-light.com/de/a/69bd4a475f39760760531ca1).",
+    "quellen": [
+      "https://www.2basketballbundesliga.de/kader/536"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.2basketballbundesliga.de/kader/536"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. 2. Basketball-Bundesliga-Name „ART Giants Düsseldorf“. Gelesen: https://www.art-giants.de/, https://www.art-giants.de/tickets.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.2basketballbundesliga.de/kader/536"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/536"
+        ],
+        "anbieter": [
+          "https://www.2basketballbundesliga.de/kader/536"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/536"
+        ]
+      }
+    }
+  }
+}

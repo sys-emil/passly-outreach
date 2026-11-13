@@ -1,0 +1,68 @@
+{
+  "verein": {
+    "name": "EN BASKETS Schwelm",
+    "ort": "Schwelm",
+    "land": "NW",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.en-baskets.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Schwelm ArENa Milsperstr. 35 58332 Schwelm",
+    "kapazitaet": 1500,
+    "instagram": "enbasketsschwelm",
+    "ansprechperson": {
+      "name": "Stephan Völkel",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "stephan.voelkel@en-baskets.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://en-baskets.de/: https://en-baskets.de/).",
+    "quellen": [
+      "https://en-baskets.de/",
+      "https://www.2basketballbundesliga.de/kader/445"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://en-baskets.de/",
+      "https://www.2basketballbundesliga.de/kader/445"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. 2. Basketball-Bundesliga-Name „EN BASKETS Schwelm“. Gelesen: https://en-baskets.de/, https://en-baskets.de/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://en-baskets.de/",
+      "https://www.2basketballbundesliga.de/kader/445"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://en-baskets.de/"
+        ],
+        "instagram": [
+          "https://en-baskets.de/",
+          "https://www.2basketballbundesliga.de/kader/445"
+        ],
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/445"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/445"
+        ]
+      }
+    }
+  }
+}

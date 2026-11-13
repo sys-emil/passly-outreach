@@ -1,0 +1,68 @@
+{
+  "verein": {
+    "name": "Bayer Giants Leverkusen",
+    "ort": "Leverkusen",
+    "land": "NW",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.giants-leverkusen.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Ostermann Arena Bismarckstr. 125 51373 Leverkusen Webseite",
+    "kapazitaet": 2771,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Axel Pleuger",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "axel.pleuger@tsvbayer04.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.giants-leverkusen.de/: https://www.giants-leverkusen.de/).",
+    "quellen": [
+      "https://www.giants-leverkusen.de/",
+      "https://www.giants-leverkusen.de/game-time/tickets/dauerkarten-2204/",
+      "https://www.2basketballbundesliga.de/kader/416"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://www.giants-leverkusen.de/",
+      "https://www.giants-leverkusen.de/game-time/tickets/dauerkarten-2204/",
+      "https://www.2basketballbundesliga.de/kader/416"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. 2. Basketball-Bundesliga-Name „Bayer Giants Leverkusen“. Mehrere Instagram-Konten verlinkt: bayergiantsleverkusen, ps_planbar. Gelesen: https://www.giants-leverkusen.de/, https://www.giants-leverkusen.de/game-time/tickets/, https://www.giants-leverkusen.de/game-time/tickets/tageskarten-2203/, https://www.giants-leverkusen.de/game-time/tickets/dauerkarten-2204/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.giants-leverkusen.de/",
+      "https://www.giants-leverkusen.de/game-time/tickets/dauerkarten-2204/",
+      "https://www.2basketballbundesliga.de/kader/416"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.giants-leverkusen.de/",
+          "https://www.giants-leverkusen.de/game-time/tickets/dauerkarten-2204/"
+        ],
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/416"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/416"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "verein": {
+    "name": "Hertener Löwen",
+    "ort": "Recklinghausen",
+    "land": "NW",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.hertener-loewen.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "pretix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle der Rosa-Parks-Schule Fritz-Erler-Straße 2 45701 Herten Webseite",
+    "kapazitaet": 1200,
+    "instagram": "hertenerloewenbb",
+    "ansprechperson": {
+      "name": "Matthias Boenke",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "matthias.boenke@hertener-loewen.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über pretix (eingebunden auf https://tickets.hertener-loewen.de/hertener-loewen/: https://tickets.hertener-loewen.de/hertener-loewen/).",
+    "quellen": [
+      "https://tickets.hertener-loewen.de/hertener-loewen/",
+      "https://hertener-loewen.de/",
+      "https://www.2basketballbundesliga.de/kader/510"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://tickets.hertener-loewen.de/hertener-loewen/",
+      "https://hertener-loewen.de/",
+      "https://www.2basketballbundesliga.de/kader/510"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. 2. Basketball-Bundesliga-Name „Hertener Löwen“. Gelesen: https://hertener-loewen.de/, https://tickets.hertener-loewen.de/hertener-loewen/, https://hertener-loewen.de/index.php/datenschutz-tickets/, https://hertener-loewen.de/index.php/tickets-fuer-die-loewen/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://tickets.hertener-loewen.de/hertener-loewen/",
+      "https://hertener-loewen.de/",
+      "https://www.2basketballbundesliga.de/kader/510"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://tickets.hertener-loewen.de/hertener-loewen/"
+        ],
+        "instagram": [
+          "https://hertener-loewen.de/"
+        ],
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/510"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/510"
+        ]
+      }
+    }
+  }
+}

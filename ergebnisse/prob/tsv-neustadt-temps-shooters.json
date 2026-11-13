@@ -1,0 +1,75 @@
+{
+  "verein": {
+    "name": "TSV Neustadt temps Shooters",
+    "ort": "Neustadt am Rübenberge",
+    "land": "NI",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.tsvneustadttempsshooters.de",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 16,
+    "halle": "Shooters Dome (Gymnasiumsporthalle Neustadt) Lindenstr. 52 31535 Neustadt",
+    "kapazitaet": 999,
+    "instagram": "tsvneustadttempsshooters",
+    "ansprechperson": {
+      "name": "Jan Gebauer",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "geschaeftsfuehrung@tsvneustadttempsshooters.de"
+    },
+    "naechstes_heimspiel": "Sa, 21.11.2026, 19:00 Uhr, Shooters Dome (Gegner auf der Website nicht lesbar)",
+    "beobachtung": "Vorverkauf laut Ticketseite per E-Mail an email@tsvneustadttempsshooters.de mit Name, Adresse, Anzahl und Platzwunsch, ein Teammitglied meldet sich zur Platzbuchung; Abendkasse nur mit Karte, Tageskarte 16 € (U18 12 €), Dauerkarte 208 €.",
+    "quellen": [
+      "https://www.tsvneustadttempsshooters.de/tickets",
+      "https://www.tsvneustadttempsshooters.de/",
+      "https://www.2basketballbundesliga.de/kader/585"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.tsvneustadttempsshooters.de/tickets",
+      "https://www.tsvneustadttempsshooters.de/",
+      "https://www.2basketballbundesliga.de/kader/585"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag „manuell“ bestätigt: Bestellung per E-Mail, Versand als E-Ticket, kein Shop. Vorausgefüllter Preis 18 € war ein Lesefehler („Tageskarte U18 €“); korrekt Erwachsene 16 €, U18 12 €, Dauerkarte 208/156 €. Gegner am 21.11. auf der Startseite nur als Logo eingebunden. Kapazität 999 laut Kaderseite der Liga, nicht selbst abgerufen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tsvneustadttempsshooters.de/tickets",
+      "https://www.tsvneustadttempsshooters.de/",
+      "https://www.2basketballbundesliga.de/kader/585"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.tsvneustadttempsshooters.de/tickets"
+        ],
+        "instagram": [
+          "https://www.tsvneustadttempsshooters.de/tickets",
+          "https://www.tsvneustadttempsshooters.de/"
+        ],
+        "vorverkauf": [
+          "https://www.tsvneustadttempsshooters.de/tickets"
+        ],
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/585"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/585"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass euer Vorverkauf per Mail läuft und jemand aus dem Team jede Bestellung von Hand bucht, an der Abendkasse geht nur Karte. Ich baue Passly: Tageskarte und Dauerkarte über einen Link, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten?\n\n**Telefonleitfaden**\n\n- Wen: Jan Gebauer, Verantwortlicher laut Liga, geschaeftsfuehrung@tsvneustadttempsshooters.de.\n- Einstieg: Vorverkauf per Mail mit Name, Anzahl und Platzwunsch, Rückmeldung von Hand; Tageskarte 16 Euro, U18 12 Euro, Dauerkarte 208 Euro; Abendkasse nur mit Karte.\n- Frage: Wie viele Mails kommen pro Heimspiel, und wie wichtig ist euch der feste Platz? (Passly kennt Bereiche mit eigenem Kontingent, keine Platzwahl im Saalplan.)\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf; an der Abendkasse kauft der Gast per QR-Code auf dem eigenen Handy, Auszahlung aufs Vereinskonto.\n- Abschluss: Zehn Minuten Demo per Video anbieten, Link zu getpassly.de/sportvereine hinterherschicken."
+}

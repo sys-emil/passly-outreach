@@ -1,0 +1,70 @@
+{
+  "verein": {
+    "name": "Uni Baskets Münster",
+    "ort": "Münster",
+    "land": "NW",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.unibaskets.ms",
+    "vorverkauf": "anbieter",
+    "anbieter": "vivenu",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle Berg Fidel Am Berg Fidel 51 48153 Münster Webseite",
+    "kapazitaet": 3000,
+    "instagram": "unibaskets",
+    "ansprechperson": {
+      "name": "Helge Stuckenholz",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "helge.stuckenholz@unibaskets.ms"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über vivenu (eingebunden auf https://tickets.unibaskets.ms/: https://tickets.unibaskets.ms/).",
+    "quellen": [
+      "https://tickets.unibaskets.ms/",
+      "https://unibaskets.ms/",
+      "https://www.2basketballbundesliga.de/kader/562"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 6,
+    "quellen_belegt": [
+      "https://tickets.unibaskets.ms/",
+      "https://unibaskets.ms/",
+      "https://www.2basketballbundesliga.de/kader/562"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. 2. Basketball-Bundesliga-Name „Uni Baskets Münster“. Gelesen: https://unibaskets.ms/, https://tickets.unibaskets.ms/, https://unibaskets.ms/news/tickets/, https://unibaskets.ms/tickets/kultursemesterticket/, https://unibaskets.ms/fans/anfahrt-heimspiele/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://tickets.unibaskets.ms/",
+      "https://unibaskets.ms/",
+      "https://www.2basketballbundesliga.de/kader/562"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://tickets.unibaskets.ms/"
+        ],
+        "instagram": [
+          "https://unibaskets.ms/"
+        ],
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/562"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/562"
+        ]
+      }
+    }
+  }
+}

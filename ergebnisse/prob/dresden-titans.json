@@ -1,0 +1,73 @@
+{
+  "verein": {
+    "name": "Dresden Titans",
+    "ort": "Dresden",
+    "land": "SN",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.dresden-titans.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Cyberport Arena Bodenbacher Straße 154 01277 Dresden",
+    "kapazitaet": 3000,
+    "instagram": "dresdentitans",
+    "ansprechperson": {
+      "name": "Nils Ruttmann",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "nils.ruttmann@dresden-titans.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://www.dresden-titans.de/tickets: https://www.dresden-titans.de/tickets).",
+    "quellen": [
+      "https://www.dresden-titans.de/tickets",
+      "https://www.dresden-titans.de/",
+      "https://www.2basketballbundesliga.de/kader/547"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.dresden-titans.de/tickets",
+      "https://www.dresden-titans.de/",
+      "https://www.2basketballbundesliga.de/kader/547"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. 2. Basketball-Bundesliga-Name „Dresden Titans“. Gelesen: https://www.dresden-titans.de/, https://www.dresden-titans.de/tickets, https://www.dresden-titans.de/saison/spieltagsheft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.dresden-titans.de/tickets",
+      "https://www.dresden-titans.de/",
+      "https://www.2basketballbundesliga.de/kader/547"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.dresden-titans.de/tickets",
+          "https://www.dresden-titans.de/",
+          "https://www.2basketballbundesliga.de/kader/547"
+        ],
+        "instagram": [
+          "https://www.dresden-titans.de/tickets",
+          "https://www.dresden-titans.de/"
+        ],
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/547"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/547"
+        ]
+      }
+    }
+  }
+}

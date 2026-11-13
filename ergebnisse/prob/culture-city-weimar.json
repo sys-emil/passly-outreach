@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "Culture City Weimar",
+    "ort": "Jena",
+    "land": "TH",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.culturecity.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Asbach-Sporthalle Florian-Geyer-Straße 77 99427 Weimar Webseite",
+    "kapazitaet": 500,
+    "instagram": "culture_city_weimar",
+    "ansprechperson": {
+      "name": "Thomas Fleddermann",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "fleddermann@baskets-jena.com"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (eingebunden auf https://www.culturecity.de/: https://www.culturecity.de/).",
+    "quellen": [
+      "https://www.culturecity.de/",
+      "https://www.2basketballbundesliga.de/kader/588"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.culturecity.de/",
+      "https://www.2basketballbundesliga.de/kader/588"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. 2. Basketball-Bundesliga-Name „Culture City Weimar“. Gelesen: https://www.culturecity.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.culturecity.de/",
+      "https://www.2basketballbundesliga.de/kader/588"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "instagram": [
+          "https://www.culturecity.de/"
+        ],
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/588"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/588"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

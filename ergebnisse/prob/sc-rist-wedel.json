@@ -1,0 +1,68 @@
+{
+  "verein": {
+    "name": "SC Rist Wedel",
+    "ort": "Wedel",
+    "land": "HH",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.scrist.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Steinberghalle Steinberg 16 22880 Wedel Webseite",
+    "kapazitaet": 500,
+    "instagram": "scristwedel_official",
+    "ansprechperson": {
+      "name": "Andrea Koschek",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "koschek@scrist.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (2. Basketball-Bundesliga-Ticketlink: https://ristwedel.reservix.de/events).",
+    "quellen": [
+      "https://www.2basketballbundesliga.de/kader/539",
+      "https://www.scrist.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.2basketballbundesliga.de/kader/539",
+      "https://www.scrist.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. 2. Basketball-Bundesliga-Name „SC Rist Wedel“. Gelesen: https://www.scrist.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.2basketballbundesliga.de/kader/539",
+      "https://www.scrist.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/539"
+        ],
+        "anbieter": [
+          "https://www.2basketballbundesliga.de/kader/539",
+          "https://www.scrist.de/"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/539"
+        ],
+        "instagram": [
+          "https://www.scrist.de/"
+        ]
+      }
+    }
+  }
+}

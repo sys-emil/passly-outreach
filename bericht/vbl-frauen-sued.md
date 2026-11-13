@@ -9,14 +9,14 @@ Stand 2026-11-13. Punkte 0 bis 100, Schwelle für Entwürfe 45.
 | 58 | Erfurt electronic | keine_angabe |  | 5 € | @sgerfurtelectronic |
 | 56 | TSV Unterhaching | keine_angabe |  |  | @tsvunterhaching_damen1 |
 | 46 | proWIN Volleys TV Holz | keine_angabe |  |  | @prowinvolleystvholz |
-| 45 | DJK SB München-Ost | anbieter (leoticket (Leomedia GmbH)) |  | 8 € | @djkmuenchenost |
-| 35 | TG Bad Soden | anbieter (Vereinsticket) |  | 7 € | @tgbadsoden_2liga |
-| 29 | TV Dingolfing | anbieter (Vereinsticket) |  |  |  |
-| 15 | Black Forest Volleys Offenburg | anbieter (ticketleo) |  |  | @vcoffenburg |
-| 12 | SSC Freisen | anbieter (Eventim) |  | 8 € |  |
+| 30 | DJK SB München-Ost | anbieter (leoticket (Leomedia GmbH)) |  | 8 € | @djkmuenchenost |
+| 20 | TG Bad Soden | anbieter (Vereinsticket) |  | 7 € | @tgbadsoden_2liga |
+| 14 | TV Dingolfing | anbieter (Vereinsticket) |  |  |  |
 | 10 | Rote Raben Vilsbiburg II | unbekannt |  |  | @roterabenvilsbiburg |
-| 10 | VC Wiesbaden II | anbieter (vivenu) |  | 5 € | @vc_wiesbaden |
+| 0 | Black Forest Volleys Offenburg | anbieter (ticketleo) |  |  | @vcoffenburg |
 | 0 | Sparda BSP Stuttgart | unbekannt |  |  | @sparda.bspstuttgart |
+| 0 | SSC Freisen | anbieter (Eventim) |  | 8 € |  |
+| 0 | VC Wiesbaden II | anbieter (vivenu) |  | 5 € | @vc_wiesbaden |
 
 ## TV SUSPA Altdorf · 85 Punkte
 
@@ -146,7 +146,7 @@ Hi, auf eurer Website steht oben „Online-Ticketshop“, die Seite dahinter ist
 - Angebot: Ich richte das nächste Heimspiel kostenlos als Testlauf ein und ihr verlinkt es unter „Online-Ticketshop“, Auszahlung aufs Vereinskonto.
 - Abschluss: Zehn Minuten Demo per Video anbieten, Link zu getpassly.de/sportvereine hinterherschicken.
 
-## DJK SB München-Ost · 45 Punkte
+## DJK SB München-Ost · 30 Punkte
 
 **Beobachtung:** „PinkCrew“ verkauft Einzeltickets (8 €, ermäßigt 4 €) online über leoticket (volleyball-muenchen.leoticket.de), dazu Abendkasse in der DJK Arena bar oder EC; Dauerkarte 60 € für 12 Heimspiele (limitiert auf 50) mit Vorverkaufsstart „in Kürze“. Nächstes Heimspiel 21.11.2026 gegen TV Dingolfing.
 
@@ -157,7 +157,7 @@ Hi, auf eurer Website steht oben „Online-Ticketshop“, die Seite dahinter ist
 - Instagram: https://instagram.com/djkmuenchenost
 - Ansprechperson: Ticketing (Bestellung, Bezahlung, Stornierung), ticket@volleyball-muenchen.de
 - Website: https://pinkcrew.de
-- Bewertung: 0 verkauft bereits online (leoticket (Leomedia GmbH)); +8 Preis 8 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; +7 Einordnung sicher
+- Bewertung: -15 verkauft bereits online (leoticket (Leomedia GmbH)); +8 Preis 8 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; +7 Einordnung sicher
 - Belegte Quellen: <https://volleyball-muenchen.de/damen1/tickets/>, <https://pinkcrew.de/>, <https://pinkcrew.de/tickets>
 - ⚠ Nicht nachvollziehbare Quellen: https://djk-muenchen-ost.de/, https://volleyball-muenchen.de/, https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-9353.html
 
@@ -173,7 +173,7 @@ Hi, ich hab gesehen, dass eure Dauerkarte für 60 Euro auf 50 Stück limitiert i
 - Angebot: Kostenloser Testlauf für ein Heimspiel oder nur für die Dauerkarte, Auszahlung nach dem Spiel aufs Vereinskonto.
 - Abschluss: Treffen in München vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken.
 
-## TG Bad Soden · 35 Punkte
+## TG Bad Soden · 20 Punkte
 
 **Beobachtung:** Online-Vorverkauf für alle Heimspiele der Damen 1 über Vereinsticket (tg-badsoden.vereinsticket.de), dazu Tageskasse am Spieltag; Eintritt laut Seite „Ticketing & Preise“ 7 €, ermäßigt 3,50 €.
 
@@ -183,11 +183,11 @@ Hi, ich hab gesehen, dass eure Dauerkarte für 60 Euro auf 50 Stück limitiert i
 - Instagram: https://instagram.com/tgbadsoden_2liga
 - Ansprechperson: Daniel Callwitz, VIP-Tickets, Daniel.Callwitz@bad-soden-volleyball.de
 - Website: https://bad-soden-volleyball.de/
-- Bewertung: 0 verkauft bereits online (Vereinsticket); +8 Preis 7 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
+- Bewertung: -15 verkauft bereits online (Vereinsticket); +8 Preis 7 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
 - Belegte Quellen: <https://bad-soden-volleyball.de/ticketing-und-preise/>, <https://bad-soden-volleyball.de/mannschaften/damen-1/>, <https://tg-badsoden.vereinsticket.de/vo-bundesliga/>
 - ⚠ Nicht nachvollziehbare Quellen: https://www.tg-badsoden.de/, https://tg-badsoden.de/abteilungen/volleyball/, http://www.bad-soden-volleyball.de/, https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-1693.html
 
-## TV Dingolfing · 29 Punkte
+## TV Dingolfing · 14 Punkte
 
 **Beobachtung:** Tagestickets für die Heimspiele der Damen 1 (2. Bundesliga Süd, Sporthalle Höll-Ost) laufen über events.vereinsticket.de, Einzeltickets jeweils etwa 14 Tage vor dem Spiel; an der Abendkasse gilt 2026/27 ein Aufschlag von 1 € pro Ticket. Nächstes Heimspiel am 15.11. gegen SSC Freisen.
 
@@ -196,32 +196,9 @@ Hi, ich hab gesehen, dass eure Dauerkarte für 60 Euro auf 50 Stück limitiert i
 - Nächstes Heimspiel: 15.11.2026, 15:00 gegen SSC Freisen
 - Ansprechperson: Gwendolyna Ferdinand, Spartenleiterin Volleyball, gwendolyna.ferdinand@tv-dingolfing.de
 - Website: https://www.tv-dingolfing.de/sparten/volleyball/
-- Bewertung: 0 verkauft bereits online (Vereinsticket); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; +7 Einordnung sicher
+- Bewertung: -15 verkauft bereits online (Vereinsticket); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; +7 Einordnung sicher
 - Belegte Quellen: <https://www.tv-dingolfing.de>, <https://events.vereinsticket.de/tv-dingolfing/vo-2-bundesligasued-1-damen>, <https://www.tv-dingolfing.de/team/volleyball-damen-1/>, <https://www.tv-dingolfing.de/sparten/volleyball/>, <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml>
 - ⚠ Nicht nachvollziehbare Quellen: https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-10269.html
-
-## Black Forest Volleys Offenburg · 15 Punkte
-
-**Beobachtung:** Verkauft Tickets online über ticketleo (VBL-Ticketlink: https://reservation.ticketleo.com/user/11272/event-list).
-
-- Vorverkauf: anbieter (ticketleo), Sicherheit hoch
-- Halle: Sporthalle Nord-West Otto-Hahn-Straße 9, 77654 Offenburg
-- Instagram: https://instagram.com/vcoffenburg
-- Website: http://www.vco.de
-- Bewertung: 0 verkauft bereits online (ticketleo); +8 Instagram vorhanden (DM möglich); +7 Einordnung sicher
-- Belegte Quellen: <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345658&c.view=teamMain>, <https://www.vco.de/>, <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345658&c.view=contact>
-
-## SSC Freisen · 12 Punkte
-
-**Beobachtung:** Heimspiele in der Bruchwaldhalle werden einzeln über Eventim verkauft, z. B. gegen SVK Karlsruhe-Beiertheim am 10.4.2027 „ab 8 €“; nächstes Heimspiel laut Spielplan am 21.11. gegen TV Altdorf.
-
-- Vorverkauf: anbieter (Eventim), Sicherheit mittel
-- Halle: Bruchwaldhalle Freisen, Schulstraße 60, 66629 Freisen
-- Preis: 8 €
-- Nächstes Heimspiel: 21.11.2026, 18:30, gegen TV Altdorf
-- Bewertung: 0 verkauft bereits online (Eventim); +8 Preis 8 €; +4 nächstes Heimspiel bekannt
-- Belegte Quellen: <https://www.mvp.de/saarland/veranstaltungen/ssc-freisen-svk-karlsruhe-beiertheim-bruchwaldhalle-freisen-freisen/>
-- ⚠ Nicht nachvollziehbare Quellen: https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-6472.html
 
 ## Rote Raben Vilsbiburg II · 10 Punkte
 
@@ -236,20 +213,16 @@ Hi, ich hab gesehen, dass eure Dauerkarte für 60 Euro auf 50 Stück limitiert i
 - Belegte Quellen: <https://www.roteraben.de/>, <https://www.roteraben.de/tickets/ticketinfo>, <https://tickets.roteraben.de/>
 - ⚠ Nicht nachvollziehbare Quellen: https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-3590.html
 
-## VC Wiesbaden II · 10 Punkte
+## Black Forest Volleys Offenburg · 0 Punkte
 
-**Beobachtung:** Die zweite Mannschaft verkauft ihre Heimspiele über den vivenu-Shop des Erstligisten VC Wiesbaden (Rubrik „Tageskarten 2. Bundesliga“); nächstes Heimspiel am 28.11. um 18 Uhr gegen Black Forest Volleys Offenburg in der Sporthalle am Platz der Deutschen Einheit, Tickets ab 5 €.
+**Beobachtung:** Verkauft Tickets online über ticketleo (VBL-Ticketlink: https://reservation.ticketleo.com/user/11272/event-list).
 
-- Vorverkauf: anbieter (vivenu), Sicherheit hoch
-- Halle: Sporthalle am Platz der Deutschen Einheit, Platz der Deutschen Einheit 5, 65185 Wiesbaden
-- Preis: 5 €
-- Nächstes Heimspiel: 28.11.2026, 18:00 gegen Black Forest Volleys Offenburg
-- Instagram: https://instagram.com/vc_wiesbaden
-- Ansprechperson: Geschäftsstelle VC Wiesbaden, info@vc-wiesbaden.de, +49 611 940756-0
-- Website: https://www.vc-wiesbaden.de/
-- Bewertung: 0 verkauft bereits online (vivenu); +8 Preis 5 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher; -25 Zweit- oder Nachwuchsteam
-- Belegte Quellen: <https://vc-wiesbaden-rj5j.vivenushop.com/>, <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345711&c.view=teamMain>, <https://vc-wiesbaden-rj5j.vivenushop.com/section/tageskarten-2-bundesliga-heute-ab-18-uhr-6kxo>, <https://vc-wiesbaden-rj5j.vivenushop.com/event/vc-wiesbaden-ii-black-forest-volleys-offenburg-5m5ut5>, <https://www.vc-wiesbaden.de/>
-- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ticketpreis_eur
+- Vorverkauf: anbieter (ticketleo), Sicherheit hoch
+- Halle: Sporthalle Nord-West Otto-Hahn-Straße 9, 77654 Offenburg
+- Instagram: https://instagram.com/vcoffenburg
+- Website: http://www.vco.de
+- Bewertung: -15 verkauft bereits online (ticketleo); +8 Instagram vorhanden (DM möglich); +7 Einordnung sicher
+- Belegte Quellen: <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345658&c.view=teamMain>, <https://www.vco.de/>, <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345658&c.view=contact>
 
 ## Sparda BSP Stuttgart · 0 Punkte
 
@@ -264,3 +237,30 @@ Hi, ich hab gesehen, dass eure Dauerkarte für 60 Euro auf 50 Stück limitiert i
 - Bewertung: +15 Vorverkauf nicht feststellbar; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; -10 Einordnung unsicher; -25 Zweit- oder Nachwuchsteam
 - Belegte Quellen: <https://www.mtv-stuttgart.de/volleyball/bundesstuetzpunkt-stuttgart>
 - ⚠ Nicht nachvollziehbare Quellen: https://www.mtv-stuttgart.de/aktuelles/termine, https://www.stuttgart.de/en/veranstaltungskalender/veranstaltungen/volleyball-sparda-bsp-stuttgart-ssc-freisen-530052, https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8344.html
+
+## SSC Freisen · 0 Punkte
+
+**Beobachtung:** Heimspiele in der Bruchwaldhalle werden einzeln über Eventim verkauft, z. B. gegen SVK Karlsruhe-Beiertheim am 10.4.2027 „ab 8 €“; nächstes Heimspiel laut Spielplan am 21.11. gegen TV Altdorf.
+
+- Vorverkauf: anbieter (Eventim), Sicherheit mittel
+- Halle: Bruchwaldhalle Freisen, Schulstraße 60, 66629 Freisen
+- Preis: 8 €
+- Nächstes Heimspiel: 21.11.2026, 18:30, gegen TV Altdorf
+- Bewertung: -15 verkauft bereits online (Eventim); +8 Preis 8 €; +4 nächstes Heimspiel bekannt
+- Belegte Quellen: <https://www.mvp.de/saarland/veranstaltungen/ssc-freisen-svk-karlsruhe-beiertheim-bruchwaldhalle-freisen-freisen/>
+- ⚠ Nicht nachvollziehbare Quellen: https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-6472.html
+
+## VC Wiesbaden II · 0 Punkte
+
+**Beobachtung:** Die zweite Mannschaft verkauft ihre Heimspiele über den vivenu-Shop des Erstligisten VC Wiesbaden (Rubrik „Tageskarten 2. Bundesliga“); nächstes Heimspiel am 28.11. um 18 Uhr gegen Black Forest Volleys Offenburg in der Sporthalle am Platz der Deutschen Einheit, Tickets ab 5 €.
+
+- Vorverkauf: anbieter (vivenu), Sicherheit hoch
+- Halle: Sporthalle am Platz der Deutschen Einheit, Platz der Deutschen Einheit 5, 65185 Wiesbaden
+- Preis: 5 €
+- Nächstes Heimspiel: 28.11.2026, 18:00 gegen Black Forest Volleys Offenburg
+- Instagram: https://instagram.com/vc_wiesbaden
+- Ansprechperson: Geschäftsstelle VC Wiesbaden, info@vc-wiesbaden.de, +49 611 940756-0
+- Website: https://www.vc-wiesbaden.de/
+- Bewertung: -15 verkauft bereits online (vivenu); +8 Preis 5 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher; -25 Zweit- oder Nachwuchsteam
+- Belegte Quellen: <https://vc-wiesbaden-rj5j.vivenushop.com/>, <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345711&c.view=teamMain>, <https://vc-wiesbaden-rj5j.vivenushop.com/section/tageskarten-2-bundesliga-heute-ab-18-uhr-6kxo>, <https://vc-wiesbaden-rj5j.vivenushop.com/event/vc-wiesbaden-ii-black-forest-volleys-offenburg-5m5ut5>, <https://www.vc-wiesbaden.de/>
+- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ticketpreis_eur

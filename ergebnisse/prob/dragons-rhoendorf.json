@@ -1,0 +1,68 @@
+{
+  "verein": {
+    "name": "Dragons Rhöndorf",
+    "ort": "Rheinbreitbach",
+    "land": "NW",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.dragons.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "vivenu",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "DragonDome Menzenberger Straße 72 53604 Bad Honnef",
+    "kapazitaet": 1500,
+    "instagram": "dragons_rhoendorf",
+    "ansprechperson": {
+      "name": "Klaus Beydemüller",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "dragons@dragons.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über vivenu (2. Basketball-Bundesliga-Ticketlink: https://vivenu.com/seller/dragons-rhoendorf-4bc7).",
+    "quellen": [
+      "https://www.2basketballbundesliga.de/kader/412",
+      "https://www.dragons.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.2basketballbundesliga.de/kader/412",
+      "https://www.dragons.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. 2. Basketball-Bundesliga-Name „Dragons Rhöndorf“. Gelesen: https://www.dragons.de/, https://www.dragons.de/dauerkarten, https://www.dragons.de/ticketinformationen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.2basketballbundesliga.de/kader/412",
+      "https://www.dragons.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/412"
+        ],
+        "anbieter": [
+          "https://www.2basketballbundesliga.de/kader/412",
+          "https://www.dragons.de/"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/412"
+        ],
+        "instagram": [
+          "https://www.dragons.de/"
+        ]
+      }
+    }
+  }
+}

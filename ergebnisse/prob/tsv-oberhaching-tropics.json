@@ -1,0 +1,73 @@
+{
+  "verein": {
+    "name": "TSV Oberhaching Tropics",
+    "ort": "Deisenhofen",
+    "land": "BY",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://tsv-tropics.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Grundschule Deisenhofen Schulstraße 4 82041 Oberhaching",
+    "kapazitaet": 520,
+    "instagram": "tropics_basketball",
+    "ansprechperson": {
+      "name": "Mario Matic",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "mariomatic1979@yahoo.de"
+    },
+    "naechstes_heimspiel": "Sa 28.11.2026, 19:00 Uhr gegen TV Langen, Sporthalle Grundschule Deisenhofen (Einlass 18:15 Uhr)",
+    "beobachtung": "Heimspiel gegen TV Langen am 28.11. in der Grundschule Deisenhofen, die Website nennt Einlass 18:15 Uhr, aber weder Eintrittspreise noch Tickets, Vorverkauf oder Abendkasse.",
+    "quellen": [
+      "https://tsv-tropics.de/",
+      "https://tsv-tropics.de/saison-liga/",
+      "https://tsv-tropics.de/termine/",
+      "https://www.2basketballbundesliga.de/kader/564"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://tsv-tropics.de/",
+      "https://tsv-tropics.de/saison-liga/",
+      "https://tsv-tropics.de/termine/",
+      "https://www.2basketballbundesliga.de/kader/564"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag keine_angabe bestätigt: Startseite, Saison & Liga und Kalender ohne Ticket-, Eintritts- oder Shopangaben, kein Ticketmenüpunkt, keine Cookie-Platzhalter. Instagram ergänzt: Startseite verlinkt instagram.com/tropics_basketball. Heimspiel gegen Leitershofen am 13.11. ist heute, daher 28.11. als nächstes; danach 05.12. gegen Rhöndorf. Kapazität 520 aus der Liga-Kaderseite (Vorlauf), nicht von mir abgerufen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://tsv-tropics.de/",
+      "https://tsv-tropics.de/saison-liga/",
+      "https://tsv-tropics.de/termine/",
+      "https://www.2basketballbundesliga.de/kader/564"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "instagram": [
+          "https://tsv-tropics.de/",
+          "https://tsv-tropics.de/saison-liga/",
+          "https://tsv-tropics.de/termine/"
+        ],
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/564"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/564"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass ihr am 28.11. Langen in Deisenhofen empfangt, auf eurer Seite steht aber nichts zu Eintritt oder Tickets. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für den Verein kostenlos. Ich sitze in München, hättet ihr zehn Minuten?\n\n**Telefonleitfaden**\n\n- Wen: Mario Matic, Verantwortlicher laut Liga (mariomatic1979@yahoo.de, private Adresse: nur persönlich, keine Werbemail).\n- Einstieg: Heimspiel gegen Langen am 28.11., Einlass 18:15 Uhr, online kein Wort zu Eintritt oder Karten; Halle mit gut 500 Plätzen.\n- Frage: Nehmt ihr Eintritt, und wie läuft die Kasse am Spieltag?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf, Abendkasse im selben System, Auszahlung aufs Vereinskonto.\n- Abschluss: Treffen vor Ort in Oberhaching vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken."
+}

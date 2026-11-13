@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "Itzehoe Eagles",
+    "ort": "Itzehoe",
+    "land": "SH",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.eagles-basketball.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Sportzentrum am Lehmwohld Am Lehmwohld 49 25524 Itzehoe",
+    "kapazitaet": 714,
+    "instagram": "itzehoeeagles",
+    "ansprechperson": {
+      "name": "Volker Hambrock",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "volker.hambrock@hudo.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (eingebunden auf https://www.eagles-basketball.de/: https://www.eagles-basketball.de/).",
+    "quellen": [
+      "https://www.eagles-basketball.de/",
+      "https://www.2basketballbundesliga.de/kader/555"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.eagles-basketball.de/",
+      "https://www.2basketballbundesliga.de/kader/555"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. 2. Basketball-Bundesliga-Name „Itzehoe Eagles“. Gelesen: https://www.eagles-basketball.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.eagles-basketball.de/",
+      "https://www.2basketballbundesliga.de/kader/555"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "instagram": [
+          "https://www.eagles-basketball.de/"
+        ],
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/555"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/555"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

@@ -7,14 +7,14 @@ Stand 2026-11-13. Punkte 0 bis 100, Schwelle für Entwürfe 45.
 | 96 | SV Lohhof | keiner | 700 | 9 € | @lohhofvolleyball |
 | 60 | VfL Oythe | keiner |  | 8 € | @vfl.oythe |
 | 48 | TV Waldgirmes | keiner |  | 10 € |  |
-| 32 | BayerVolleys Leverkusen | anbieter (Vereinsticket (events.vereinsticket.de/tsvbayer04)) | 3500 | 9 € |  |
-| 28 | ESA Grimma Volleys | anbieter (leoticket (eingebunden auf vv-grimma.de)) |  | 12 € | @esagrimmavolleys |
-| 27 | SC Union Emlichheim | anbieter (Reservix (auch über ADticket gelistet)) |  | 8 € | @scu.volleyball |
-| 23 | DSHS SnowTrex Köln | anbieter (ticket.io (dshs-snowtrex-koeln.ticket.io)) |  | 8 € |  |
-| 21 | NawaRo Straubing | anbieter (vivenu (vorher Cortex Tickets)) |  |  |  |
-| 19 | Neuseenland-Volleys Markkleeberg | anbieter (Vereinsticket (tsg1903.vereinsticket.de)) |  |  |  |
-| 12 | Sparkassen Wildcats Stralsund | anbieter |  |  | @sparkassen.wildcats.stralsund |
+| 17 | BayerVolleys Leverkusen | anbieter (Vereinsticket (events.vereinsticket.de/tsvbayer04)) | 3500 | 9 € |  |
+| 13 | ESA Grimma Volleys | anbieter (leoticket (eingebunden auf vv-grimma.de)) |  | 12 € | @esagrimmavolleys |
+| 12 | SC Union Emlichheim | anbieter (Reservix (auch über ADticket gelistet)) |  | 8 € | @scu.volleyball |
+| 8 | DSHS SnowTrex Köln | anbieter (ticket.io (dshs-snowtrex-koeln.ticket.io)) |  | 8 € |  |
 | 7 | Eintracht Spontent Düsseldorf | eintritt_frei |  |  | @eintrachtspontent |
+| 6 | NawaRo Straubing | anbieter (vivenu (vorher Cortex Tickets)) |  |  |  |
+| 4 | Neuseenland-Volleys Markkleeberg | anbieter (Vereinsticket (tsg1903.vereinsticket.de)) |  |  |  |
+| 0 | Sparkassen Wildcats Stralsund | anbieter |  |  | @sparkassen.wildcats.stralsund |
 | 0 | VCO Dresden | unbekannt |  |  |  |
 
 ## SV Lohhof · 96 Punkte
@@ -94,7 +94,7 @@ Hi, auf eurer Ticketseite stehen die Preise für die Damen in der 2. Liga Pro un
 - Angebot: Das nächste Heimspiel der Damen kostenlos einrichten, die Herren nach dem Test mit demselben Konto.
 - Abschluss: Link zu getpassly.de/sportvereine, Termin für einen zweiten Anruf.
 
-## BayerVolleys Leverkusen · 32 Punkte
+## BayerVolleys Leverkusen · 17 Punkte
 
 **Beobachtung:** Großverein (TSV Bayer 04) mit fertigem Vereinsticket-Shop, alle elf Heimspiele 2026/27 online gelistet, Abendkasse zusätzlich; Ostermann-Arena mit 3.500 Plätzen. Nächstes Heimspiel 18.10. gegen Planegg-Krailling.
 
@@ -104,11 +104,11 @@ Hi, auf eurer Ticketseite stehen die Preise für die Damen in der 2. Liga Pro un
 - Nächstes Heimspiel: 18.10.2026, 16:00 gegen TV Planegg-Krailling
 - Ansprechperson: Volleyballabteilung TSV Bayer 04, Volleyball@TSVBayer04.de
 - Website: https://www.bayer-volleyball-bundesliga.de
-- Bewertung: 0 verkauft bereits online (Vereinsticket (events.vereinsticket.de/tsvbayer04)); +5 große Halle (3500); +8 Preis 9 €; +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
+- Bewertung: -15 verkauft bereits online (Vereinsticket (events.vereinsticket.de/tsvbayer04)); +5 große Halle (3500); +8 Preis 9 €; +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
 - Belegte Quellen: <https://events.vereinsticket.de/tsvbayer04/vo-bayervolleys>
 - ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ticketpreis_eur, kapazitaet
 
-## ESA Grimma Volleys · 28 Punkte
+## ESA Grimma Volleys · 13 Punkte
 
 **Beobachtung:** Seit 2026/27 Einzeltickets online (Vorverkauf bis 48 h vor Spielbeginn, 10 € statt 12 € an der Abendkasse, Shop von leoticket eingebunden). Jahreskarten (120 €, ermäßigt 108 €) weiterhin „per eMail bestellen und an der Abendkasse abholen (nur Barzahlung)“.
 
@@ -119,7 +119,7 @@ Hi, auf eurer Ticketseite stehen die Preise für die Damen in der 2. Liga Pro un
 - Instagram: https://instagram.com/esagrimmavolleys
 - Ansprechperson: VV Grimma e.V., info@vv-grimma.de
 - Website: https://www.vv-grimma.de
-- Bewertung: 0 verkauft bereits online (leoticket (eingebunden auf vv-grimma.de)); +8 Preis 12 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt
+- Bewertung: -15 verkauft bereits online (leoticket (eingebunden auf vv-grimma.de)); +8 Preis 12 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt
 - Belegte Quellen: <https://www.vv-grimma.de/v4/>, <https://www.vv-grimma.de/v4/index.php?site=tickets&gender=damen&tid=1>, <https://www.vv-grimma.de/>, <https://www.vv-grimma.de/v4/?site=ticketing&gender=&tid=361>, <https://www.vv-grimma.de/v4/?site=tickets&gender=damen&tid=1>
 - ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ansprechperson
 
@@ -135,7 +135,7 @@ Hi, ich hab gesehen, dass eure Jahreskarten per Mail bestellt und bar an der Abe
 - Angebot: Ich richte die Jahreskarte kostenlos als Pass ein, Auszahlung aufs Vereinskonto.
 - Abschluss: Zehn Minuten Demo per Video anbieten, Link zu getpassly.de/sportvereine hinterherschicken.
 
-## SC Union Emlichheim · 27 Punkte
+## SC Union Emlichheim · 12 Punkte
 
 **Beobachtung:** Tickets „an der Abendkasse und online“ über Reservix; 8 € (7 € mit GN-Card), Jugend/Studenten/Senioren 6 €, Dauerkarte 69 € / 49 €. Nächstes Heimspiel 31.10. gegen Leverkusen.
 
@@ -145,10 +145,10 @@ Hi, ich hab gesehen, dass eure Jahreskarten per Mail bestellt und bar an der Abe
 - Nächstes Heimspiel: 31.10.2026, 16:00 gegen BayerVolleys Leverkusen
 - Instagram: https://instagram.com/scu.volleyball
 - Website: https://scuvolleyball.de
-- Bewertung: 0 verkauft bereits online (Reservix (auch über ADticket gelistet)); +8 Preis 8 €; +8 Instagram vorhanden (DM möglich); +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
+- Bewertung: -15 verkauft bereits online (Reservix (auch über ADticket gelistet)); +8 Preis 8 €; +8 Instagram vorhanden (DM möglich); +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
 - Belegte Quellen: <https://scuvolleyball.de/tickets/>
 
-## DSHS SnowTrex Köln · 23 Punkte
+## DSHS SnowTrex Köln · 8 Punkte
 
 **Beobachtung:** „Kein Ticketverkauf vor Ort – Tickets nur online erhältlich!“ über ticket.io, 8 € / 4 €, Stornierung per Mail bis Donnerstag mittags. Sportlich-professionell aufgestellt (Sporthochschule).
 
@@ -157,46 +157,8 @@ Hi, ich hab gesehen, dass eure Jahreskarten per Mail bestellt und bar an der Abe
 - Preis: 8 €
 - Ansprechperson: Ticketing, tickets@dshs-snowtrex-koeln.de
 - Website: https://www.dshs-snowtrex-koeln.de
-- Bewertung: 0 verkauft bereits online (ticket.io (dshs-snowtrex-koeln.ticket.io)); +8 Preis 8 €; +8 Ansprechperson bekannt; +7 Einordnung sicher
+- Bewertung: -15 verkauft bereits online (ticket.io (dshs-snowtrex-koeln.ticket.io)); +8 Preis 8 €; +8 Ansprechperson bekannt; +7 Einordnung sicher
 - Belegte Quellen: <https://www.dshs-snowtrex-koeln.de/heimspiele_anreise/tickets/>
-
-## NawaRo Straubing · 21 Punkte
-
-**Beobachtung:** Ehemaliger Erstligist mit eigener GmbH; Tickets laufen über einen Online-Shop (vivenu, „Zum Ticketshop“ auf der Spiele-Seite), inkl. Dauerkarten und ermäßigter Vorverkaufspreise. Nächstes Heimspiel 3.10. gegen Düsseldorf.
-
-- Vorverkauf: anbieter (vivenu (vorher Cortex Tickets)), Sicherheit hoch
-- Halle: Turmair-Volleyballarena, Peterswöhrd 5, Straubing
-- Nächstes Heimspiel: 03.10.2026, 19:00 gegen Eintracht Spontent Düsseldorf
-- Ansprechperson: FTSV Volleyball GmbH, Ludwigsplatz 26, Straubing
-- Website: https://www.nawaro-straubing.de
-- Bewertung: 0 verkauft bereits online (vivenu (vorher Cortex Tickets)); +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; +7 Einordnung sicher
-- Belegte Quellen: <https://www.nawaro-straubing.de/spiele/>
-- ⚠ Nicht nachvollziehbare Quellen: https://nawaro.cortex-tickets.de/
-
-## Neuseenland-Volleys Markkleeberg · 19 Punkte
-
-**Beobachtung:** Eigener Vereinsticket-Shop mit QR-Tickets für alle Heimspiele 2026/27 (auch 3. Liga der zweiten Mannschaft), nächstes Heimspiel 3.10. gegen Grimma.
-
-- Vorverkauf: anbieter (Vereinsticket (tsg1903.vereinsticket.de)), Sicherheit hoch
-- Halle: Neuseenlandhalle Markkleeberg
-- Nächstes Heimspiel: 03.10.2026, 18:00 gegen ESA Grimma Volleys
-- Ansprechperson: Ticketing, ticket@neuseenland-volleys.de
-- Website: https://neuseenland-volleys.de
-- Bewertung: 0 verkauft bereits online (Vereinsticket (tsg1903.vereinsticket.de)); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
-- Belegte Quellen: <https://tsg1903.vereinsticket.de/vt-nvm/>
-- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ansprechperson
-
-## Sparkassen Wildcats Stralsund · 12 Punkte
-
-**Beobachtung:** Die Seite „Tickets“ unter Heimspiele bettet einen externen „Ticketshop“ ein, der ohne Cookie-Zustimmung blockiert wird; Preise stehen nicht im lesbaren Text. Nächstes Heimspiel am 14.11. gegen Markkleeberg in der Diesterweg-Sporthalle.
-
-- Vorverkauf: anbieter, Sicherheit mittel
-- Halle: Diesterweg-Sporthalle, Rudolf-Virchow-Str. 23, 18435 Stralsund
-- Nächstes Heimspiel: 14.11.2026, 17:00 Uhr gegen Neuseenland-Volleys Markkleeberg
-- Instagram: https://instagram.com/sparkassen.wildcats.stralsund
-- Website: https://www.vc-stralsund.de/wildcats/start
-- Bewertung: 0 verkauft bereits online (Anbieter unbekannt); +8 Instagram vorhanden (DM möglich); +4 nächstes Heimspiel bekannt
-- Belegte Quellen: <https://www.vc-stralsund.de/wildcats/tickets/>, <https://www.vc-stralsund.de/wildcats/spielplan/>
 
 ## Eintracht Spontent Düsseldorf · 7 Punkte
 
@@ -210,6 +172,44 @@ Hi, ich hab gesehen, dass eure Jahreskarten per Mail bestellt und bar an der Abe
 - Website: https://eintracht-spontent.de/
 - Bewertung: -20 Eintritt frei, nichts zu verkaufen; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
 - Belegte Quellen: <https://eintracht-spontent.de/>, <https://eintracht-spontent.de/faq>
+
+## NawaRo Straubing · 6 Punkte
+
+**Beobachtung:** Ehemaliger Erstligist mit eigener GmbH; Tickets laufen über einen Online-Shop (vivenu, „Zum Ticketshop“ auf der Spiele-Seite), inkl. Dauerkarten und ermäßigter Vorverkaufspreise. Nächstes Heimspiel 3.10. gegen Düsseldorf.
+
+- Vorverkauf: anbieter (vivenu (vorher Cortex Tickets)), Sicherheit hoch
+- Halle: Turmair-Volleyballarena, Peterswöhrd 5, Straubing
+- Nächstes Heimspiel: 03.10.2026, 19:00 gegen Eintracht Spontent Düsseldorf
+- Ansprechperson: FTSV Volleyball GmbH, Ludwigsplatz 26, Straubing
+- Website: https://www.nawaro-straubing.de
+- Bewertung: -15 verkauft bereits online (vivenu (vorher Cortex Tickets)); +4 nächstes Heimspiel bekannt; +10 Bayern, Besuch möglich; +7 Einordnung sicher
+- Belegte Quellen: <https://www.nawaro-straubing.de/spiele/>
+- ⚠ Nicht nachvollziehbare Quellen: https://nawaro.cortex-tickets.de/
+
+## Neuseenland-Volleys Markkleeberg · 4 Punkte
+
+**Beobachtung:** Eigener Vereinsticket-Shop mit QR-Tickets für alle Heimspiele 2026/27 (auch 3. Liga der zweiten Mannschaft), nächstes Heimspiel 3.10. gegen Grimma.
+
+- Vorverkauf: anbieter (Vereinsticket (tsg1903.vereinsticket.de)), Sicherheit hoch
+- Halle: Neuseenlandhalle Markkleeberg
+- Nächstes Heimspiel: 03.10.2026, 18:00 gegen ESA Grimma Volleys
+- Ansprechperson: Ticketing, ticket@neuseenland-volleys.de
+- Website: https://neuseenland-volleys.de
+- Bewertung: -15 verkauft bereits online (Vereinsticket (tsg1903.vereinsticket.de)); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
+- Belegte Quellen: <https://tsg1903.vereinsticket.de/vt-nvm/>
+- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ansprechperson
+
+## Sparkassen Wildcats Stralsund · 0 Punkte
+
+**Beobachtung:** Die Seite „Tickets“ unter Heimspiele bettet einen externen „Ticketshop“ ein, der ohne Cookie-Zustimmung blockiert wird; Preise stehen nicht im lesbaren Text. Nächstes Heimspiel am 14.11. gegen Markkleeberg in der Diesterweg-Sporthalle.
+
+- Vorverkauf: anbieter, Sicherheit mittel
+- Halle: Diesterweg-Sporthalle, Rudolf-Virchow-Str. 23, 18435 Stralsund
+- Nächstes Heimspiel: 14.11.2026, 17:00 Uhr gegen Neuseenland-Volleys Markkleeberg
+- Instagram: https://instagram.com/sparkassen.wildcats.stralsund
+- Website: https://www.vc-stralsund.de/wildcats/start
+- Bewertung: -15 verkauft bereits online (Anbieter unbekannt); +8 Instagram vorhanden (DM möglich); +4 nächstes Heimspiel bekannt
+- Belegte Quellen: <https://www.vc-stralsund.de/wildcats/tickets/>, <https://www.vc-stralsund.de/wildcats/spielplan/>
 
 ## VCO Dresden · 0 Punkte
 

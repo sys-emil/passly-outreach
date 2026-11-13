@@ -1,0 +1,68 @@
+{
+  "verein": {
+    "name": "SV Fellbach Flashers",
+    "ort": "Fellbach",
+    "land": "BW",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.basketball-fellbach.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Gäuäckersporthalle I Bühlstr. 141 70736 Fellbach",
+    "kapazitaet": 620,
+    "instagram": "flashers_basketball",
+    "ansprechperson": {
+      "name": "Andreas Tsiminos",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "andreas.tsiminos@flashers.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Vereinsticket (2. Basketball-Bundesliga-Ticketlink: https://svfellbach.vereinsticket.de/).",
+    "quellen": [
+      "https://www.2basketballbundesliga.de/kader/582",
+      "https://www.basketball-fellbach.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.2basketballbundesliga.de/kader/582",
+      "https://www.basketball-fellbach.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. 2. Basketball-Bundesliga-Name „SV Fellbach Flashers“. Gelesen: https://www.basketball-fellbach.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.2basketballbundesliga.de/kader/582",
+      "https://www.basketball-fellbach.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/582"
+        ],
+        "anbieter": [
+          "https://www.2basketballbundesliga.de/kader/582",
+          "https://www.basketball-fellbach.de/"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/582"
+        ],
+        "instagram": [
+          "https://www.basketball-fellbach.de/"
+        ]
+      }
+    }
+  }
+}

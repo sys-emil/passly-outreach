@@ -1,0 +1,73 @@
+{
+  "verein": {
+    "name": "LOK BERNAU",
+    "ort": "Bernau",
+    "land": "BB",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.ssv-lok-bernau.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vivenu (eigener „LOK Ticket Shop“ unter get.lok-tickets.de, Bilder über render.vivenu.com)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 12,
+    "halle": "Sparkassen-Arena Bernau Ladeburger Chaussee 2 16321 Bernau",
+    "kapazitaet": 2500,
+    "instagram": "lokbernau",
+    "ansprechperson": {
+      "name": "Mike Marschke",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "mike.marschke@bernau-basketball.gmbh"
+    },
+    "naechstes_heimspiel": "So, 15.11.2026, 17:00 Uhr gegen BSW Sixers, Sparkassen-Arena Bernau",
+    "beobachtung": "Heimspiel gegen die BSW Sixers am 15.11., Einzeltickets 12 bis 15 € (online ermäßigt ab 9 €) und Dauerkarten ab 99 € im eigenen LOK Ticket Shop get.lok-tickets.de.",
+    "quellen": [
+      "https://www.ssv-lok-bernau.de/tickets/",
+      "https://get.lok-tickets.de/p/startseite",
+      "https://www.2basketballbundesliga.de/kader/513"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.ssv-lok-bernau.de/tickets/",
+      "https://get.lok-tickets.de/p/startseite",
+      "https://www.2basketballbundesliga.de/kader/513"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag „keiner“ korrigiert: Ticketseite verlinkt den eigenen Shop get.lok-tickets.de mit Heimspielen (15.11., 5.12., 13.12., 3.1.) und Dauerkarten. Anbieter Vivenu nur erschlossen aus den Bild-URLs (render.vivenu.com), im Shop nicht ausdrücklich genannt. Preise Ticketseite: PK1 15 €, PK2 12 €, Fanblock 12 €, online ermäßigt 9–12 €; ticketpreis_eur = PK2/Fanblock regulär. Abendkassenpreise nicht genannt. Instagram von der Ticketseite. Kapazität 2500 laut Kaderseite der Liga, nicht selbst abgerufen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.ssv-lok-bernau.de/tickets/",
+      "https://get.lok-tickets.de/p/startseite",
+      "https://www.2basketballbundesliga.de/kader/513"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.ssv-lok-bernau.de/tickets/"
+        ],
+        "instagram": [
+          "https://www.ssv-lok-bernau.de/tickets/"
+        ],
+        "anbieter": [
+          "https://get.lok-tickets.de/p/startseite"
+        ],
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/513"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/513"
+        ]
+      }
+    }
+  }
+}

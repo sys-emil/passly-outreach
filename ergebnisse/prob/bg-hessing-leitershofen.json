@@ -1,0 +1,77 @@
+{
+  "verein": {
+    "name": "BG Hessing Leitershofen",
+    "ort": "Augsburg",
+    "land": "BY",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.hessing-kangaroos.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Mehrzweckhalle Stadtbergen Am Sportpark 1 86391 Stadtbergen",
+    "kapazitaet": 1500,
+    "instagram": "kangaroos_official",
+    "ansprechperson": {
+      "name": "Wayne Chicho Pittman",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "pittman@hessing-kangaroos.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website verlinkt in Menü und Spielplan „Online-Tickets“, die Seite /tickets/ zeigt aber nur eine Anmeldung zum Public Viewing vom 24.01.2026; kein Shop, keine Preise, keine Abendkasse genannt, die Hallenseite erwähnt nur eine neue feste Sitzplatzzuordnung.",
+    "quellen": [
+      "https://hessing-kangaroos.de/tickets/",
+      "https://www.hessing-kangaroos.de/tickets",
+      "https://hessing-kangaroos.de/spielplan-2/",
+      "https://hessing-kangaroos.de/halle/",
+      "https://www.2basketballbundesliga.de/kader/573"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://hessing-kangaroos.de/tickets/",
+      "https://www.hessing-kangaroos.de/tickets",
+      "https://hessing-kangaroos.de/spielplan-2/",
+      "https://hessing-kangaroos.de/halle/",
+      "https://www.2basketballbundesliga.de/kader/573"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag keine_angabe bestätigt: Ticketseite enthält keinen eingebetteten Shop und keinen Cookie-Platzhalter mit Anbieternamen (nur „Privatsphäre-Einstellungen“); Fanshop shop.siegmund.sport ist Merchandise. Heimspieltermine stehen nur als Bild (Heimspiele-2627.jpg) im Spielplan, daher kein nächstes Heimspiel. Hallenseite nennt „Sporthalle Stadtbergen, Am Sportpark 2“, gleiche Halle wie VBL-Angabe, VBL-Adresse beibehalten. Instagram aus dem Vorlauf übernommen, in meinen Abrufen nicht erneut geprüft. Ob die „feste Sitzplatzzuordnung“ Dauerkarten meint, ist offen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://hessing-kangaroos.de/tickets/",
+      "https://www.hessing-kangaroos.de/tickets",
+      "https://hessing-kangaroos.de/spielplan-2/",
+      "https://hessing-kangaroos.de/halle/",
+      "https://www.2basketballbundesliga.de/kader/573"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "instagram": [
+          "https://hessing-kangaroos.de/tickets/",
+          "https://www.hessing-kangaroos.de/tickets",
+          "https://hessing-kangaroos.de/spielplan-2/",
+          "https://hessing-kangaroos.de/halle/"
+        ],
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/573"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/573"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, in eurem Menü steht „Online-Tickets“, die Seite dahinter zeigt aber nur die Anmeldung zum Public Viewing vom Januar. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link für Website und Instagram, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten?\n\n**Telefonleitfaden**\n\n- Wen: Wayne Chicho Pittman, Verantwortlicher laut Liga, pittman@hessing-kangaroos.de.\n- Einstieg: Link „Online-Tickets“ führt auf eine alte Public-Viewing-Anmeldung, keine Preise, kein Shop; Mehrzweckhalle Stadtbergen mit 1.500 Plätzen.\n- Frage: Wie verkauft ihr gerade, und was hat es mit der neuen festen Sitzplatzzuordnung auf sich? (Passly kennt Bereiche mit eigenem Kontingent, keine Platzwahl im Saalplan.)\n- Angebot: Ich richte das nächste Heimspiel kostenlos ein und ihr verlinkt es unter „Online-Tickets“.\n- Abschluss: Treffen vor Ort in Stadtbergen vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken."
+}

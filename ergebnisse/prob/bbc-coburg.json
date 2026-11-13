@@ -1,0 +1,72 @@
+{
+  "verein": {
+    "name": "BBC Coburg",
+    "ort": "Coburg",
+    "land": "BY",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.bbc-coburg.com",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "HUK-COBURG arena Oudenaarder Straße 1 96450 Coburg Webseite",
+    "kapazitaet": 3489,
+    "instagram": "bbc_coburg",
+    "ansprechperson": {
+      "name": "Wolfgang Gremmelmaier",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "wolfgang.gremmelmaier@bbc-coburg.com"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim Light (eingebunden auf https://www.bbc-coburg.com/tickets/: https://www.bbc-coburg.com/tickets/).",
+    "quellen": [
+      "https://www.bbc-coburg.com/tickets/",
+      "https://www.bbc-coburg.com/",
+      "https://www.2basketballbundesliga.de/kader/559"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.bbc-coburg.com/tickets/",
+      "https://www.bbc-coburg.com/",
+      "https://www.2basketballbundesliga.de/kader/559"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. 2. Basketball-Bundesliga-Name „BBC Coburg“. Gelesen: https://www.bbc-coburg.com/, https://www.bbc-coburg.com/spieltagseinleger/, https://www.bbc-coburg.com/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.bbc-coburg.com/tickets/",
+      "https://www.bbc-coburg.com/",
+      "https://www.2basketballbundesliga.de/kader/559"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.bbc-coburg.com/tickets/"
+        ],
+        "instagram": [
+          "https://www.bbc-coburg.com/tickets/",
+          "https://www.bbc-coburg.com/",
+          "https://www.2basketballbundesliga.de/kader/559"
+        ],
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/559"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/559"
+        ]
+      }
+    }
+  }
+}

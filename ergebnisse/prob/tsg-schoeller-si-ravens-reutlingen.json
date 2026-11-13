@@ -1,0 +1,70 @@
+{
+  "verein": {
+    "name": "TSG Schöller SI Ravens Reutlingen",
+    "ort": "Reutlingen",
+    "land": "BW",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.ravens-reutlingen.net",
+    "vorverkauf": "anbieter",
+    "anbieter": "ditix (ravens.ditix.shop)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 14,
+    "halle": "Oskar-Kalbfell-Sporthalle Kanzleistraße 30 72764 Reutlingen",
+    "kapazitaet": 1400,
+    "instagram": "schoeller_si_ravens",
+    "ansprechperson": {
+      "name": "Georgios Tsouknidis",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "jorgo.tsuknidis@tsg-reutlingen.de"
+    },
+    "naechstes_heimspiel": "So 15.11.2026, 17:00 Uhr gegen TSV Oberhaching Tropics, Oskar-Kalbfell-Halle",
+    "beobachtung": "Karten online beim Ticketpartner ditix (ravens.ditix.shop) für 14 € (Abendkasse 15 €, ermäßigt 10/11 €, Kinder 7–14 8/9 €), Dauerkarten ebenfalls im ditix-Shop; nächstes Heimspiel am 15.11. gegen Oberhaching.",
+    "quellen": [
+      "https://www.ravens-reutlingen.net/tickets/",
+      "https://www.2basketballbundesliga.de/kader/591"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.ravens-reutlingen.net/tickets/",
+      "https://www.2basketballbundesliga.de/kader/591"
+    ],
+    "quellen_nicht_nachvollziehbar": [],
+    "quellen_nur_suchtreffer": [],
+    "notiz": "Vorschlag keine_angabe war falsch: die Ticketseite nennt ditix als Ticketpartner mit Shop ravens.ditix.shop plus Abendkasse. Kapazität „bis 1.400 Plätze“ von der Vereinsseite. Instagram korrigiert: youandmestudio.reutlingen ist ein Partnerkonto, der Verein nennt @schoeller_si_ravens. Ticketseite zeigt als „Nächstes Heimspiel“ noch Weimar 03.10. (veraltet); nächstes Heimspiel nach heute aus der Heimspielliste derselben Seite. Weitere Kontakte: info@tsg-reutlingen.de, Geschäftsstelle 07121 33 42 50.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.ravens-reutlingen.net/tickets/",
+      "https://www.2basketballbundesliga.de/kader/591"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.ravens-reutlingen.net/tickets/"
+        ],
+        "kapazitaet": [
+          "https://www.ravens-reutlingen.net/tickets/"
+        ],
+        "anbieter": [
+          "https://www.ravens-reutlingen.net/tickets/"
+        ],
+        "instagram": [
+          "https://www.ravens-reutlingen.net/tickets/"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/591"
+        ]
+      }
+    }
+  }
+}

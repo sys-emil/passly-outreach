@@ -1,0 +1,71 @@
+{
+  "verein": {
+    "name": "BSW Sixers",
+    "ort": "Sandersdorf-Brehna",
+    "land": "ST",
+    "liga": "prob",
+    "liga_name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.bsw-sixers.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "online-ticket.de (white label eCommerce GmbH), eigener Shop unter bsw-sixers.online-ticket.de",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 12,
+    "halle": "Ballsporthalle in Sandersdorf Am Sportzentrum 25 06792 Sandersdorf-Brehna",
+    "kapazitaet": 950,
+    "instagram": "bswsixers_official",
+    "ansprechperson": {
+      "name": "Maik Leuschner",
+      "rolle": "Verantwortlicher (laut 2. Basketball-Bundesliga)",
+      "kontakt": "maik.leuschner@bsw-sixers.de"
+    },
+    "naechstes_heimspiel": "Sa, 21.11.2026, 18:00 Uhr gegen EN Baskets Schwelm, Ballsporthalle Sandersdorf",
+    "beobachtung": "Heimspiel gegen EN Baskets Schwelm am 21.11., Tickets ab 12 € im Online-Shop bsw-sixers.online-ticket.de; die Spiele ab 12.12. stehen dort noch als „Bald im Vorverkauf“.",
+    "quellen": [
+      "https://bsw-sixers.online-ticket.de/index.php",
+      "https://www.2basketballbundesliga.de/kader/545"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://bsw-sixers.online-ticket.de/index.php",
+      "https://www.2basketballbundesliga.de/kader/545"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag „manuell“ korrigiert: echter Online-Shop auf online-ticket.de (Plattform white label eCommerce GmbH laut Copyright/Cookie-Tabelle) mit allen 9 Heimspielen, Preis „ab 12,00 €“ ohne Kategorien. Heutiges Heimspiel 13.11. gegen Neustadt nicht als nächstes gezählt. Dauerkarten im Shop nicht erwähnt. Kapazität 950 laut Kaderseite der Liga, diese Seite selbst in dieser Sitzung nicht abgerufen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://bsw-sixers.online-ticket.de/index.php",
+      "https://www.2basketballbundesliga.de/kader/545"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://bsw-sixers.online-ticket.de/index.php"
+        ],
+        "anbieter": [
+          "https://bsw-sixers.online-ticket.de/index.php",
+          "https://www.2basketballbundesliga.de/kader/545"
+        ],
+        "instagram": [
+          "https://bsw-sixers.online-ticket.de/index.php"
+        ],
+        "kapazitaet": [
+          "https://www.2basketballbundesliga.de/kader/545"
+        ],
+        "ansprechperson": [
+          "https://www.2basketballbundesliga.de/kader/545"
+        ]
+      }
+    }
+  }
+}

@@ -15,7 +15,8 @@ export function bewerte(r) {
     // Wer einen Shop hat, verlinkt ihn; eine Vereinsseite ohne jedes Wort zu Tickets ist fast immer Abendkasse.
     case 'keine_angabe': add(30, 'Website ohne Ticketangabe, kein Shop verlinkt'); break;
     case 'unbekannt': add(15, 'Vorverkauf nicht feststellbar'); break;
-    case 'anbieter': add(0, `verkauft bereits online (${e.anbieter ?? 'Anbieter unbekannt'})`); break;
+    // −15 statt 0 (2026-11-13, ProB): mit bekannter Kapazität kam ein Verein mit Shop sonst über die Entwurfsschwelle.
+    case 'anbieter': add(-15, `verkauft bereits online (${e.anbieter ?? 'Anbieter unbekannt'})`); break;
     case 'eintritt_frei': add(-20, 'Eintritt frei, nichts zu verkaufen'); break;
   }
   if (e.eintritt_frei === true && e.vorverkauf !== 'eintritt_frei') add(-20, 'Eintritt frei');
@@ -35,7 +36,7 @@ export function bewerte(r) {
   else if (e.sicherheit === 'niedrig') add(-10, 'Einordnung unsicher');
   if (r.meta.quellen_belegt.length === 0) add(-10, 'keine belegte Quelle');
   // Zweit- und Nachwuchsteams verkaufen fast nie selbst (Shop und Konto gehören der ersten Mannschaft).
-  if (/\bII\b|\bBSP\b|\bVCO\b|YoungStars|Junior/i.test(r.verein.name)) add(-25, 'Zweit- oder Nachwuchsteam');
+  if (/\bII\b|\bBSP\b|\bVCO\b|\bBBA\b|YoungStars|Junior|Academy|Akademie/i.test(r.verein.name)) add(-25, 'Zweit- oder Nachwuchsteam');
 
   return { punkte: Math.max(0, Math.min(100, p)), gruende };
 }

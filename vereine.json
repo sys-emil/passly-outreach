@@ -385,6 +385,15 @@
         "url": "https://gfl.info/gfl2/teams/"
       },
       "vereine": []
+    },
+    "prob": {
+      "name": "ProB (2. Basketball-Bundesliga, Nord und Süd)",
+      "sport": "Basketball",
+      "quelle": {
+        "typ": "2bbl",
+        "url": "https://www.2basketballbundesliga.de/teams/?league=ProB"
+      },
+      "vereine": []
     }
   }
 }
