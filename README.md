@@ -10,6 +10,9 @@ passly-outreach/
   anleitung/        Auftrag, Entwurfsregeln, Schema; von Skript UND Claude-Code-Sitzung gelesen
   CLAUDE.md         derselbe Agent als Claude-Code-Sitzung (lokal oder Cloud, ohne API-Key)
   bericht.mjs       Bewertung, CSV, Markdown-Rangliste, Nachrichtenentwürfe
+  bewertung.mjs     die Punkteformel (von Bericht und Übersicht gemeinsam genutzt)
+  uebersicht.mjs    schreibt uebersicht.html: alle Staffeln, Kategorien, Punkte, E-Mail, Entwürfe
+  uebersicht.html   HIER STEHEN DIE ERGEBNISSE (npm run uebersicht öffnet sie)
   ergebnisse/<liga>/<verein>.json   ein Datensatz pro Verein (wird nicht überschrieben)
   bericht/<liga>.csv, <liga>.md     das, womit du arbeitest
 ```
@@ -56,9 +59,13 @@ Zwei Sicherungen:
 
 Der Entwurf (DM plus Telefonleitfaden) ist der einzige Schritt, in dem das Modell formuliert. Er darf nur Fakten aus dem Ergebnis verwenden, keine Gedankenstriche, keine Vergleiche mit anderen Anbietern, keine Referenz ohne Freigabe.
 
+## Mails
+
+In Claude Code: „Mail für <Verein> vorbereiten". Regeln in `anleitung/mail.md` (Betreff höchstens 6 Wörter, höchstens 110 Wörter, zwei bis drei konkrete Vorschläge), Produktfakten aus `tokn-on-sol/scripts/blog/fakten.md` (Kopie für die Cloud: `anleitung/passly-fakten.md`, nachziehen mit `npm run fakten`). Die Mail landet in der Vereinsdatei und in der Übersicht, mit Kopieren und „In Mail-App öffnen". Verschickt wird sie von dir.
+
 ## Rechtliches, kurz
 
-Unverlangte Werbe-E-Mails sind nach § 7 Abs. 2 UWG auch an Vereine und Unternehmen unzulässig (Abmahnrisiko). Deshalb erzeugt das Skript keine Mails und sendet nichts. Zulässig und wirksamer: persönliche Instagram-DM, Anruf bei einem Verein, dessen Kerngeschäft das Thema ist (mutmaßliche Einwilligung im B2B), Postkarte, Empfehlung über Verband oder Pilotkunden.
+Unverlangte Werbe-E-Mails sind nach § 7 Abs. 2 UWG auch an Vereine und Unternehmen unzulässig (Abmahnrisiko). Deshalb sendet nichts hier etwas, und die Mail-Entwürfe sind fürs Nachfassen nach einem ersten Kontakt gedacht. Zulässig und wirksamer: persönliche Instagram-DM, Anruf bei einem Verein, dessen Kerngeschäft das Thema ist (mutmaßliche Einwilligung im B2B), Postkarte, Empfehlung über Verband oder Pilotkunden.
 
 ## Nächste Ausbaustufen
 

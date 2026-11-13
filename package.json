@@ -6,7 +6,9 @@
   "scripts": {
     "recherche": "node --env-file-if-exists=.env recherche.mjs",
     "pruefe": "node pruefe.mjs",
-    "bericht": "node --env-file-if-exists=.env bericht.mjs"
+    "bericht": "node --env-file-if-exists=.env bericht.mjs",
+    "uebersicht": "node uebersicht.mjs",
+    "fakten": "{ echo \"<!-- Kopie von tokn-on-sol/scripts/blog/fakten.md, Stand $(date +%F). Lokal immer das Original lesen; diese Kopie ist nur für Cloud-Sitzungen ohne das Hauptrepo. Nachziehen: npm run fakten -->\"; cat ../tokn-on-sol/scripts/blog/fakten.md; } > anleitung/passly-fakten.md"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.127.0"

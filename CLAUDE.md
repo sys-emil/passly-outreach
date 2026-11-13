@@ -5,6 +5,10 @@ die **selbst** der Recherche-Agent ist. Du erledigst hier, was `recherche.mjs` �
 Anthropic-API tut, nur mit deinen eigenen Werkzeugen WebSearch und WebFetch. So läuft die
 Recherche über Claude-Code-Kontingent statt über API-Guthaben.
 
+**Wo die Ergebnisse stehen:** `uebersicht.html` (alle Staffeln, nach Kategorien,
+Punkte mit Begründung, E-Mail, Entwürfe). Öffnen mit `npm run uebersicht`; sie baut
+sich bei jedem `npm run bericht` neu. `bericht/<liga>.md` und `.csv` bleiben daneben.
+
 **Verschickt wird nichts.** Keine Mail, keine DM, kein Formular. Du lieferst Fakten,
 Rangfolge und Entwürfe; Emil nimmt den Kontakt selbst auf (§ 7 UWG, siehe README).
 
@@ -61,7 +65,8 @@ einzelnen Verein, optional eine freigegebene Referenz. Ohne Angabe: `vbl-pro`.
    - Das Skript kann `sicherheit` auf `niedrig` setzen. Das ist gewollt; nicht zurückdrehen.
 
 5. **Bewerten:** `npm run bericht -- --liga <liga> --ohne-entwuerfe` (keine API, kein
-   `npm install` nötig). Die Punkte rechnet das Skript, nicht du.
+   `npm install` nötig). Die Punkte rechnet das Skript (`bewertung.mjs`), nicht du.
+   Schreibt auch `uebersicht.html` neu.
 
 6. **Entwürfe** für jeden Verein ab 45 Punkten ohne vorhandenen `entwurf`: genau nach
    `anleitung/entwurf.md` schreiben und als Markdown-Text im Feld `entwurf` (oberste Ebene der
@@ -71,12 +76,29 @@ einzelnen Verein, optional eine freigegebene Referenz. Ohne Angabe: `vbl-pro`.
      `bericht.mjs` sinngemäß: „<Verein> aus derselben Liga nutzt Passly bereits."
    Danach Schritt 5 wiederholen, damit die Entwürfe im Bericht stehen.
 
-7. **Abschließen:** `ergebnisse/<liga>/` und `bericht/<liga>.*` committen
+7. **Abschließen:** `ergebnisse/<liga>/`, `bericht/<liga>.*` und `uebersicht.html` committen
    („Recherche <liga>: N Vereine") und pushen. Im Abschluss: Rangliste der oberen fünf,
    welche Vereine `pruefe` auf `niedrig` gesetzt hat, und was offen blieb.
 
+## Auftrag: Mail für einen Verein
+
+Emil sagt z. B. „Mail für TV SUSPA Altdorf vorbereiten".
+
+1. Datei finden: `ergebnisse/*/<slug>.json` (Slug-Regel oben; ungenaue Namen wie
+   „Altdorf" per `grep -il` über die Dateien auflösen, bei mehreren Treffern fragen).
+2. `anleitung/mail.md` lesen und genau danach schreiben. Produktfakten aus
+   `~/Developer/tokn-on-sol/scripts/blog/fakten.md`, in der Cloud aus
+   `anleitung/passly-fakten.md`.
+3. Als `mail` in die Vereinsdatei schreiben (Form in `mail.md`), eine vorhandene Mail
+   nur ersetzen, wenn Emil „neu" sagt. Dann `npm run uebersicht -- --ohne-oeffnen`.
+4. Im Chat zeigen: Betreff, Text, Empfänger, und welche Fakten aus der Recherche
+   die Vorschläge tragen. Fehlt eine belegte E-Mail-Adresse, das sagen und den Weg
+   nennen (Website, Kontaktseite), statt eine Adresse zu raten.
+5. Committen („Mail: <Verein>"). Verschickt wird nichts; auch keinen Gmail-Entwurf
+   anlegen, außer Emil sagt es ausdrücklich.
+
 ## Nicht ändern
 
-`recherche.mjs`, `pruefe.mjs`, `bericht.mjs`, `anleitung/` und `vereine.json` sind während
+`recherche.mjs`, `pruefe.mjs`, `bericht.mjs`, `bewertung.mjs`, `anleitung/` und `vereine.json` sind während
 eines Rechercheauftrags tabu. Scheint eine Regel falsch, sag es im Abschluss, statt sie
 anzupassen. Die Bewertung soll über Läufe hinweg vergleichbar bleiben.
