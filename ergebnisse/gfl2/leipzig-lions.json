@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "Leipzig Lions",
+    "ort": "Leipzig Telefon",
+    "land": "SN",
+    "liga": "gfl2",
+    "liga_name": "GFL2 (2. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://leipzig-lions.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Sportpark Camillo Ugi Städtelner Str. 101 04416 Markkleeberg",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Leipzig Lions e.V. Am Sportforum",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "praesidium@leipzig-lions.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://leipzig-lions.de/tickets/: https://leipzig-lions.de/tickets/).",
+    "quellen": [
+      "https://leipzig-lions.de/tickets/",
+      "https://gfl.info/gfl2/teams/leipzig-lions/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://leipzig-lions.de/tickets/",
+      "https://gfl.info/gfl2/teams/leipzig-lions/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Leipzig Lions“. Gelesen: https://leipzig-lions.de/, https://leipzig-lions.de/tickets/, https://leipzig-lions.de/2026/08/19/heimspiel-highlight-zum-saisonfinale/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://leipzig-lions.de/tickets/",
+      "https://gfl.info/gfl2/teams/leipzig-lions/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://leipzig-lions.de/tickets/",
+          "https://gfl.info/gfl2/teams/leipzig-lions/"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/gfl2/teams/leipzig-lions/"
+        ]
+      }
+    }
+  }
+}

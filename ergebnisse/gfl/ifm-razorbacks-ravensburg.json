@@ -1,0 +1,73 @@
+{
+  "verein": {
+    "name": "ifm Razorbacks Ravensburg",
+    "ort": "Altshausen E-Mail",
+    "land": "BW",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://ifm-razorbacks.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "TeleData Stadion am Lindenhof Weingarten Ettishoferstr. 51 88250 Weingarten",
+    "kapazitaet": null,
+    "instagram": "ifmrazorbacks",
+    "ansprechperson": {
+      "name": "ifm Razorbacks Ravensburg Im Brühl",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "office@ifm-razorbacks.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://ifm-razorbacks.de/tickets/: https://ifm-razorbacks.de/tickets/).",
+    "quellen": [
+      "https://ifm-razorbacks.de/tickets/",
+      "https://ifm-razorbacks.de/",
+      "https://gfl.info/teams/ifm-razorbacks-ravensburg/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://ifm-razorbacks.de/tickets/",
+      "https://ifm-razorbacks.de/",
+      "https://gfl.info/teams/ifm-razorbacks-ravensburg/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „ifm Razorbacks Ravensburg“. Gelesen: https://ifm-razorbacks.de/, https://ifm-razorbacks.de/tickets/, https://ifm-razorbacks.de/calendar/heimspiele-gfl/, https://ifm-razorbacks.de/tag/heimspiel/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://ifm-razorbacks.de/tickets/",
+      "https://ifm-razorbacks.de/",
+      "https://gfl.info/teams/ifm-razorbacks-ravensburg/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://ifm-razorbacks.de/tickets/",
+          "https://ifm-razorbacks.de/",
+          "https://gfl.info/teams/ifm-razorbacks-ravensburg/"
+        ],
+        "instagram": [
+          "https://ifm-razorbacks.de/tickets/",
+          "https://ifm-razorbacks.de/",
+          "https://gfl.info/teams/ifm-razorbacks-ravensburg/"
+        ],
+        "ansprechperson": [
+          "https://ifm-razorbacks.de/tickets/",
+          "https://ifm-razorbacks.de/",
+          "https://gfl.info/teams/ifm-razorbacks-ravensburg/"
+        ]
+      }
+    }
+  }
+}

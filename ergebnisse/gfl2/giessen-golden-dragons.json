@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "Gießen Golden Dragons",
+    "ort": "Gießen E-Mail",
+    "land": "HE",
+    "liga": "gfl2",
+    "liga_name": "GFL2 (2. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://www.giessengoldendragons.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Stadion am Ried Philosophenstraße 40 35396 Gießen-Wieseck",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Gießen Golden Dragons MTV",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "info@giessengoldendragons.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim Light (GFL-Ticketlink: https://www.eventim-light.com/de/a/60de01ab542aaa2ac817b8b0/).",
+    "quellen": [
+      "https://gfl.info/gfl2/teams/giessen-golden-dragons/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://gfl.info/gfl2/teams/giessen-golden-dragons/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Gießen Golden Dragons“. Gelesen: https://giessengoldendragons.de/, https://giessengoldendragons.de/dragons-empfangen-fighting-farmers-zum-wichtigen-heimspiel/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://gfl.info/gfl2/teams/giessen-golden-dragons/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://gfl.info/gfl2/teams/giessen-golden-dragons/"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/gfl2/teams/giessen-golden-dragons/"
+        ]
+      }
+    }
+  }
+}

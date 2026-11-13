@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "Regensburg Phoenix",
+    "ort": "Regensburg",
+    "land": "BY",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://regensburg-phoenix.com/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets (eingebetteter „VBO Tickeshop“ auf /gameday/online-tickets/)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Städtische Sportanlage am Weinweg, Weinweg 32, 93049 Regensburg",
+    "kapazitaet": null,
+    "instagram": "regensburg_phoenix",
+    "ansprechperson": {
+      "name": "Regensburg Phoenix e.V.",
+      "rolle": "Vereinskontakt (laut GFL und Vereinsseite)",
+      "kontakt": "info@regensburg-phoenix.com"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Unter „Gameday > Online-Tickets“ („Jetzt Tickets sichern!“) ist ein VBO-Ticketshop eingebettet, der erst nach Einwilligung lädt; Preise stehen auf der Vereinsseite nicht.",
+    "quellen": [
+      "https://www.regensburg-phoenix.com/gameday/online-tickets/",
+      "https://www.regensburg-phoenix.com/gameday/",
+      "https://www.regensburg-phoenix.com/gameday/stadion/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.regensburg-phoenix.com/gameday/online-tickets/",
+      "https://www.regensburg-phoenix.com/gameday/",
+      "https://www.regensburg-phoenix.com/gameday/stadion/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag „keine_angabe“ war falsch: Der Vorlauf sah den Shop nicht, weil das VBO-Widget hinter einem Consent-Platzhalter liegt. Inhalt des Shops (Spiele, Preise) nicht lesbar, und außerhalb der Saison wäre er vermutlich ohnehin leer; dass er in der Saison 2026 tatsächlich verkaufte, ist daher nur aus der Einbindung geschlossen (sicherheit mittel). Instagram regensburg_phoenix laut Vorlauf von der Vereinsseite (Herrenteam-Konto; daneben ladies/juniors/flag/cheerleader). Keine Preise, Tageskasse oder Kapazität auf Gameday- und Stadionseite. Ort im Vorlauf („Regensburg E-Mail“) bereinigt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.regensburg-phoenix.com/gameday/online-tickets/",
+      "https://www.regensburg-phoenix.com/gameday/",
+      "https://www.regensburg-phoenix.com/gameday/stadion/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.regensburg-phoenix.com/gameday/online-tickets/",
+          "https://www.regensburg-phoenix.com/gameday/",
+          "https://www.regensburg-phoenix.com/gameday/stadion/"
+        ],
+        "instagram": [],
+        "ansprechperson": []
+      }
+    }
+  }
+}

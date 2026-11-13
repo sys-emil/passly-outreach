@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "Saarland Hurricanes",
+    "ort": "Saarbrücken E-Mail",
+    "land": "SL",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://saarland-hurricanes.eu/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Sportstätte: Ellenfeldstadion Neunkirchen Mantes-La-Ville-Platz 12 66538 Neunkirchen",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Saarland Hurricanes Saarland Hurricanes e.V. St. Johanner Str.",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "vorstand@saarland-hurricanes.eu"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://saarland-hurricanes.eu/tickets/: https://saarland-hurricanes.eu/tickets/).",
+    "quellen": [
+      "https://saarland-hurricanes.eu/tickets/",
+      "https://gfl.info/teams/saarland-hurricanes/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://saarland-hurricanes.eu/tickets/",
+      "https://gfl.info/teams/saarland-hurricanes/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Saarland Hurricanes“. Gelesen: https://saarland-hurricanes.eu/, https://saarland-hurricanes.eu/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://saarland-hurricanes.eu/tickets/",
+      "https://gfl.info/teams/saarland-hurricanes/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://saarland-hurricanes.eu/tickets/",
+          "https://gfl.info/teams/saarland-hurricanes/"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/teams/saarland-hurricanes/"
+        ]
+      }
+    }
+  }
+}

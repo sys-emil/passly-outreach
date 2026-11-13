@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "Elmshorn Fighting Pirates",
+    "ort": "Elmshorn E-Mail",
+    "land": "SH",
+    "liga": "gfl2",
+    "liga_name": "GFL2 (2. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://fighting-pirates.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Krückaustadion Elmshorn Zum Krückaupark 7 25337 Elmshorn",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Elmshorner Männer-Turn-Verein von",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "medien@fighting-pirates.net"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://fighting-pirates.de/tickets/: https://fighting-pirates.de/tickets/).",
+    "quellen": [
+      "https://fighting-pirates.de/tickets/",
+      "https://gfl.info/gfl2/teams/elmshorn-fighting-pirates/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://fighting-pirates.de/tickets/",
+      "https://gfl.info/gfl2/teams/elmshorn-fighting-pirates/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Elmshorn Fighting Pirates“. Mehrere Instagram-Konten verlinkt: maniacs_cheerleader, fightingpirates. Gelesen: https://fighting-pirates.de/, https://fighting-pirates.de/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://fighting-pirates.de/tickets/",
+      "https://gfl.info/gfl2/teams/elmshorn-fighting-pirates/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://fighting-pirates.de/tickets/",
+          "https://gfl.info/gfl2/teams/elmshorn-fighting-pirates/"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/gfl2/teams/elmshorn-fighting-pirates/"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "Biberach Beavers",
+    "ort": "Biberach",
+    "land": "BW",
+    "liga": "gfl2",
+    "liga_name": "GFL2 (2. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://www.biberachbeavers.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Wix Events",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Stadion an der Adenauerallee Wilhelm-Leger-Straße 88400 Biberach an der Riß",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "TG Biberach",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "presse@biberachbeavers.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Wix Events (Wix-Events-Shop auf https://www.biberachbeavers.de/: https://www.biberachbeavers.de/).",
+    "quellen": [
+      "https://www.biberachbeavers.de/",
+      "https://gfl.info/gfl2/teams/biberach-beavers/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.biberachbeavers.de/",
+      "https://gfl.info/gfl2/teams/biberach-beavers/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Biberach Beavers“. Gelesen: https://www.biberachbeavers.de/, https://shop.biberachbeavers.de/pages/ticket.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.biberachbeavers.de/",
+      "https://gfl.info/gfl2/teams/biberach-beavers/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.biberachbeavers.de/",
+          "https://gfl.info/gfl2/teams/biberach-beavers/"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/gfl2/teams/biberach-beavers/"
+        ]
+      }
+    }
+  }
+}

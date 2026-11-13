@@ -1,0 +1,71 @@
+{
+  "verein": {
+    "name": "Augsburg Centurions",
+    "ort": "Augsburg E-Mail",
+    "land": "BY",
+    "liga": "gfl2",
+    "liga_name": "GFL2 (2. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://www.augsburg-centurions.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Rosenaustadion, Stadionstraße 21, 86159 Augsburg",
+    "kapazitaet": null,
+    "instagram": "augsburgcenturions",
+    "ansprechperson": {
+      "name": "TSG",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "info@augsburg-centurions.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://www.augsburg-centurions.de/tickets/: https://www.augsburg-centurions.de/tickets/).",
+    "quellen": [
+      "https://www.augsburg-centurions.de/tickets/",
+      "https://www.augsburg-centurions.de/",
+      "https://gfl.info/gfl2/teams/augsburg-centurions/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.augsburg-centurions.de/tickets/",
+      "https://www.augsburg-centurions.de/",
+      "https://gfl.info/gfl2/teams/augsburg-centurions/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Augsburg Centurions“. Gelesen: https://www.augsburg-centurions.de/, https://www.augsburg-centurions.de/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.augsburg-centurions.de/tickets/",
+      "https://www.augsburg-centurions.de/",
+      "https://gfl.info/gfl2/teams/augsburg-centurions/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.augsburg-centurions.de/tickets/",
+          "https://www.augsburg-centurions.de/",
+          "https://gfl.info/gfl2/teams/augsburg-centurions/"
+        ],
+        "instagram": [
+          "https://www.augsburg-centurions.de/tickets/",
+          "https://www.augsburg-centurions.de/",
+          "https://gfl.info/gfl2/teams/augsburg-centurions/"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/gfl2/teams/augsburg-centurions/"
+        ]
+      }
+    }
+  }
+}

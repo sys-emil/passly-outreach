@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "Hamburg Pioneers",
+    "ort": "Hamburg E-Mail",
+    "land": "HH",
+    "liga": "gfl2",
+    "liga_name": "GFL2 (2. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://hamburg-pioneers.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Homefield Jahnring 26 22297 Hamburg",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Hamburg Pioneers Sportvereinigung Polizei Hamburg von",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "info@hamburg-pioneers.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Vereinsticket (GFL-Ticketlink: https://hamburg-pioneers.vereinsticket.de/).",
+    "quellen": [
+      "https://gfl.info/gfl2/teams/hamburg-pioneers/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://gfl.info/gfl2/teams/hamburg-pioneers/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Hamburg Pioneers“. Gelesen: https://hamburg-pioneers.de/, https://hamburg-pioneers.de/kalender/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://gfl.info/gfl2/teams/hamburg-pioneers/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://gfl.info/gfl2/teams/hamburg-pioneers/"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/gfl2/teams/hamburg-pioneers/"
+        ]
+      }
+    }
+  }
+}

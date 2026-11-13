@@ -98,7 +98,8 @@ details.tab td, details.tab th { padding: 5px 8px; }
   function anbieterName(a) {
     const s = (a || '').toLowerCase();
     const bekannt = [['vereinsticket', 'Vereinsticket'], ['vivenu', 'vivenu'], ['reservix', 'Reservix'], ['ticket.io', 'ticket.io'], ['ticket i/o', 'ticket.io'],
-      ['eventim', 'Eventim'], ['leoticket', 'leoticket'], ['eventfrog', 'Eventfrog'], ['eigener', 'Eigener Shop'], ['eingebettet', 'Eigener Shop']];
+      ['eventim light', 'Eventim Light'], ['eventim', 'Eventim'], ['leoticket', 'leoticket'], ['ticketleo', 'leoticket'], ['eventfrog', 'Eventfrog'],
+      ['vbo', 'VBO Tickets'], ['vibe', 'vibe'], ['tickettune', 'tickettune'], ['wix', 'Wix Events'], ['eigener', 'Eigener Shop'], ['eingebettet', 'Eigener Shop']];
     for (const [k, n] of bekannt) if (s.includes(k)) return n;
     return a ? a.split(/[ (]/)[0] : 'nicht erkennbar';
   }
@@ -187,11 +188,14 @@ details.tab td, details.tab th { padding: 5px 8px; }
     const mitPreis = alle.filter((z) => z.preis != null);
     const pKats = kats.filter((k) => mitPreis.some((z) => z.vorverkauf === k.id));
     const W = Math.max(280, Math.min(560, (root.clientWidth || 600) < 700 ? root.clientWidth - 40 : root.clientWidth / 2 - 60)), L = 110, R = 16, ZH = 38, T = 8;
-    const maxP = Math.max(12, Math.ceil(Math.max(0, ...mitPreis.map((z) => z.preis)) / 2) * 2);
+    // Schrittweite nach Spanne, damit sich die Beschriftungen nicht überlappen.
+    const roh = Math.max(12, ...mitPreis.map((z) => z.preis));
+    const schritt = roh > 40 ? 10 : roh > 16 ? 5 : 2;
+    const maxP = Math.ceil(roh / schritt) * schritt;
     const x = (p) => L + (p / maxP) * (W - L - R);
     const H = T + pKats.length * ZH + 24;
     let svg = '<svg class="punkte-svg" viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Ticketpreise nach Verkaufsweg">';
-    for (let p = 0; p <= maxP; p += 2) svg += '<line class="achse" x1="' + x(p) + '" x2="' + x(p) + '" y1="' + T + '" y2="' + (H - 20) + '"/><text x="' + x(p) + '" y="' + (H - 6) + '" text-anchor="middle">' + p + ' €</text>';
+    for (let p = 0; p <= maxP; p += schritt) svg += '<line class="achse" x1="' + x(p) + '" x2="' + x(p) + '" y1="' + T + '" y2="' + (H - 20) + '"/><text x="' + x(p) + '" y="' + (H - 6) + '" text-anchor="middle">' + p + ' €</text>';
     pKats.forEach((k, i) => {
       const y = T + i * ZH + ZH / 2;
       const l = mitPreis.filter((z) => z.vorverkauf === k.id).sort((a, b) => a.preis - b.preis);

@@ -1,0 +1,67 @@
+{
+  "verein": {
+    "name": "Albershausen Crusaders",
+    "ort": "Albershausen",
+    "land": "BW",
+    "liga": "gfl2",
+    "liga_name": "GFL2 (2. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://albershausen-crusaders.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Waldstadion Albershausen, Hirschplanweg 1, 73095 Albershausen",
+    "kapazitaet": null,
+    "instagram": "albershausencrusaders",
+    "ansprechperson": {
+      "name": "Bastian Braulik",
+      "rolle": "1. Vorstand (Gameday-Organisation, Verbandskommunikation)",
+      "kontakt": "bbraulik@albershausen-crusaders.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website der GFL2-Crusaders hat keine Ticket- oder Eintrittsseite; Startseite, Teamseite und Kontakt nennen das Waldstadion als Heimspielort, aber weder Preise noch Vorverkauf.",
+    "quellen": [
+      "https://albershausen-crusaders.de/",
+      "https://albershausen-crusaders.de/teams/gfl2/",
+      "https://albershausen-crusaders.de/kontakt/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://albershausen-crusaders.de/",
+      "https://albershausen-crusaders.de/teams/gfl2/",
+      "https://albershausen-crusaders.de/kontakt/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag „keine_angabe“ bestätigt: kein Ticket-/Eintritts-Menüpunkt, kein Shop-Widget, nur ein Fanshop (Merch). Spielplan 2026 und Heimspiel-Anzeige laden per JavaScript (AFVD-Daten) und waren nicht lesbar. Weil die Saison vorbei ist, beweist das nicht, dass es in der Saison 2026 nur Tageskasse oder freien Eintritt gab; Eintritt und Verkaufsweg bleiben offen. Weitere Kontakte: Mirko Mosenthin (stellv. Vorstand, Sponsoring/Presse, mmosenthin@), vorstand@, info@. Ort im Vorlauf („Albershausen E-Mail“) bereinigt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://albershausen-crusaders.de/",
+      "https://albershausen-crusaders.de/teams/gfl2/",
+      "https://albershausen-crusaders.de/kontakt/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "instagram": [
+          "https://albershausen-crusaders.de/",
+          "https://albershausen-crusaders.de/teams/gfl2/",
+          "https://albershausen-crusaders.de/kontakt/"
+        ],
+        "ansprechperson": [
+          "https://albershausen-crusaders.de/kontakt/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab auf eurer Seite nichts zu Tickets oder Eintritt im Waldstadion gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, auch ohne Empfang. Für den Verein kostenlos. Wollen wir vor der Saison 2027 zehn Minuten telefonieren?\n\n**Telefonleitfaden**\n\n- Wen: Bastian Braulik, 1. Vorstand und Gameday-Organisation, bbraulik@albershausen-crusaders.de.\n- Einstieg: Heimspiele im Waldstadion, online kein Wort zu Eintritt oder Karten.\n- Frage: Nehmt ihr Eintritt, und wie läuft die Kasse am Spieltag?\n- Angebot: Ganze Saison 2027 auf einmal anlegen (Spielplan einfügen), Tageskasse im selben System, Auszahlung aufs Vereinskonto.\n- Abschluss: Zehn Minuten Demo per Video anbieten, Link zu getpassly.de/sportvereine hinterherschicken."
+}

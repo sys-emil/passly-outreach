@@ -1,0 +1,68 @@
+{
+  "verein": {
+    "name": "Kiel Baltic Hurricanes",
+    "ort": "Kiel",
+    "land": "SH",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://www.baltic-hurricanes.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim (ticket-onlineshop.com, von der Vereinsseite „Eventim-Onlineshop“ genannt)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 12.1,
+    "halle": "Kilia Stadion, Hasseldieksdammer Weg, 24114 Kiel (GFL: Nr. 165, Vereinsseite: Nr. 163)",
+    "kapazitaet": null,
+    "instagram": "kielbaltichurricanes",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Ticketing (Vereinsseite) bzw. Vorstand (laut GFL)",
+      "kontakt": "tickets@baltic-hurricanes.de; vorstand@baltic-hurricanes.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Dauerkarten 2026 liefen ab 5.12.2025 über den Eventim-Onlineshop (10 % Weihnachtsrabatt bis 24.12.), Einzeltickets ab 1.3.2026; Block A Erwachsene 12,10 €, Haupttribüne ab 21,60 €, dazu Tageskasse ab 14 Uhr.",
+    "quellen": [
+      "https://www.baltic-hurricanes.de/tickets.html",
+      "https://www.baltic-hurricanes.de/tickets/einzeltickets.html"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.baltic-hurricanes.de/tickets.html",
+      "https://www.baltic-hurricanes.de/tickets/einzeltickets.html"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag „keiner“ war falsch: echter Online-Vorverkauf über Eventim (ticket-onlineshop.com/ols/hurricanes) für Einzeltickets, Dauerkarten und Gruppentickets (ab 10 Personen 49 € netto inkl. Verpflegung). Preisangaben widersprechen sich: tickets.html nennt Haupttribüne Erwachsene ab 13,60 €, einzeltickets.html ab 21,60 €; ticketpreis_eur = Block A Erwachsene laut Einzelticketseite. Seite bezieht sich nur auf Saison 2026, für 2027 noch nichts. Vereinsmitglieder bekommen Dauerkarten-Rabatt per E-Mail an tickets@. Gruppentickets laufen über Mail-Link. Ort im Vorlauf („Kiel Telefon“) bereinigt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.baltic-hurricanes.de/tickets.html",
+      "https://www.baltic-hurricanes.de/tickets/einzeltickets.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.baltic-hurricanes.de/tickets.html"
+        ],
+        "instagram": [
+          "https://www.baltic-hurricanes.de/tickets.html",
+          "https://www.baltic-hurricanes.de/tickets/einzeltickets.html"
+        ],
+        "ansprechperson": [
+          "https://www.baltic-hurricanes.de/tickets.html"
+        ],
+        "ticketpreis_eur": [
+          "https://www.baltic-hurricanes.de/tickets/einzeltickets.html"
+        ]
+      }
+    }
+  }
+}

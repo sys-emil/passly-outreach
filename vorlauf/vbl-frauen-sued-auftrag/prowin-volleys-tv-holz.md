@@ -1,7 +1,7 @@
 # Auftrag: proWIN Volleys TV Holz (2. Bundesliga Frauen Süd)
 
 Regeln: anleitung/recherche.md. Datei schreiben nach ergebnisse/vbl-frauen-sued/prowin-volleys-tv-holz.json.
-Höchstens vier WebFetch-Abrufe, keine Websuche nach der Website. Nur mit WebFetch gelesene
+Höchstens vier WebFetch-Abrufe, keine Websuche nach der Website (außer die Homepage fehlt unten). Nur mit WebFetch gelesene
 Seiten in ergebnis.quellen und meta.quellen_belegt (gleiche Liste); meta.schritte = deine Abrufe.
 Vorausgefüllte Felder stammen aus dem Vorlauf: behalten, wenn du sie bestätigst, sonst
 korrigieren; „TODO" ersetzen. vorverkauf ist der Vorschlag des Vorlaufs, prüfe ihn.
@@ -10,8 +10,8 @@ korrigieren; „TODO" ersetzen. vorverkauf ist der Vorschlag des Vorlaufs, prüf
 - Homepage: http://www.prowin-volleys.de/
 - Ticketlink (VBL): https://prowin-volleys.de/tickets
 - Schon gelesen: https://prowin-volleys.de/, https://prowin-volleys.de/tickets
-- VBL-Kontaktseite: https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345732&c.view=contact
-- VBL-Kontakte: Mannschaftsverantwortlicher Nick Werner; PR-Verantwortlicher Lucas Jost
+- VBL-Seite des Teams: https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345732&c.view=contact
+- Kontakte laut VBL: Mannschaftsverantwortlicher Nick Werner
 - E-Mails auf der Vereinsseite: info@prowin-volleys.de
 - Instagram auf der Vereinsseite: prowinvolleystvholz
 - Preise gefunden: keine

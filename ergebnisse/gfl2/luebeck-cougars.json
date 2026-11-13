@@ -1,0 +1,70 @@
+{
+  "verein": {
+    "name": "Luebeck Cougars",
+    "ort": "Lübeck",
+    "land": "SH",
+    "liga": "gfl2",
+    "liga_name": "GFL2 (2. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://luebeck-cougars.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix (luebeckcougars.reservix.de)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Buniamshof, Lübeck",
+    "kapazitaet": null,
+    "instagram": "luebeckcougars",
+    "ansprechperson": {
+      "name": "U.S.C. Lübeck e.V.",
+      "rolle": "Vereinskontakt (Vereinsseite)",
+      "kontakt": "info@usc-luebeck.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Der Menüpunkt „Tickets“ auf luebeck-cougars.de führt zu einem eigenen Reservix-Shop (luebeckcougars.reservix.de); Spielstätte ist laut Teamseite der Buniamshof. Preise stehen auf der Vereinsseite nicht.",
+    "quellen": [
+      "https://luebeck-cougars.de/",
+      "https://luebeck-cougars.de/teams/cougars"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://luebeck-cougars.de/",
+      "https://luebeck-cougars.de/teams/cougars"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://www.mvp.de/luebeck/veranstaltungen/luebeck-cougars-oldenburg-knights-stadion-buniamshof/",
+      "https://www.regioactive.de/sport/luebeck-cougars-hannover-grizzlies-buniamshof-2026-08-29-tickets-DZpRgZ21sT"
+    ],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Homepage per einer Websuche gefunden. Vorschlag „unbekannt“ ersetzt durch „anbieter“: Reservix-Link im Hauptmenü. Der Reservix-Shop selbst antwortete mit 403, Inhalt also nicht geprüft; ob er außerhalb der Saison leer ist, ist offen. Suchtreffer (mvp.de, regioactive) nannten Heimspiele 2026 am 8.8., 22.8. und 29.8. am Buniamshof über Reservix ab 13 €, die abgerufene mvp.de-Seite zeigte aber nur eine allgemeine Lübeck-Liste, daher nicht übernommen. Träger laut Impressum U.S.C. Lübeck e.V., Vorwerker Straße 84, 23554 Lübeck; keine namentliche Ansprechperson.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://luebeck-cougars.de/",
+      "https://luebeck-cougars.de/teams/cougars"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://luebeck-cougars.de/",
+          "https://luebeck-cougars.de/teams/cougars"
+        ],
+        "instagram": [
+          "https://luebeck-cougars.de/",
+          "https://luebeck-cougars.de/teams/cougars"
+        ],
+        "ansprechperson": [
+          "https://luebeck-cougars.de/",
+          "https://luebeck-cougars.de/teams/cougars"
+        ]
+      }
+    }
+  }
+}

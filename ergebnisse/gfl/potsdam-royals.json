@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "Potsdam Royals",
+    "ort": "Potsdam Telefon",
+    "land": "BB",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "http://potsdamroyals.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "vivenu",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Stadion Sportpark Luftschiffhafen Olympischer Weg 2, 14471 Potsdam",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Potsdam Royals",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "vorstand@potsdamroyals.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über vivenu (GFL-Ticketlink: https://vivenu.com/seller/af-potsdam-royals-ev-z94l/new-shop-section-z44t).",
+    "quellen": [
+      "https://gfl.info/teams/potsdam-royals/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://gfl.info/teams/potsdam-royals/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Potsdam Royals“. Gelesen: nichts.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://gfl.info/teams/potsdam-royals/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://gfl.info/teams/potsdam-royals/"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/teams/potsdam-royals/"
+        ]
+      }
+    }
+  }
+}

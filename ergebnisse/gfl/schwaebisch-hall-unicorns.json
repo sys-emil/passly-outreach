@@ -1,0 +1,66 @@
+{
+  "verein": {
+    "name": "Schwäbisch Hall Unicorns",
+    "ort": "Schwäbisch Hall",
+    "land": "BW",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://www.unicorns.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "OPTIMA Sportpark Spitalmühlenstraße 28 74523 Schwäbisch Hall",
+    "kapazitaet": null,
+    "instagram": "unicornsfootball",
+    "ansprechperson": {
+      "name": "Schwäbisch Hall Unicorns Geschäftsstelle Stauffenbergstraße",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "office@unicorns.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (GFL-Ticketlink: https://unicorns.reservix.de/events).",
+    "quellen": [
+      "https://gfl.info/teams/schwaebisch-hall-unicorns/",
+      "https://unicorns.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://gfl.info/teams/schwaebisch-hall-unicorns/",
+      "https://unicorns.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Schwäbisch Hall Unicorns“. Gelesen: https://unicorns.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://gfl.info/teams/schwaebisch-hall-unicorns/",
+      "https://unicorns.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://gfl.info/teams/schwaebisch-hall-unicorns/",
+          "https://unicorns.de/"
+        ],
+        "instagram": [
+          "https://gfl.info/teams/schwaebisch-hall-unicorns/",
+          "https://unicorns.de/"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/teams/schwaebisch-hall-unicorns/"
+        ]
+      }
+    }
+  }
+}

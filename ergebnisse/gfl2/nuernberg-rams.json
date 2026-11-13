@@ -1,0 +1,69 @@
+{
+  "verein": {
+    "name": "Nuernberg Rams",
+    "ort": "Nürnberg",
+    "land": "BY",
+    "liga": "gfl2",
+    "liga_name": "GFL2 (2. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://nuernberg-rams.de/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "nuernbergrams",
+    "ansprechperson": {
+      "name": "Nürnberg Rams (TSV 1846 Nürnberg e. V.)",
+      "rolle": "Vereinskontakt (Vereinsseite)",
+      "kontakt": "info@nuernberg-rams.com"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Shop-Seite der Rams sagt: „Derzeit betreiben wir keinen Online-Ticketverkauf“, begründet mit geringer Nachfrage; Online-Verkauf könne wieder kommen, wenn sich das ändert.",
+    "quellen": [
+      "https://nuernberg-rams.de/",
+      "https://nuernberg-rams.de/shop/",
+      "https://gfl.info/gfl2/teams/nuernberg-rams/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://nuernberg-rams.de/",
+      "https://nuernberg-rams.de/shop/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://gfl.info/gfl2/teams/nuernberg-rams/"
+    ],
+    "notiz": "Homepage per einer Websuche gefunden (Wikipedia nennt nuernberg-rams.com; .com scheiterte am SSL-Handshake, nuernberg-rams.de lädt). Vorschlag „unbekannt“ ersetzt durch „keiner“: ausdrücklich kein Online-Ticketverkauf, nicht saisonbedingt, sondern wegen geringer Nachfrage. Dass dann nur die Tageskasse bleibt, steht nicht wörtlich da. Spielstätte, Preise und Kapazität nicht gefunden; „Kommende Spiele – Seniors“ leer (Saison vorbei). Die GFL-Teamseite zeigte nur einen Spielbericht vom 21.7.2025 (Spiel in Fürstenfeldbruck), nichts zu den Rams-Heimspielen. Verein: Football-Abteilung des TSV 1846 Nürnberg e. V., Fuggerstr. 9, 90439 Nürnberg.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://nuernberg-rams.de/",
+      "https://nuernberg-rams.de/shop/",
+      "https://gfl.info/gfl2/teams/nuernberg-rams/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "instagram": [
+          "https://nuernberg-rams.de/",
+          "https://nuernberg-rams.de/shop/"
+        ],
+        "ansprechperson": [
+          "https://nuernberg-rams.de/",
+          "https://nuernberg-rams.de/shop/"
+        ],
+        "vorverkauf": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, auf eurer Shop-Seite steht, dass ihr gerade keinen Online-Ticketverkauf betreibt, weil die Nachfrage zu gering war. Genau dafür baue ich Passly: keine Grundgebühr, keine Einrichtungskosten, ihr zahlt nur, wenn ein Ticket verkauft wird, und die Servicegebühr trägt standardmäßig der Gast. Ein Link in die Bio, an der Tür wird mit dem Handy gescannt. Hättet ihr vor der Saison 2027 zehn Minuten?\n\n**Telefonleitfaden**\n\n- Wen: Nürnberg Rams im TSV 1846 Nürnberg, info@nuernberg-rams.com, nach der Person für Gameday und Tickets fragen.\n- Einstieg: Auf der Shop-Seite steht „Derzeit betreiben wir keinen Online-Ticketverkauf“, mit Verweis auf die geringe Nachfrage.\n- Frage: Was hat der alte Online-Verkauf gekostet, und wie viele Karten gingen darüber weg?\n- Angebot: Für den Verein kostenlos, keine Grundgebühr, Dauerkarte und Tageskasse im selben System; erstes Heimspiel 2027 als Testlauf.\n- Abschluss: Treffen in Nürnberg vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken."
+}

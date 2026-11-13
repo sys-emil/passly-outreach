@@ -1,0 +1,63 @@
+{
+  "verein": {
+    "name": "Montabaur Fighting Farmers",
+    "ort": "Montabaur E-Mail",
+    "land": "RP",
+    "liga": "gfl2",
+    "liga_name": "GFL2 (2. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://fighting-farmers.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Mons-Tabor-Stadion Montabaur Von Bodelschwingh Str. 25 56410 Montabaur",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "1. American Footballclub Fighting Farmers Montabaur",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "vorstand@fighting-farmers.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://fighting-farmers.de/tickets/: https://fighting-farmers.de/tickets/).",
+    "quellen": [
+      "https://fighting-farmers.de/tickets/",
+      "https://gfl.info/gfl2/teams/montabaur-fighting-farmers/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://fighting-farmers.de/tickets/",
+      "https://gfl.info/gfl2/teams/montabaur-fighting-farmers/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Montabaur Fighting Farmers“. Gelesen: https://fighting-farmers.de/, https://fighting-farmers.de/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://fighting-farmers.de/tickets/",
+      "https://gfl.info/gfl2/teams/montabaur-fighting-farmers/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://fighting-farmers.de/tickets/",
+          "https://gfl.info/gfl2/teams/montabaur-fighting-farmers/"
+        ],
+        "ansprechperson": [
+          "https://fighting-farmers.de/tickets/",
+          "https://gfl.info/gfl2/teams/montabaur-fighting-farmers/"
+        ]
+      }
+    }
+  }
+}

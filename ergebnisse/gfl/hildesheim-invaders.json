@@ -1,0 +1,71 @@
+{
+  "verein": {
+    "name": "Hildesheim Invaders",
+    "ort": "Hildesheim Telefon",
+    "land": "NI",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://goinvaders.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "HELIOS FIELD Philosophenweg 3 31139 Hildesheim",
+    "kapazitaet": null,
+    "instagram": "hildesheiminvaders",
+    "ansprechperson": {
+      "name": "Hildesheim Invaders Hildesheim Invaders e.V Wallstraße",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "vorstand@invaders-ev.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://goinvaders.de/tickets/: https://goinvaders.de/tickets/).",
+    "quellen": [
+      "https://goinvaders.de/tickets/",
+      "https://goinvaders.de/",
+      "https://gfl.info/teams/hildesheim-invaders/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://goinvaders.de/tickets/",
+      "https://goinvaders.de/",
+      "https://gfl.info/teams/hildesheim-invaders/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Hildesheim Invaders“. Gelesen: https://goinvaders.de/, https://goinvaders.de/tickets/, https://goinvaders.de/gameday/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://goinvaders.de/tickets/",
+      "https://goinvaders.de/",
+      "https://gfl.info/teams/hildesheim-invaders/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://goinvaders.de/tickets/",
+          "https://goinvaders.de/",
+          "https://gfl.info/teams/hildesheim-invaders/"
+        ],
+        "instagram": [
+          "https://goinvaders.de/tickets/",
+          "https://goinvaders.de/",
+          "https://gfl.info/teams/hildesheim-invaders/"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/teams/hildesheim-invaders/"
+        ]
+      }
+    }
+  }
+}

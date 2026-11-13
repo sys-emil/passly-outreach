@@ -1,0 +1,71 @@
+{
+  "verein": {
+    "name": "Munich Cowboys",
+    "ort": "München E-Mail",
+    "land": "BY",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://www.munich-cowboys.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Dantestation Dantestraße 14 80637 München",
+    "kapazitaet": null,
+    "instagram": "munichcowboys",
+    "ansprechperson": {
+      "name": "Munich Cowboys",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "info@munich-cowboys.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://www.munich-cowboys.de/tickets/: https://www.munich-cowboys.de/tickets/).",
+    "quellen": [
+      "https://www.munich-cowboys.de/tickets/",
+      "https://www.munich-cowboys.de/",
+      "https://gfl.info/teams/munich-cowboys/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.munich-cowboys.de/tickets/",
+      "https://www.munich-cowboys.de/",
+      "https://gfl.info/teams/munich-cowboys/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Munich Cowboys“. Gelesen: https://www.munich-cowboys.de/, https://www.munich-cowboys.de/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.munich-cowboys.de/tickets/",
+      "https://www.munich-cowboys.de/",
+      "https://gfl.info/teams/munich-cowboys/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.munich-cowboys.de/tickets/",
+          "https://www.munich-cowboys.de/",
+          "https://gfl.info/teams/munich-cowboys/"
+        ],
+        "instagram": [
+          "https://www.munich-cowboys.de/tickets/",
+          "https://www.munich-cowboys.de/",
+          "https://gfl.info/teams/munich-cowboys/"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/teams/munich-cowboys/"
+        ]
+      }
+    }
+  }
+}

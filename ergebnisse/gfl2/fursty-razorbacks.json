@@ -1,0 +1,66 @@
+{
+  "verein": {
+    "name": "Fursty Razorbacks",
+    "ort": null,
+    "land": null,
+    "liga": "gfl2",
+    "liga_name": "GFL2 (2. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://www.fursty-razorbacks.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 10,
+    "halle": "Stadion „Auf der Lände“",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Lukas Schmid",
+      "rolle": "Abteilungsleiter",
+      "kontakt": "https://www.fursty-razorbacks.de/kontakte/ (E-Mail dort hinter Cloudflare-Schutz)"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Ticketseite der Razorbacks nennt für Seniors-Heimspiele 10 € (Schüler/Studenten 6 €, Kinder bis 14 frei), aber weder Vorverkauf noch Online-Shop.",
+    "quellen": [
+      "https://www.fursty-razorbacks.de/",
+      "https://www.fursty-razorbacks.de/gameday/tickets/",
+      "https://www.fursty-razorbacks.de/kontakte/",
+      "https://gfl.info/gfl2/teams/fursty-razorbacks/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.fursty-razorbacks.de/gameday/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.fursty-razorbacks.de/",
+      "https://www.fursty-razorbacks.de/kontakte/",
+      "https://gfl.info/gfl2/teams/fursty-razorbacks/"
+    ],
+    "notiz": "Die Websuche fand die Homepage nicht, fursty-razorbacks.de wurde direkt aufgerufen und lud. Vorschlag „unbekannt“ ersetzt durch „keine_angabe“: Die Ticketseite (verweist auf die Stadionzeitung 2026, also aktuell) nennt Preise (Seniors 10 €/6 €, U20 und Ladies je 5 €; frei für Kinder bis 14, Ehrenamtskarte, Förderverein), aber keinen Verkaufsweg, kein eingebundenes Widget, keine Saisonkarte. Vermutlich nur Tageskasse, steht aber nicht da. Ort/Land leer gelassen, weil die Vereinsseite den Ort nicht nennt; der GFL-Spielbericht vom 21.7.2025 (abgerufen für die Rams unter gfl.info/gfl2/teams/nuernberg-rams/) nennt „die Lände in Fürstenfeldbruck“ (BY). Die GFL-Teamseite zeigte nur einen Bericht von 2023 ohne Vereinsdaten. Instagram nicht gefunden. Weitere Kontakte: Marc Schmid (stellv. Abteilungsleiter), Heike Schmidtke (Teammanagerin Seniors, Homepage).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fursty-razorbacks.de/",
+      "https://www.fursty-razorbacks.de/gameday/tickets/",
+      "https://www.fursty-razorbacks.de/kontakte/",
+      "https://gfl.info/gfl2/teams/fursty-razorbacks/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.fursty-razorbacks.de/gameday/tickets/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, auf eurer Ticketseite stehen die Preise für die Heimspiele auf der Lände, 10 Euro und 6 Euro ermäßigt, aber kein Weg, vorab eine Karte zu kaufen. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link für Website und Social Media, Gäste zahlen per Karte oder Apple Pay, an der Tür wird gescannt. Für den Verein kostenlos. Zehn Minuten vor der Saison 2027?\n\n**Telefonleitfaden**\n\n- Hinweis: Kein Instagram-Konto belegt; Kontakt über die Kontaktseite der Razorbacks (E-Mail dort geschützt).\n- Wen: Lukas Schmid, Abteilungsleiter.\n- Einstieg: Seniors 10 Euro, Schüler und Studenten 6 Euro, Kinder bis 14 frei, kein Vorverkauf genannt.\n- Frage: Wie läuft die Kasse am Spieltag, und wisst ihr vorher, wie viele kommen?\n- Angebot: Saison 2027 kostenlos einrichten, Kasse am Spieltag im selben System, Auszahlung aufs Vereinskonto."
+}

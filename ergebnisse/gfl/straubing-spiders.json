@@ -1,0 +1,67 @@
+{
+  "verein": {
+    "name": "Straubing Spiders",
+    "ort": "Straubing",
+    "land": "BY",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://straubing-spiders.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets (eingebetteter „VBO Tickeshop“ auf /tickets/)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Spiderdome (Donausportzentrum Peterswöhrd), Am Peterswöhrd 12, 94315 Straubing",
+    "kapazitaet": 2500,
+    "instagram": "straubingspidersofficial",
+    "ansprechperson": {
+      "name": "Straubing Spiders",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "info@straubing-spiders.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Auf der Ticketseite ist ein VBO-Ticketshop eingebettet, der erst nach Einwilligung lädt; der Spiderdome fasst laut Vereinsseite maximal 2.500 Zuschauer (700 überdacht) bei 6 bis 8 Heimspielen im Jahr.",
+    "quellen": [
+      "https://straubing-spiders.de/tickets/",
+      "https://straubing-spiders.de/spiderdome/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://straubing-spiders.de/tickets/",
+      "https://straubing-spiders.de/spiderdome/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag „keine_angabe“ war falsch: Die Ticketseite bindet ein VBO-Widget hinter einem Consent-Platzhalter ein, das der Vorlauf nicht sah. Shop-Inhalt (Spiele, Preise) nicht lesbar; außerhalb der Saison vermutlich leer, Verkauf in der Saison 2026 daher aus der Einbindung geschlossen. Keine Preise, Tageskasse oder Dauerkarten im Text. Hausnummer/PLZ der Halle aus dem Vorlauf (GFL), Vereinsseite nennt nur „Am Peterswöhrd“. Ort im Vorlauf („Aholfing Telefon“) auf Spielort Straubing gesetzt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://straubing-spiders.de/tickets/",
+      "https://straubing-spiders.de/spiderdome/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://straubing-spiders.de/tickets/",
+          "https://straubing-spiders.de/spiderdome/"
+        ],
+        "instagram": [
+          "https://straubing-spiders.de/tickets/",
+          "https://straubing-spiders.de/spiderdome/"
+        ],
+        "kapazitaet": [
+          "https://straubing-spiders.de/spiderdome/"
+        ],
+        "ansprechperson": []
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "verein": {
+    "name": "Braunschweig Lions",
+    "ort": "Braunschweig Telefon",
+    "land": "NI",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://braunschweig-lions.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Eintracht-Stadion Hamburger Strasse 210 38112 Braunschweig",
+    "kapazitaet": null,
+    "instagram": "braunschweig__lions",
+    "ansprechperson": {
+      "name": "FFC Sportmanagement GmbH & Co. KG Rote Wiese",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "info@braunschweig-lions.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://braunschweig-lions.de/: https://braunschweig-lions.de/).",
+    "quellen": [
+      "https://braunschweig-lions.de/",
+      "https://braunschweig-lions.de/tickets/",
+      "https://gfl.info/teams/braunschweig-lions/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://braunschweig-lions.de/",
+      "https://braunschweig-lions.de/tickets/",
+      "https://gfl.info/teams/braunschweig-lions/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Braunschweig Lions“. Gelesen: https://braunschweig-lions.de/, https://braunschweig-lions.de/tickets/, https://braunschweig-lions.de/spieltag/, https://braunschweig-lions.de/allgemeine-ticket-geschaeftsbedingungen/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://braunschweig-lions.de/",
+      "https://braunschweig-lions.de/tickets/",
+      "https://gfl.info/teams/braunschweig-lions/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://braunschweig-lions.de/",
+          "https://braunschweig-lions.de/tickets/"
+        ],
+        "instagram": [
+          "https://braunschweig-lions.de/",
+          "https://braunschweig-lions.de/tickets/",
+          "https://gfl.info/teams/braunschweig-lions/"
+        ],
+        "ansprechperson": [
+          "https://braunschweig-lions.de/tickets/",
+          "https://gfl.info/teams/braunschweig-lions/"
+        ]
+      }
+    }
+  }
+}

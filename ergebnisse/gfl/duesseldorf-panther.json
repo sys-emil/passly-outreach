@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "Düsseldorf Panther",
+    "ort": "Düsseldorf Telefon",
+    "land": "NW",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://www.duesseldorfpanther.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Düsseldorf Panther Stadion Karl-Hohmann-Straße 70 40597 Düsseldorf",
+    "kapazitaet": null,
+    "instagram": "duesseldorfpanther",
+    "ansprechperson": {
+      "name": "Düsseldorf Panther Koblenzer Str.",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "info@duesseldorfpanther.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim Light (GFL-Ticketlink: https://www.eventim-light.com/de/a/60dc765cafa411141a621e2f/s/64294d9421942b3c457c98f8).",
+    "quellen": [
+      "https://gfl.info/teams/duesseldorf-panther/",
+      "https://duesseldorfpanther.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://gfl.info/teams/duesseldorf-panther/",
+      "https://duesseldorfpanther.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Düsseldorf Panther“. Gelesen: https://duesseldorfpanther.de/, https://duesseldorfpanther.de/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://gfl.info/teams/duesseldorf-panther/",
+      "https://duesseldorfpanther.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://gfl.info/teams/duesseldorf-panther/"
+        ],
+        "instagram": [
+          "https://gfl.info/teams/duesseldorf-panther/",
+          "https://duesseldorfpanther.de/"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/teams/duesseldorf-panther/"
+        ]
+      }
+    }
+  }
+}

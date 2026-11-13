@@ -1,0 +1,895 @@
+{
+  "liga": "gfl",
+  "stand": "2026-11-13",
+  "quelle": "https://gfl.info/teams/",
+  "abrufe": 60,
+  "teams": [
+    {
+      "verband_name": "Berlin Rebels",
+      "team_id": "berlin-rebels",
+      "homepage": "https://www.berlin-rebels.de/",
+      "ticketlink": "https://www.berlin-rebels.de/service/berlin-rebels-ticketshop",
+      "verband_team_url": "https://gfl.info/teams/berlin-rebels/",
+      "verband_kontakt_url": "https://gfl.info/teams/berlin-rebels/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Berlin Rebels SCC Berlin Abt. American Football Waldschulallee",
+          "email": "kontakt@berlin-rebels.de"
+        }
+      ],
+      "verband_emails": [
+        "kontakt@berlin-rebels.de"
+      ],
+      "plz": "14055",
+      "ort": "Berlin Telefon",
+      "hallen": [
+        "Mommsenstadion Berlin-Charlottenburg Waldschulallee 34-42 14055 Berlin"
+      ],
+      "verein": "Berlin Rebels",
+      "land": "BB",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.berlin-rebels.de/",
+        "https://www.berlin-rebels.de/service/berlin-rebels-ticketshop"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "berlinrebels_prospects",
+        "berlinrebels_youth",
+        "berlinrebels"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://www.berlin-rebels.de/service/berlin-rebels-ticketshop",
+        "wie": "eingebunden auf https://www.berlin-rebels.de/service/berlin-rebels-ticketshop"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Braunschweig Lions",
+      "team_id": "braunschweig-lions",
+      "homepage": "https://braunschweig-lions.de/",
+      "ticketlink": "https://braunschweig-lions.de/tickets/",
+      "verband_team_url": "https://gfl.info/teams/braunschweig-lions/",
+      "verband_kontakt_url": "https://gfl.info/teams/braunschweig-lions/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "FFC Sportmanagement GmbH & Co. KG Rote Wiese",
+          "email": "info@braunschweig-lions.de"
+        }
+      ],
+      "verband_emails": [
+        "info@braunschweig-lions.de"
+      ],
+      "plz": "38124",
+      "ort": "Braunschweig Telefon",
+      "hallen": [
+        "Eintracht-Stadion Hamburger Strasse 210 38112 Braunschweig"
+      ],
+      "verein": "Braunschweig Lions",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://braunschweig-lions.de/",
+        "https://braunschweig-lions.de/tickets/",
+        "https://braunschweig-lions.de/spieltag/",
+        "https://braunschweig-lions.de/allgemeine-ticket-geschaeftsbedingungen/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://braunschweig-lions.de/tickets/",
+          "stelle": "line 2026 * Wir berechnen 5,00€ / Ticket Aufschlag beim Erwerb an der Tageskasse im Stadion Vipticket Block 2 | 3 Parkplatz P2 Buffet im Businessberei"
+        },
+        "vorverkauf": {
+          "url": "https://braunschweig-lions.de/tickets/",
+          "stelle": "se Tickets kaufen Ticket­ preise 2026 Tickets kaufen Einzeltickets im Vorverkauf und Online 2026 * Wir berechnen 5,00€ / Ticket Aufschlag beim Erwerb"
+        },
+        "eintritt_frei": {
+          "url": "https://braunschweig-lions.de/tickets/",
+          "stelle": "ine zusätzliche Bearbeitungsgebühr von 5,00€ bei unseren Heimspielen. Freier Eintritt / Ermäßigungen: Kinder bis einschließlich sieben Jahre haben freien E"
+        },
+        "dauerkarte": {
+          "url": "https://braunschweig-lions.de/tickets/",
+          "stelle": "rson (kostenfrei) Normal 13 € Wir freuen uns auf euch! Tickets kaufen Dauerkarten 2026 Vipticket Block 2 | 3 Parkplatz P2 Buffet im Businessbereich (f"
+        },
+        "von_hand": {
+          "url": "https://braunschweig-lions.de/allgemeine-ticket-geschaeftsbedingungen/",
+          "stelle": "senen Sitzplatzes (siehe hierzu auch Ziffer(n) 8.6 und 10.7). Etwaige Reservierungen der Dauerkarte für die Playoffs oder die Folgesaison können ledi"
+        },
+        "bar": {
+          "url": "https://braunschweig-lions.de/allgemeine-ticket-geschaeftsbedingungen/",
+          "stelle": "n (z.B. Kreditkarte, EC-Karte, SEPA-Lastschrift, Überweisung, PayPal, Barzahlung) bearbeitet. Zuzüglich zum Ticketpreis kann 1. FFC Braunschweig e.V."
+        }
+      },
+      "instagram": [
+        "braunschweig__lions"
+      ],
+      "emails": [
+        "info@braunschweig-lions.de"
+      ],
+      "preise": [
+        {
+          "eur": 42,
+          "url": "https://braunschweig-lions.de/tickets/",
+          "stelle": "normal 42 €"
+        },
+        {
+          "eur": 26,
+          "url": "https://braunschweig-lions.de/tickets/",
+          "stelle": "normal 26 €"
+        },
+        {
+          "eur": 13,
+          "url": "https://braunschweig-lions.de/tickets/",
+          "stelle": "normal 13 €"
+        },
+        {
+          "eur": 71,
+          "url": "https://braunschweig-lions.de/tickets/",
+          "stelle": "normal 71 €"
+        },
+        {
+          "eur": 90,
+          "url": "https://braunschweig-lions.de/tickets/",
+          "stelle": "normal 90 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://braunschweig-lions.de/",
+        "wie": "eingebunden auf https://braunschweig-lions.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Dresden Monarchs",
+      "team_id": "dresden-monarchs",
+      "homepage": "https://www.dresden-monarchs.de/home",
+      "ticketlink": "https://www.dresden-monarchs.de/tickets",
+      "verband_team_url": "https://gfl.info/teams/dresden-monarchs/",
+      "verband_kontakt_url": "https://gfl.info/teams/dresden-monarchs/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Dresden Monarchs Dresden Monarchs e.V. Jörg Dreßler PF",
+          "email": "info@dresden-monarchs.de"
+        }
+      ],
+      "verband_emails": [
+        "info@dresden-monarchs.de"
+      ],
+      "plz": "01078",
+      "ort": "Dresden Telefon",
+      "hallen": [
+        "Heinz-Steyer-Stadion Pieschener Allee 1 01067 Dresden"
+      ],
+      "verein": "Dresden Monarchs",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.dresden-monarchs.de/home",
+        "https://dresden-monarchs.vibe-shop.io/de",
+        "https://dresden-monarchs.vibe-shop.io/de/tickets/bundle/AHKULOHTDBCMQZK6BX7WKQZMOQ"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://dresden-monarchs.vibe-shop.io/de",
+          "stelle": "2027 Tickets auswählen ab 33,00 € 17.04.2027 - 28.08.2027 Fragen zum Dauerkartenkauf Wie kann ich als Dauerkartenbesitzer meine angestammten Plätze b"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "dresdenmonarchs@online-ticket.shop"
+      ],
+      "preise": [
+        {
+          "eur": 33,
+          "url": "https://dresden-monarchs.vibe-shop.io/de",
+          "stelle": "tickets auswählen ab 33,00 €"
+        },
+        {
+          "eur": 33,
+          "url": "https://dresden-monarchs.vibe-shop.io/de",
+          "stelle": "tickets auswählen ab 33,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "vibe",
+        "beleg": "https://www.dresden-monarchs.de/home",
+        "wie": "eingebunden auf https://www.dresden-monarchs.de/home"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Düsseldorf Panther",
+      "team_id": "duesseldorf-panther",
+      "homepage": "https://www.duesseldorfpanther.de/",
+      "ticketlink": "https://www.eventim-light.com/de/a/60dc765cafa411141a621e2f/s/64294d9421942b3c457c98f8",
+      "verband_team_url": "https://gfl.info/teams/duesseldorf-panther/",
+      "verband_kontakt_url": "https://gfl.info/teams/duesseldorf-panther/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Düsseldorf Panther Koblenzer Str.",
+          "email": "info@duesseldorfpanther.de"
+        }
+      ],
+      "verband_emails": [
+        "info@duesseldorfpanther.de"
+      ],
+      "plz": "40595",
+      "ort": "Düsseldorf Telefon",
+      "hallen": [
+        "Düsseldorf Panther Stadion Karl-Hohmann-Straße 70 40597 Düsseldorf"
+      ],
+      "verein": "Düsseldorf Panther",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://duesseldorfpanther.de/",
+        "https://duesseldorfpanther.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "duesseldorfpanther"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://www.eventim-light.com/de/a/60dc765cafa411141a621e2f/s/64294d9421942b3c457c98f8",
+        "wie": "GFL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Hildesheim Invaders",
+      "team_id": "hildesheim-invaders",
+      "homepage": "https://goinvaders.de/",
+      "ticketlink": "https://goinvaders.de/tickets/",
+      "verband_team_url": "https://gfl.info/teams/hildesheim-invaders/",
+      "verband_kontakt_url": "https://gfl.info/teams/hildesheim-invaders/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Hildesheim Invaders Hildesheim Invaders e.V Wallstraße",
+          "email": "vorstand@invaders-ev.de"
+        }
+      ],
+      "verband_emails": [
+        "vorstand@invaders-ev.de"
+      ],
+      "plz": "31134",
+      "ort": "Hildesheim Telefon",
+      "hallen": [
+        "HELIOS FIELD Philosophenweg 3 31139 Hildesheim"
+      ],
+      "verein": "Hildesheim Invaders",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://goinvaders.de/",
+        "https://goinvaders.de/tickets/",
+        "https://goinvaders.de/gameday/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://goinvaders.de/tickets/",
+          "stelle": "SEAT Inhaber von 2025 konnten bis zum 31.12. ihre angestammten Plätze reservieren. Kinder bis einschließlich 12 Jahren benötigen bei fester Sitzplatz"
+        }
+      },
+      "instagram": [
+        "hildesheiminvaders"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 16,
+          "url": "https://goinvaders.de/tickets/",
+          "stelle": "erwachsene: 16 euro"
+        },
+        {
+          "eur": 88,
+          "url": "https://goinvaders.de/tickets/",
+          "stelle": "erwachsene: 88 euro"
+        }
+      ],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://goinvaders.de/tickets/",
+        "wie": "eingebunden auf https://goinvaders.de/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Kiel Baltic Hurricanes",
+      "team_id": "kiel-baltic-hurricanes",
+      "homepage": "https://www.baltic-hurricanes.de/",
+      "ticketlink": "https://www.ticket-onlineshop.com/ols/hurricanes/",
+      "verband_team_url": "https://gfl.info/teams/kiel-baltic-hurricanes/",
+      "verband_kontakt_url": "https://gfl.info/teams/kiel-baltic-hurricanes/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "American Sports Club Kiel e.V. Hasseldieksdammer Weg",
+          "email": "vorstand@baltic-hurricanes.de"
+        }
+      ],
+      "verband_emails": [
+        "vorstand@baltic-hurricanes.de"
+      ],
+      "plz": "24114",
+      "ort": "Kiel Telefon",
+      "hallen": [
+        "Kilia Stadion Hasseldieksdammer Weg 165 24114 Kiel"
+      ],
+      "verein": "Kiel Baltic Hurricanes",
+      "land": "SH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.baltic-hurricanes.de/",
+        "https://www.baltic-hurricanes.de/tickets.html",
+        "https://www.baltic-hurricanes.de/tickets/einzeltickets.html",
+        "https://www.baltic-hurricanes.de/tickets/gruppentickets.html",
+        "https://www.baltic-hurricanes.de/tickets/vip.html"
+      ],
+      "nicht_lesbar": [
+        "https://www.ticket-onlineshop.com/ols/hurricanes/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.baltic-hurricanes.de/tickets.html",
+          "stelle": "insmitglieder des ASC Kiel e.V. erhalten generell 10% Rabatt auf Dauerkarten und wenden sich per Email an tickets (at) baltic-hurricanes.de . Der Vereinsrabatt ist mit ande"
+        },
+        "dauerkarte": {
+          "url": "https://www.baltic-hurricanes.de/tickets.html",
+          "stelle": "kets Erlebe die Bundesliga Mannschaft live im Stadion. zum Ticketshop Dauerkarten 2026 Verkaufsstart mit Weihnachtsrabatt und VIP-Gewinn-Chance! Am 5."
+        },
+        "abendkasse": {
+          "url": "https://www.baltic-hurricanes.de/tickets/einzeltickets.html",
+          "stelle": "nweg der Buslinie 31 Dich erwartet: 14:00 Uhr Die Tore öffnen und die Tageskasse für euch bereitsteht. Kühle Getränke und original amerikanisches Esse"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 14.6,
+          "url": "https://www.baltic-hurricanes.de/tickets.html",
+          "stelle": "ticket ab 14,60 €"
+        },
+        {
+          "eur": 13.6,
+          "url": "https://www.baltic-hurricanes.de/tickets.html",
+          "stelle": "ticket für erwachsene ab 13,60 €"
+        },
+        {
+          "eur": 21.6,
+          "url": "https://www.baltic-hurricanes.de/tickets/einzeltickets.html",
+          "stelle": "erwachsener ab 21,60€"
+        },
+        {
+          "eur": 12.1,
+          "url": "https://www.baltic-hurricanes.de/tickets/einzeltickets.html",
+          "stelle": "erwachsener 12,10€"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Potsdam Royals",
+      "team_id": "potsdam-royals",
+      "homepage": "http://potsdamroyals.de/",
+      "ticketlink": "https://vivenu.com/seller/af-potsdam-royals-ev-z94l/new-shop-section-z44t",
+      "verband_team_url": "https://gfl.info/teams/potsdam-royals/",
+      "verband_kontakt_url": "https://gfl.info/teams/potsdam-royals/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Potsdam Royals",
+          "email": "vorstand@potsdamroyals.de"
+        }
+      ],
+      "verband_emails": [
+        "vorstand@potsdamroyals.de"
+      ],
+      "plz": "14469",
+      "ort": "Potsdam Telefon",
+      "hallen": [
+        "Stadion Sportpark Luftschiffhafen Olympischer Weg 2, 14471 Potsdam"
+      ],
+      "verein": "Potsdam Royals",
+      "land": "BB",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://potsdamroyals.de/ (HTTP 404)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "vivenu",
+        "beleg": "https://vivenu.com/seller/af-potsdam-royals-ev-z94l/new-shop-section-z44t",
+        "wie": "GFL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Paderborn Dolphins",
+      "team_id": "paderborn-dolphins",
+      "homepage": "https://www.paderborn-dolphins.de/",
+      "ticketlink": "https://vivenu.com/seller/paderborn-dolphins-6f07",
+      "verband_team_url": "https://gfl.info/teams/paderborn-dolphins/",
+      "verband_kontakt_url": "https://gfl.info/teams/paderborn-dolphins/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Paderborn Dolphins AFC Paderborn Dolphins e.V. Herr David Schmidtmann Pestalozzi",
+          "email": "praesident@paderborn-dolphins.de"
+        }
+      ],
+      "verband_emails": [
+        "praesident@paderborn-dolphins.de"
+      ],
+      "plz": "33106",
+      "ort": "Paderborn E-Mail",
+      "hallen": [
+        "Hermann-Löns-Stadion K29 127 33104 Paderborn"
+      ],
+      "verein": "Paderborn Dolphins",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.paderborn-dolphins.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "vivenu",
+        "beleg": "https://vivenu.com/seller/paderborn-dolphins-6f07",
+        "wie": "GFL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Allgäu Comets",
+      "team_id": "allgaeu-comets",
+      "homepage": "https://www.allgaeu-comets.de/",
+      "ticketlink": "https://www.allgaeu-comets.de/tickets",
+      "verband_team_url": "https://gfl.info/teams/allgaeu-comets/",
+      "verband_kontakt_url": "https://gfl.info/teams/allgaeu-comets/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Allgäu Comets Allgäu Comets Kempten e.V. Beethovenstraße",
+          "email": "geschaeftsstelle@allgaeu-comets.de"
+        }
+      ],
+      "verband_emails": [
+        "geschaeftsstelle@allgaeu-comets.de"
+      ],
+      "plz": "87435",
+      "ort": "Kempten Telefon",
+      "hallen": [
+        "Illerstadion Kempten llerdamm 10 87437 Kempten"
+      ],
+      "verein": "Allgäu Comets",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://allgaeu-comets.de/",
+        "https://allgaeu-comets.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "cometsjuniors",
+        "cometsladies"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://allgaeu-comets.de/tickets/",
+        "wie": "eingebunden auf https://allgaeu-comets.de/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Munich Cowboys",
+      "team_id": "munich-cowboys",
+      "homepage": "https://www.munich-cowboys.de/",
+      "ticketlink": "https://www.munich-cowboys.de/tickets/",
+      "verband_team_url": "https://gfl.info/teams/munich-cowboys/",
+      "verband_kontakt_url": "https://gfl.info/teams/munich-cowboys/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Munich Cowboys",
+          "email": "info@munich-cowboys.de"
+        }
+      ],
+      "verband_emails": [
+        "info@munich-cowboys.de"
+      ],
+      "plz": "80013",
+      "ort": "München E-Mail",
+      "hallen": [
+        "Dantestation Dantestraße 14 80637 München"
+      ],
+      "verein": "Munich Cowboys",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.munich-cowboys.de/",
+        "https://www.munich-cowboys.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "bar": {
+          "url": "https://www.munich-cowboys.de/tickets/",
+          "stelle": "ditkarte erfolgen. Rang-Tickets können dagegen vor Ort mit Karte oder Bargeld erworben werden. --> --> --> Werde Mitglied! Unterstütze die Munich C"
+        }
+      },
+      "instagram": [
+        "munichcowboys"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://www.munich-cowboys.de/tickets/",
+        "wie": "eingebunden auf https://www.munich-cowboys.de/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Pforzheim Wilddogs",
+      "team_id": "pforzheim-wilddogs",
+      "homepage": "http://www.wilddogs.de/",
+      "ticketlink": "https://www.wilddogs.de/gameday/tickets",
+      "verband_team_url": "https://gfl.info/teams/pforzheim-wilddogs/",
+      "verband_kontakt_url": "https://gfl.info/teams/pforzheim-wilddogs/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Pforzheim Wilddogs Kai Höpfinger (1. Vorstand) Friedrich-Ebert-Straße",
+          "email": "info@wilddogs.de"
+        }
+      ],
+      "verband_emails": [
+        "info@wilddogs.de"
+      ],
+      "plz": "75203",
+      "ort": "Königsbach-Stein Telefon",
+      "hallen": [
+        "KRAMSKI-Arena Adolf-Richter-Straße 3 75179 Pforzheim"
+      ],
+      "verein": "Pforzheim Wilddogs",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.wilddogs.de/",
+        "https://www.wilddogs.de/gameday/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "pforzheimwilddogs.juniors",
+        "pforzheimwilddogs"
+      ],
+      "emails": [
+        "info@wilddogs.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://www.wilddogs.de/gameday/tickets",
+        "wie": "eingebunden auf https://www.wilddogs.de/gameday/tickets"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "ifm Razorbacks Ravensburg",
+      "team_id": "ifm-razorbacks-ravensburg",
+      "homepage": "https://ifm-razorbacks.de/",
+      "ticketlink": "https://ifm-razorbacks.de/tickets/",
+      "verband_team_url": "https://gfl.info/teams/ifm-razorbacks-ravensburg/",
+      "verband_kontakt_url": "https://gfl.info/teams/ifm-razorbacks-ravensburg/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "ifm Razorbacks Ravensburg Im Brühl",
+          "email": "office@ifm-razorbacks.de"
+        }
+      ],
+      "verband_emails": [
+        "office@ifm-razorbacks.de"
+      ],
+      "plz": "88361",
+      "ort": "Altshausen E-Mail",
+      "hallen": [
+        "TeleData Stadion am Lindenhof Weingarten Ettishoferstr. 51 88250 Weingarten"
+      ],
+      "verein": "ifm Razorbacks Ravensburg",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://ifm-razorbacks.de/",
+        "https://ifm-razorbacks.de/tickets/",
+        "https://ifm-razorbacks.de/calendar/heimspiele-gfl/",
+        "https://ifm-razorbacks.de/tag/heimspiel/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "nur_abendkasse": {
+          "url": "https://ifm-razorbacks.de/tickets/",
+          "stelle": "freie Platzwahl) : 3,00 € Alle Tickets für die Bezirksliga BaWü sind ausschließlich an der Tageskasse erhältlich. Nur solange der Vorrat reicht. Gutscheine Gutscheine, wel"
+        },
+        "abendkasse": {
+          "url": "https://ifm-razorbacks.de/tickets/",
+          "stelle": "00 € Alle Tickets für die Bezirksliga BaWü sind ausschließlich an der Tageskasse erhältlich. Nur solange der Vorrat reicht. Gutscheine Gutscheine, wel"
+        },
+        "dauerkarte": {
+          "url": "https://ifm-razorbacks.de/tickets/",
+          "stelle": "lplatz ist auf dem Gelände vorhanden. Seit der Saison 2024 werden die Dauerkarten nicht personalisiert und sind übertragbar. Eintrittspreise GFL Spiel"
+        }
+      },
+      "instagram": [
+        "ifmrazorbacks"
+      ],
+      "emails": [
+        "coaches@ifm-razorbacks.de",
+        "marketingteam@ifm-razorbacks.de",
+        "events@ifm-razorbacks.de",
+        "office@ifm-razorbacks.de"
+      ],
+      "preise": [
+        {
+          "eur": 16,
+          "url": "https://ifm-razorbacks.de/tickets/",
+          "stelle": "erwachsene sitzplatz haupttribüne: 16,00 €"
+        },
+        {
+          "eur": 12.5,
+          "url": "https://ifm-razorbacks.de/tickets/",
+          "stelle": "erwachsene (ohne sitzplatzgarntie): 12,50 €"
+        },
+        {
+          "eur": 96,
+          "url": "https://ifm-razorbacks.de/tickets/",
+          "stelle": "erwachsene : 96,00 €"
+        },
+        {
+          "eur": 70,
+          "url": "https://ifm-razorbacks.de/tickets/",
+          "stelle": "erwachsene : 70,00 €"
+        },
+        {
+          "eur": 5,
+          "url": "https://ifm-razorbacks.de/tickets/",
+          "stelle": "erwachsene (freie platzwahl): 5,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://ifm-razorbacks.de/tickets/",
+        "wie": "eingebunden auf https://ifm-razorbacks.de/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Regensburg Phoenix",
+      "team_id": "regensburg-phoenix",
+      "homepage": "https://regensburg-phoenix.com/",
+      "ticketlink": "https://www.regensburg-phoenix.com/gameday/online-tickets/",
+      "verband_team_url": "https://gfl.info/teams/regensburg-phoenix/",
+      "verband_kontakt_url": "https://gfl.info/teams/regensburg-phoenix/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Regensburg Phoenix e.V. Dieselstraße",
+          "email": "info@regensburg-phoenix.com"
+        }
+      ],
+      "verband_emails": [
+        "info@regensburg-phoenix.com"
+      ],
+      "plz": "93053",
+      "ort": "Regensburg E-Mail",
+      "hallen": [
+        "Städtische Sportanlage am Weinweg Weinweg 32 93049 Regensburg"
+      ],
+      "verein": "Regensburg Phoenix",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.regensburg-phoenix.com/",
+        "https://www.regensburg-phoenix.com/gameday/online-tickets/",
+        "https://www.regensburg-phoenix.com/faq/wo-finden-die-spiele-statt/"
+      ],
+      "nicht_lesbar": [
+        "https://www.regensburg-phoenix.com/gameday/online-tickets/--%3E%3C!-- (HTTP 404)"
+      ],
+      "funde": {},
+      "instagram": [
+        "regensburg_phoenix",
+        "regensburg_phoenix_ladies",
+        "regensburg_phoenix_juniors",
+        "regensburg_phoenix_flag",
+        "regensburg_phoenix_cheerleader"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Saarland Hurricanes",
+      "team_id": "saarland-hurricanes",
+      "homepage": "https://saarland-hurricanes.eu/",
+      "ticketlink": "https://saarland-hurricanes.eu/gameday/tickets/",
+      "verband_team_url": "https://gfl.info/teams/saarland-hurricanes/",
+      "verband_kontakt_url": "https://gfl.info/teams/saarland-hurricanes/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Saarland Hurricanes Saarland Hurricanes e.V. St. Johanner Str.",
+          "email": "vorstand@saarland-hurricanes.eu"
+        }
+      ],
+      "verband_emails": [
+        "vorstand@saarland-hurricanes.eu"
+      ],
+      "plz": "66111",
+      "ort": "Saarbrücken E-Mail",
+      "hallen": [
+        "Sportstätte: Ellenfeldstadion Neunkirchen Mantes-La-Ville-Platz 12 66538 Neunkirchen"
+      ],
+      "verein": "Saarland Hurricanes",
+      "land": "SL",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://saarland-hurricanes.eu/",
+        "https://saarland-hurricanes.eu/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://saarland-hurricanes.eu/tickets/",
+        "wie": "eingebunden auf https://saarland-hurricanes.eu/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Schwäbisch Hall Unicorns",
+      "team_id": "schwaebisch-hall-unicorns",
+      "homepage": "https://www.unicorns.de/",
+      "ticketlink": "https://unicorns.reservix.de/events",
+      "verband_team_url": "https://gfl.info/teams/schwaebisch-hall-unicorns/",
+      "verband_kontakt_url": "https://gfl.info/teams/schwaebisch-hall-unicorns/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Schwäbisch Hall Unicorns Geschäftsstelle Stauffenbergstraße",
+          "email": "office@unicorns.de"
+        }
+      ],
+      "verband_emails": [
+        "office@unicorns.de"
+      ],
+      "plz": "74523",
+      "ort": "Schwäbisch Hall",
+      "hallen": [
+        "OPTIMA Sportpark Spitalmühlenstraße 28 74523 Schwäbisch Hall"
+      ],
+      "verein": "Schwäbisch Hall Unicorns",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://unicorns.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "unicornsfootball"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://unicorns.reservix.de/events",
+        "wie": "GFL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Straubing Spiders",
+      "team_id": "straubing-spiders",
+      "homepage": "https://straubing-spiders.de/",
+      "ticketlink": "https://straubing-spiders.de/tickets/",
+      "verband_team_url": "https://gfl.info/teams/straubing-spiders/",
+      "verband_kontakt_url": "https://gfl.info/teams/straubing-spiders/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Straubing Spiders Hofmarkstr",
+          "email": "info@straubing-spiders.de"
+        }
+      ],
+      "verband_emails": [
+        "info@straubing-spiders.de"
+      ],
+      "plz": "95345",
+      "ort": "Aholfing Telefon",
+      "hallen": [
+        "Donausportzentrum Peterswöhrd Am Peterswöhrd 12 94315 Straubing"
+      ],
+      "verein": "Straubing Spiders",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://straubing-spiders.de/",
+        "https://straubing-spiders.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    }
+  ]
+}

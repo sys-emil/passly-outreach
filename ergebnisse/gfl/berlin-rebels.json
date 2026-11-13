@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "Berlin Rebels",
+    "ort": "Berlin Telefon",
+    "land": "BB",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://www.berlin-rebels.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Mommsenstadion Berlin-Charlottenburg Waldschulallee 34-42 14055 Berlin",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Berlin Rebels SCC Berlin Abt. American Football Waldschulallee",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "kontakt@berlin-rebels.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://www.berlin-rebels.de/service/berlin-rebels-ticketshop: https://www.berlin-rebels.de/service/berlin-rebels-ticketshop).",
+    "quellen": [
+      "https://www.berlin-rebels.de/service/berlin-rebels-ticketshop",
+      "https://gfl.info/teams/berlin-rebels/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.berlin-rebels.de/service/berlin-rebels-ticketshop",
+      "https://gfl.info/teams/berlin-rebels/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Berlin Rebels“. Mehrere Instagram-Konten verlinkt: berlinrebels_prospects, berlinrebels_youth, berlinrebels. Gelesen: https://www.berlin-rebels.de/, https://www.berlin-rebels.de/service/berlin-rebels-ticketshop.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.berlin-rebels.de/service/berlin-rebels-ticketshop",
+      "https://gfl.info/teams/berlin-rebels/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.berlin-rebels.de/service/berlin-rebels-ticketshop",
+          "https://gfl.info/teams/berlin-rebels/"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/teams/berlin-rebels/"
+        ]
+      }
+    }
+  }
+}

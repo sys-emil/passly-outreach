@@ -1,0 +1,69 @@
+{
+  "verein": {
+    "name": "Dresden Monarchs",
+    "ort": "Dresden Telefon",
+    "land": "SN",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://www.dresden-monarchs.de/home",
+    "vorverkauf": "anbieter",
+    "anbieter": "vibe",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Heinz-Steyer-Stadion Pieschener Allee 1 01067 Dresden",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Dresden Monarchs Dresden Monarchs e.V. Jörg Dreßler PF",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "info@dresden-monarchs.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über vibe (eingebunden auf https://www.dresden-monarchs.de/home: https://www.dresden-monarchs.de/home).",
+    "quellen": [
+      "https://www.dresden-monarchs.de/home",
+      "https://gfl.info/teams/dresden-monarchs/",
+      "https://dresden-monarchs.vibe-shop.io/de"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.dresden-monarchs.de/home",
+      "https://gfl.info/teams/dresden-monarchs/",
+      "https://dresden-monarchs.vibe-shop.io/de"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Dresden Monarchs“. Gelesen: https://www.dresden-monarchs.de/home, https://dresden-monarchs.vibe-shop.io/de, https://dresden-monarchs.vibe-shop.io/de/tickets/bundle/AHKULOHTDBCMQZK6BX7WKQZMOQ. Preis entfernt: „ab 33,00 €“ im Shop ist kein Einzelpreis.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.dresden-monarchs.de/home",
+      "https://gfl.info/teams/dresden-monarchs/",
+      "https://dresden-monarchs.vibe-shop.io/de"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.dresden-monarchs.de/home",
+          "https://gfl.info/teams/dresden-monarchs/",
+          "https://dresden-monarchs.vibe-shop.io/de"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/teams/dresden-monarchs/"
+        ],
+        "ticketpreis_eur": [
+          "https://dresden-monarchs.vibe-shop.io/de"
+        ]
+      }
+    }
+  }
+}

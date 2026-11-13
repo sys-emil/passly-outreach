@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "Allgäu Comets",
+    "ort": "Kempten Telefon",
+    "land": "BY",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://www.allgaeu-comets.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Illerstadion Kempten llerdamm 10 87437 Kempten",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Allgäu Comets Allgäu Comets Kempten e.V. Beethovenstraße",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "geschaeftsstelle@allgaeu-comets.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://allgaeu-comets.de/tickets/: https://allgaeu-comets.de/tickets/).",
+    "quellen": [
+      "https://allgaeu-comets.de/tickets/",
+      "https://gfl.info/teams/allgaeu-comets/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://allgaeu-comets.de/tickets/",
+      "https://gfl.info/teams/allgaeu-comets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Allgäu Comets“. Mehrere Instagram-Konten verlinkt: cometsjuniors, cometsladies. Gelesen: https://allgaeu-comets.de/, https://allgaeu-comets.de/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://allgaeu-comets.de/tickets/",
+      "https://gfl.info/teams/allgaeu-comets/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://allgaeu-comets.de/tickets/",
+          "https://gfl.info/teams/allgaeu-comets/"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/teams/allgaeu-comets/"
+        ]
+      }
+    }
+  }
+}

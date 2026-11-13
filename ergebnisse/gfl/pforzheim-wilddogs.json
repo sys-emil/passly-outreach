@@ -1,0 +1,63 @@
+{
+  "verein": {
+    "name": "Pforzheim Wilddogs",
+    "ort": "Königsbach-Stein Telefon",
+    "land": "BW",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "http://www.wilddogs.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "KRAMSKI-Arena Adolf-Richter-Straße 3 75179 Pforzheim",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Pforzheim Wilddogs Kai Höpfinger (1. Vorstand) Friedrich-Ebert-Straße",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "info@wilddogs.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://www.wilddogs.de/gameday/tickets: https://www.wilddogs.de/gameday/tickets).",
+    "quellen": [
+      "https://www.wilddogs.de/gameday/tickets",
+      "https://gfl.info/teams/pforzheim-wilddogs/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.wilddogs.de/gameday/tickets",
+      "https://gfl.info/teams/pforzheim-wilddogs/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Pforzheim Wilddogs“. Mehrere Instagram-Konten verlinkt: pforzheimwilddogs.juniors, pforzheimwilddogs. Gelesen: https://www.wilddogs.de/, https://www.wilddogs.de/gameday/tickets.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.wilddogs.de/gameday/tickets",
+      "https://gfl.info/teams/pforzheim-wilddogs/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.wilddogs.de/gameday/tickets",
+          "https://gfl.info/teams/pforzheim-wilddogs/"
+        ],
+        "ansprechperson": [
+          "https://www.wilddogs.de/gameday/tickets",
+          "https://gfl.info/teams/pforzheim-wilddogs/"
+        ]
+      }
+    }
+  }
+}

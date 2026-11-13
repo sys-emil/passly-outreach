@@ -1,7 +1,7 @@
 # Auftrag: Erfurt electronic (2. Bundesliga Frauen Süd)
 
 Regeln: anleitung/recherche.md. Datei schreiben nach ergebnisse/vbl-frauen-sued/erfurt-electronic.json.
-Höchstens vier WebFetch-Abrufe, keine Websuche nach der Website. Nur mit WebFetch gelesene
+Höchstens vier WebFetch-Abrufe, keine Websuche nach der Website (außer die Homepage fehlt unten). Nur mit WebFetch gelesene
 Seiten in ergebnis.quellen und meta.quellen_belegt (gleiche Liste); meta.schritte = deine Abrufe.
 Vorausgefüllte Felder stammen aus dem Vorlauf: behalten, wenn du sie bestätigst, sonst
 korrigieren; „TODO" ersetzen. vorverkauf ist der Vorschlag des Vorlaufs, prüfe ihn.
@@ -10,8 +10,8 @@ korrigieren; „TODO" ersetzen. vorverkauf ist der Vorschlag des Vorlaufs, prüf
 - Homepage: https://wordpress.erfurt-electronic.de/
 - Ticketlink (VBL): keiner
 - Schon gelesen: https://wordpress.erfurt-electronic.de/, https://wordpress.erfurt-electronic.de/veranstaltungen-uebersicht, https://wordpress.erfurt-electronic.de/events/jugendspieltag-u15-lm, https://wordpress.erfurt-electronic.de/events/damen-i-2-bl-sued-heimspiel-3, https://wordpress.erfurt-electronic.de/events/damen-i-2-bl-sued-heimspiel-2, https://wordpress.erfurt-electronic.de/events/jugendspieltag-u16-lm
-- VBL-Kontaktseite: https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781346192&c.view=contact
-- VBL-Kontakte: Mannschaftsverantwortlicher Sabine Dr. Nemitz
+- VBL-Seite des Teams: https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781346192&c.view=contact
+- Kontakte laut VBL: Mannschaftsverantwortlicher Sabine Dr. Nemitz
 - E-Mails auf der Vereinsseite: info@erfurt-electronic.de
 - Instagram auf der Vereinsseite: sgerfurtelectronic
 - Preise gefunden: 5 € („eintrittspreis erwachsener: 5,00 €“); 5 € („eintrittspreis erwachsener: 5,00 €“)

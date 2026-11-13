@@ -1,0 +1,73 @@
+{
+  "verein": {
+    "name": "Rostock Griffins",
+    "ort": "Rostock E-Mail",
+    "land": "MV",
+    "liga": "gfl2",
+    "liga_name": "GFL2 (2. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://rostockgriffins.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Leichtathletikstadion Rostock Kopernikusstraße 17a 18057 Rostock",
+    "kapazitaet": null,
+    "instagram": "rostockgriffins",
+    "ansprechperson": {
+      "name": "Rostock Griffins e.V. Vicke-Schorler-Ring",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "geschaeftsstelle@rostockgriffins.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://rostockgriffins.de/tickets-buchen/: https://rostockgriffins.de/tickets-buchen/).",
+    "quellen": [
+      "https://rostockgriffins.de/tickets-buchen/",
+      "https://rostockgriffins.de/",
+      "https://gfl.info/gfl2/teams/rostock-griffins/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://rostockgriffins.de/tickets-buchen/",
+      "https://rostockgriffins.de/",
+      "https://gfl.info/gfl2/teams/rostock-griffins/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Rostock Griffins“. Gelesen: https://rostockgriffins.de/, https://rostockgriffins.de/tickets-buchen/, https://rostockgriffins.de/tickets-buchen/dauerkarte/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://rostockgriffins.de/tickets-buchen/",
+      "https://rostockgriffins.de/",
+      "https://gfl.info/gfl2/teams/rostock-griffins/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://rostockgriffins.de/tickets-buchen/",
+          "https://rostockgriffins.de/",
+          "https://gfl.info/gfl2/teams/rostock-griffins/"
+        ],
+        "instagram": [
+          "https://rostockgriffins.de/tickets-buchen/",
+          "https://rostockgriffins.de/",
+          "https://gfl.info/gfl2/teams/rostock-griffins/"
+        ],
+        "ansprechperson": [
+          "https://rostockgriffins.de/tickets-buchen/",
+          "https://rostockgriffins.de/",
+          "https://gfl.info/gfl2/teams/rostock-griffins/"
+        ]
+      }
+    }
+  }
+}

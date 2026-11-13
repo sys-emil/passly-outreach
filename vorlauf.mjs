@@ -32,7 +32,7 @@ const ANBIETER = [
   [/vereinsticket\.de/, 'Vereinsticket'],
   [/vivenu\.(com|de)/, 'vivenu'],
   [/eventim-light\.com/, 'Eventim Light'],
-  [/eventimsports\.de|eventim\.de/, 'Eventim'],
+  [/eventimsports\.de|eventim\.de|ticket-onlineshop\.com/, 'Eventim'],
   [/reservix\.(de|net)|adticket\.de/, 'Reservix'],
   [/ticket\.io\b/, 'ticket.io'],
   // Beide gehören Leomedia; der Name muss in der Adresse stehen, sonst findet pruefe.mjs ihn nicht.
@@ -48,7 +48,7 @@ const ANBIETER = [
   [/tickettune\.(com|de)/, 'tickettune'],
   // Im American Football verbreitet (GFL 2026: Berlin, Hildesheim, München, Pforzheim, Saarland).
   [/vbotickets\.com/, 'VBO Tickets'],
-  [/vibe-shop\.io|vibe\.io/, 'vibe'],
+  [/vibe-shop\.io|vibe\.io|get-vibe\.de|egocentric\.systems/, 'vibe'],
   [/getpassly\.de/, 'Passly'],
 ];
 
@@ -368,7 +368,9 @@ function ergebnisAus(t) {
   // Die Startseite trägt meist den Instagram-Link; ohne sie ist der Handle unbelegt.
   const quellen = [...new Set([anbieterBeleg, t.funde.eintritt_frei?.url, t.instagram.length === 1 ? t.gelesen[0] : null, t.verband_kontakt_url].filter(Boolean))];
   const kontakt = (t.verband_kontakte ?? []).find((k) => k.email);
-  const preis = t.preise.length === 1 || (t.preise.length && t.preise.every((p) => p.eur === t.preise[0].eur)) ? t.preise[0] : null;
+  // Nur ein eindeutiger Einzelpreis: „ab 33 €" im Shop ist meist ein Paket (Dresden Monarchs, 2026-11-13).
+  const einzel = t.preise.filter((p) => /erwachsen|tageskarte|einzel|vollzahler/i.test(p.stelle) && !/\bab\s*\d/i.test(p.stelle));
+  const preis = einzel.length && einzel.every((p) => p.eur === einzel[0].eur) ? einzel[0] : null;
   if (preis) quellen.push(preis.url);
   const beobachtung = t.vorschlag === 'anbieter' && t.anbieter
     ? `Verkauft Tickets online über ${t.anbieter.name} (${t.anbieter.wie}: ${t.anbieter.beleg}).`

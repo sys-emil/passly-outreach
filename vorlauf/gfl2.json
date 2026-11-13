@@ -1,0 +1,680 @@
+{
+  "liga": "gfl2",
+  "stand": "2026-11-13",
+  "quelle": "https://gfl.info/gfl2/teams/",
+  "abrufe": 43,
+  "teams": [
+    {
+      "verband_name": "Elmshorn Fighting Pirates",
+      "team_id": "elmshorn-fighting-pirates",
+      "homepage": "https://fighting-pirates.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://gfl.info/gfl2/teams/elmshorn-fighting-pirates/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/elmshorn-fighting-pirates/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Elmshorner Männer-Turn-Verein von",
+          "email": "medien@fighting-pirates.net"
+        }
+      ],
+      "verband_emails": [
+        "medien@fighting-pirates.net"
+      ],
+      "plz": "25335",
+      "ort": "Elmshorn E-Mail",
+      "hallen": [
+        "Krückaustadion Elmshorn Zum Krückaupark 7 25337 Elmshorn"
+      ],
+      "verein": "Elmshorn Fighting Pirates",
+      "land": "SH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fighting-pirates.de/",
+        "https://fighting-pirates.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "maniacs_cheerleader",
+        "fightingpirates"
+      ],
+      "emails": [
+        "info@fighting-pirates.net"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://fighting-pirates.de/tickets/",
+        "wie": "eingebunden auf https://fighting-pirates.de/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Hamburg Pioneers",
+      "team_id": "hamburg-pioneers",
+      "homepage": "https://hamburg-pioneers.de",
+      "ticketlink": "https://hamburg-pioneers.vereinsticket.de/",
+      "verband_team_url": "https://gfl.info/gfl2/teams/hamburg-pioneers/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/hamburg-pioneers/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Hamburg Pioneers Sportvereinigung Polizei Hamburg von",
+          "email": "info@hamburg-pioneers.de"
+        }
+      ],
+      "verband_emails": [
+        "info@hamburg-pioneers.de"
+      ],
+      "plz": "20357",
+      "ort": "Hamburg E-Mail",
+      "hallen": [
+        "Homefield Jahnring 26 22297 Hamburg"
+      ],
+      "verein": "Hamburg Pioneers",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://hamburg-pioneers.de/",
+        "https://hamburg-pioneers.de/kalender/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://hamburg-pioneers.vereinsticket.de/",
+        "wie": "GFL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Krefeld Ravens",
+      "team_id": "krefeld-ravens",
+      "homepage": "https://www.krefeld-ravens.de/",
+      "ticketlink": "https://tickets.krefeld-ravens.de/",
+      "verband_team_url": "https://gfl.info/gfl2/teams/krefeld-ravens/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/krefeld-ravens/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Krefeld Ravens e.V. Ritzhütte",
+          "email": "info@krefeld-ravens.de"
+        }
+      ],
+      "verband_emails": [
+        "info@krefeld-ravens.de"
+      ],
+      "plz": "47805",
+      "ort": "Krefeld E-Mail",
+      "hallen": [
+        "Grotenburg-Stadion Tiergartenstraße 165 47800 Krefeld"
+      ],
+      "verein": "Krefeld Ravens",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.krefeld-ravens.de/"
+      ],
+      "nicht_lesbar": [
+        "https://tickets.krefeld-ravens.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [
+        "krefeld_ravens_football"
+      ],
+      "emails": [
+        "info@krefeld-ravens.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Langenfeld Longhorns",
+      "team_id": "langenfeld-longhorns",
+      "homepage": "https://langenfeld-longhorns.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://gfl.info/gfl2/teams/langenfeld-longhorns/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/langenfeld-longhorns/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "American Football Club AFC Langenfeld",
+          "email": "info@langenfeld-longhorns.de"
+        }
+      ],
+      "verband_emails": [
+        "info@langenfeld-longhorns.de"
+      ],
+      "plz": "40764",
+      "ort": "Langenfeld E-Mail",
+      "hallen": [
+        "Jahnstadion Langenfeld 40764 Langenfeld (Rheinland)"
+      ],
+      "verein": "Langenfeld Longhorns",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://langenfeld-longhorns.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@langenfeld-longhorns.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Leipzig Lions",
+      "team_id": "leipzig-lions",
+      "homepage": "https://leipzig-lions.de/",
+      "ticketlink": "https://leipzig-lions.de/tickets/",
+      "verband_team_url": "https://gfl.info/gfl2/teams/leipzig-lions/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/leipzig-lions/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Leipzig Lions e.V. Am Sportforum",
+          "email": "praesidium@leipzig-lions.de"
+        }
+      ],
+      "verband_emails": [
+        "praesidium@leipzig-lions.de"
+      ],
+      "plz": "04105",
+      "ort": "Leipzig Telefon",
+      "hallen": [
+        "Sportpark Camillo Ugi Städtelner Str. 101 04416 Markkleeberg"
+      ],
+      "verein": "Leipzig Lions",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://leipzig-lions.de/",
+        "https://leipzig-lions.de/tickets/",
+        "https://leipzig-lions.de/2026/08/19/heimspiel-highlight-zum-saisonfinale/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://leipzig-lions.de/tickets/",
+        "wie": "eingebunden auf https://leipzig-lions.de/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Minden Wolves",
+      "team_id": "minden-wolves",
+      "homepage": "https://www.minden-wolves.de/",
+      "ticketlink": "https://www.minden-wolves.de/ticketshop/",
+      "verband_team_url": "https://gfl.info/gfl2/teams/minden-wolves/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/minden-wolves/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "American Football Club Minden Wolves e.V. Bastorpstraße",
+          "email": "info@minden-wolves.de"
+        }
+      ],
+      "verband_emails": [
+        "info@minden-wolves.de"
+      ],
+      "plz": "32429",
+      "ort": "Minden E-Mail",
+      "hallen": [
+        "Am Weserstadion 32423 Minden"
+      ],
+      "verein": "Minden Wolves",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.minden-wolves.de/",
+        "https://www.minden-wolves.de/ticketshop/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "minden_wolves"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://www.minden-wolves.de/ticketshop/",
+        "wie": "eingebunden auf https://www.minden-wolves.de/ticketshop/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Rostock Griffins",
+      "team_id": "rostock-griffins",
+      "homepage": "https://rostockgriffins.de/",
+      "ticketlink": "https://ticketing07.cld.ondemand.com/shop?hiqp=$_hqpY0xiMVVZZm4yMlcvY014UkUyUEsyclYwYWdyVW5IbllIV0d0Q1JlSzQyOVVaUW1lazc0U1RYcHpLb1E0ZnhMUzFXOEtac1NOVjI0MkxyQ1JFYU1zVzJzUzJQZk1zTWI4VjlBVzI1bVd0MDRKNHNVUU9IM1hnNEJkWG5INkExd29nbW1KU0VPZXIralZiUktZRW1Zbm9DZkNld1g4U2U2L29qeXAzZGttc3dWWVEvSWIyQ1hLSzJyU2VReEhacFRJcytWcE0yaE83QlhiZERVVUVkaU43ZElhVloyWXhiZnZpZ1JrYzluYzdaS3NuejBES3hDV0dHVTNocVBtdEJwREdCNk1hR0FNcURRemp6c08zblh3czlnbkZHblgyQnlQUHVOcEFpSmFIdUY4WCs5MlVNUWdENjdmdldBL2psM0dKRG1Pcm1BPQ==",
+      "verband_team_url": "https://gfl.info/gfl2/teams/rostock-griffins/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/rostock-griffins/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Rostock Griffins e.V. Vicke-Schorler-Ring",
+          "email": "geschaeftsstelle@rostockgriffins.de"
+        }
+      ],
+      "verband_emails": [
+        "geschaeftsstelle@rostockgriffins.de"
+      ],
+      "plz": "18055",
+      "ort": "Rostock E-Mail",
+      "hallen": [
+        "Leichtathletikstadion Rostock Kopernikusstraße 17a 18057 Rostock"
+      ],
+      "verein": "Rostock Griffins",
+      "land": "MV",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://rostockgriffins.de/",
+        "https://rostockgriffins.de/tickets-buchen/",
+        "https://rostockgriffins.de/tickets-buchen/dauerkarte/"
+      ],
+      "nicht_lesbar": [
+        "https://ticketing07.cld.ondemand.com/shop?hiqp=$_hqpY0xiMVVZZm4yMlcvY014UkUyUEsyclYwYWdyVW5IbllIV0d0Q1JlSzQyOVVaUW1lazc0U1RYcHpLb1E0ZnhMUzFXOEtac1NOVjI0MkxyQ1JFYU1zVzJzUzJQZk1zTWI4VjlBVzI1bVd0MDRKNHNVUU9IM1hnNEJkWG5INkExd29nbW1KU0VPZXIralZiUktZRW1Zbm9DZkNld1g4U2U2L29qeXAzZGttc3dWWVEvSWIyQ1hLSzJyU2VReEhacFRJcytWcE0yaE83QlhiZERVVUVkaU43ZElhVloyWXhiZnZpZ1JrYzluYzdaS3NuejBES3hDV0dHVTNocVBtdEJwREdCNk1hR0FNcURRemp6c08zblh3czlnbkZHblgyQnlQUHVOcEFpSmFIdUY4WCs5MlVNUWdENjdmdldBL2psM0dKRG1Pcm1BPQ== (ENOTFOUND)"
+      ],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://rostockgriffins.de/",
+          "stelle": "k › Rostock Griffins Start News Events Toggle Dropdown Tickets buchen Dauerkarte Teams Toggle Dropdown Rostock Griffins Team Junior Griffins Team Juni"
+        }
+      },
+      "instagram": [
+        "rostockgriffins"
+      ],
+      "emails": [
+        "geschaeftsstelle@rostockgriffins.de",
+        "info@rostockgriffins.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://rostockgriffins.de/tickets-buchen/",
+        "wie": "eingebunden auf https://rostockgriffins.de/tickets-buchen/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Luebeck Cougars",
+      "team_id": "luebeck-cougars",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://gfl.info/gfl2/teams/luebeck-cougars/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/luebeck-cougars/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "GFL-Teamseite leitet um oder fehlt",
+      "verein": "Luebeck Cougars",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Albershausen Crusaders",
+      "team_id": "albershausen-crusaders",
+      "homepage": "https://albershausen-crusaders.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://gfl.info/gfl2/teams/albershausen-crusaders/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/albershausen-crusaders/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Albershausen Crusaders e.V. Gemeindeländerweg",
+          "email": "info@albershausen-crusaders.de"
+        }
+      ],
+      "verband_emails": [
+        "info@albershausen-crusaders.de"
+      ],
+      "plz": "73095",
+      "ort": "Albershausen E-Mail",
+      "hallen": [
+        "Waldstadion Albershausen Hirschplanweg 1 73095 Albershausen"
+      ],
+      "verein": "Albershausen Crusaders",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://albershausen-crusaders.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "albershausencrusaders"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Augsburg Centurions",
+      "team_id": "augsburg-centurions",
+      "homepage": "https://www.augsburg-centurions.de/",
+      "ticketlink": "https://www.augsburg-centurions.de/",
+      "verband_team_url": "https://gfl.info/gfl2/teams/augsburg-centurions/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/augsburg-centurions/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "TSG",
+          "email": "info@augsburg-centurions.de"
+        }
+      ],
+      "verband_emails": [
+        "info@augsburg-centurions.de"
+      ],
+      "plz": "86169",
+      "ort": "Augsburg E-Mail",
+      "hallen": [
+        "Rosenaustadion, Stadionstraße 21, 86159 Augsburg"
+      ],
+      "verein": "Augsburg Centurions",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.augsburg-centurions.de/",
+        "https://www.augsburg-centurions.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.augsburg-centurions.de/tickets/",
+          "stelle": "e (Dieser Bereich ist ausschließlich für VIP- und Saisonkarteninhaber reserviert.) Sichere dir jetzt deinen festen Platz im Stadion, profitiere vom P"
+        },
+        "dauerkarte": {
+          "url": "https://www.augsburg-centurions.de/tickets/",
+          "stelle": "an der 50-Yard-Linie (Dieser Bereich ist ausschließlich für VIP- und Saisonkarteninhaber reserviert.) Sichere dir jetzt deinen festen Platz im Stadion"
+        }
+      },
+      "instagram": [
+        "augsburgcenturions"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://www.augsburg-centurions.de/tickets/",
+        "wie": "eingebunden auf https://www.augsburg-centurions.de/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Biberach Beavers",
+      "team_id": "biberach-beavers",
+      "homepage": "https://www.biberachbeavers.de/",
+      "ticketlink": "https://shop.biberachbeavers.de/pages/ticket",
+      "verband_team_url": "https://gfl.info/gfl2/teams/biberach-beavers/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/biberach-beavers/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "TG Biberach",
+          "email": "presse@biberachbeavers.de"
+        }
+      ],
+      "verband_emails": [
+        "presse@biberachbeavers.de"
+      ],
+      "plz": "88400",
+      "ort": "Biberach",
+      "hallen": [
+        "Stadion an der Adenauerallee Wilhelm-Leger-Straße 88400 Biberach an der Riß"
+      ],
+      "verein": "Biberach Beavers",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.biberachbeavers.de/",
+        "https://shop.biberachbeavers.de/pages/ticket"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Wix Events",
+        "beleg": "https://www.biberachbeavers.de/",
+        "wie": "Wix-Events-Shop auf https://www.biberachbeavers.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Gießen Golden Dragons",
+      "team_id": "giessen-golden-dragons",
+      "homepage": "https://www.giessengoldendragons.de/",
+      "ticketlink": "https://www.eventim-light.com/de/a/60de01ab542aaa2ac817b8b0/",
+      "verband_team_url": "https://gfl.info/gfl2/teams/giessen-golden-dragons/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/giessen-golden-dragons/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "Gießen Golden Dragons MTV",
+          "email": "info@giessengoldendragons.de"
+        }
+      ],
+      "verband_emails": [
+        "info@giessengoldendragons.de"
+      ],
+      "plz": "35394",
+      "ort": "Gießen E-Mail",
+      "hallen": [
+        "Stadion am Ried Philosophenstraße 40 35396 Gießen-Wieseck"
+      ],
+      "verein": "Gießen Golden Dragons",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://giessengoldendragons.de/",
+        "https://giessengoldendragons.de/dragons-empfangen-fighting-farmers-zum-wichtigen-heimspiel/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://www.eventim-light.com/de/a/60de01ab542aaa2ac817b8b0/",
+        "wie": "GFL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Montabaur Fighting Farmers",
+      "team_id": "montabaur-fighting-farmers",
+      "homepage": "https://fighting-farmers.de",
+      "ticketlink": "https://fighting-farmers.de/tickets/",
+      "verband_team_url": "https://gfl.info/gfl2/teams/montabaur-fighting-farmers/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/montabaur-fighting-farmers/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "1. American Footballclub Fighting Farmers Montabaur",
+          "email": "vorstand@fighting-farmers.de"
+        }
+      ],
+      "verband_emails": [
+        "vorstand@fighting-farmers.de"
+      ],
+      "plz": "56410",
+      "ort": "Montabaur E-Mail",
+      "hallen": [
+        "Mons-Tabor-Stadion Montabaur Von Bodelschwingh Str. 25 56410 Montabaur"
+      ],
+      "verein": "Montabaur Fighting Farmers",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fighting-farmers.de/",
+        "https://fighting-farmers.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://fighting-farmers.de/tickets/",
+          "stelle": "unserer Dauerkarte kein Problem. Sowohl online , wie auch an unserer Tageskasse kannst du diese für 45,00 € erwerben! Kontakt 1. American Footballclu"
+        },
+        "dauerkarte": {
+          "url": "https://fighting-farmers.de/tickets/",
+          "stelle": "in Saisonticket für alle Heimspiele sichern? Auch das ist mit unserer Dauerkarte kein Problem. Sowohl online , wie auch an unserer Tageskasse kannst d"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "vorstand@fighting-farmers.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://fighting-farmers.de/tickets/",
+        "wie": "eingebunden auf https://fighting-farmers.de/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Wiesbaden Phantoms",
+      "team_id": "wiesbaden-phantoms",
+      "homepage": "http://www.wiesbaden-phantoms.de/",
+      "ticketlink": "https://vivenu.com/seller/wiesbaden-phantoms-0grg",
+      "verband_team_url": "https://gfl.info/gfl2/teams/wiesbaden-phantoms/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/wiesbaden-phantoms/",
+      "verband_kontakte": [
+        {
+          "rolle": "Vereinskontakt",
+          "name": "AFC Wiesbaden Phantoms e. V. Willy-Brandt-Allee",
+          "email": "info@wiesbaden-phantoms.de"
+        }
+      ],
+      "verband_emails": [
+        "info@wiesbaden-phantoms.de"
+      ],
+      "plz": "65197",
+      "ort": "Wiesbaden Telefon",
+      "hallen": [
+        "Camp Lindsey Willy-Brandt-Allee 17 65197 Wiesbaden"
+      ],
+      "verein": "Wiesbaden Phantoms",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.wiesbaden-phantoms.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "wiesbaden_phantoms"
+      ],
+      "emails": [
+        "info@wiesbaden-phantoms.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "vivenu",
+        "beleg": "https://vivenu.com/seller/wiesbaden-phantoms-0grg",
+        "wie": "GFL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Nuernberg Rams",
+      "team_id": "nuernberg-rams",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://gfl.info/gfl2/teams/nuernberg-rams/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/nuernberg-rams/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "GFL-Teamseite leitet um oder fehlt",
+      "verein": "Nuernberg Rams",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Fursty Razorbacks",
+      "team_id": "fursty-razorbacks",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://gfl.info/gfl2/teams/fursty-razorbacks/",
+      "verband_kontakt_url": "https://gfl.info/gfl2/teams/fursty-razorbacks/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "GFL-Teamseite leitet um oder fehlt",
+      "verein": "Fursty Razorbacks",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    }
+  ]
+}

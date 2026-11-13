@@ -1,0 +1,70 @@
+{
+  "verein": {
+    "name": "Langenfeld Longhorns",
+    "ort": "Langenfeld (Rheinland)",
+    "land": "NW",
+    "liga": "gfl2",
+    "liga_name": "GFL2 (2. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://langenfeld-longhorns.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets (egocentric Systems, Shop unter shop.get-vibe.de)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Jahnstadion, Jahnstraße 4, 40764 Langenfeld (Rheinland)",
+    "kapazitaet": null,
+    "instagram": "langenfeld.longhorns",
+    "ansprechperson": {
+      "name": "American Football Club Langenfeld 2011 e. V.",
+      "rolle": "Vereinskontakt (laut GFL und Vereinsseite)",
+      "kontakt": "info@langenfeld-longhorns.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite verlinkt „Hier Tickets kaufen!“ auf einen VBO-Tickets-Shop (tickets.egocentric.systems, weiter zu shop.get-vibe.de) des AFC Langenfeld 2011 e.V.; der Shop listet nach Saisonende (Aus am 15.8. in Hamburg) keine Veranstaltungen. Die Gameday-Seite nennt Kategorien First Team, Ermäßigt und eine „Dauerkarte Saison 2023“, ohne Preise.",
+    "quellen": [
+      "https://langenfeld-longhorns.de/",
+      "https://langenfeld-longhorns.de/gameday/",
+      "https://shop.get-vibe.de/tickets.asp?o=9222&page=events"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://langenfeld-longhorns.de/",
+      "https://langenfeld-longhorns.de/gameday/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag „keine_angabe“ war falsch: die Startseite verlinkt einen Ticketshop. Der VBO-Shop ist nur außerhalb der Saison leer (Saison 2026 endete am 15.8. mit der Niederlage in Hamburg); Anbieter VBO Tickets abgeleitet aus Domain tickets.egocentric.systems (egocentric Systems betreibt VBO Tickets) und Bild-URL „awsvboticketscom“. Der vierte Abruf (tickets.egocentric.systems) lieferte nur eine Weiterleitung. Gameday-Seite verlinkt zusätzlich „Ticket-Shop“ auf longhorns-shop.de (nicht gelesen). Dauerkarten-Text dort noch mit „Saison 2023“ beschriftet. Zweites Instagram-Konto wearehorns auf der Startseite. Ort im Vorlauf („Langenfeld E-Mail“) korrigiert.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://langenfeld-longhorns.de/",
+      "https://langenfeld-longhorns.de/gameday/",
+      "https://shop.get-vibe.de/tickets.asp?o=9222&page=events"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://shop.get-vibe.de/tickets.asp?o=9222&page=events"
+    ],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://langenfeld-longhorns.de/"
+        ],
+        "instagram": [
+          "https://langenfeld-longhorns.de/",
+          "https://langenfeld-longhorns.de/gameday/"
+        ],
+        "ansprechperson": [
+          "https://langenfeld-longhorns.de/",
+          "https://langenfeld-longhorns.de/gameday/"
+        ]
+      }
+    }
+  }
+}

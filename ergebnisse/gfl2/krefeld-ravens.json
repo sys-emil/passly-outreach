@@ -1,0 +1,68 @@
+{
+  "verein": {
+    "name": "Krefeld Ravens",
+    "ort": "Krefeld",
+    "land": "NW",
+    "liga": "gfl2",
+    "liga_name": "GFL2 (2. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://www.krefeld-ravens.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vibe (get-vibe.de / egocentric Systems), Shop unter tickets.krefeld-ravens.de",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Grotenburg-Stadion, Tiergartenstraße 165, 47800 Krefeld",
+    "kapazitaet": null,
+    "instagram": "krefeld_ravens_football",
+    "ansprechperson": {
+      "name": "Krefeld Ravens e.V.",
+      "rolle": "Vereinskontakt (laut GFL und Vereinsseite)",
+      "kontakt": "info@krefeld-ravens.de, +49 176 631 383 14"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Button „Ticket Kaufen“ auf der Startseite führt in einen Vibe-Shop (get-vibe.de); das Finale gegen die Rostock Griffins am 12.9.2026 in der Grotenburg gewannen die Ravens 24:14, laut Website kamen zu einem Spiel 3.550 Zuschauer.",
+    "quellen": [
+      "https://www.krefeld-ravens.de/",
+      "https://tickets.krefeld-ravens.de/",
+      "https://shop.get-vibe.de/tickets.asp?o=9162&page=events"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.krefeld-ravens.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag „keine_angabe“ war falsch: tickets.krefeld-ravens.de leitet per 302 auf tickets.egocentric.systems/tickets.asp?o=9162 weiter, die Startseite verlinkt shop.get-vibe.de (gleiche Veranstalter-ID 9162, Kopfzeile „Krefeld Ravens e.V.“). Der Shop zeigt außerhalb der Saison keine Veranstaltungen und Preise, nur außerhalb der Saison leer. 3.550 Zuschauer ist eine Einzelspielzahl, keine Kapazität. Ort im Vorlauf („Krefeld E-Mail“) bereinigt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.krefeld-ravens.de/",
+      "https://tickets.krefeld-ravens.de/",
+      "https://shop.get-vibe.de/tickets.asp?o=9162&page=events"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://tickets.krefeld-ravens.de/",
+      "https://shop.get-vibe.de/tickets.asp?o=9162&page=events"
+    ],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.krefeld-ravens.de/"
+        ],
+        "instagram": [
+          "https://www.krefeld-ravens.de/"
+        ],
+        "ansprechperson": [
+          "https://www.krefeld-ravens.de/"
+        ]
+      }
+    }
+  }
+}

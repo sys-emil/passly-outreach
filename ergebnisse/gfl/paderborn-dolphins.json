@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "Paderborn Dolphins",
+    "ort": "Paderborn E-Mail",
+    "land": "NW",
+    "liga": "gfl",
+    "liga_name": "GFL (1. Bundesliga American Football)",
+    "sport": "American Football"
+  },
+  "ergebnis": {
+    "website": "https://www.paderborn-dolphins.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "vivenu",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Hermann-Löns-Stadion K29 127 33104 Paderborn",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Paderborn Dolphins AFC Paderborn Dolphins e.V. Herr David Schmidtmann Pestalozzi",
+      "rolle": "Vereinskontakt (laut GFL)",
+      "kontakt": "praesident@paderborn-dolphins.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über vivenu (GFL-Ticketlink: https://vivenu.com/seller/paderborn-dolphins-6f07).",
+    "quellen": [
+      "https://gfl.info/teams/paderborn-dolphins/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://gfl.info/teams/paderborn-dolphins/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. GFL-Name „Paderborn Dolphins“. Gelesen: https://www.paderborn-dolphins.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://gfl.info/teams/paderborn-dolphins/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://gfl.info/teams/paderborn-dolphins/"
+        ],
+        "ansprechperson": [
+          "https://gfl.info/teams/paderborn-dolphins/"
+        ]
+      }
+    }
+  }
+}
