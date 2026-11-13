@@ -1,0 +1,71 @@
+{
+  "verein": {
+    "name": "Rote Raben Vilsbiburg II",
+    "ort": "Vilsbiburg",
+    "land": "BY",
+    "liga": "vbl-frauen-sued",
+    "liga_name": "2. Bundesliga Frauen Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.roteraben.de",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "roterabenvilsbiburg",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Rote Raben (Bundesliga-Kontakt)",
+      "kontakt": "bundesliga@roteraben.de, 08741 - 3545"
+    },
+    "naechstes_heimspiel": "14.11.2026, 15:00 Uhr, Vilsbiburg II gegen VC Wiesbaden II",
+    "beobachtung": "Der Ticketshop tickets.roteraben.de bietet nur Spiele der 1. Mannschaft an (14.11. gegen Hamburg, 5.12. gegen Schwerin); das Heimspiel der Zweiten am selben 14.11. um 15 Uhr gegen VC Wiesbaden II steht dort nicht, und die Website nennt für die Zweite keine Ticketinfo.",
+    "quellen": [
+      "https://www.roteraben.de/",
+      "https://www.roteraben.de/tickets/ticketinfo",
+      "https://tickets.roteraben.de/",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-3590.html"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung)",
+    "schritte": 8,
+    "quellen_belegt": [
+      "https://www.roteraben.de/",
+      "https://www.roteraben.de/tickets/ticketinfo"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://www.eventim.de/artist/rote-raben-vilsbiburg/",
+      "https://www.news.de/sport/857138877/rote-raben-vilsbiburg-vfb-suhl-lotto-thueringen-und-co-2023-tickets-im-vorverkauf-termine-und-news-zum-karten-vorverkaufsstart-am-11-09-2023/1/",
+      "https://volleyball.bayern/ergebnisse/erwachsene/ueberbezirkliche-ligen/spiel-383875"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://tickets.roteraben.de/",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-3590.html"
+    ],
+    "notiz": "Zweitmannschaft eines Erstligisten: Ticketshop (vermutlich vivenu, Bild-URLs render.vivenu.com) läuft nur für die 1. Mannschaft; ob die Zweite Eintritt nimmt oder frei ist, steht nirgends. Halle laut Suchtreffer (BVV-Spielbericht Feb. 2026) Ballsporthalle Vilsbiburg, Urbanstraße; Kapazität laut news.de-Treffer 2.000 (1.400 Sitzplätze), beides nicht abgerufen. Instagram ist das Vereinskonto der Rote Raben, kein eigenes Konto der Zweiten. Entscheidung über Ticketing liegt wohl bei der Rote Raben Bundesligabetriebs GmbH, die schon einen Anbieter nutzt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.roteraben.de/",
+      "https://www.roteraben.de/tickets/ticketinfo",
+      "https://tickets.roteraben.de/",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-3590.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "instagram": [
+          "https://www.roteraben.de/",
+          "https://www.roteraben.de/tickets/ticketinfo"
+        ],
+        "ansprechperson": []
+      }
+    }
+  }
+}

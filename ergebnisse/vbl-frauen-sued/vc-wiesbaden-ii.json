@@ -1,0 +1,78 @@
+{
+  "verein": {
+    "name": "VC Wiesbaden II",
+    "ort": "Wiesbaden",
+    "land": "HE",
+    "liga": "vbl-frauen-sued",
+    "liga_name": "2. Bundesliga Frauen Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.vc-wiesbaden.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "vivenu",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 5,
+    "halle": "Sporthalle am Platz der Deutschen Einheit, Platz der Deutschen Einheit 5, 65185 Wiesbaden",
+    "kapazitaet": null,
+    "instagram": "vc_wiesbaden",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Geschäftsstelle VC Wiesbaden",
+      "kontakt": "info@vc-wiesbaden.de, +49 611 940756-0"
+    },
+    "naechstes_heimspiel": "28.11.2026, 18:00 gegen Black Forest Volleys Offenburg",
+    "beobachtung": "Die zweite Mannschaft verkauft ihre Heimspiele über den vivenu-Shop des Erstligisten VC Wiesbaden (Rubrik „Tageskarten 2. Bundesliga“); nächstes Heimspiel am 28.11. um 18 Uhr gegen Black Forest Volleys Offenburg in der Sporthalle am Platz der Deutschen Einheit, Tickets ab 5 €.",
+    "quellen": [
+      "https://vc-wiesbaden-rj5j.vivenushop.com/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345711&c.view=teamMain",
+      "https://vc-wiesbaden-rj5j.vivenushop.com/section/tageskarten-2-bundesliga-heute-ab-18-uhr-6kxo",
+      "https://vc-wiesbaden-rj5j.vivenushop.com/event/vc-wiesbaden-ii-black-forest-volleys-offenburg-5m5ut5",
+      "https://www.vc-wiesbaden.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung)",
+    "schritte": 10,
+    "quellen_belegt": [
+      "https://vc-wiesbaden-rj5j.vivenushop.com/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345711&c.view=teamMain",
+      "https://vc-wiesbaden-rj5j.vivenushop.com/section/tageskarten-2-bundesliga-heute-ab-18-uhr-6kxo",
+      "https://vc-wiesbaden-rj5j.vivenushop.com/event/vc-wiesbaden-ii-black-forest-volleys-offenburg-5m5ut5",
+      "https://www.vc-wiesbaden.de/"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-114~team_id-5854.html"
+    ],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Zweitvertretung eines Erstligisten mit professionellem Ticketing (vivenu), als Passly-Kunde unwahrscheinlich. Preis 5 € stammt aus den strukturierten Eventdaten der vivenu-Seite (ein Angebot, Kategorie nicht genannt). https://www.vc-wiesbaden.de/tickets leitet auf den vivenu-Shop um. Instagram vc_wiesbaden ist das Vereinskonto (Startseite), kein eigenes Konto der II. Kapazität unbekannt. März-Heimspiele gegen TV Holz und Stuttgart in der Sporthalle am 2. Ring.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://vc-wiesbaden-rj5j.vivenushop.com/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345711&c.view=teamMain",
+      "https://vc-wiesbaden-rj5j.vivenushop.com/section/tageskarten-2-bundesliga-heute-ab-18-uhr-6kxo",
+      "https://vc-wiesbaden-rj5j.vivenushop.com/event/vc-wiesbaden-ii-black-forest-volleys-offenburg-5m5ut5",
+      "https://www.vc-wiesbaden.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://vc-wiesbaden-rj5j.vivenushop.com/",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345711&c.view=teamMain",
+          "https://vc-wiesbaden-rj5j.vivenushop.com/section/tageskarten-2-bundesliga-heute-ab-18-uhr-6kxo",
+          "https://vc-wiesbaden-rj5j.vivenushop.com/event/vc-wiesbaden-ii-black-forest-volleys-offenburg-5m5ut5",
+          "https://www.vc-wiesbaden.de/"
+        ],
+        "instagram": [
+          "https://www.vc-wiesbaden.de/"
+        ],
+        "ticketpreis_eur": [],
+        "ansprechperson": []
+      }
+    }
+  }
+}

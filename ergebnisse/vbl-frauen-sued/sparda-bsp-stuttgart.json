@@ -1,0 +1,71 @@
+{
+  "verein": {
+    "name": "Sparda BSP Stuttgart",
+    "ort": "Stuttgart",
+    "land": "BW",
+    "liga": "vbl-frauen-sued",
+    "liga_name": "2. Bundesliga Frauen Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.mtv-stuttgart.de/volleyball/bundesstuetzpunkt-stuttgart",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle MOTIV, Furtwänglerstr. 145, 70195 Stuttgart",
+    "kapazitaet": null,
+    "instagram": "sparda.bspstuttgart",
+    "ansprechperson": {
+      "name": "Moritz Zeithammel",
+      "rolle": "Teammanager 2. Bundesliga",
+      "kontakt": "tm2bl@mtv-stuttgart.de"
+    },
+    "naechstes_heimspiel": "15.11.2026, 16:00, gegen TSV Unterhaching (Sporthalle MOTIV)",
+    "beobachtung": "Bundesstützpunkt-Team des MTV Stuttgart; Heimspiele am 15.11. (Unterhaching), 21.11. (Wiesbaden II) und 22.11. (Holz) in der Sporthalle MOTIV, weder Teamseite noch MTV-Terminkalender nennen Eintritt oder Tickets.",
+    "quellen": [
+      "https://www.mtv-stuttgart.de/volleyball/bundesstuetzpunkt-stuttgart",
+      "https://www.mtv-stuttgart.de/aktuelles/termine",
+      "https://www.stuttgart.de/en/veranstaltungskalender/veranstaltungen/volleyball-sparda-bsp-stuttgart-ssc-freisen-530052",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8344.html"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung)",
+    "schritte": 7,
+    "quellen_belegt": [
+      "https://www.mtv-stuttgart.de/volleyball/bundesstuetzpunkt-stuttgart"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://www.stuttgarter-zeitung.de/sport/volleyball-bundesliga-aus-stuttgart-fuer-deutschland-neue-chancen-fuer-volleyball-talente-78943824.html",
+      "https://www.stuttgarts-schoenster-sport.de/images/content/articles/AMTVS-Partnerinformation-2017-2018.pdf"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.mtv-stuttgart.de/aktuelles/termine",
+      "https://www.stuttgart.de/en/veranstaltungskalender/veranstaltungen/volleyball-sparda-bsp-stuttgart-ssc-freisen-530052",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8344.html"
+    ],
+    "notiz": "Nachwuchs-/Bundesstützpunktteam des MTV Stuttgart (Bundesstützpunkt laut Suchtreffer aus einer Partnerinfo 2017/18, nicht abgerufen). Keine abgerufene Seite sagt etwas zu Eintritt oder Tickets; Eintritt frei ist bei einem Stützpunktteam plausibel, aber nicht belegt, daher unbekannt. Stuttgart.de-Eintrag zum Rückspiel gegen Freisen (7.2.2027) nennt ebenfalls keinen Preis. Instagram-Handle aus dem Link auf der Teamseite. Kapazität der Sporthalle MOTIV nicht gefunden.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.mtv-stuttgart.de/volleyball/bundesstuetzpunkt-stuttgart",
+      "https://www.mtv-stuttgart.de/aktuelles/termine",
+      "https://www.stuttgart.de/en/veranstaltungskalender/veranstaltungen/volleyball-sparda-bsp-stuttgart-ssc-freisen-530052",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8344.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "instagram": [
+          "https://www.mtv-stuttgart.de/volleyball/bundesstuetzpunkt-stuttgart"
+        ],
+        "ansprechperson": [
+          "https://www.mtv-stuttgart.de/volleyball/bundesstuetzpunkt-stuttgart"
+        ]
+      }
+    }
+  }
+}

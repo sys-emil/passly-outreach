@@ -1,0 +1,75 @@
+{
+  "verein": {
+    "name": "proWIN Volleys TV Holz",
+    "ort": "Heusweiler",
+    "land": "SL",
+    "liga": "vbl-frauen-sued",
+    "liga_name": "2. Bundesliga Frauen Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://prowin-volleys.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Online-Ticketshop auf prowin-volleys.de (Software nicht erkennbar)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Multifunktionshalle Hermann-Neuberger-Sportschule, Saarbrücken, bzw. Sporthalle Friedrich-Schiller-Schule, Heusweiler (Seite „Sportstätten“, ohne Zuordnung zur 2. Bundesliga)",
+    "kapazitaet": null,
+    "instagram": "prowinvolleystvholz",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Geschäftsstelle TV Holz 02 e.V. (Di und Do 11–18 Uhr)",
+      "kontakt": "info@prowin-volleys.de, 06806 49 99 805"
+    },
+    "naechstes_heimspiel": "14.11.2026, 19:00 Uhr, TV Holz gegen KA-Beiertheim",
+    "beobachtung": "Die Ticketseite verweist auf einen „Online-Ticketshop proWIN Volleys“ mit eigenen Ticketbedingungen (prowin-volleys.de/atgb), nennt aber weder Spiele noch Preise; nächstes Heimspiel am 14.11.2026 um 19 Uhr gegen KA-Beiertheim.",
+    "quellen": [
+      "https://www.prowin-volleys.de/tickets",
+      "https://prowin-volleys.de/",
+      "https://prowin-volleys.de/sportstaetten",
+      "https://prowin-volleys.de/tickets",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-6471.html"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung)",
+    "schritte": 7,
+    "quellen_belegt": [
+      "https://www.prowin-volleys.de/tickets",
+      "https://prowin-volleys.de/",
+      "https://prowin-volleys.de/sportstaetten",
+      "https://prowin-volleys.de/tickets"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://hylo.sport/en/news/season-start-home-match-premiere-for-the-prowin-volleys-tv-holz/"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-6471.html"
+    ],
+    "notiz": "Shop ist vermutlich per Widget eingebettet, das im Abruf nicht sichtbar war; Anbieter und Preise daher offen. Laut Suchtreffer (hylo.sport, Saisonstart 2023) kostete die Abendkasse damals 7 €, ermäßigt 4 €; nicht abgerufen und veraltet. Welche der beiden Hallen 2026/27 die Heimspielhalle ist, steht nicht auf der Seite. Die Ticketseite wurde zweimal abgerufen (mit und ohne www).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.prowin-volleys.de/tickets",
+      "https://prowin-volleys.de/",
+      "https://prowin-volleys.de/sportstaetten",
+      "https://prowin-volleys.de/tickets",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-6471.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "instagram": [
+          "https://www.prowin-volleys.de/tickets",
+          "https://prowin-volleys.de/",
+          "https://prowin-volleys.de/sportstaetten",
+          "https://prowin-volleys.de/tickets"
+        ],
+        "anbieter": [],
+        "ansprechperson": []
+      }
+    }
+  }
+}

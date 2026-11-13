@@ -1,0 +1,64 @@
+{
+  "verein": {
+    "name": "SSC Freisen",
+    "ort": "Freisen",
+    "land": "SL",
+    "liga": "vbl-frauen-sued",
+    "liga_name": "2. Bundesliga Frauen Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": null,
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 8,
+    "halle": "Bruchwaldhalle Freisen, Schulstraße 60, 66629 Freisen",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": "21.11.2026, 18:30, gegen TV Altdorf",
+    "beobachtung": "Heimspiele in der Bruchwaldhalle werden einzeln über Eventim verkauft, z. B. gegen SVK Karlsruhe-Beiertheim am 10.4.2027 „ab 8 €“; nächstes Heimspiel laut Spielplan am 21.11. gegen TV Altdorf.",
+    "quellen": [
+      "https://www.mvp.de/saarland/veranstaltungen/ssc-freisen-svk-karlsruhe-beiertheim-bruchwaldhalle-freisen-freisen/",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-6472.html"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung)",
+    "schritte": 10,
+    "quellen_belegt": [
+      "https://www.mvp.de/saarland/veranstaltungen/ssc-freisen-svk-karlsruhe-beiertheim-bruchwaldhalle-freisen-freisen/"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://www.eventim.de/en/event/ssc-freisen-sparda-bsp-stuttgart-2-volleyball-bundesliga-sued-bruchwaldhalle-freisen-22044286/",
+      "https://www.eventim.de/en/event/ssc-freisen-tv-dingolfing-2-volleyball-bundesliga-sued-bruchwaldhalle-freisen-22044292/",
+      "https://www.eventim.de/event/ssc-freisen-rote-raben-vilsbiburg-2-volleyball-bundesliga-sued-bruchwaldhalle-freisen-22044285/",
+      "https://www.eventim.de/en/event/ssc-freisen-vc-wiesbaden-2-2-volleyball-bundesliga-sued-bruchwaldhalle-freisen-22044260/",
+      "https://svv.sams-server.de/cms/files/SVV_Dateien/Hygienekonzepte/SSC Freisen_2021_11_30.pdf"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-6472.html"
+    ],
+    "notiz": "Keine Vereinswebsite gefunden (www.ssc-freisen.de existiert nicht), daher kein belegter Instagram-Handle und keine Ansprechperson. Eventim-Seiten zu mehreren Heimspielen (Veranstalter laut Suchtreffer: SSC Freisen e.V., Heidestr. 38, 66629 Freisen) erschienen nur als Suchtreffer, drei Abrufe bei eventim.de liefen in Timeouts; Anbieter Eventim ist über den abgerufenen mvp.de-Eintrag belegt, der auf eventim.de/noapp/event/22044297 verlinkt. Preis „ab 8 €“ ist der niedrigste Preis, wahrscheinlich nicht der Erwachsenen-Normalpreis. 1. Vorsitzende 2021 laut Suchtreffer (Hygienekonzept): Brigitte Schumacher, nicht aktuell belegt. Hessenschau-Spielplan widerspricht teilweise anderen Plänen (Wiesbaden II hier am 3.10. statt im April). Achtung: Der Hessenschau-Spielplan führt SG Erfurt electronic nicht und wirkt unvollständig; das nächste Heimspiel kann abweichen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.mvp.de/saarland/veranstaltungen/ssc-freisen-svk-karlsruhe-beiertheim-bruchwaldhalle-freisen-freisen/",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-6472.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.mvp.de/saarland/veranstaltungen/ssc-freisen-svk-karlsruhe-beiertheim-bruchwaldhalle-freisen-freisen/"
+        ],
+        "anbieter": [
+          "https://www.mvp.de/saarland/veranstaltungen/ssc-freisen-svk-karlsruhe-beiertheim-bruchwaldhalle-freisen-freisen/"
+        ]
+      }
+    }
+  }
+}

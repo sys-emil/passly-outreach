@@ -1,0 +1,56 @@
+{
+  "verein": {
+    "name": "Erfurt electronic",
+    "ort": "Erfurt",
+    "land": "TH",
+    "liga": "vbl-frauen-sued",
+    "liga_name": "2. Bundesliga Frauen Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": null,
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Tabelle der 2. Bundesliga Süd Frauen führt „SW Erfurt“ mit 0 Spielen auf Platz 12; weder Schwarz-Weiß Erfurt (1. Bundesliga) noch SWE Volley-Team nennen auf ihren Startseiten eine Mannschaft in der 2. Bundesliga oder den Namen „Erfurt electronic“.",
+    "quellen": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112.html",
+      "https://www.schwarz-weiss-erfurt.de/",
+      "https://swe-volley-team.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung)",
+    "schritte": 6,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [
+      "https://www.regioactive.de/sport/etv-hamburg-vs-schwarz-weiss-erfurt-1-heimspiel-volleyball-bundesliga-cu-arena-2026-10-13-NRKk92ySXT",
+      "https://www.wiesbaden.de/ru/leben-in-wiesbaden/sport/bundesligen/vcw"
+    ],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Identität unklar: „Erfurt electronic“ fand keine Suche. Einziger Erfurter Eintrag der Staffel ist „SW Erfurt“ ohne ein einziges Spiel; in den Spielplänen von DJK München-Ost, Vilsbiburg II, VC Offenburg und TV Holz kommt Erfurt nicht vor. Vermutlich zurückgezogen oder nur Platzhalter; vereine.json prüfen. Gefundene Instagram-Links gehören zu anderen Teams (schwarzweisserfurt = 1. Bundesliga, swevolleyteam = Breitensportverein) und sind deshalb nicht eingetragen. Schwarz-Weiß Erfurt hat eine eigene Ticketseite (schwarz-weiss-erfurt.de/tickets, nicht abgerufen), Heimspielort 1. BL am 28.11.26 Riethsporthalle.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112.html",
+      "https://www.schwarz-weiss-erfurt.de/",
+      "https://swe-volley-team.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112.html",
+      "https://www.schwarz-weiss-erfurt.de/",
+      "https://swe-volley-team.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {}
+    }
+  }
+}

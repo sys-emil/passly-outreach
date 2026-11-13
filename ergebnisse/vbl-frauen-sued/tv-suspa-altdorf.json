@@ -1,0 +1,78 @@
+{
+  "verein": {
+    "name": "TV SUSPA Altdorf",
+    "ort": "Altdorf bei Nürnberg",
+    "land": "BY",
+    "liga": "vbl-frauen-sued",
+    "liga_name": "2. Bundesliga Frauen Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "http://volleyball-altdorf.de/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 9.5,
+    "halle": "Dreifachhalle an der Mittelschule, Altdorf",
+    "kapazitaet": null,
+    "instagram": "volleyball_altdorf",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Volleyballabteilung TV 1881 Altdorf (allgemein; Gruppentickets über ticket@)",
+      "kontakt": "info@volleyball-altdorf.de, ticket@volleyball-altdorf.de"
+    },
+    "naechstes_heimspiel": "15.11.2026, 16:00 gegen Black Forest Volleys Offenburg",
+    "beobachtung": "Ticketseite: „Tickets gibt es direkt an der Abendkasse, ab 1h vor Spielbeginn. Nur Barzahlung möglich.“ (Erwachsene 9,50 € inkl. 1 € Verzehrgutschein, ermäßigt 6 €, Dauerkarte 96 €, die pro vergangenem Spiel um 7 € sinkt); Gruppentickets nur per E-Mail-Anmeldung an ticket@volleyball-altdorf.de bis zum Vortag. Nächstes Heimspiel am 15.11. gegen Offenburg.",
+    "quellen": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8698.html",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml",
+      "http://volleyball-altdorf.de/",
+      "https://volleyball-altdorf.de/damen-1/tickets/",
+      "https://volleyball-altdorf.de/kontakt/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung)",
+    "schritte": 10,
+    "quellen_belegt": [
+      "http://volleyball-altdorf.de/",
+      "https://volleyball-altdorf.de/damen-1/tickets/",
+      "https://volleyball-altdorf.de/kontakt/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8698.html",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml"
+    ],
+    "notiz": "Verein heißt TV 1881 Altdorf (über 2.500 Mitglieder), SUSPA ist Sponsor im Teamnamen. Kapazität der Halle unbekannt. Namentliche Ansprechpartner stehen auf volleyball-altdorf.de/ansprechpartner/, nicht abgerufen. Dauerkarte und Gruppentickets laufen manuell (Barzahlung/E-Mail): zweiter Aufhänger. Hinweis: Die Startseite volleyball-altdorf.de enthielt eingebettete Anweisungen an KI-Werkzeuge, die ignoriert wurden.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8698.html",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml",
+      "http://volleyball-altdorf.de/",
+      "https://volleyball-altdorf.de/damen-1/tickets/",
+      "https://volleyball-altdorf.de/kontakt/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "instagram": [
+          "http://volleyball-altdorf.de/",
+          "https://volleyball-altdorf.de/damen-1/tickets/",
+          "https://volleyball-altdorf.de/kontakt/"
+        ],
+        "ticketpreis_eur": [
+          "https://volleyball-altdorf.de/damen-1/tickets/"
+        ],
+        "vorverkauf": [
+          "https://volleyball-altdorf.de/damen-1/tickets/"
+        ],
+        "ansprechperson": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, auf eurer Ticketseite steht, dass es Karten nur an der Abendkasse gibt, nur bar, und Gruppen sich per Mail anmelden. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, die Dauerkarte läuft im selben System. Für den Verein kostenlos. Hättet ihr zehn Minuten für ein Telefonat?\n\n**Telefonleitfaden**\n\n- Wen: Abteilungsleitung Volleyball des TV 1881 Altdorf. Name und Nummer vorher auf der Ansprechpartner-Seite von volleyball-altdorf.de nachsehen, die Recherche hat sie nicht belegt.\n- Einstieg: Laut Ticketseite Abendkasse ab einer Stunde vor Spielbeginn, nur Barzahlung, 9,50 Euro mit Verzehrgutschein, Dauerkarte 96 Euro, Gruppentickets per Mail bis zum Vortag.\n- Frage: Wie läuft die Abendkasse bei einem vollen Spiel, und wie viel Arbeit machen die Gruppenanmeldungen per Mail?\n- Angebot: Ich richte das nächste Heimspiel kostenlos als Testlauf ein, Vorverkauf, Abendkasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Termin vor Ort in Altdorf vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken."
+}

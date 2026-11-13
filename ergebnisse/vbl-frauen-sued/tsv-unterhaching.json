@@ -1,0 +1,78 @@
+{
+  "verein": {
+    "name": "TSV Unterhaching",
+    "ort": "Unterhaching",
+    "land": "BY",
+    "liga": "vbl-frauen-sued",
+    "liga_name": "2. Bundesliga Frauen Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.tsv-unterhaching.de/volleyball",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Geothermie Arena, Unterhaching",
+    "kapazitaet": null,
+    "instagram": "tsvunterhaching_damen1",
+    "ansprechperson": {
+      "name": "Carolin Januschke",
+      "rolle": "stellv. Abteilungsleitung Volleyball, Ansprechpartnerin Bundesliga Damen",
+      "kontakt": "Geschäftsstelle TSV Unterhaching: geschaeftsstelle@tsv-unterhaching.de, 089 611 00 294 (mittwochs 17–19 Uhr)"
+    },
+    "naechstes_heimspiel": "14.11.2026, 18:00 gegen DJK München-Ost",
+    "beobachtung": "Die Volleyball-Seiten des TSV Unterhaching nennen für die Damen 1 (2. Bundesliga Süd) weder Eintrittspreis noch Vorverkauf; die VBL verlinkt als Ticketweg das Vereinsbuchungssystem buchung.tsv-unterhaching.de (AN-Booking), das aber nur Kurse und Turniere, keine Volleyball-Heimspiele anbietet. Nächstes Heimspiel am 14.11. gegen DJK München-Ost.",
+    "quellen": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8838.html",
+      "https://www.tsv-unterhaching.de/volleyball",
+      "https://tsv-unterhaching.de/volleyball/teams/damen-1",
+      "https://tsv-unterhaching.de/volleyball/ansprechpartner",
+      "https://tsv-unterhaching.de/volleyball/teams/damen-1/aktuelles",
+      "https://buchung.tsv-unterhaching.de",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung)",
+    "schritte": 9,
+    "quellen_belegt": [
+      "https://tsv-unterhaching.de/volleyball/teams/damen-1"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://tsvhachingmuenchen.de/wp-content/uploads/2024/09/Saisonheft-2024_2025-3.pdf",
+      "https://sportschedule.tv/sport_event/unterhaching-vs-lohhof/"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8838.html",
+      "https://www.tsv-unterhaching.de/volleyball",
+      "https://tsv-unterhaching.de/volleyball/ansprechpartner",
+      "https://tsv-unterhaching.de/volleyball/teams/damen-1/aktuelles",
+      "https://buchung.tsv-unterhaching.de",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml"
+    ],
+    "notiz": "Ticketsituation offen: keine Preis- oder Kassenangabe gefunden, vermutlich nur Abendkasse, aber nicht belegt. Halle aus Spielberichten der Saison 2025/26 (Heimspiele gegen Lohhof und Karlsruhe in der Geothermie Arena), für 2026/27 nicht ausdrücklich bestätigt; die Halle wird laut Suchtreffern auch von den Männern (TSV Haching München, eigener Verein, 1. Bundesliga) genutzt. Kapazität unbekannt. Ansprechpartner-E-Mails sind per Spamschutz verborgen, daher nur die Geschäftsstelle als Kontakt. Abteilungsleiterin ist Carolin Friedrich. Heimspieltermin aus dem hessenschau-Spielplan, nicht von der Vereinsseite. Instagram tsvunterhaching_damen1 ist auf der Damen-1-Seite verlinkt; Vereinskonto tsv_unterhaching_1910.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8838.html",
+      "https://www.tsv-unterhaching.de/volleyball",
+      "https://tsv-unterhaching.de/volleyball/teams/damen-1",
+      "https://tsv-unterhaching.de/volleyball/ansprechpartner",
+      "https://tsv-unterhaching.de/volleyball/teams/damen-1/aktuelles",
+      "https://buchung.tsv-unterhaching.de",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "instagram": [
+          "https://tsv-unterhaching.de/volleyball/teams/damen-1"
+        ],
+        "ansprechperson": []
+      }
+    }
+  }
+}

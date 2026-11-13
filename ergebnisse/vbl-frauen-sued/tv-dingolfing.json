@@ -1,0 +1,80 @@
+{
+  "verein": {
+    "name": "TV Dingolfing",
+    "ort": "Dingolfing",
+    "land": "BY",
+    "liga": "vbl-frauen-sued",
+    "liga_name": "2. Bundesliga Frauen Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.tv-dingolfing.de/sparten/volleyball/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle (Dreifachturnhalle) Höll-Ost, 84130 Dingolfing",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Gwendolyna Ferdinand",
+      "rolle": "Spartenleiterin Volleyball",
+      "kontakt": "gwendolyna.ferdinand@tv-dingolfing.de"
+    },
+    "naechstes_heimspiel": "15.11.2026, 15:00 gegen SSC Freisen",
+    "beobachtung": "Tagestickets für die Heimspiele der Damen 1 (2. Bundesliga Süd, Sporthalle Höll-Ost) laufen über events.vereinsticket.de, Einzeltickets jeweils etwa 14 Tage vor dem Spiel; an der Abendkasse gilt 2026/27 ein Aufschlag von 1 € pro Ticket. Nächstes Heimspiel am 15.11. gegen SSC Freisen.",
+    "quellen": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-10269.html",
+      "https://www.tv-dingolfing.de",
+      "https://events.vereinsticket.de/tv-dingolfing/vo-2-bundesligasued-1-damen",
+      "https://www.tv-dingolfing.de/team/volleyball-damen-1/",
+      "https://www.tv-dingolfing.de/sparten/volleyball/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung)",
+    "schritte": 9,
+    "quellen_belegt": [
+      "https://www.tv-dingolfing.de",
+      "https://events.vereinsticket.de/tv-dingolfing/vo-2-bundesligasued-1-damen",
+      "https://www.tv-dingolfing.de/team/volleyball-damen-1/",
+      "https://www.tv-dingolfing.de/sparten/volleyball/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://www.eventim.de/en/event/ssc-freisen-tv-dingolfing-2-volleyball-bundesliga-sued-bruchwaldhalle-freisen-22044292/"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-10269.html"
+    ],
+    "notiz": "Nutzt Vereinsticket, den direkten Wettbewerber. Preise stehen auf der Vereinsticket-Übersicht nicht (Einzelspiele erst ca. 14 Tage vorher freigeschaltet), daher ticketpreis_eur null. Kein Instagram-Link auf den gelesenen Seiten (nur Facebook-Hinweis ohne URL). Weitere Kontakte: Tobias Hagen, Sportlicher Leiter, 0171/8076577, tobias.hagen@tv-dingolfing.de. Vereinsticket führt zusätzlich ein Heimspiel am 28.11.2026 gegen SG Erfurt electronic, das im hessenschau-Spielplan fehlt (13. Team der Staffel laut VBL).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-10269.html",
+      "https://www.tv-dingolfing.de",
+      "https://events.vereinsticket.de/tv-dingolfing/vo-2-bundesligasued-1-damen",
+      "https://www.tv-dingolfing.de/team/volleyball-damen-1/",
+      "https://www.tv-dingolfing.de/sparten/volleyball/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.tv-dingolfing.de",
+          "https://events.vereinsticket.de/tv-dingolfing/vo-2-bundesligasued-1-damen",
+          "https://www.tv-dingolfing.de/sparten/volleyball/",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml"
+        ],
+        "ansprechperson": [
+          "https://www.tv-dingolfing.de/team/volleyball-damen-1/",
+          "https://www.tv-dingolfing.de/sparten/volleyball/"
+        ]
+      }
+    }
+  }
+}

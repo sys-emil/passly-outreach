@@ -1,0 +1,84 @@
+{
+  "verein": {
+    "name": "TG Bad Soden",
+    "ort": "Bad Soden am Taunus",
+    "land": "HE",
+    "liga": "vbl-frauen-sued",
+    "liga_name": "2. Bundesliga Frauen Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://bad-soden-volleyball.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 7,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tgbadsoden_2liga",
+    "ansprechperson": {
+      "name": "Daniel Callwitz",
+      "rolle": "VIP-Tickets",
+      "kontakt": "Daniel.Callwitz@bad-soden-volleyball.de"
+    },
+    "naechstes_heimspiel": "15.11.2026, 16:00, gegen SG Erfurt electronic (laut Vereinsticket-Shop)",
+    "beobachtung": "Online-Vorverkauf für alle Heimspiele der Damen 1 über Vereinsticket (tg-badsoden.vereinsticket.de), dazu Tageskasse am Spieltag; Eintritt laut Seite „Ticketing & Preise“ 7 €, ermäßigt 3,50 €.",
+    "quellen": [
+      "https://www.tg-badsoden.de/",
+      "https://tg-badsoden.de/abteilungen/volleyball/",
+      "http://www.bad-soden-volleyball.de/",
+      "https://bad-soden-volleyball.de/ticketing-und-preise/",
+      "https://bad-soden-volleyball.de/mannschaften/damen-1/",
+      "https://tg-badsoden.vereinsticket.de/vo-bundesliga/",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-1693.html"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung)",
+    "schritte": 10,
+    "quellen_belegt": [
+      "https://bad-soden-volleyball.de/ticketing-und-preise/",
+      "https://bad-soden-volleyball.de/mannschaften/damen-1/",
+      "https://tg-badsoden.vereinsticket.de/vo-bundesliga/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.tg-badsoden.de/",
+      "https://tg-badsoden.de/abteilungen/volleyball/",
+      "http://www.bad-soden-volleyball.de/",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-1693.html"
+    ],
+    "notiz": "Nutzt Vereinsticket, den direkten Wettbewerber. Preise auf der Ticketseite sind als Saison 2024/2025 überschrieben, daher womöglich veraltet. Nächstes Heimspiel aus dem Vereinsticket-Shop des Vereins (15.11. gegen SG Erfurt electronic, danach 28.11. Karlsruhe-Beiertheim, 29.11. Sparda BSP Stuttgart); der Hessenschau-Spielplan führt Erfurt nicht und wirkt unvollständig. Halle und Kapazität nicht gefunden. Allgemeiner Kontakt: info@bad-soden-volleyball.de, 06196 25226; Volleyball-Ansprechpartner laut TG-Seite Reiner Trappmann (reiner.trappmann@bad-soden-volleyball.de). Instagram-Handle vom Link auf der Teamseite Damen 1.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tg-badsoden.de/",
+      "https://tg-badsoden.de/abteilungen/volleyball/",
+      "http://www.bad-soden-volleyball.de/",
+      "https://bad-soden-volleyball.de/ticketing-und-preise/",
+      "https://bad-soden-volleyball.de/mannschaften/damen-1/",
+      "https://tg-badsoden.vereinsticket.de/vo-bundesliga/",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-1693.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://bad-soden-volleyball.de/ticketing-und-preise/"
+        ],
+        "anbieter": [
+          "https://bad-soden-volleyball.de/ticketing-und-preise/",
+          "https://tg-badsoden.vereinsticket.de/vo-bundesliga/"
+        ],
+        "ansprechperson": [
+          "https://bad-soden-volleyball.de/ticketing-und-preise/"
+        ],
+        "instagram": [
+          "https://bad-soden-volleyball.de/mannschaften/damen-1/"
+        ]
+      }
+    }
+  }
+}

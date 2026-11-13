@@ -1,0 +1,81 @@
+{
+  "verein": {
+    "name": "SV Karlsruhe-Beiertheim",
+    "ort": "Karlsruhe",
+    "land": "BW",
+    "liga": "vbl-frauen-sued",
+    "liga_name": "2. Bundesliga Frauen Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://sv-karlsruhe-beiertheim.de/volleyball/zweite-bundesliga/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Friedrich-List-Halle (Sporthalle der Friedrich-List-Schule), Karlsruhe",
+    "kapazitaet": null,
+    "instagram": "svk.beiertheim.1884_98.e.v",
+    "ansprechperson": {
+      "name": "Michael Weiler",
+      "rolle": "Abteilungsleitung Volleyball",
+      "kontakt": "m.weiler@sv-karlsruhe-beiertheim.de, 01776052420"
+    },
+    "naechstes_heimspiel": "22.11.2026, 15:00, gegen VC Wiesbaden II",
+    "beobachtung": "Die Seite „Spieltage & Tickets“ der 2. Bundesliga sagt nur „Tickets gibt es an der Abendkasse“ und „Alle Heimspiele finden in der Friedrich-List-Halle statt“, ohne Preis und ohne Online-Vorverkauf.",
+    "quellen": [
+      "https://sv-karlsruhe-beiertheim.de/",
+      "https://sv-karlsruhe-beiertheim.de/volleyball/zweite-bundesliga/spielplan/",
+      "https://sv-karlsruhe-beiertheim.de/volleyball/zweite-bundesliga/das-team/",
+      "https://sv-karlsruhe-beiertheim.de/volleyball/abteilung/",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8163.html",
+      "https://www.wochenblatt-reporter.de/karlsruhe/c-sport/erstligist-kommt-zum-pokalfight_a422723"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung)",
+    "schritte": 8,
+    "quellen_belegt": [
+      "https://sv-karlsruhe-beiertheim.de/",
+      "https://sv-karlsruhe-beiertheim.de/volleyball/zweite-bundesliga/spielplan/",
+      "https://sv-karlsruhe-beiertheim.de/volleyball/zweite-bundesliga/das-team/",
+      "https://sv-karlsruhe-beiertheim.de/volleyball/abteilung/"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://sv-karlsruhe-beiertheim.de/wp-content/uploads/2024/09/SVK-Beiertheim_Sponsorenmappe_Saison_2024-25_web.pdf"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8163.html",
+      "https://www.wochenblatt-reporter.de/karlsruhe/c-sport/erstligist-kommt-zum-pokalfight_a422723"
+    ],
+    "notiz": "Instagram ist das Vereinskonto (von der Spielplanseite verlinkt), kein eigenes Volleyball-Konto; daneben verlinkt die Teamseite Fan-Konten (badener_greifs). Beim DVV-Pokal gegen Wiesbaden im November 2022 lief der Vorverkauf einmalig über Eventfrog (Wochenblatt-Artikel), für die Liga steht nur Abendkasse. Weitere Rollen: Michael Ebert Heimspielkoordination, Eric Palenczat Manager, Benjamin Kindle Sponsoring (volleyball-oea@sv-karlsruhe-beiertheim.de). Preis und Kapazität nicht gefunden. Nächstes Heimspiel aus dem Hessenschau-Spielplan, nicht von der Vereinsseite. Achtung: Der Hessenschau-Spielplan führt SG Erfurt electronic nicht und wirkt unvollständig; das nächste Heimspiel kann abweichen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://sv-karlsruhe-beiertheim.de/",
+      "https://sv-karlsruhe-beiertheim.de/volleyball/zweite-bundesliga/spielplan/",
+      "https://sv-karlsruhe-beiertheim.de/volleyball/zweite-bundesliga/das-team/",
+      "https://sv-karlsruhe-beiertheim.de/volleyball/abteilung/",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-8163.html",
+      "https://www.wochenblatt-reporter.de/karlsruhe/c-sport/erstligist-kommt-zum-pokalfight_a422723"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "instagram": [
+          "https://sv-karlsruhe-beiertheim.de/",
+          "https://sv-karlsruhe-beiertheim.de/volleyball/zweite-bundesliga/spielplan/",
+          "https://sv-karlsruhe-beiertheim.de/volleyball/zweite-bundesliga/das-team/",
+          "https://sv-karlsruhe-beiertheim.de/volleyball/abteilung/"
+        ],
+        "vorverkauf": [
+          "https://sv-karlsruhe-beiertheim.de/volleyball/zweite-bundesliga/spielplan/"
+        ],
+        "ansprechperson": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, auf eurer Seite „Spieltage & Tickets“ steht für die 2. Bundesliga nur, dass es Karten an der Abendkasse in der Friedrich-List-Halle gibt. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link für Website und Instagram, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, Abendkasse und Dauerkarte im selben System. Für den Verein kostenlos. Würdet ihr das an die Volleyballer weitergeben?\n\n**Telefonleitfaden**\n\n- Wen: Abteilungsleitung Volleyball. Kontakt vorher auf der Abteilungsseite von sv-karlsruhe-beiertheim.de nachsehen, die Recherche hat ihn nicht belegt. Das Instagram-Konto gehört dem Gesamtverein, deshalb die Bitte ums Weitergeben.\n- Einstieg: Laut Website gibt es Tickets für die Heimspiele nur an der Abendkasse, ein Preis steht nicht online.\n- Frage: Wie läuft der Einlass gerade, und wisst ihr vor dem Spiel, wie viele Zuschauer kommen?\n- Angebot: Ich richte das nächste Heimspiel kostenlos als Testlauf ein, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Zehn Minuten Demo per Video anbieten, Link zu getpassly.de/sportvereine hinterherschicken."
+}

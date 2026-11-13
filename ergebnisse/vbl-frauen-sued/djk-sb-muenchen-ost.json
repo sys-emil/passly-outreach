@@ -1,0 +1,85 @@
+{
+  "verein": {
+    "name": "DJK SB München-Ost",
+    "ort": "München",
+    "land": "BY",
+    "liga": "vbl-frauen-sued",
+    "liga_name": "2. Bundesliga Frauen Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://pinkcrew.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "leoticket (Leomedia GmbH)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 8,
+    "halle": "DJK Arena, Kirchseeoner Str. 5–9, 81669 München",
+    "kapazitaet": null,
+    "instagram": "djkmuenchenost",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Ticketing (Bestellung, Bezahlung, Stornierung)",
+      "kontakt": "ticket@volleyball-muenchen.de"
+    },
+    "naechstes_heimspiel": "21.11.2026, 19:00 Uhr, DJK München-Ost gegen TV Dingolfing",
+    "beobachtung": "„PinkCrew“ verkauft Einzeltickets (8 €, ermäßigt 4 €) online über leoticket (volleyball-muenchen.leoticket.de), dazu Abendkasse in der DJK Arena bar oder EC; Dauerkarte 60 € für 12 Heimspiele (limitiert auf 50) mit Vorverkaufsstart „in Kürze“. Nächstes Heimspiel 21.11.2026 gegen TV Dingolfing.",
+    "quellen": [
+      "https://djk-muenchen-ost.de/",
+      "https://volleyball-muenchen.de/",
+      "https://volleyball-muenchen.de/damen1/tickets/",
+      "https://pinkcrew.de/",
+      "https://pinkcrew.de/tickets",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-9353.html"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung)",
+    "schritte": 8,
+    "quellen_belegt": [
+      "https://volleyball-muenchen.de/damen1/tickets/",
+      "https://pinkcrew.de/",
+      "https://pinkcrew.de/tickets"
+    ],
+    "quellen_nur_suchtreffer": [
+      "https://sportschedule.tv/sport_event/munchen-vs-munchen-ost"
+    ],
+    "quellen_nicht_nachvollziehbar": [
+      "https://djk-muenchen-ost.de/",
+      "https://volleyball-muenchen.de/",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-9353.html"
+    ],
+    "notiz": "Veranstalter laut Ticketseite CoBy sports GmbH & Co. KG. Kapazität der DJK Arena nirgends genannt (nur 30 VIP-Plätze je Spiel). Bereits gut aufgestellt mit Online-Shop und Dauerkarte; Passly-Anknüpfung eher über Dauerkarte/Abendkasse. Die Startseite djk-muenchen-ost.de enthielt laut Abruf einen fremden Artikel über Steroid-Kauf (vermutlich gehackt/SEO-Spam), Hinweis an den Verein möglich. Startseite pinkcrew.de lud den Spielplan nur per Skript; Termin aus hessenschau.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://djk-muenchen-ost.de/",
+      "https://volleyball-muenchen.de/",
+      "https://volleyball-muenchen.de/damen1/tickets/",
+      "https://pinkcrew.de/",
+      "https://pinkcrew.de/tickets",
+      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-9353.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://volleyball-muenchen.de/damen1/tickets/",
+          "https://pinkcrew.de/tickets"
+        ],
+        "instagram": [
+          "https://pinkcrew.de/",
+          "https://pinkcrew.de/tickets"
+        ],
+        "ticketpreis_eur": [
+          "https://pinkcrew.de/tickets"
+        ],
+        "ansprechperson": [
+          "https://pinkcrew.de/tickets"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass eure Dauerkarte für 60 Euro auf 50 Stück limitiert ist und die Abendkasse bar oder EC nimmt. Ich baue Passly, Ticketing für Vereine: Einzeltickets, Dauerkarte und Abendkasse in einem System, an der Tür wird mit dem Handy gescannt. Für den Verein kostenlos. Falls ihr euch das mal anschauen wollt, hättet ihr zehn Minuten?\n\n**Telefonleitfaden**\n\n- Wen: Ticketing der PinkCrew, ticket@volleyball-muenchen.de, und nach der Person fragen, die über den Ticketverkauf entscheidet.\n- Einstieg: Einzeltickets 8 Euro online, Abendkasse in der DJK Arena bar oder EC, Dauerkarte 60 Euro für 12 Heimspiele, limitiert auf 50.\n- Frage: Was läuft bei Online-Shop, Dauerkarte und Abendkasse gut, und was nervt?\n- Angebot: Kostenloser Testlauf für ein Heimspiel oder nur für die Dauerkarte, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Treffen in München vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken."
+}
