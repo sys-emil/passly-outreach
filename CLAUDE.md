@@ -6,7 +6,7 @@ Anthropic-API tut, nur mit deinen eigenen Werkzeugen WebSearch und WebFetch. So 
 Recherche über Claude-Code-Kontingent statt über API-Guthaben.
 
 **Wo die Ergebnisse stehen:** `uebersicht.html` (alle Staffeln, nach Kategorien,
-Punkte mit Begründung, E-Mail, Entwürfe). Öffnen mit `npm run uebersicht`; sie baut
+Punkte mit Begründung, E-Mail, Entwürfe; Reiter „Daten“ mit Statistiken über alle Staffeln). Öffnen mit `npm run uebersicht`; sie baut
 sich bei jedem `npm run bericht` neu. `bericht/<liga>.md` und `.csv` bleiben daneben.
 
 **Verschickt wird nichts.** Keine Mail, keine DM, kein Formular. Du lieferst Fakten,

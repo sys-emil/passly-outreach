@@ -12,7 +12,8 @@ passly-outreach/
   bericht.mjs       Bewertung, CSV, Markdown-Rangliste, Nachrichtenentwürfe
   bewertung.mjs     die Punkteformel (von Bericht und Übersicht gemeinsam genutzt)
   uebersicht.mjs    schreibt uebersicht.html: alle Staffeln, Kategorien, Punkte, E-Mail, Entwürfe
-  uebersicht.html   HIER STEHEN DIE ERGEBNISSE (npm run uebersicht öffnet sie)
+  uebersicht.html   HIER STEHEN DIE ERGEBNISSE (npm run uebersicht öffnet sie); Reiter „Daten“: Verkaufswege, Anbieter, Preise, Muster
+  vorlage/daten.html  der Daten-Reiter (Diagramme), wird in uebersicht.html eingesetzt
   ergebnisse/<liga>/<verein>.json   ein Datensatz pro Verein (wird nicht überschrieben)
   bericht/<liga>.csv, <liga>.md     das, womit du arbeitest
 ```

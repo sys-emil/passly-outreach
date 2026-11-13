@@ -1,0 +1,251 @@
+<!-- Reiter „Daten“ der Übersicht. uebersicht.mjs setzt diese Datei unverändert
+     in uebersicht.html ein; sie nutzt D, KAT und esc aus dem Hauptskript.
+     Palette: Kategoriefarben 1–5 der dataviz-Referenz (geprüft hell und dunkel,
+     benachbarte Paare). Drei Farben liegen hell unter 3:1, deshalb stehen überall
+     Zahlen neben den Flächen und jedes Diagramm hat eine Tabelle. -->
+<style>
+:root {
+  --k-keiner: #2a78d6; --k-manuell: #eb6834; --k-unbekannt: #1baf7a; --k-anbieter: #eda100; --k-eintritt_frei: #e87ba4;
+  --seq-1: #cde2fb; --seq-2: #9ec5f4; --seq-3: #5598e7; --seq-4: #256abf; --seq-5: #104281;
+  --seq-t-1: #0b0b0b; --seq-t-2: #0b0b0b; --seq-t-3: #ffffff; --seq-t-4: #ffffff; --seq-t-5: #ffffff;
+  --gitter: #ebe5da;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --k-keiner: #3987e5; --k-manuell: #d95926; --k-unbekannt: #199e70; --k-anbieter: #c98500; --k-eintritt_frei: #d55181;
+    --seq-1: #1f2a3a; --seq-2: #184f95; --seq-3: #256abf; --seq-4: #3987e5; --seq-5: #86b6ef;
+    --seq-t-1: #f2ede6; --seq-t-2: #ffffff; --seq-t-3: #ffffff; --seq-t-4: #0b0b0b; --seq-t-5: #0b0b0b;
+    --gitter: #2e2a25;
+  }
+}
+.kacheln { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; margin-bottom: 22px; }
+.kachel { background: var(--karte); border: 1px solid var(--linie); border-radius: 10px; padding: 14px 16px; }
+.kachel .zahl { font-size: 1.9rem; font-weight: 700; font-variant-numeric: tabular-nums; letter-spacing: -0.02em; line-height: 1.1; }
+.kachel .zahl small { font-size: 0.95rem; font-weight: 500; color: var(--ink3); margin-left: 4px; }
+.kachel .was { font-size: 0.85rem; color: var(--ink2); margin-top: 4px; }
+.panel { background: var(--karte); border: 1px solid var(--linie); border-radius: 10px; padding: 16px 18px 14px; margin-bottom: 18px; }
+.panel h2 { font-size: 1rem; margin: 0 0 2px; }
+.panel .frage { color: var(--ink2); font-size: 0.86rem; margin: 0 0 14px; }
+.zwei { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 18px; }
+.zwei .panel { margin-bottom: 0; }
+.legende { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 0.82rem; color: var(--ink2); margin-bottom: 12px; }
+.legende span { display: inline-flex; align-items: center; gap: 6px; }
+.legende i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+.stapel { display: grid; grid-template-columns: minmax(7rem, 13rem) minmax(0, 1fr) 2.5rem; gap: 10px 12px; align-items: center; }
+.stapel .lab { font-size: 0.86rem; }
+.stapel .lab small { color: var(--ink3); display: block; font-size: 0.75rem; }
+.stapel .n { font-size: 0.8rem; color: var(--ink3); text-align: right; font-variant-numeric: tabular-nums; }
+.balken { display: flex; gap: 2px; height: 28px; }
+.seg { height: 100%; display: flex; align-items: center; justify-content: center; font-size: 0.78rem; font-weight: 700; color: #fff; min-width: 4px; cursor: default; outline: none; }
+.seg:first-child { border-radius: 4px 0 0 4px; }
+.seg:last-child { border-radius: 0 4px 4px 0; }
+.seg:only-child { border-radius: 4px; }
+.seg.dunkeltext { color: #0b0b0b; }
+.seg:hover, .seg:focus-visible { filter: brightness(1.08); box-shadow: 0 0 0 2px var(--ink) inset; }
+.anb { display: grid; grid-template-columns: minmax(6rem, 9rem) minmax(0, 1fr); gap: 8px 12px; align-items: start; }
+.anb .name { font-size: 0.86rem; padding-top: 3px; }
+.anb .zeile { display: flex; align-items: center; gap: 8px; }
+.anb .bar { height: 20px; border-radius: 0 4px 4px 0; background: var(--k-anbieter); min-width: 4px; }
+.anb .wert { font-size: 0.82rem; font-variant-numeric: tabular-nums; color: var(--ink); font-weight: 600; }
+.anb .wer { font-size: 0.75rem; color: var(--ink3); margin-top: 2px; }
+.punkte-svg { width: 100%; height: auto; display: block; overflow: visible; }
+.punkte-svg text { fill: var(--ink2); font-size: 12px; font-family: inherit; }
+.punkte-svg .achse { stroke: var(--gitter); stroke-width: 1; }
+.punkte-svg .median { stroke: var(--ink); stroke-width: 2; }
+.punkte-svg circle { stroke: var(--karte); stroke-width: 2; cursor: default; outline: none; }
+.punkte-svg circle:hover, .punkte-svg circle:focus-visible { stroke: var(--ink); }
+.matrix { width: 100%; border-collapse: separate; border-spacing: 2px; font-size: 0.84rem; }
+.matrix th { font-size: 0.72rem; text-transform: none; letter-spacing: 0; color: var(--ink2); font-weight: 600; padding: 4px 6px; border: 0; text-align: center; }
+.matrix th.zeilenkopf { text-align: left; font-weight: 500; color: var(--ink); font-size: 0.84rem; }
+.matrix td { border: 0; padding: 0; }
+.zelle { display: block; text-align: center; padding: 7px 4px; border-radius: 4px; font-variant-numeric: tabular-nums; font-weight: 600; cursor: default; outline: none; }
+.zelle.leer0 { background: transparent; color: var(--ink3); font-weight: 400; border: 1px dashed var(--linie); }
+.zelle:hover, .zelle:focus-visible { box-shadow: 0 0 0 2px var(--ink) inset; }
+.zelle small { font-weight: 400; opacity: 0.85; }
+.muster { margin: 0; padding-left: 20px; }
+.muster li { margin-bottom: 8px; }
+.muster li b { font-variant-numeric: tabular-nums; }
+.vorsicht { font-size: 0.8rem; color: var(--ink3); margin-top: 10px; }
+details.tab { margin-top: 12px; font-size: 0.82rem; }
+details.tab summary { cursor: pointer; color: var(--ink2); }
+details.tab table { margin-top: 8px; font-size: 0.82rem; }
+details.tab td, details.tab th { padding: 5px 8px; }
+#tip { position: fixed; z-index: 10; pointer-events: none; background: var(--ink); color: var(--bg); padding: 8px 10px; border-radius: 7px; font-size: 0.8rem; max-width: 280px; box-shadow: 0 6px 20px rgba(0,0,0,0.18); display: none; }
+#tip b { display: block; margin-bottom: 2px; }
+@media (max-width: 52em) {
+  .kacheln { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .zwei { grid-template-columns: minmax(0, 1fr); }
+  .stapel { grid-template-columns: minmax(0, 1fr) 2rem; }
+  .stapel .lab { grid-column: 1 / -1; margin-bottom: -6px; }
+  .zelle small { display: none; }
+  .matrix th.zeilenkopf { font-size: 0.78rem; }
+}
+</style>
+<div id="tip" role="tooltip"></div>
+<script>
+(function () {
+  const FARBE = { keiner: 'var(--k-keiner)', manuell: 'var(--k-manuell)', unbekannt: 'var(--k-unbekannt)', anbieter: 'var(--k-anbieter)', eintritt_frei: 'var(--k-eintritt_frei)' };
+  const DUNKEL = { anbieter: true }; // Gelb trägt schwarze Schrift
+  const KURZ = { keiner: 'Nur Abendkasse', manuell: 'Von Hand', unbekannt: 'Unklar', anbieter: 'Mit Anbieter', eintritt_frei: 'Eintritt frei' };
+  const ohneOnline = (z) => z.vorverkauf === 'keiner' || z.vorverkauf === 'manuell';
+  const verein = (n) => n + (n === 1 ? ' Verein' : ' Vereine');
+  const euro = (p) => (Number.isInteger(p) ? String(p) : p.toFixed(2).replace('.', ',')) + ' €';
+  const pct = (a, b) => (b ? Math.round((a / b) * 100) : 0);
+  const namen = (l) => l.map((z) => z.name).join(', ');
+
+  // Anbieter auf einen Namen bringen („Vereinsticket (tsg1903…)“ → „Vereinsticket“).
+  function anbieterName(a) {
+    const s = (a || '').toLowerCase();
+    const bekannt = [['vereinsticket', 'Vereinsticket'], ['vivenu', 'vivenu'], ['reservix', 'Reservix'], ['ticket.io', 'ticket.io'], ['ticket i/o', 'ticket.io'],
+      ['eventim', 'Eventim'], ['leoticket', 'leoticket'], ['eventfrog', 'Eventfrog'], ['eigener', 'Eigener Shop'], ['eingebettet', 'Eigener Shop']];
+    for (const [k, n] of bekannt) if (s.includes(k)) return n;
+    return a ? a.split(/[ (]/)[0] : 'nicht erkennbar';
+  }
+
+  // Merkmale, die in der Beobachtung (belegter Satz) stehen; Kontaktwege aus den Feldern.
+  const MERKMALE = [
+    { t: 'Barzahlung erwähnt', f: (z) => /\bbar\b|barzahlung|bargeld/i.test(z.beobachtung) },
+    { t: 'Dauer- oder Saisonkarte', f: (z) => /dauerkarte|saisonkarte/i.test(z.beobachtung) },
+    { t: 'Abend- oder Tageskasse', f: (z) => /abendkasse|tageskasse/i.test(z.beobachtung) },
+    { t: 'Gruppen oder VIP', f: (z) => /gruppe|vip/i.test(z.beobachtung) },
+    { t: 'Ermäßigung, Familie', f: (z) => /ermäßig|familie/i.test(z.beobachtung) },
+    { t: 'Instagram vorhanden', f: (z) => !!z.instagram },
+    { t: 'E-Mail vorhanden', f: (z) => z.mails.length > 0 },
+  ];
+
+  const tip = document.getElementById('tip');
+  function zeigeTip(el, ev) {
+    tip.innerHTML = el.dataset.tip;
+    tip.style.display = 'block';
+    const r = el.getBoundingClientRect();
+    const x = ev && ev.clientX ? ev.clientX : r.left + r.width / 2;
+    const y = ev && ev.clientY ? ev.clientY : r.top;
+    const w = tip.offsetWidth, h = tip.offsetHeight;
+    tip.style.left = Math.max(8, Math.min(window.innerWidth - w - 8, x - w / 2)) + 'px';
+    tip.style.top = (y - h - 12 < 8 ? y + 18 : y - h - 12) + 'px';
+  }
+  function verbindeTips(root) {
+    root.querySelectorAll('[data-tip]').forEach((el) => {
+      el.addEventListener('pointermove', (ev) => zeigeTip(el, ev));
+      el.addEventListener('pointerleave', () => (tip.style.display = 'none'));
+      el.addEventListener('focus', () => zeigeTip(el));
+      el.addEventListener('blur', () => (tip.style.display = 'none'));
+    });
+  }
+  const tipText = (titel, zeilen) => '<b>' + esc(titel) + '</b>' + zeilen.map(esc).join('<br>');
+
+  window.zeigeDaten = function () {
+    const root = document.getElementById('tab-daten');
+    const alle = D.zeilen;
+    const n = alle.length;
+    const kats = KAT.filter((k) => alle.some((z) => z.vorverkauf === k.id));
+
+    // ---- Kacheln
+    const kandidaten = alle.filter((z) => z.punkte >= 45).length;
+    const kacheln = [
+      [alle.filter(ohneOnline).length, n, 'ohne Online-Vorverkauf (nur Abendkasse oder von Hand)'],
+      [alle.filter((z) => z.vorverkauf === 'anbieter').length, n, 'verkaufen schon über einen Anbieter'],
+      [alle.filter((z) => z.vorverkauf === 'unbekannt').length, n, 'unklar, ein Anruf würde es klären'],
+      [kandidaten, null, 'Kandidaten ab 45 Punkten'],
+    ];
+
+    // ---- Verkaufsweg je Staffel (gestapelt, Anteile)
+    const gruppen = [{ name: 'Alle Staffeln', l: alle }].concat(
+      D.staffeln.filter((s) => s.anzahl).map((s) => ({ name: s.name, l: alle.filter((z) => z.liga === s.id), gesamt: s.gesamt })),
+      [{ name: 'Bayern', l: alle.filter((z) => z.land === 'BY'), klein: 'alle Staffeln' }, { name: 'Außerhalb Bayerns', l: alle.filter((z) => z.land !== 'BY'), klein: 'alle Staffeln' }]
+    );
+    const stapel = gruppen.map((g) => {
+      const segs = kats.map((k) => {
+        const l = g.l.filter((z) => z.vorverkauf === k.id);
+        if (!l.length) return '';
+        const anteil = (l.length / g.l.length) * 100;
+        return '<div class="seg' + (DUNKEL[k.id] ? ' dunkeltext' : '') + '" tabindex="0" style="flex:' + l.length + ';background:' + FARBE[k.id] + '" data-tip="' +
+          esc(tipText(g.name + ': ' + k.titel, [l.length + ' von ' + g.l.length + ' (' + Math.round(anteil) + ' %)', namen(l)])) + '">' + (anteil >= 9 ? l.length : '') + '</div>';
+      }).join('');
+      return '<div class="lab">' + esc(g.name) + (g.klein ? '<small>' + esc(g.klein) + '</small>' : g.gesamt ? '<small>' + g.l.length + ' von ' + g.gesamt + ' recherchiert</small>' : '') + '</div>' +
+        '<div class="balken">' + segs + '</div><div class="n">' + g.l.length + '</div>';
+    }).join('');
+    const stapelTabelle = '<table><thead><tr><th>Gruppe</th>' + kats.map((k) => '<th>' + esc(KURZ[k.id]) + '</th>').join('') + '</tr></thead><tbody>' +
+      gruppen.map((g) => '<tr><td>' + esc(g.name) + '</td>' + kats.map((k) => '<td>' + g.l.filter((z) => z.vorverkauf === k.id).length + '</td>').join('') + '</tr>').join('') + '</tbody></table>';
+
+    // ---- Anbieter
+    const mitAnb = alle.filter((z) => z.vorverkauf === 'anbieter');
+    const anb = {};
+    for (const z of mitAnb) (anb[anbieterName(z.anbieter)] ??= []).push(z);
+    const anbListe = Object.entries(anb).sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]));
+    const maxAnb = Math.max(1, ...anbListe.map((a) => a[1].length));
+    const anbHtml = anbListe.map(([name, l]) =>
+      '<div class="name">' + esc(name) + '</div><div><div class="zeile"><div class="bar" style="width:' + (l.length / maxAnb) * 85 + '%"></div><span class="wert">' + l.length + '</span></div>' +
+      '<div class="wer">' + esc(namen(l)) + '</div></div>').join('');
+
+    // ---- Preise je Verkaufsweg (Punktstreifen)
+    const mitPreis = alle.filter((z) => z.preis != null);
+    const pKats = kats.filter((k) => mitPreis.some((z) => z.vorverkauf === k.id));
+    const W = Math.max(280, Math.min(560, (root.clientWidth || 600) < 700 ? root.clientWidth - 40 : root.clientWidth / 2 - 60)), L = 110, R = 16, ZH = 38, T = 8;
+    const maxP = Math.max(12, Math.ceil(Math.max(0, ...mitPreis.map((z) => z.preis)) / 2) * 2);
+    const x = (p) => L + (p / maxP) * (W - L - R);
+    const H = T + pKats.length * ZH + 24;
+    let svg = '<svg class="punkte-svg" viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Ticketpreise nach Verkaufsweg">';
+    for (let p = 0; p <= maxP; p += 2) svg += '<line class="achse" x1="' + x(p) + '" x2="' + x(p) + '" y1="' + T + '" y2="' + (H - 20) + '"/><text x="' + x(p) + '" y="' + (H - 6) + '" text-anchor="middle">' + p + ' €</text>';
+    pKats.forEach((k, i) => {
+      const y = T + i * ZH + ZH / 2;
+      const l = mitPreis.filter((z) => z.vorverkauf === k.id).sort((a, b) => a.preis - b.preis);
+      svg += '<text x="0" y="' + (y + 4) + '">' + esc(KURZ[k.id]) + ' (' + l.length + ')</text>';
+      const med = l.length % 2 ? l[(l.length - 1) / 2].preis : (l[l.length / 2 - 1].preis + l[l.length / 2].preis) / 2;
+      svg += '<line class="median" x1="' + x(med) + '" x2="' + x(med) + '" y1="' + (y - 13) + '" y2="' + (y + 13) + '"><title>Median ' + med + ' €</title></line>';
+      const belegt = {};
+      l.forEach((z) => {
+        const k2 = z.preis; const versatz = (belegt[k2] = (belegt[k2] || 0) + 1) - 1;
+        svg += '<circle tabindex="0" cx="' + x(z.preis) + '" cy="' + (y + (versatz % 2 ? 1 : -1) * Math.ceil(versatz / 2) * 7) + '" r="5.5" fill="' + FARBE[k.id] + '" data-tip="' +
+          esc(tipText(z.name, [euro(z.preis) + ', ' + KURZ[z.vorverkauf] + (z.anbieter ? ' (' + anbieterName(z.anbieter) + ')' : '')])) + '"/>';
+      });
+    });
+    svg += '</svg>';
+    const preisTabelle = '<table><thead><tr><th>Verein</th><th>Verkaufsweg</th><th>Preis</th></tr></thead><tbody>' +
+      mitPreis.slice().sort((a, b) => b.preis - a.preis).map((z) => '<tr><td>' + esc(z.name) + '</td><td>' + esc(KURZ[z.vorverkauf]) + '</td><td>' + euro(z.preis) + '</td></tr>').join('') + '</tbody></table>';
+
+    // ---- Merkmale × Verkaufsweg (Anteil in der Spalte, einfarbige Stufen)
+    const stufe = (a) => (a === 0 ? 0 : a < 0.25 ? 1 : a < 0.45 ? 2 : a < 0.65 ? 3 : a < 0.85 ? 4 : 5);
+    const matrix = '<table class="matrix"><thead><tr><th></th>' + kats.map((k) => '<th>' + esc(KURZ[k.id]) + '<br><small>' + verein(alle.filter((z) => z.vorverkauf === k.id).length) + '</small></th>').join('') + '</tr></thead><tbody>' +
+      MERKMALE.map((m) => '<tr><th class="zeilenkopf">' + esc(m.t) + '</th>' + kats.map((k) => {
+        const spalte = alle.filter((z) => z.vorverkauf === k.id);
+        const l = spalte.filter(m.f);
+        const a = spalte.length ? l.length / spalte.length : 0;
+        const st = stufe(a);
+        return '<td><span class="zelle' + (st ? '' : ' leer0') + '" tabindex="0" style="' + (st ? 'background:var(--seq-' + st + ');color:var(--seq-t-' + st + ')' : '') + '" data-tip="' +
+          esc(tipText(m.t + ' · ' + KURZ[k.id], [l.length + ' von ' + spalte.length + ' (' + pct(l.length, spalte.length) + ' %)', l.length ? namen(l) : 'keiner'])) + '">' + l.length + ' <small>' + pct(l.length, spalte.length) + ' %</small></span></td>';
+      }).join('') + '</tr>').join('') + '</tbody></table>';
+
+    // ---- Muster, aus den Zahlen formuliert
+    const muster = [];
+    const by = alle.filter((z) => z.land === 'BY'), nby = alle.filter((z) => z.land !== 'BY');
+    if (by.length && nby.length) muster.push('In Bayern verkaufen <b>' + pct(by.filter(ohneOnline).length, by.length) + ' %</b> nicht online (' + by.filter(ohneOnline).length + ' von ' + by.length + '), außerhalb <b>' + pct(nby.filter(ohneOnline).length, nby.length) + ' %</b> (' + nby.filter(ohneOnline).length + ' von ' + nby.length + ').');
+    if (anbListe.length) muster.push('Häufigster Anbieter: <b>' + esc(anbListe[0][0]) + '</b> bei ' + anbListe[0][1].length + ' von ' + mitAnb.length + ' Vereinen mit Online-Verkauf' + (anbListe.length > 1 ? '; insgesamt ' + anbListe.length + ' verschiedene.' : '.'));
+    const zweite = alle.filter((z) => /\bII\b/.test(z.name));
+    if (zweite.length) muster.push('<b>' + zweite.length + '</b> zweite Mannschaften: ' + zweite.map((z) => esc(z.name) + ' (' + esc(KURZ[z.vorverkauf]) + ')').join(', ') + '. Sie hängen meist am Shop oder Konto der ersten.');
+    const ohne = alle.filter(ohneOnline);
+    const ohneDk = ohne.filter((z) => /dauerkarte|saisonkarte/i.test(z.beobachtung));
+    if (ohne.length) muster.push('Von ' + ohne.length + ' Vereinen ohne Online-Vorverkauf erwähnen <b>' + ohneDk.length + '</b> eine Dauer- oder Saisonkarte' + (ohneDk.length ? ' (' + esc(namen(ohneDk)) + '): der Pass ist dort der zweite Aufhänger.' : '.'));
+    const med = (l) => { const s = l.map((z) => z.preis).sort((a, b) => a - b); return s.length ? (s.length % 2 ? s[(s.length - 1) / 2] : (s[s.length / 2 - 1] + s[s.length / 2]) / 2) : null; };
+    const mo = med(mitPreis.filter(ohneOnline)), ma = med(mitPreis.filter((z) => z.vorverkauf === 'anbieter'));
+    if (mo != null && ma != null) muster.push('Mittlerer Ticketpreis ohne Online-Vorverkauf <b>' + euro(mo) + '</b>, mit Anbieter <b>' + euro(ma) + '</b>. Bei Preisen unter 12 € fällt die Mindestgebühr von 0,99 € stärker ins Gewicht.');
+    const unsicher = alle.filter((z) => z.sicherheit === 'niedrig');
+    if (unsicher.length) muster.push('<b>' + unsicher.length + '</b> Datensätze haben Sicherheit „niedrig“ und zählen in allen Zahlen hier mit: ' + esc(namen(unsicher)) + '.');
+
+    root.innerHTML =
+      '<div class="kacheln">' + kacheln.map(([a, b, t]) => '<div class="kachel"><div class="zahl">' + a + (b ? '<small>von ' + b + '</small>' : '') + '</div><div class="was">' + esc(t) + '</div></div>').join('') + '</div>' +
+      '<div class="panel"><h2>Wie verkaufen die Vereine?</h2><p class="frage">Verkaufsweg je Staffel und Region, als Anteil. Fahr über eine Fläche für die Namen.</p>' +
+        '<div class="legende">' + kats.map((k) => '<span><i style="background:' + FARBE[k.id] + '"></i>' + esc(KURZ[k.id]) + '</span>').join('') + '</div>' +
+        '<div class="stapel">' + stapel + '</div><details class="tab"><summary>Als Tabelle</summary>' + stapelTabelle + '</details></div>' +
+      '<div class="zwei">' +
+        '<div class="panel"><h2>Welche Anbieter?</h2><p class="frage">Nur Vereine, die schon online verkaufen (' + mitAnb.length + ').</p><div class="anb">' + (anbHtml || '<p class="leer">keine</p>') + '</div></div>' +
+        '<div class="panel"><h2>Was kostet ein Ticket?</h2><p class="frage">Erwachsenenpreis, wo belegt (' + mitPreis.length + ' von ' + n + '). Strich = Median.</p>' + svg +
+          '<details class="tab"><summary>Als Tabelle</summary>' + preisTabelle + '</details></div>' +
+      '</div>' +
+      '<div class="panel" style="margin-top:18px"><h2>Was steht dabei?</h2><p class="frage">Anteil je Verkaufsweg. Die ersten fünf Zeilen aus dem belegten Beobachtungssatz, die letzten zwei aus den Kontaktfeldern. Kräftiger heißt häufiger.</p>' + matrix + '</div>' +
+      '<div class="panel"><h2>Muster</h2><ul class="muster">' + muster.map((m) => '<li>' + m + '</li>').join('') + '</ul>' +
+        '<p class="vorsicht">Bei ' + n + ' Vereinen sind das Hinweise, keine Statistik. Jede weitere Staffel macht die Muster belastbarer.</p></div>';
+    verbindeTips(root);
+  };
+})();
+</script>

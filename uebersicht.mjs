@@ -27,7 +27,8 @@ export async function schreibeUebersicht() {
   zeilen.sort((a, b) => b.punkte - a.punkte);
   const staffeln = ligen
     .map((id) => ({ id, name: vereineJson.ligen[id].name, anzahl: zeilen.filter((z) => z.liga === id).length, gesamt: vereineJson.ligen[id].vereine.length }));
-  await fs.writeFile(ZIEL, html({ zeilen, staffeln, stand: new Date().toISOString().slice(0, 10) }));
+  const datenReiter = await fs.readFile(path.join(HERE, 'vorlage', 'daten.html'), 'utf8');
+  await fs.writeFile(ZIEL, html({ zeilen, staffeln, stand: new Date().toISOString().slice(0, 10) }).replace('<!--DATEN-REITER-->', () => datenReiter));
   return ZIEL;
 }
 
@@ -153,6 +154,9 @@ tr.detail td { background: var(--bg); padding: 16px 16px 20px; }
 .leer { color: var(--ink3); font-size: 0.88rem; }
 .leer code { background: var(--schwach-bg); padding: 1px 5px; border-radius: 4px; }
 .voll { grid-column: 1 / -1; }
+.reiter { display: flex; gap: 4px; border-bottom: 1px solid var(--linie); margin: 0 0 22px; }
+.reiter a { padding: 8px 14px; color: var(--ink2); font-weight: 600; border-bottom: 2px solid transparent; margin-bottom: -1px; text-decoration: none; }
+.reiter a[aria-current="page"] { color: var(--ink); border-bottom-color: var(--ink); }
 .quellen { font-size: 0.8rem; word-break: break-all; margin: 0; padding-left: 18px; }
 @media (max-width: 52em) {
   .spalte-grund, .spalte-insta { display: none; }
@@ -164,6 +168,9 @@ tr.detail td { background: var(--bg); padding: 16px 16px 20px; }
 <main>
   <h1>Outreach Übersicht</h1>
   <p class="sub" id="sub"></p>
+  <nav class="reiter"><a href="#vereine" id="r-vereine">Vereine</a><a href="#daten" id="r-daten">Daten</a></nav>
+  <div id="tab-daten" hidden></div>
+  <div id="tab-vereine">
   <div class="hinweis">Klick auf einen Verein öffnet Beobachtung, Kontakt, DM und Mail. Neue Mail: in Claude Code „Mail für &lt;Verein&gt; vorbereiten“. E-Mails nur an Vereine, mit denen schon Kontakt bestand oder die um Infos gebeten haben (§ 7 Abs. 2 UWG); für den Erstkontakt DM oder Anruf.</div>
   <div class="leiste" id="staffeln"></div>
   <div class="leiste">
@@ -172,6 +179,7 @@ tr.detail td { background: var(--bg); padding: 16px 16px 20px; }
     <label><input type="checkbox" id="nurBayern"> nur Bayern</label>
   </div>
   <div id="liste"></div>
+  </div>
 </main>
 <script>
 const D = ${daten};
@@ -301,7 +309,21 @@ for (const id of ['nurMail', 'nurBayern']) {
 }
 staffelKnoepfe();
 zeige();
+
+let datenFertig = false;
+function reiter() {
+  const daten = location.hash === '#daten';
+  document.getElementById('tab-daten').hidden = !daten;
+  document.getElementById('tab-vereine').hidden = daten;
+  document.getElementById('r-daten').toggleAttribute('aria-current', daten);
+  document.getElementById('r-vereine').toggleAttribute('aria-current', !daten);
+  if (daten) document.getElementById('r-daten').setAttribute('aria-current', 'page'); else document.getElementById('r-vereine').setAttribute('aria-current', 'page');
+  if (daten && !datenFertig && window.zeigeDaten) { window.zeigeDaten(); datenFertig = true; }
+}
+window.addEventListener('hashchange', reiter);
+window.addEventListener('DOMContentLoaded', reiter);
 </script>
+<!--DATEN-REITER-->
 </body>
 </html>
 `;
