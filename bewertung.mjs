@@ -1,6 +1,7 @@
 // Bewertung: deterministisch, damit die Rangfolge nachvollziehbar bleibt.
 // Genutzt von bericht.mjs (Rangliste je Staffel) und uebersicht.mjs (alle Staffeln).
-// Inhalt unverändert aus bericht.mjs verschoben; Punkte bleiben über Läufe vergleichbar.
+// Geändert 2026-11-13 (Audit): keine_angabe +30, Kapazität unbekannt 0 statt +8,
+// Zweit-/Nachwuchsteam -25. Alle Staffeln danach neu bewertet; die Formel gilt für alle gleich.
 
 export function bewerte(r) {
   const e = r.ergebnis;
@@ -11,13 +12,16 @@ export function bewerte(r) {
   switch (e.vorverkauf) {
     case 'keiner': add(40, 'nur Abendkasse'); break;
     case 'manuell': add(35, 'Vorverkauf per Mail/Telefon/Liste'); break;
+    // Wer einen Shop hat, verlinkt ihn; eine Vereinsseite ohne jedes Wort zu Tickets ist fast immer Abendkasse.
+    case 'keine_angabe': add(30, 'Website ohne Ticketangabe, kein Shop verlinkt'); break;
     case 'unbekannt': add(15, 'Vorverkauf nicht feststellbar'); break;
     case 'anbieter': add(0, `verkauft bereits online (${e.anbieter ?? 'Anbieter unbekannt'})`); break;
     case 'eintritt_frei': add(-20, 'Eintritt frei, nichts zu verkaufen'); break;
   }
   if (e.eintritt_frei === true && e.vorverkauf !== 'eintritt_frei') add(-20, 'Eintritt frei');
 
-  if (e.kapazitaet == null) add(8, 'Kapazität unbekannt');
+  // Unbekannte Kapazität gibt keine Punkte (bis 2026-11-13: +8, mehr als eine bekannte kleine Halle).
+  if (e.kapazitaet == null) { /* nichts */ }
   else if (e.kapazitaet >= 150 && e.kapazitaet <= 1500) add(15, `Halle passt (${e.kapazitaet})`);
   else if (e.kapazitaet > 1500) add(5, `große Halle (${e.kapazitaet})`);
   else add(3, `kleine Halle (${e.kapazitaet})`);
@@ -30,6 +34,8 @@ export function bewerte(r) {
   if (e.sicherheit === 'hoch') add(7, 'Einordnung sicher');
   else if (e.sicherheit === 'niedrig') add(-10, 'Einordnung unsicher');
   if (r.meta.quellen_belegt.length === 0) add(-10, 'keine belegte Quelle');
+  // Zweit- und Nachwuchsteams verkaufen fast nie selbst (Shop und Konto gehören der ersten Mannschaft).
+  if (/\bII\b|\bBSP\b|\bVCO\b/.test(r.verein.name)) add(-25, 'Zweit- oder Nachwuchsteam');
 
   return { punkte: Math.max(0, Math.min(100, p)), gruende };
 }

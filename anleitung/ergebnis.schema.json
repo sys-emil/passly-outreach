@@ -29,11 +29,12 @@
       "enum": [
         "keiner",
         "manuell",
+        "keine_angabe",
         "anbieter",
         "eintritt_frei",
         "unbekannt"
       ],
-      "description": "keiner = nur Abendkasse; manuell = per E-Mail/Telefon/Formular/Liste; anbieter = Online-Shop eines Ticketanbieters; eintritt_frei = kein Eintritt; unbekannt = nicht feststellbar"
+      "description": "keiner = nur Abendkasse; manuell = per E-Mail/Telefon/Formular/Liste; keine_angabe = Vereinsseite gelesen, aber kein Wort zu Tickets und kein Shop verlinkt; anbieter = Online-Shop eines Ticketanbieters; eintritt_frei = kein Eintritt; unbekannt = Seite nicht lesbar oder Verein nicht auffindbar"
     },
     "anbieter": {
       "type": [

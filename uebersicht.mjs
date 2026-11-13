@@ -186,6 +186,7 @@ const D = ${daten};
 const KAT = [
   { id: 'keiner', titel: 'Nur Abendkasse', was: 'Kein Vorverkauf. Die beste Lücke für Passly.' },
   { id: 'manuell', titel: 'Vorverkauf von Hand', was: 'Per Mail, Telefon oder Liste. Viel Arbeit für den Verein.' },
+  { id: 'keine_angabe', titel: 'Keine Ticketangabe online', was: 'Website gelesen, kein Wort zu Tickets und kein Shop. Meist Abendkasse; ein Anruf bestätigt es.' },
   { id: 'unbekannt', titel: 'Unklar, nachfassen', was: 'Nicht feststellbar. Ein Anruf klärt es oft schneller als eine Suche.' },
   { id: 'anbieter', titel: 'Verkauft schon online', was: 'Hat einen Anbieter. Aufhänger nur Dauerkarte oder Abendkasse, nie ein Vergleich.' },
   { id: 'eintritt_frei', titel: 'Eintritt frei', was: 'Nichts zu verkaufen.' },

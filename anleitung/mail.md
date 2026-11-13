@@ -39,6 +39,7 @@ Gut: „Vorverkauf für eure Heimspiele in Altdorf". Schlecht: „Revolutioniere
 | Lage beim Verein | Vorschlag (nur aus fakten.md) |
 |---|---|
 | nur Abendkasse | Vorverkauf über einen Link für Website und Instagram, Abendkasse bleibt im selben System (Barverkauf), ihr wisst vorher, wie viele kommen |
+| keine Ticketangabe online | „Auf eurer Seite finde ich nichts zu Tickets": Vorverkauf über einen Link, Abendkasse im selben System; nicht behaupten, es gebe nur eine Abendkasse |
 | nur Barzahlung | Gäste zahlen vorab per Karte, Apple Pay oder Google Pay; weniger Bargeld an der Kasse |
 | Dauerkarte von Hand / Geschäftsstelle | Dauerkarte als Pass online, an der Tür pro Spiel einmal gescannt; Preis kann mit jedem vergangenen Spiel sinken |
 | Gruppen per Mail | Gruppen bestellen selbst bis 10 Tickets pro Bestellung, Gruppenpreis per Rabattcode |

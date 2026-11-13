@@ -6,6 +6,7 @@ Recherche-Agent für die Kundensuche: findet heraus, wie Vereine ihre Heimspiel-
 passly-outreach/
   vereine.json      Ligen und Vereine (Staffeleinteilung 2026/27 von volleyballer.de)
   recherche.mjs     der Agent über die API: pro Verein Websuche + Seitenabruf, Ergebnis als JSON
+  vorlauf.mjs       Stufe 0+1 ohne Modell: VBL-Daten, Vereinsseiten lesen, Anbieter erkennen
   pruefe.mjs        Belegprüfung ohne Modell: ruft Quellen erneut ab, sucht die Fakten im Text
   anleitung/        Auftrag, Entwurfsregeln, Schema; von Skript UND Claude-Code-Sitzung gelesen
   CLAUDE.md         derselbe Agent als Claude-Code-Sitzung (lokal oder Cloud, ohne API-Key)

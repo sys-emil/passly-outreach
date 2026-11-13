@@ -5,14 +5,14 @@
      Zahlen neben den Flächen und jedes Diagramm hat eine Tabelle. -->
 <style>
 :root {
-  --k-keiner: #2a78d6; --k-manuell: #eb6834; --k-unbekannt: #1baf7a; --k-anbieter: #eda100; --k-eintritt_frei: #e87ba4;
+  --k-keiner: #2a78d6; --k-manuell: #eb6834; --k-keine_angabe: #1baf7a; --k-unbekannt: #eda100; --k-anbieter: #e87ba4; --k-eintritt_frei: #008300;
   --seq-1: #cde2fb; --seq-2: #9ec5f4; --seq-3: #5598e7; --seq-4: #256abf; --seq-5: #104281;
   --seq-t-1: #0b0b0b; --seq-t-2: #0b0b0b; --seq-t-3: #ffffff; --seq-t-4: #ffffff; --seq-t-5: #ffffff;
   --gitter: #ebe5da;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --k-keiner: #3987e5; --k-manuell: #d95926; --k-unbekannt: #199e70; --k-anbieter: #c98500; --k-eintritt_frei: #d55181;
+    --k-keiner: #3987e5; --k-manuell: #d95926; --k-keine_angabe: #199e70; --k-unbekannt: #c98500; --k-anbieter: #d55181; --k-eintritt_frei: #008300;
     --seq-1: #1f2a3a; --seq-2: #184f95; --seq-3: #256abf; --seq-4: #3987e5; --seq-5: #86b6ef;
     --seq-t-1: #f2ede6; --seq-t-2: #ffffff; --seq-t-3: #ffffff; --seq-t-4: #0b0b0b; --seq-t-5: #0b0b0b;
     --gitter: #2e2a25;
@@ -84,9 +84,9 @@ details.tab td, details.tab th { padding: 5px 8px; }
 <div id="tip" role="tooltip"></div>
 <script>
 (function () {
-  const FARBE = { keiner: 'var(--k-keiner)', manuell: 'var(--k-manuell)', unbekannt: 'var(--k-unbekannt)', anbieter: 'var(--k-anbieter)', eintritt_frei: 'var(--k-eintritt_frei)' };
-  const DUNKEL = { anbieter: true }; // Gelb trägt schwarze Schrift
-  const KURZ = { keiner: 'Nur Abendkasse', manuell: 'Von Hand', unbekannt: 'Unklar', anbieter: 'Mit Anbieter', eintritt_frei: 'Eintritt frei' };
+  const FARBE = { keiner: 'var(--k-keiner)', manuell: 'var(--k-manuell)', keine_angabe: 'var(--k-keine_angabe)', unbekannt: 'var(--k-unbekannt)', anbieter: 'var(--k-anbieter)', eintritt_frei: 'var(--k-eintritt_frei)' };
+  const DUNKEL = { unbekannt: true }; // Gelb trägt schwarze Schrift
+  const KURZ = { keiner: 'Nur Abendkasse', manuell: 'Von Hand', keine_angabe: 'Keine Angabe', unbekannt: 'Unklar', anbieter: 'Mit Anbieter', eintritt_frei: 'Eintritt frei' };
   const ohneOnline = (z) => z.vorverkauf === 'keiner' || z.vorverkauf === 'manuell';
   const verein = (n) => n + (n === 1 ? ' Verein' : ' Vereine');
   const euro = (p) => (Number.isInteger(p) ? String(p) : p.toFixed(2).replace('.', ',')) + ' €';
@@ -145,7 +145,7 @@ details.tab td, details.tab th { padding: 5px 8px; }
     const kacheln = [
       [alle.filter(ohneOnline).length, n, 'ohne Online-Vorverkauf (nur Abendkasse oder von Hand)'],
       [alle.filter((z) => z.vorverkauf === 'anbieter').length, n, 'verkaufen schon über einen Anbieter'],
-      [alle.filter((z) => z.vorverkauf === 'unbekannt').length, n, 'unklar, ein Anruf würde es klären'],
+      [alle.filter((z) => z.vorverkauf === 'unbekannt' || z.vorverkauf === 'keine_angabe').length, n, 'keine Angabe oder unklar, ein Anruf klärt es'],
       [kandidaten, null, 'Kandidaten ab 45 Punkten'],
     ];
 

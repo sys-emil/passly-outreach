@@ -19,15 +19,26 @@ einzelnen Verein, optional eine freigegebene Referenz. Ohne Angabe: `vbl-pro`.
 
 ## Ablauf
 
-1. **Vereine bestimmen.** Alle Vereine der Staffel aus `vereine.json`, außer `"pilot": true`.
+0. **Vorlauf (Pflicht, ohne Modell):** `npm run vorlauf -- --liga <liga> --schreibe`.
+   Holt von der VBL Homepage, Ticketlink, Halle und Ansprechpersonen aller Teams, liest
+   die Vereinsseiten und erkennt Anbieter an ihren Adressen (auch eingebundene Skripte).
+   Vereine mit erkanntem Anbieter oder freiem Eintritt schreibt es selbst als Ergebnis;
+   Zweit- und Nachwuchsteams überspringt es. Übrig bleiben die Vereine mit
+   `"braucht_modell": true` in `vorlauf/<liga>.json`.
+
+1. **Vereine bestimmen.** Nur Vereine mit `braucht_modell: true` im Vorlauf.
    Existiert `ergebnisse/<liga>/<slug>.json` schon, überspringen (außer der Auftrag sagt „neu").
    Slug: klein, ä→ae, ö→oe, ü→ue, ß→ss, alles andere als `-`, Ränder ohne `-`
    („SV Lohhof" → `sv-lohhof`, „DSHS SnowTrex Köln" → `dshs-snowtrex-koeln`).
 
 2. **Je Verein recherchieren**, genau nach `anleitung/recherche.md`. Das ist wörtlich der
-   Systemprompt des Skripts; lies ihn vor dem ersten Verein. Übersetzt auf deine Werkzeuge:
+   Systemprompt des Skripts; lies ihn vor dem ersten Verein. Gib jedem Verein seinen Eintrag
+   aus `vorlauf/<liga>.json` als Startpunkte mit (Homepage, Ticketlink, Halle, VBL-Kontakte,
+   gelesene Seiten, Funde, Vorschlag). Übersetzt auf deine Werkzeuge:
    `web_search` = WebSearch, `web_fetch` = WebFetch, das Werkzeug `ergebnis` = die JSON-Datei
-   aus Schritt 3. Höchstens etwa zehn Suchen und Abrufe pro Verein, lieber `unbekannt` als raten.
+   aus Schritt 3. Mit Startpunkten höchstens etwa vier Abrufe pro Verein, lieber
+   `keine_angabe`/`unbekannt` als raten. Was danach offen ist, gehört auf die Anrufliste
+   (ein Anruf), nicht in weitere Suchen.
    Bei vielen Vereinen darfst du bis zu drei Vereine parallel an Subagenten geben; jeder
    schreibt nur seine eigene Datei.
 
@@ -99,6 +110,6 @@ Emil sagt z. B. „Mail für TV SUSPA Altdorf vorbereiten".
 
 ## Nicht ändern
 
-`recherche.mjs`, `pruefe.mjs`, `bericht.mjs`, `bewertung.mjs`, `anleitung/` und `vereine.json` sind während
+`recherche.mjs`, `vorlauf.mjs`, `pruefe.mjs`, `bericht.mjs`, `bewertung.mjs`, `anleitung/` und `vereine.json` sind während
 eines Rechercheauftrags tabu. Scheint eine Regel falsch, sag es im Abschluss, statt sie
 anzupassen. Die Bewertung soll über Läufe hinweg vergleichbar bleiben.

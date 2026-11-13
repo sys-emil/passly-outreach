@@ -1,0 +1,694 @@
+{
+  "liga": "vbl-frauen-sued",
+  "stand": "2026-11-13",
+  "quelle": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml",
+  "abrufe": 42,
+  "teams": [
+    {
+      "vbl_name": "Black Forest Volleys Offenburg",
+      "team_id": "781345658",
+      "homepage": "http://www.vco.de",
+      "ticketlink": "https://reservation.ticketleo.com/user/11272/event-list",
+      "hallen": [
+        "Sporthalle Nord-West Otto-Hahn-Straße 9, 77654 Offenburg"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345658&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Richarda Roth",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Felix Frühn",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Richarda Roth",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Robin Sester",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "fritz@vco.de"
+      ],
+      "verein": "Black Forest Volleys Offenburg",
+      "ort": "Offenburg",
+      "land": "BW",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vco.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "vcoffenburg"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "leoticket",
+        "beleg": "https://reservation.ticketleo.com/user/11272/event-list",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "Pink Crew München",
+      "team_id": "781345638",
+      "homepage": "https://volleyball-muenchen.de/",
+      "ticketlink": "https://volleyball-muenchen.de/damen1/tickets/",
+      "hallen": [
+        "Schulsporthalle Grund-und Mittelschule a. d. Führichstraße Kirchseeoner Str. 5, 81671 München"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345638&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Matthias Lutz",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Sonja Schweiger",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "matthias.lutz@volleyball-muenchen.de",
+        "info@cobysports.de"
+      ],
+      "verein": "DJK SB München-Ost",
+      "ort": "München",
+      "land": "BY",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://volleyball-muenchen.de/",
+        "https://volleyball-muenchen.de/damen1/tickets/",
+        "https://volleyball-muenchen.de/2026/10/pinkcrew-holte-aus-ihrem-bundesliga-doppelspieltag-vier-punkte/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "leoticket",
+        "beleg": "https://volleyball-muenchen.de/damen1/tickets/",
+        "wie": "eingebunden auf https://volleyball-muenchen.de/damen1/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "Rote Raben Vilsbiburg II",
+      "team_id": "781346195",
+      "homepage": "https://roteraben.de/akademie/volleyball-akademie-bayern",
+      "ticketlink": "https://www.eventimsports.de/shop/204/home",
+      "hallen": [
+        "Ballsporthalle Vilsbiburg Urbanstr. 2, 84137 Vilsbiburg"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781346195&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Yvonne Zymara",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Roland Regahl",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "verein@roteraben.de"
+      ],
+      "verein": "Rote Raben Vilsbiburg II",
+      "ort": "Vilsbiburg",
+      "land": "BY",
+      "pilot": false,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "SG Erfurt electronic",
+      "team_id": "781346192",
+      "homepage": "https://wordpress.erfurt-electronic.de/",
+      "ticketlink": null,
+      "hallen": [
+        "Sporthalle Pierre de Coubertin-Gymnasium Mozartallee 4, 99096 Erfurt"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781346192&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Sabine Dr. Nemitz",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "volleyball@erfurt-electronic.de"
+      ],
+      "verein": "Erfurt electronic",
+      "ort": "Erfurt",
+      "land": "TH",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://wordpress.erfurt-electronic.de/",
+        "https://wordpress.erfurt-electronic.de/veranstaltungen-uebersicht",
+        "https://wordpress.erfurt-electronic.de/events/jugendspieltag-u15-lm",
+        "https://wordpress.erfurt-electronic.de/events/damen-i-2-bl-sued-heimspiel-3",
+        "https://wordpress.erfurt-electronic.de/events/damen-i-2-bl-sued-heimspiel-2",
+        "https://wordpress.erfurt-electronic.de/events/jugendspieltag-u16-lm"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "sgerfurtelectronic"
+      ],
+      "emails": [
+        "info@erfurt-electronic.de"
+      ],
+      "preise": [
+        {
+          "eur": 5,
+          "url": "https://wordpress.erfurt-electronic.de/events/damen-i-2-bl-sued-heimspiel-3",
+          "stelle": "eintrittspreis erwachsener: 5,00 €"
+        },
+        {
+          "eur": 5,
+          "url": "https://wordpress.erfurt-electronic.de/events/damen-i-2-bl-sued-heimspiel-2",
+          "stelle": "eintrittspreis erwachsener: 5,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "vbl_name": "SSC Freisen",
+      "team_id": "781345746",
+      "homepage": "https://www.sscfreisen.de/",
+      "ticketlink": "https://www.eventim-light.com/de/a/61449160d7873569827c42fb",
+      "hallen": [
+        "Bruchwaldhalle Schulstraße 60, 66629 Freisen"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345746&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Alexander Becker",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Volker Dewes",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "kontakt@sscfreisen.de"
+      ],
+      "verein": "SSC Freisen",
+      "ort": "Freisen",
+      "land": "SL",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sscfreisen.de/",
+        "https://www.sscfreisen.de/bundesligateam/heimspielkoordinator.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "kontakt@sscfreisen.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://www.eventim-light.com/de/a/61449160d7873569827c42fb",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "SV Karlsruhe-Beiertheim",
+      "team_id": "781345690",
+      "homepage": "https://sv-karlsruhe-beiertheim.de/category/volleyball/",
+      "ticketlink": null,
+      "hallen": [
+        "Sporthalle Oberreut Joachim-Kurzaj-Weg 4, 76189 Karlsruhe"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345690&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Lena Hoffmann",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Ann-Christina Schmitz",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "geschaeftsstelle@sv-karlsruhe-beiertheim.de"
+      ],
+      "verein": "SV Karlsruhe-Beiertheim",
+      "ort": "Karlsruhe",
+      "land": "BW",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://sv-karlsruhe-beiertheim.de/category/volleyball/",
+        "https://sv-karlsruhe-beiertheim.de/tennis/abteilung-tennis/gaestekarten/",
+        "https://sv-karlsruhe-beiertheim.de/volleyball/zweite-bundesliga/spielplan/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://sv-karlsruhe-beiertheim.de/volleyball/zweite-bundesliga/spielplan/",
+          "stelle": "in der 2. Bundesliga findet ihr hier . Tickets Tickets gibt es an der Abendkasse. Streaming Alle Spiele der 2. Bundesliga Frauen werden kostenlos auf"
+        }
+      },
+      "instagram": [
+        "svk.beiertheim.1884_98.e.v",
+        "badener_greifs",
+        "red_flames_cheerleader"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "vbl_name": "Sparda BSP Stuttgart",
+      "team_id": "781345875",
+      "homepage": "https://www.volleyballakademie.de",
+      "ticketlink": "http://www.allianz-mtv-stuttgart.de/1-bundesliga/tickets/",
+      "hallen": [
+        "MTV-Halle MoTiV Feuerbacher Tal Furtwängler Straße 145, 70195 Stuttgart",
+        "SCHARRena Stuttgart Fritz-Walter-Weg 5, 70372 Stuttgart"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345875&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Johannes Koch",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Rene Tschur",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "service@mtv-stuttgart.de"
+      ],
+      "verein": "Sparda BSP Stuttgart",
+      "ort": "Stuttgart",
+      "land": "BW",
+      "pilot": false,
+      "typ": "nachwuchs",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "TG Bad Soden",
+      "team_id": "781345586",
+      "homepage": "http://www.bad-soden-volleyball.de",
+      "ticketlink": "https://events.vereinsticket.de/tg-badsoden",
+      "hallen": [
+        "Otfried Preussler Schule Niederhofheimer Str. 43, 65812 Bad Soden"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345586&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Björn Schraad",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Pamela Blazek",
+          "email": "Pamela.Blazek@bad-soden-volleyball.de"
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Jessica Gutermann",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Nina Hemberger",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Hannah Schulze",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "bundesliga@bad-soden-volleyball.de",
+        "Pamela.Blazek@bad-soden-volleyball.de"
+      ],
+      "verein": "TG Bad Soden",
+      "ort": "Bad Soden",
+      "land": "HE",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://bad-soden-volleyball.de/",
+        "https://bad-soden-volleyball.de/ticketing-und-preise/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://bad-soden-volleyball.de/ticketing-und-preise/",
+          "stelle": "nschaft in der 2. Bundesliga Süd können Sie direkt am Spieltag an der Tageskasse erwerben. Alternativ bieten wir auch einen komfortablen Onlineshop fü"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@bad-soden-volleyball.de",
+        "Daniel.Callwitz@bad-soden-volleyball.de"
+      ],
+      "preise": [
+        {
+          "eur": 7,
+          "url": "https://bad-soden-volleyball.de/ticketing-und-preise/",
+          "stelle": "erwachsene: 7,00 euro"
+        }
+      ],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://events.vereinsticket.de/tg-badsoden",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "TSV Unterhaching",
+      "team_id": "781345608",
+      "homepage": "https://tsv-unterhaching.de/volleyball/teams/damen-1",
+      "ticketlink": "https://buchung.tsv-unterhaching.de/?cat=22",
+      "hallen": [
+        "Geothermie Arena Utzweg 1, 82008 Unterhaching"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345608&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Christoph Mayser",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Felicitas Dammer",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Carolin Januschke",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Jette Sommer",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "mihai.paduretu@tsv-unterhaching.de"
+      ],
+      "verein": "TSV Unterhaching",
+      "ort": "Unterhaching",
+      "land": "BY",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://tsv-unterhaching.de/volleyball/teams/damen-1",
+        "https://buchung.tsv-unterhaching.de/?cat=22"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "tsv_unterhaching_1910",
+        "tsvunterhaching_damen1"
+      ],
+      "emails": [
+        "geschaeftsstelle@tsv-unterhaching.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "vbl_name": "TV Dingolfing",
+      "team_id": "781345439",
+      "homepage": "https://www.tv-dingolfing.de/team/volleyball-damen-1/",
+      "ticketlink": "https://tv-dingolfing.vereinsticket.de/vo-2-bundesligasued-1-damen/",
+      "hallen": [
+        "Sporthalle Höll-Ost Gutenbergstr. 27, 84130 Dingolfing"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345439&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Johann Böhm",
+          "email": "Johann.boehm@tv-dingolfing.de"
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Anton Kiebler",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "anton.kiebler@t-online.de",
+        "Johann.boehm@tv-dingolfing.de"
+      ],
+      "verein": "TV Dingolfing",
+      "ort": "Dingolfing",
+      "land": "BY",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tv-dingolfing.de/team/volleyball-damen-1/",
+        "https://www.tv-dingolfing.de/sparten/fasching-termine/",
+        "https://www.tv-dingolfing.de/sparten/isartaler-showtanzgala/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "bar": {
+          "url": "https://www.tv-dingolfing.de/sparten/fasching-termine/",
+          "stelle": ":00 Uhr im Mehrzweckgebäude im Büro des TV Dingolfing statt. Hier ist nur Barzahlung möglich! Unsinniger Donnerstag // 04. Februar 2027 Save the da"
+        },
+        "vorverkauf": {
+          "url": "https://www.tv-dingolfing.de/sparten/isartaler-showtanzgala/",
+          "stelle": "9:00 Uhr Bewirtung: Catering Ismair Abendgarderobe erwünscht 😉 Kartenvorverkauf Der Kartenvorverkauf startet am 19. Dezember um 10.00 Uhr. Das Progra"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "buero@tv-dingolfing.de",
+        "gwendolyna.ferdinand@tv-dingolfing.de",
+        "tobias.hagen@tv-dingolfing.de",
+        "anton.kiebler@t-online.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://tv-dingolfing.vereinsticket.de/vo-2-bundesligasued-1-damen/",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "TV SUSPA Altdorf",
+      "team_id": "781345761",
+      "homepage": "http://volleyball-altdorf.de/",
+      "ticketlink": null,
+      "hallen": [
+        "3-fach Halle an der Mittelschule Schulstr. 6, 90518 Altdorf"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345761&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Annemarie Böhm",
+          "email": "annemarie.boehm90@gmail.com"
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Sophia Botsch",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Peter Voss",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "annemarie.boehm90@gmail.com"
+      ],
+      "verein": "TV SUSPA Altdorf",
+      "ort": "Altdorf",
+      "land": "BY",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://volleyball-altdorf.de/",
+        "https://volleyball-altdorf.de/damen-1/tickets/",
+        "https://volleyball-altdorf.de/2026/11/13/gemeinsam-wieder-auf-die-erfolgspur-heimspiel-des-tv-suspa-altdorf/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://volleyball-altdorf.de/damen-1/tickets/",
+          "stelle": "en Heimspiel die Löwinnen unterstützen? Tickets gibt es direkt an der Abendkasse, ab 1h vor Spielbeginn. Nur Barzahlung möglich. Alle Spiele werden au"
+        },
+        "von_hand": {
+          "url": "https://volleyball-altdorf.de/damen-1/tickets/",
+          "stelle": "endteam-Ticket (10 Personen inklusive Betreuer): 45 € Erwachsenenteam-Ticket (10 Personen): 75 € *nur mit Voranmeldung via E-Mail ( ticket@volleyball-altdorf.de ) bis zum Tag vor dem Spiel Facebook I"
+        },
+        "dauerkarte": {
+          "url": "https://volleyball-altdorf.de/damen-1/tickets/",
+          "stelle": "hüler & Studenten, Rentner, TVA Mitglieder, Menschen mit Behinderung) Dauerkarte € 96,00* *pro vergangenem Spiel reduziert sich die Dauerkarte um 7€ G"
+        },
+        "bar": {
+          "url": "https://volleyball-altdorf.de/damen-1/tickets/",
+          "stelle": "zen? Tickets gibt es direkt an der Abendkasse, ab 1h vor Spielbeginn. Nur Barzahlung möglich. Alle Spiele werden auch auf DYN über YouTube im Lives"
+        }
+      },
+      "instagram": [
+        "volleyball_altdorf"
+      ],
+      "emails": [
+        "info@volleyball-altdorf.de",
+        "ticket@volleyball-altdorf.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "vbl_name": "VC Wiesbaden II",
+      "team_id": "781345711",
+      "homepage": "https://www.vc-wiesbaden.de/",
+      "ticketlink": "https://vivenu.com/seller/vc-wiesbaden-rj5j",
+      "hallen": [
+        "Sporthalle am Platz der Deutschen Einheit Am Platz der Deutschen Einheit 5, 65185 Wiesbaden",
+        "Sporthalle Am 2. Ring Konrad Adenauer-Ring 55, 65187 Wiesbaden"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345711&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Christopher Fetting",
+          "email": "christopher.fetting@vc-wiesbaden.de"
+        }
+      ],
+      "vbl_emails": [
+        "info@vc-wiesbaden.de",
+        "christopher.fetting@vc-wiesbaden.de"
+      ],
+      "verein": "VC Wiesbaden II",
+      "ort": "Wiesbaden",
+      "land": "HE",
+      "pilot": false,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "proWIN Volleys TV Holz",
+      "team_id": "781345732",
+      "homepage": "http://www.prowin-volleys.de/",
+      "ticketlink": "https://prowin-volleys.de/tickets",
+      "hallen": [
+        "Multifunktionssporthalle Hermann-Neuberger-Sportschule 8, 66123 Saarbrücken",
+        "Kontakt Jobs Zoi DVV-Pokal Volleyball Supercup VBL-Ticker VBL-Wiki VBL-SAMS Impressum Datenschutz © 2026 volleyball-bundesliga.de"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345732&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Nick Werner",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Lucas Jost",
+          "email": null
+        }
+      ],
+      "vbl_emails": [],
+      "verein": "proWIN Volleys TV Holz",
+      "ort": "Heusweiler",
+      "land": "SL",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://prowin-volleys.de/",
+        "https://prowin-volleys.de/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "prowinvolleystvholz"
+      ],
+      "emails": [
+        "info@prowin-volleys.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    }
+  ]
+}

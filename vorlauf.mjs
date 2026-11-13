@@ -1,0 +1,360 @@
+// Vorlauf: Stufe 0 und 1 der Recherche, ohne Modell und ohne Tokens.
+//
+//   npm run vorlauf -- --liga vbl-frauen-sued            nur ansehen (schreibt vorlauf/<liga>.json)
+//   npm run vorlauf -- --liga vbl-frauen-sued --schreibe  dazu Ergebnisse für Vereine anlegen,
+//                                                         die das Skript allein klären kann
+//
+// Stufe 0: Die VBL-Mannschaftsseite der Staffel nennt für jedes Team offiziellen Namen,
+//          Homepage, Ticketlink, Halle und Ansprechpersonen. Ein Abruf statt zehn Suchen.
+// Stufe 1: Homepage, Ticketlink und die Ticket-/Eintrittsseiten des Vereins abrufen und
+//          nach Anbieter-Adressen, „Abendkasse", „Dauerkarte", Preisen, Instagram und
+//          E-Mail durchsuchen. Ein erkannter Anbieter heißt: fertig, kein Modell nötig.
+//
+// Was übrig bleibt (nur Abendkasse, von Hand, keine Angabe, unklar), recherchiert danach
+// eine Claude-Code-Sitzung mit den Startpunkten aus vorlauf/<liga>.json (CLAUDE.md).
+
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const HERE = path.dirname(fileURLToPath(import.meta.url));
+const VBL = 'https://www.volleyball-bundesliga.de';
+const VBL_PFAD = {
+  'vbl-pro': '2_bundesliga_frauen/2_bundesliga_frauen_pro',
+  'vbl-frauen-sued': '2_bundesliga_frauen/2_bundesliga_frauen_sued',
+  'vbl-frauen-nord': '2_bundesliga_frauen/2_bundesliga_frauen_nord',
+  'vbl-maenner-sued': '2_bundesliga_maenner/2_bundesliga_maenner_sued',
+  'vbl-maenner-nord': '2_bundesliga_maenner/2_bundesliga_maenner_nord',
+};
+
+// Adresse im Link → Anbieter. Reihenfolge zählt: spezifisch vor allgemein.
+const ANBIETER = [
+  [/vereinsticket\.de/, 'Vereinsticket'],
+  [/vivenu\.(com|de)/, 'vivenu'],
+  [/eventim-light\.com/, 'Eventim Light'],
+  [/eventimsports\.de|eventim\.de/, 'Eventim'],
+  [/reservix\.(de|net)|adticket\.de/, 'Reservix'],
+  [/ticket\.io\b/, 'ticket.io'],
+  [/ticketleo\.com|leoticket\.de/, 'leoticket'],
+  [/eventfrog\.(de|ch|com)/, 'Eventfrog'],
+  [/ticketino\.com/, 'Ticketino'],
+  [/eventbrite\.(de|com)/, 'Eventbrite'],
+  [/pretix\.eu/, 'pretix'],
+  [/tixforgigs\.com/, 'tixforgigs'],
+  [/ticket-regional\.de/, 'Ticket Regional'],
+  [/tickettoaster\.de/, 'TicketToaster'],
+  [/getpassly\.de/, 'Passly'],
+];
+
+const SIGNALE = {
+  nur_abendkasse: /(nur|ausschlie(?:ß|ss)lich)[^.!?]{0,50}(abendkasse|tageskasse)/,
+  abendkasse: /abendkasse|tageskasse/,
+  vorverkauf: /vorverkauf/,
+  von_hand: /(karten|tickets?)[^.!?]{0,80}(per|via|unter|an)\s+(e-?mail|mail|telefon)|reservier|vorbestell/,
+  eintritt_frei: /eintritt\s+(ist\s+)?frei|freier eintritt|eintritt kostenlos/,
+  dauerkarte: /dauerkarte|saisonkarte/,
+  bar: /nur bar|barzahlung|bargeld/,
+};
+
+const args = parseArgs(process.argv.slice(2));
+const ligaId = args.liga ?? 'vbl-pro';
+if (!VBL_PFAD[ligaId]) {
+  console.error(`Unbekannte Liga ${ligaId}. Bekannt: ${Object.keys(VBL_PFAD).join(', ')}`);
+  process.exit(1);
+}
+const vereineJson = JSON.parse(await fs.readFile(path.join(HERE, 'vereine.json'), 'utf8'));
+const liga = vereineJson.ligen[ligaId];
+const heute = new Date().toISOString().slice(0, 10);
+let abrufe = 0;
+
+// ---------------------------------------------------------------------------
+// Stufe 0: VBL
+
+const listeUrl = `${VBL}/cms/home/${VBL_PFAD[ligaId]}/mannschaften.xhtml`;
+const liste = await holen(listeUrl);
+if (!liste.ok) {
+  console.error(`VBL-Seite nicht abrufbar (${liste.grund}): ${listeUrl}`);
+  process.exit(2);
+}
+const teams = [];
+for (const block of liste.roh.split('samsCmsComponentBlock samsCmsTeamListComponentBlock').slice(1)) {
+  const name = text(block.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? '');
+  const teamId = block.match(/teamId=(\d+)/)?.[1];
+  if (!name || !teamId) continue;
+  const link = (wort) => block.match(new RegExp(`href="(https?://[^"]+)"[^>]*>\\s*${wort}`))?.[1]?.replace(/&amp;/g, '&') ?? null;
+  teams.push({ vbl_name: name, team_id: teamId, homepage: link('Homepage'), ticketlink: link('Tickets') });
+}
+if (teams.length === 0) {
+  console.error('Keine Teams auf der VBL-Seite gefunden; hat sich der Aufbau geändert?');
+  process.exit(2);
+}
+
+const hallen = await holen(`${VBL}/cms/home/${VBL_PFAD[ligaId]}/spielhallen.xhtml`);
+const hallenText = hallen.ok ? hallen.text : '';
+const namenSortiert = teams.map((t) => t.vbl_name).sort((a, b) => b.length - a.length);
+for (const t of teams) {
+  // Abschnitt vom Teamnamen bis zum nächsten Teamnamen; jede Halle endet mit „Further information".
+  const i = hallenText.indexOf(`${t.vbl_name} `, hallenText.indexOf('Spielhallen |'));
+  if (i < 0) continue;
+  let ende = hallenText.length;
+  for (const n of namenSortiert) {
+    const j = hallenText.indexOf(n, i + t.vbl_name.length);
+    if (j > 0 && j < ende && n !== t.vbl_name) ende = j;
+  }
+  t.hallen = hallenText.slice(i + t.vbl_name.length, ende).split(/further information|weitere informationen/i).map((s) => s.trim()).filter((s) => s.length > 5 && s.length < 160);
+}
+
+for (const t of teams) {
+  const url = `${VBL}/cms/home/${VBL_PFAD[ligaId]}/mannschaften.xhtml?c.teamId=${t.team_id}&c.view=contact`;
+  const k = await holen(url);
+  t.vbl_kontakt_url = url;
+  if (!k.ok) continue;
+  // Deutsch („Ansprechpartner … Kontakt Jobs") oder Englisch („Contact persons … Contact Jobs").
+  const abschnitt = k.text.match(/(?:contact persons|ansprechpartner)\s([\s\S]*?)(?:kontakt jobs|contact jobs|impressum)/i)?.[1] ?? '';
+  t.vbl_kontakte = [...abschnitt.matchAll(/(\S*verantwortliche?r?|\S*manager\S*|trainer\S*|vorsitzende?r?|abteilungsleite\S*)\s+([^,]+?),\s+(\S+)(?:\s+e-mail:\s*([\w.+-]+@[\w-]+(?:\.[\w-]+)+))?/gi)]
+    .map((m) => ({ rolle: m[1], name: `${m[3]} ${m[2]}`, email: m[4] ?? null }));
+  t.vbl_emails = [...new Set(k.roh.match(/[\w.+-]+@[\w-]+(?:\.[\w-]+)+/g) ?? [])].filter((e) => !/volleyball-bundesliga|sams|example/.test(e));
+}
+
+// ---------------------------------------------------------------------------
+// Zuordnung VBL-Name → Verein aus vereine.json (Sponsornamen weichen ab: „Pink Crew München" = DJK SB München-Ost)
+
+const FUELL = new Set(['volleys', 'volley', 'volleyball', 'tv', 'sv', 'sc', 'tsv', 'tg', 'vc', 'ssc', 'djk', 'sb', 'sg', 'ev', 'e', 'v', 'fc', 'usc', 'vfl', 'ii', 'team']);
+const woerter = (s) => s.toLowerCase().replace(/[^a-zäöüß0-9]+/g, ' ').split(' ').filter((w) => w.length > 1 && !FUELL.has(w));
+const offen = new Set(liga.vereine.filter((v) => !v.pilot).map((v) => v.name));
+const pilot = liga.vereine.filter((v) => v.pilot).map((v) => v.name);
+for (const t of teams) {
+  let best = null, bestPunkte = 0;
+  for (const v of liga.vereine) {
+    if (!offen.has(v.name) && !pilot.includes(v.name)) continue;
+    const a = new Set(woerter(t.vbl_name));
+    const b = woerter(`${v.name} ${v.ort}`);
+    let p = b.filter((w) => a.has(w)).length;
+    if (/\bII\b/.test(t.vbl_name) !== /\bII\b/.test(v.name)) p -= 0.5;
+    if (p > bestPunkte) { best = v; bestPunkte = p; }
+  }
+  if (best) {
+    t.verein = best.name; t.ort = best.ort; t.land = best.land; t.pilot = !!best.pilot;
+    offen.delete(best.name);
+  }
+}
+
+// Zweitteams und Nachwuchs-/Stützpunktteams verkaufen fast nie selbst: nicht recherchieren.
+for (const t of teams) {
+  const n = `${t.vbl_name} ${t.verein ?? ''}`;
+  t.typ = /\bII\b|\b2\b/.test(n) ? 'zweitteam'
+    : /\bBSP\b|\bVCO\b|stützpunkt|akademie|internat/i.test(n) ? 'nachwuchs'
+    : 'verein';
+  if (t.pilot) t.typ = 'pilot';
+}
+
+// ---------------------------------------------------------------------------
+// Stufe 1: Vereinsseiten lesen
+
+for (const t of teams) {
+  t.gelesen = [];
+  t.nicht_lesbar = [];
+  t.funde = {};
+  t.instagram = [];
+  t.emails = [];
+  t.preise = [];
+  t.anbieter = null;
+  if (t.typ !== 'verein') continue;
+
+  const vblAnb = anbieterAus(t.ticketlink);
+  if (vblAnb) t.anbieter = { name: vblAnb, beleg: t.ticketlink, wie: 'VBL-Ticketlink' };
+
+  const seiten = [t.homepage];
+  if (t.ticketlink && !vblAnb) seiten.push(t.ticketlink);
+  const gesehen = new Set();
+  for (let i = 0; i < seiten.length && t.gelesen.length < 6; i++) {
+    const url = seiten[i];
+    if (!url || gesehen.has(url)) continue;
+    gesehen.add(url);
+    const s = await holen(url);
+    if (!s.ok) { t.nicht_lesbar.push(`${url} (${s.grund})`); continue; }
+    t.gelesen.push(s.url);
+    auswerten(t, s);
+    // Von der Startseite (und der Ticketseite) aus die Seiten zu Tickets/Eintritt mitnehmen.
+    if (i <= 1) {
+      const host = new URL(s.url).host.replace(/^www\./, '');
+      for (const [href, txt] of links(s.roh, s.url)) {
+        if (seiten.length >= 7) break;
+        const h = new URL(href).host.replace(/^www\./, '');
+        if (h === host && /ticket|karten|eintritt|heimspiel|zuschauer|spieltag|preise/i.test(`${href} ${txt}`) && !/\.(pdf|jpe?g|png)$/i.test(href)) seiten.push(href);
+      }
+    }
+  }
+  t.instagram = [...new Set(t.instagram)];
+  t.emails = [...new Set(t.emails)];
+}
+
+// ---------------------------------------------------------------------------
+// Vorschlag je Team
+
+for (const t of teams) {
+  t.vorschlag = vorschlag(t);
+  t.braucht_modell = t.typ === 'verein' && ['keiner', 'manuell', 'keine_angabe', 'unbekannt'].includes(t.vorschlag);
+}
+
+await fs.mkdir(path.join(HERE, 'vorlauf'), { recursive: true });
+const ausgabe = { liga: ligaId, stand: heute, quelle: listeUrl, abrufe, teams };
+await fs.writeFile(path.join(HERE, 'vorlauf', `${ligaId}.json`), JSON.stringify(ausgabe, null, 2) + '\n');
+
+// ---------------------------------------------------------------------------
+// Ausgabe und (mit --schreibe) Ergebnisse für Vereine, die ohne Modell klar sind
+
+const inDir = path.join(HERE, 'ergebnisse', ligaId);
+await fs.mkdir(inDir, { recursive: true });
+let geschrieben = 0;
+console.log(`\n${liga.name}: ${teams.length} Teams, ${abrufe} Abrufe, 0 Tokens\n`);
+for (const t of teams) {
+  const slug = t.verein ? slugOf(t.verein) : null;
+  const vorhanden = slug ? await fs.readFile(path.join(inDir, `${slug}.json`), 'utf8').then(JSON.parse).catch(() => null) : null;
+  const bisher = vorhanden ? ` | bisher: ${vorhanden.ergebnis.vorverkauf}` : '';
+  const ziel = t.typ !== 'verein' ? `übersprungen (${t.typ})` : t.braucht_modell ? `→ Modell (${t.vorschlag})` : `fertig: ${t.vorschlag}${t.anbieter ? ` (${t.anbieter.name})` : ''}`;
+  console.log(`  ${(t.verein ?? `?? ${t.vbl_name}`).padEnd(34)} ${ziel}${bisher}`);
+  if (args.schreibe && t.typ === 'verein' && !t.braucht_modell && slug && (!vorhanden || args.neu)) {
+    await fs.writeFile(path.join(inDir, `${slug}.json`), JSON.stringify(ergebnisAus(t), null, 2) + '\n');
+    geschrieben++;
+  }
+}
+const unzugeordnet = [...offen];
+if (unzugeordnet.length) console.log(`\n  Nicht auf der VBL-Seite gefunden: ${unzugeordnet.join(', ')}`);
+const modell = teams.filter((t) => t.braucht_modell);
+console.log(`\n  → vorlauf/${ligaId}.json`);
+console.log(`  ${teams.filter((t) => t.typ === 'verein' && !t.braucht_modell).length} ohne Modell geklärt, ${modell.length} brauchen das Modell, ${teams.filter((t) => t.typ !== 'verein').length} übersprungen`);
+if (args.schreibe) console.log(`  ${geschrieben} Ergebnisse geschrieben (vorhandene bleiben, außer mit --neu)`);
+
+// ---------------------------------------------------------------------------
+
+function anbieterAus(url) {
+  if (!url) return null;
+  for (const [re, name] of ANBIETER) if (re.test(url.toLowerCase())) return name;
+  return null;
+}
+
+function auswerten(t, s) {
+  const roh = s.roh;
+  // Shops werden oft per Skript oder iframe eingebunden (leoticket: backend.leoticket.de/…/bridge.js).
+  for (const u of roh.match(/(?:https?:)?\/\/[a-z0-9.-]+\.[a-z]{2,}[^"'\s<>)]*/gi) ?? []) {
+    const a = anbieterAus(u);
+    if (a && a !== 'Passly' && !t.anbieter) t.anbieter = { name: a, beleg: s.url, wie: `eingebunden auf ${s.url}` };
+  }
+  for (const [href] of links(roh, s.url)) {
+    const a = anbieterAus(href);
+    if (a && a !== 'Passly' && !t.anbieter) t.anbieter = { name: a, beleg: s.url, wie: `Link auf ${s.url}` };
+    const ig = href.match(/instagram\.com\/([A-Za-z0-9_.]{2,30})\/?(?:[?#]|$)/i)?.[1];
+    if (ig && !/^(p|reel|reels|explore|stories|accounts|sharer|share)$/i.test(ig)) t.instagram.push(ig.toLowerCase());
+    const mail = href.match(/^mailto:([^?]+)/i)?.[1];
+    if (mail) t.emails.push(decodeURIComponent(mail).trim().toLowerCase());
+  }
+  for (const m of s.text.match(/[\w.+-]+@[\w-]+(?:\.[\w-]+)*\.[a-z]{2,}/g) ?? []) if (!/\.(png|jpe?g|gif|webp|svg)$|sentry|wixpress|example/.test(m)) t.emails.push(m);
+  for (const [name, re] of Object.entries(SIGNALE)) {
+    const m = s.klein.match(re);
+    if (m && !t.funde[name]) t.funde[name] = { url: s.url, stelle: s.text.slice(Math.max(0, m.index - 70), m.index + m[0].length + 70).trim() };
+  }
+  for (const m of s.klein.matchAll(/(?:erwachsen\w*|eintritt|tageskarte|vollzahler|normal|ticket\w*)[^€\d]{0,30}(\d{1,2}(?:[,.]\d{2})?)\s*(?:€|euro)/g)) {
+    if (t.preise.length < 5) t.preise.push({ eur: Number(m[1].replace(',', '.')), url: s.url, stelle: m[0].slice(0, 90) });
+  }
+}
+
+function vorschlag(t) {
+  if (t.typ !== 'verein') return null;
+  if (t.anbieter) return 'anbieter';
+  if (t.funde.eintritt_frei) return 'eintritt_frei';
+  if (t.funde.nur_abendkasse) return 'keiner';
+  if (t.funde.abendkasse && !t.funde.vorverkauf) return 'keiner';
+  if (t.funde.von_hand && /karte|ticket/i.test(t.funde.von_hand.stelle)) return 'manuell';
+  if (t.gelesen.length) return 'keine_angabe';
+  return 'unbekannt';
+}
+
+function ergebnisAus(t) {
+  const quellen = [...new Set([t.anbieter?.beleg, t.funde.eintritt_frei?.url, t.vbl_kontakt_url].filter(Boolean))];
+  const kontakt = (t.vbl_kontakte ?? []).find((k) => k.email);
+  const preis = t.preise.length === 1 || (t.preise.length && t.preise.every((p) => p.eur === t.preise[0].eur)) ? t.preise[0] : null;
+  if (preis) quellen.push(preis.url);
+  const beobachtung = t.vorschlag === 'anbieter'
+    ? `Verkauft Tickets online über ${t.anbieter.name} (${t.anbieter.wie}: ${t.anbieter.beleg}).`
+    : `Laut Vereinsseite Eintritt frei: „${t.funde.eintritt_frei.stelle}“.`;
+  return {
+    verein: { name: t.verein, ort: t.ort, land: t.land, liga: ligaId, liga_name: liga.name, sport: liga.sport },
+    ergebnis: {
+      website: t.homepage,
+      vorverkauf: t.vorschlag,
+      anbieter: t.anbieter?.name ?? null,
+      eintritt_frei: t.vorschlag === 'eintritt_frei' ? true : null,
+      ticketpreis_eur: preis?.eur ?? null,
+      halle: t.hallen?.[0] ?? null,
+      kapazitaet: null,
+      instagram: t.instagram.length === 1 ? t.instagram[0] : null,
+      ansprechperson: kontakt ? { name: kontakt.name, rolle: `${kontakt.rolle} (laut VBL)`, kontakt: kontakt.email } : null,
+      naechstes_heimspiel: null,
+      beobachtung,
+      quellen: [...new Set(quellen)],
+      sicherheit: t.anbieter?.wie === 'VBL-Ticketlink' || t.anbieter ? 'hoch' : 'mittel',
+    },
+    meta: {
+      recherchiert_am: heute,
+      modell: 'vorlauf.mjs (ohne Modell)',
+      schritte: t.gelesen.length + 1,
+      quellen_belegt: [...new Set(quellen)],
+      quellen_nur_suchtreffer: [],
+      quellen_nicht_nachvollziehbar: [],
+      notiz: `Ohne Modell geklärt. VBL-Name „${t.vbl_name}“. ${t.instagram.length > 1 ? `Mehrere Instagram-Konten verlinkt: ${t.instagram.join(', ')}. ` : ''}Gelesen: ${t.gelesen.join(', ') || 'nichts'}.`,
+      kosten_usd: 0,
+    },
+  };
+}
+
+function links(roh, basis) {
+  const out = [];
+  for (const m of roh.matchAll(/<a\b[^>]*href=["']([^"'#]+)["'][^>]*>([\s\S]{0,200}?)<\/a>/gi)) {
+    try { out.push([new URL(m[1].replace(/&amp;/g, '&'), basis).href, text(m[2]).toLowerCase()]); } catch {}
+  }
+  return out;
+}
+
+function text(html) {
+  return html
+    .replace(/<(script|style|noscript)[\s\S]*?<\/\1>/gi, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;|&#160;/g, ' ').replace(/&euro;|&#8364;/g, '€').replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"').replace(/&#39;|&#039;/g, "'").replace(/&auml;/g, 'ä').replace(/&ouml;/g, 'ö').replace(/&uuml;/g, 'ü').replace(/&szlig;/g, 'ß')
+    .replace(/\s+/g, ' ').trim();
+}
+
+async function holen(url) {
+  abrufe++;
+  try {
+    const res = await fetch(url, {
+      redirect: 'follow',
+      signal: AbortSignal.timeout(20000),
+      headers: { 'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128 Safari/537.36', 'accept-language': 'de-DE,de;q=0.9' },
+    });
+    if (!res.ok) return { ok: false, grund: `HTTP ${res.status}` };
+    const roh = await res.text();
+    const t = text(roh);
+    if (t.length < 300) return { ok: false, grund: 'leer, lädt per JavaScript' };
+    // text: Originalschreibung für Zitate, klein: für die Suche (gleiche Länge, gleiche Stellen)
+    return { ok: true, url: res.url, roh, text: t, klein: t.toLowerCase() };
+  } catch (e) {
+    return { ok: false, grund: e.cause?.code ?? e.name };
+  }
+}
+
+function slugOf(name) {
+  return name.toLowerCase().replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+}
+
+function parseArgs(argv) {
+  const out = {};
+  for (let i = 0; i < argv.length; i++) {
+    const a = argv[i];
+    if (!a.startsWith('--')) continue;
+    const next = argv[i + 1];
+    if (next && !next.startsWith('--')) { out[a.slice(2)] = next; i++; } else out[a.slice(2)] = true;
+  }
+  return out;
+}
