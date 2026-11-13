@@ -1,0 +1,312 @@
+{
+  "stand": "2026-11-13",
+  "hinweis": "Volleyball 2. Bundesliga (5 Staffeln) bewusst nicht enthalten, bereits erledigt. 'quelle_geprueft: true' heisst: Seite am 2026-11-13 wirklich abgerufen und Linkstruktur geprueft. Zuschauerzahlen ohne Quellenangabe sind Schaetzungen.",
+  "ligen": [
+    {
+      "id": "handball-3liga-maenner", "sport": "Handball", "liga": "3. Liga Männer", "geschlecht": "Männer",
+      "staffeln": [
+        { "name": "Nord-Ost", "quelle": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27", "teams": 16 },
+        { "name": "Nord-West", "quelle": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27", "teams": 16 },
+        { "name": "Süd-West", "quelle": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27", "teams": 16 },
+        { "name": "Süd", "quelle": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27", "teams": 16 }
+      ],
+      "teams": 64, "zuschauer": "ca. 300–800 (Schätzung)",
+      "quelle_typ": "teamseiten", "quelle_geprueft": true,
+      "quelle_offiziell": "https://www.handball.net (Angular-SPA, ohne JS leer: js)",
+      "quelle_hinweis": "Wikipedia-Wikitext (?action=raw) hat 64 Zeilen 'Verein=[[...]]' in 4 Staffeltabellen; Homepage über Infobox des Vereinsartikels. Offizielle Quelle handball.net nicht ohne Browser lesbar.",
+      "einschaetzung": "hoch", "begruendung": "Zahlender Hallensport mit 300–800 Zuschauern, Vereine ehrenamtlich bis halbprofessionell, Online-Vorverkauf oft nur Abendkasse oder Bastellösung."
+    },
+    {
+      "id": "handball-2hbl-maenner", "sport": "Handball", "liga": "2. Handball-Bundesliga", "geschlecht": "Männer",
+      "staffeln": [ { "name": "eingleisig", "quelle": "https://www.opel-hbl.de/de/2-hbl/teams", "teams": 18 } ],
+      "teams": 18, "zuschauer": "ca. 1.500–2.500 (Schätzung)",
+      "quelle_typ": "js", "quelle_geprueft": true,
+      "quelle_hinweis": "Teamliste der HBL-Seite wird per JavaScript geladen; statisches HTML ohne Teamlinks. Ersatz: https://de.wikipedia.org/wiki/2._Handball-Bundesliga_2026/27",
+      "einschaetzung": "niedrig", "begruendung": "Profiliga unter HBL-Dach, Ticketing über etablierte Anbieter (z. B. ticketpay, Eventim) ist dort Standard."
+    },
+    {
+      "id": "handball-2hbf-frauen", "sport": "Handball", "liga": "2. Handball-Bundesliga Frauen", "geschlecht": "Frauen",
+      "staffeln": [ { "name": "eingleisig", "quelle": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27", "teams": 16 } ],
+      "teams": 16, "zuschauer": "ca. 200–600 (Schätzung)",
+      "quelle_typ": "teamseiten", "quelle_geprueft": true,
+      "quelle_offiziell": "https://www.alsco-hbf.de/ (Vue-SPA, statisch 9 KB ohne Inhalt: js)",
+      "einschaetzung": "hoch", "begruendung": "Kleine Vereine mit zahlendem Publikum und wenig Personal, eigener Online-Vorverkauf selten."
+    },
+    {
+      "id": "handball-3liga-frauen", "sport": "Handball", "liga": "3. Liga Frauen", "geschlecht": "Frauen",
+      "staffeln": [
+        { "name": "Nord", "quelle": "https://de.wikipedia.org/wiki/3._Liga_Frauen_(Handball)_2026/27", "teams": 12 },
+        { "name": "Mitte", "quelle": "https://de.wikipedia.org/wiki/3._Liga_Frauen_(Handball)_2026/27", "teams": 12 },
+        { "name": "Süd", "quelle": "https://de.wikipedia.org/wiki/3._Liga_Frauen_(Handball)_2026/27", "teams": 12 }
+      ],
+      "teams": 36, "zuschauer": "ca. 100–300 (Schätzung)",
+      "quelle_typ": "teamseiten", "quelle_geprueft": true,
+      "quelle_hinweis": "Viele Zweitvertretungen (II) von Bundesligisten, die über den Hauptverein laufen.",
+      "einschaetzung": "mittel", "begruendung": "Eintritt üblich, aber kleines Publikum und viele Reserveteams großer Vereine."
+    },
+    {
+      "id": "handball-regionalliga-maenner", "sport": "Handball", "liga": "Regionalligen Männer (4. Liga, je Landesverband)", "geschlecht": "Männer",
+      "staffeln": [], "teams": null, "zuschauer": "ca. 150–400 (Schätzung)",
+      "quelle_typ": "unbekannt", "quelle_geprueft": false,
+      "quelle_hinweis": "Je Regionalverband eigene Staffeln, Daten auf handball.net (js). Nicht abgerufen.",
+      "einschaetzung": "mittel", "begruendung": "Breite Basis mit Eintritt, aber Struktur zersplittert und Zuschauerzahlen kleiner."
+    },
+    {
+      "id": "basketball-prob-maenner", "sport": "Basketball", "liga": "BARMER 2. Basketball Bundesliga ProB", "geschlecht": "Männer",
+      "staffeln": [
+        { "name": "ProB Nord", "quelle": "https://www.2basketballbundesliga.de/teams/?league=ProB", "teams": 14 },
+        { "name": "ProB Süd", "quelle": "https://www.2basketballbundesliga.de/teams/?league=ProB", "teams": 15 }
+      ],
+      "teams": 29, "zuschauer": "ca. 300–1.200 (Schätzung)",
+      "quelle_typ": "teamseiten", "quelle_geprueft": true,
+      "quelle_hinweis": "Statisches HTML (WordPress), Teamname in <h6 class=\"av-special-heading-tag\">, Link /kader/<id>; die Kaderseite enthält die Vereins-Homepage und teils einen Ticketlink (z. B. reservix). Gleiche Struktur für ProA unter /teams/.",
+      "einschaetzung": "hoch", "begruendung": "Zahlende Hallenzuschauer, kleine Vereinsstrukturen, Ticketing sehr unterschiedlich professionell."
+    },
+    {
+      "id": "basketball-proa-maenner", "sport": "Basketball", "liga": "BARMER 2. Basketball Bundesliga ProA", "geschlecht": "Männer",
+      "staffeln": [ { "name": "eingleisig", "quelle": "https://www.2basketballbundesliga.de/teams/", "teams": 18 } ],
+      "teams": 18, "zuschauer": "ca. 1.500–3.000 (Schätzung)",
+      "quelle_typ": "teamseiten", "quelle_geprueft": true,
+      "quelle_hinweis": "Kaderseite z. B. /teams/kader/435/ listet Homepage (artland-dragons.de) und Ticketshop.",
+      "einschaetzung": "niedrig", "begruendung": "Weitgehend professionell, Online-Ticketing über Reservix/Eventim meist vorhanden."
+    },
+    {
+      "id": "basketball-1rl-maenner", "sport": "Basketball", "liga": "1. Regionalliga Herren", "geschlecht": "Männer",
+      "staffeln": [
+        { "name": "Nord", "quelle": "https://www.rln-basketball.de/index.php/ligen/1-rl-herren", "teams": null },
+        { "name": "West", "quelle": "unbekannt", "teams": null },
+        { "name": "Südwest", "quelle": "unbekannt", "teams": null },
+        { "name": "Südost", "quelle": "unbekannt", "teams": null }
+      ],
+      "teams": null, "zuschauer": "ca. 100–400 (Schätzung)",
+      "quelle_typ": "js", "quelle_geprueft": true,
+      "quelle_hinweis": "RL-Nord-Seite bettet ein basketball-bund.net-Widget (ligaNr 130) per iframe/JS ein; daneben nur Ansprechpartner-Namen. basketball-bund.net hat eine JSON-REST-API (/rest/competition/...), Wettbewerbs-ID nicht ermittelt.",
+      "einschaetzung": "mittel", "begruendung": "Eintritt üblich, aber kleines Publikum; einige ambitionierte Vereine auf dem Weg in die ProB."
+    },
+    {
+      "id": "basketball-dbbl-frauen", "sport": "Basketball", "liga": "Damen-Basketball-Bundesliga (1. DBBL)", "geschlecht": "Frauen",
+      "staffeln": [ { "name": "eingleisig", "quelle": "https://www.dbbl.de/", "teams": null } ],
+      "teams": null, "zuschauer": "ca. 300–1.000 (Schätzung)",
+      "quelle_typ": "unbekannt", "quelle_geprueft": true,
+      "quelle_hinweis": "dbbl.de am 2026-11-13 mit falschem TLS-Zertifikat (realtime.at), nicht abrufbar.",
+      "einschaetzung": "mittel", "begruendung": "Topliga der Frauen, aber halbprofessionell mit kleinen Vereinen; Ticketing uneinheitlich."
+    },
+    {
+      "id": "basketball-2dbbl-frauen", "sport": "Basketball", "liga": "2. Damen-Basketball-Bundesliga", "geschlecht": "Frauen",
+      "staffeln": [
+        { "name": "Nord", "quelle": "unbekannt", "teams": null },
+        { "name": "Süd", "quelle": "https://www.hessenschau.de/sport/ergebnisse-tabellen/basketball-130~_matchday-1.html", "teams": 12 }
+      ],
+      "teams": null, "zuschauer": "ca. 100–300 (Schätzung)",
+      "quelle_typ": "nur_namen", "quelle_geprueft": false,
+      "einschaetzung": "niedrig", "begruendung": "Kleines Publikum, oft freier oder sehr günstiger Eintritt."
+    },
+    {
+      "id": "eishockey-oberliga", "sport": "Eishockey", "liga": "DEB-Oberliga", "geschlecht": "Männer",
+      "staffeln": [
+        { "name": "Oberliga Nord", "quelle": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27", "teams": 12 },
+        { "name": "Oberliga Süd", "quelle": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27", "teams": 14 }
+      ],
+      "teams": 26, "zuschauer": "ca. 800–2.000 (Schätzung)",
+      "quelle_typ": "teamseiten", "quelle_geprueft": true,
+      "quelle_offiziell": "https://deb-online.live/liga/herren/oberliga-nord/ und /oberliga-sued/ (Tabellen per hockeydata-Widget: js)",
+      "einschaetzung": "hoch", "begruendung": "Jedes Spiel kostet Eintritt, 1.000+ Zuschauer, viele Vereine e. V. oder kleine GmbH mit dünnem Ticketing; die großen haben schon Anbieter."
+    },
+    {
+      "id": "eishockey-del2", "sport": "Eishockey", "liga": "DEL2", "geschlecht": "Männer",
+      "staffeln": [ { "name": "eingleisig", "quelle": "https://www.del-2.org/clubs/", "teams": 14 } ],
+      "teams": 14, "zuschauer": "ca. 2.000–3.500 (Schätzung)",
+      "quelle_typ": "teamseiten", "quelle_geprueft": true,
+      "quelle_hinweis": "Clubseite (z. B. /clubs/ehc-freiburg_24) mit Homepage und Ticketlink (reservix). Statisches HTML, gut skriptbar.",
+      "einschaetzung": "niedrig", "begruendung": "Profibetrieb mit etablierten Ticketanbietern; eher Referenz als Zielgruppe."
+    },
+    {
+      "id": "eishockey-regionalligen", "sport": "Eishockey", "liga": "Bayernliga und Regionalligen (4. Liga)", "geschlecht": "Männer",
+      "staffeln": [], "teams": null, "zuschauer": "ca. 200–800 (Schätzung)",
+      "quelle_typ": "unbekannt", "quelle_geprueft": false,
+      "einschaetzung": "hoch", "begruendung": "Zahlendes Publikum in Hunderter-Größe, Vereine ehrenamtlich, Kasse meist nur am Eingang."
+    },
+    {
+      "id": "fussball-regionalliga-maenner", "sport": "Fußball", "liga": "Regionalliga", "geschlecht": "Männer",
+      "staffeln": [
+        { "name": "Nord", "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27", "teams": 18 },
+        { "name": "Nordost", "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27", "teams": 18 },
+        { "name": "West", "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27", "teams": 18 },
+        { "name": "Südwest", "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27", "teams": 18 },
+        { "name": "Bayern", "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27", "teams": 19 }
+      ],
+      "teams": 91, "zuschauer": "Nord ca. 970 (Wikipedia: 143.203 bei 148 Spielen, Stand 8.11.), Nordost ca. 3.700 (538.511 bei 144 Spielen); West/Südwest/Bayern ca. 1.000–2.000 (Schätzung)",
+      "quelle_typ": "teamseiten", "quelle_geprueft": true,
+      "quelle_hinweis": "Wikitext abgerufen (Infobox Mannschaften/Zuschauer). Teilnehmerlisten mit Vereinsartikel-Links. diefalsche9.de-Teilnehmerartikel: nur_namen. fussball.de nicht geprüft.",
+      "einschaetzung": "mittel", "begruendung": "Großes Publikum, aber viele Traditionsvereine und U23-Teams von Profiklubs haben schon Ticketing; die kleinen Dorfvereine passen gut."
+    },
+    {
+      "id": "fussball-oberliga-maenner", "sport": "Fußball", "liga": "Oberliga (5. Liga, 14 Staffeln)", "geschlecht": "Männer",
+      "staffeln": [
+        { "name": "Baden-Württemberg, Bayernliga Nord, Bayernliga Süd, Bremen-Liga, Hamburg, Hessenliga, Mittelrhein, Niederrhein, Niedersachsen, Nordost Nord, Nordost Süd, Rheinland-Pfalz/Saar, Schleswig-Holstein, Westfalen", "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_2026/27", "teams": null }
+      ],
+      "teams": 250, "zuschauer": "ca. 150–500 (Schätzung)",
+      "quelle_typ": "teamseiten", "quelle_geprueft": true,
+      "quelle_hinweis": "Übersichtsartikel verlinkt alle 14 Staffelartikel; Teamzahl ca. 250 geschätzt (16–20 je Staffel), nicht einzeln gezählt.",
+      "einschaetzung": "hoch", "begruendung": "Sehr viele Vereine mit Eintritt und ohne eigenen Online-Vorverkauf; Derbys und Pokalspiele brauchen Vorverkauf."
+    },
+    {
+      "id": "fussball-2bl-frauen", "sport": "Fußball", "liga": "2. Frauen-Bundesliga", "geschlecht": "Frauen",
+      "staffeln": [ { "name": "eingleisig", "quelle": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27", "teams": 14 } ],
+      "teams": 14, "zuschauer": "ca. 440 (Wikipedia: 34.013 bei 77 Spielen, Stand 8.11.)",
+      "quelle_typ": "teamseiten", "quelle_geprueft": true,
+      "einschaetzung": "mittel", "begruendung": "Eintritt üblich, aber viele Teams sind Frauenabteilungen von Profiklubs mit deren Ticketing."
+    },
+    {
+      "id": "football-gfl", "sport": "American Football", "liga": "German Football League (GFL)", "geschlecht": "Männer",
+      "staffeln": [
+        { "name": "Nord", "quelle": "https://gfl.info/teams/", "teams": null },
+        { "name": "Süd", "quelle": "https://gfl.info/teams/", "teams": null }
+      ],
+      "teams": 15, "zuschauer": "ca. 500–3.000 (Schätzung)",
+      "quelle_typ": "teamseiten", "quelle_geprueft": true,
+      "quelle_hinweis": "/teams/ listet 16 Teamseiten (inkl. Paderborn Dolphins, die 2026 zurückgezogen haben, daher 15). Teamseite z. B. /teams/allgaeu-comets/ mit Homepage UND Ticketlink. Saison 2026 vorbei, nächste ab Mai 2027.",
+      "einschaetzung": "hoch", "begruendung": "Eventcharakter mit Eintritt, Vereine e. V., Zielgruppe jung und online; einige nutzen schon Ticketanbieter."
+    },
+    {
+      "id": "football-gfl2", "sport": "American Football", "liga": "German Football League 2 (GFL2)", "geschlecht": "Männer",
+      "staffeln": [
+        { "name": "Nord", "quelle": "https://gfl.info/gfl2/teams/", "teams": null },
+        { "name": "Süd", "quelle": "https://gfl.info/gfl2/teams/", "teams": null }
+      ],
+      "teams": 16, "zuschauer": "ca. 200–800 (Schätzung)",
+      "quelle_typ": "teamseiten", "quelle_geprueft": true,
+      "quelle_hinweis": "16 Teamseiten unter /gfl2/teams/<slug>/, gleiche Struktur wie GFL.",
+      "einschaetzung": "hoch", "begruendung": "Eintritt üblich, Vereine klein und ehrenamtlich, Online-Vorverkauf nicht selbstverständlich."
+    },
+    {
+      "id": "hockey-1bl", "sport": "Hockey", "liga": "1. Bundesliga Feld/Halle (Herren und Damen)", "geschlecht": "gemischt",
+      "staffeln": [
+        { "name": "Herren", "quelle": "unbekannt", "teams": 12 },
+        { "name": "Damen", "quelle": "unbekannt", "teams": 12 }
+      ],
+      "teams": 24, "zuschauer": "ca. 200–800 (Schätzung)",
+      "quelle_typ": "unbekannt", "quelle_geprueft": true,
+      "quelle_hinweis": "hockey.de ohne Ligaübersicht, hockeyliga.de am 2026-11-13 nicht erreichbar. Teamzahl je 12 aus Ligastruktur (Schätzung).",
+      "einschaetzung": "niedrig", "begruendung": "Großvereine mit Clubhaus-Kultur, Eintritt oft frei oder symbolisch; Ausnahme Final Four."
+    },
+    {
+      "id": "floorball-1fbl-herren", "sport": "Floorball", "liga": "1. Floorball-Bundesliga Herren", "geschlecht": "Männer",
+      "staffeln": [ { "name": "eingleisig", "quelle": "https://floorball.de/bundesliga/", "teams": 11 } ],
+      "teams": 11, "zuschauer": "ca. 100–400, Weißenfels bis ca. 1.000 (Schätzung)",
+      "quelle_typ": "homepages", "quelle_geprueft": true,
+      "quelle_hinweis": "Eine statische Seite mit allen Ligen (1. FBL Herren/Damen, 2. FBL Nord/West und Süd/Ost) als <h>-Überschrift plus <a href=Homepage>; ideal fürs Skript.",
+      "einschaetzung": "mittel", "begruendung": "Eintritt üblich und Vereine sehr klein, aber Zuschauerzahlen meist niedrig."
+    },
+    {
+      "id": "floorball-1fbl-damen", "sport": "Floorball", "liga": "1. Floorball-Bundesliga Damen", "geschlecht": "Frauen",
+      "staffeln": [ { "name": "eingleisig", "quelle": "https://floorball.de/bundesliga/", "teams": 8 } ],
+      "teams": 8, "zuschauer": "ca. 50–200 (Schätzung)",
+      "quelle_typ": "homepages", "quelle_geprueft": true,
+      "einschaetzung": "niedrig", "begruendung": "Sehr kleines Publikum, häufig Doppelspieltage mit freiem Eintritt."
+    },
+    {
+      "id": "floorball-2fbl-herren", "sport": "Floorball", "liga": "2. Floorball-Bundesliga Herren", "geschlecht": "Männer",
+      "staffeln": [
+        { "name": "Nord/West", "quelle": "https://floorball.de/bundesliga/", "teams": 9 },
+        { "name": "Süd/Ost", "quelle": "https://floorball.de/bundesliga/", "teams": 9 }
+      ],
+      "teams": 18, "zuschauer": "ca. 50–150 (Schätzung)",
+      "quelle_typ": "homepages", "quelle_geprueft": true,
+      "einschaetzung": "niedrig", "begruendung": "Kaum zahlendes Publikum."
+    },
+    {
+      "id": "volleyball-3liga-maenner", "sport": "Volleyball", "liga": "3. Liga Männer", "geschlecht": "Männer",
+      "staffeln": [ { "name": "Nord" , "quelle": "unbekannt", "teams": null }, { "name": "Ost", "quelle": "unbekannt", "teams": null }, { "name": "West", "quelle": "unbekannt", "teams": null }, { "name": "Süd", "quelle": "unbekannt", "teams": null } ],
+      "teams": null, "zuschauer": "ca. 50–200 (Schätzung)",
+      "quelle_typ": "unbekannt", "quelle_geprueft": true,
+      "quelle_hinweis": "volleyball-verband.de ohne statische Ligaübersicht; Staffelnamen laut DVV-Regionalbereichen, Teamlisten nicht gefunden (vermutlich SAMS-System der Regionalverbände).",
+      "einschaetzung": "niedrig", "begruendung": "Eintritt oft frei oder 3 €, kleines Publikum."
+    },
+    {
+      "id": "volleyball-3liga-frauen", "sport": "Volleyball", "liga": "3. Liga Frauen", "geschlecht": "Frauen",
+      "staffeln": [ { "name": "Nord" , "quelle": "unbekannt", "teams": null }, { "name": "Ost", "quelle": "unbekannt", "teams": null }, { "name": "West", "quelle": "unbekannt", "teams": null }, { "name": "Süd", "quelle": "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-120~team_id-3610.html", "teams": null } ],
+      "teams": null, "zuschauer": "ca. 50–200 (Schätzung)",
+      "quelle_typ": "unbekannt", "quelle_geprueft": false,
+      "einschaetzung": "niedrig", "begruendung": "Wie Männer: kleines Publikum, oft freier Eintritt."
+    },
+    {
+      "id": "tischtennis-ttbl", "sport": "Tischtennis", "liga": "Tischtennis-Bundesliga (TTBL)", "geschlecht": "Männer",
+      "staffeln": [ { "name": "eingleisig", "quelle": "https://www.ttbl.de/bundesliga/teams", "teams": 12 } ],
+      "teams": 12, "zuschauer": "ca. 300–1.200 (Schätzung)",
+      "quelle_typ": "teamseiten", "quelle_geprueft": true,
+      "quelle_hinweis": "Next.js, aber serverseitig gerendert: 12 Links /bundesliga/teams/2026-2027/<uuid>; Teamseite mit Homepage und Ticketlink (z. B. post-muehlhausen.de/shop-tickets/).",
+      "einschaetzung": "mittel", "begruendung": "Topliga, aber Vereine klein und Eintritt üblich; einige haben schon Ticketshops."
+    },
+    {
+      "id": "baseball-1bl", "sport": "Baseball", "liga": "1. Baseball-Bundesliga", "geschlecht": "Männer",
+      "staffeln": [
+        { "name": "Nord", "quelle": "https://www.baseball-softball.de/spielbetrieb/1-baseball-bundesliga/tabelle/?bsm_league=6127", "teams": 6 },
+        { "name": "Süd", "quelle": "https://www.baseball-softball.de/spielbetrieb/1-baseball-bundesliga/tabelle/?bsm_league=6128", "teams": 6 }
+      ],
+      "teams": 12, "zuschauer": "ca. 100–500, Regensburg/Heidenheim mehr (Schätzung)",
+      "quelle_typ": "nur_namen", "quelle_geprueft": true,
+      "quelle_hinweis": "Statische Tabellen ohne Teamlinks. 2. Bundesliga hat 6 weitere Staffeln (bsm_league 6136–6141).",
+      "einschaetzung": "niedrig", "begruendung": "Kleines Publikum, Eintritt oft frei oder sehr günstig; Ausnahmen wenige Standorte."
+    },
+    {
+      "id": "inlinehockey-1bl", "sport": "Inline-Skaterhockey", "liga": "ISHD 1. Bundesliga Herren", "geschlecht": "Männer",
+      "staffeln": [ { "name": "eingleisig", "quelle": "https://ishd.de/saison/2026/ligen/1-bundesliga", "teams": 10 } ],
+      "teams": 10, "zuschauer": "ca. 100–400 (Schätzung)",
+      "quelle_typ": "teamseiten", "quelle_geprueft": true,
+      "quelle_hinweis": "Teamlinks /saison/2026/ligen/1-bundesliga/teams/<slug>, Vereinsseite /vereine/verein/<slug> mit Homepage (z. B. bissendorferpanther.de).",
+      "einschaetzung": "niedrig", "begruendung": "Nische mit kleinem Publikum, oft freier Eintritt."
+    },
+    {
+      "id": "badminton-1bl", "sport": "Badminton", "liga": "1. Badminton-Bundesliga", "geschlecht": "gemischt",
+      "staffeln": [ { "name": "eingleisig", "quelle": "https://www.badminton.de/bundesliga/1-bundesliga/", "teams": 7 } ],
+      "teams": 7, "zuschauer": "ca. 100–300 (Schätzung)",
+      "quelle_typ": "nur_namen", "quelle_geprueft": true,
+      "quelle_hinweis": "7 Mannschaftsseiten /bundesliga/mannschaft/<slug>/, dort keine Vereins-Homepage, nur turnier.de-Link. 2. BL Nord/Süd unter /bundesliga/2-bundesliga-nord|sued/.",
+      "einschaetzung": "niedrig", "begruendung": "Kleines Publikum, Eintritt selten relevant."
+    },
+    {
+      "id": "ringen-bundesliga", "sport": "Ringen", "liga": "BIRTAT Ringer-Bundesliga", "geschlecht": "Männer",
+      "staffeln": [ { "name": "Bundesliga (Gruppeneinteilung je Saison)", "quelle": "https://www.ringen.de/birtat-bundesliga/", "teams": 20 } ],
+      "teams": 20, "zuschauer": "ca. 300–1.500 (Schätzung)",
+      "quelle_typ": "unbekannt", "quelle_geprueft": true,
+      "quelle_hinweis": "ringen.de-Bundesligaseite zeigt nur News und Ticketlinks einzelner Vereine (z. B. tickets.svgermania04.de), keine Teamliste. 20 Teams laut BL-Richtlinien 2026 (ringen.de PDF). Daneben gibt es die Deutsche Ringerliga (DRL) als eigene Liga, nicht geprüft.",
+      "einschaetzung": "hoch", "begruendung": "Ringkämpfe sind Dorf-Events mit 500–1.500 zahlenden Zuschauern in kleinen Vereinen, oft Vorverkauf per Telefon oder Kasse."
+    },
+    {
+      "id": "motoball-bundesliga", "sport": "Motoball", "liga": "Motoball-Bundesliga", "geschlecht": "gemischt",
+      "staffeln": [ { "name": "eingleisig", "quelle": "https://clubee.com/motoballdeutschland", "teams": null } ],
+      "teams": null, "zuschauer": "ca. 200–800 (Schätzung)",
+      "quelle_typ": "js", "quelle_geprueft": true,
+      "quelle_hinweis": "motoball.de leitet auf eine Clubee-App-Seite um (MUI/JS), Teamliste nicht lesbar.",
+      "einschaetzung": "mittel", "begruendung": "Eintritt üblich und Vereine klein, aber nur rund zehn Standorte."
+    },
+    {
+      "id": "futsal-bundesliga", "sport": "Futsal", "liga": "Futsal-Bundesliga (DFB)", "geschlecht": "Männer",
+      "staffeln": [], "teams": null, "zuschauer": "ca. 100–400 (Schätzung)",
+      "quelle_typ": "unbekannt", "quelle_geprueft": false,
+      "einschaetzung": "niedrig", "begruendung": "Junge Liga mit kleinem Publikum, Eintritt oft frei."
+    },
+    {
+      "id": "rugby-bundesliga", "sport": "Rugby", "liga": "Rugby-Bundesliga", "geschlecht": "Männer",
+      "staffeln": [], "teams": null, "zuschauer": "ca. 100–300 (Schätzung)",
+      "quelle_typ": "unbekannt", "quelle_geprueft": true,
+      "quelle_hinweis": "rugbydeutschland.org bietet nur eine Vereinskarte, keine Ligenübersicht gefunden; totalrugby.de nicht weiter geprüft.",
+      "einschaetzung": "niedrig", "begruendung": "Kleines Publikum, meist freier Eintritt."
+    },
+    {
+      "id": "wasserball-dwl", "sport": "Wasserball", "liga": "Deutsche Wasserball-Liga (DWL)", "geschlecht": "Männer",
+      "staffeln": [], "teams": null, "zuschauer": "ca. 100–300 (Schätzung)",
+      "quelle_typ": "unbekannt", "quelle_geprueft": true,
+      "quelle_hinweis": "dsv.de Vereinsübersicht Wasserball ohne Ligazuordnung oder Teamlinks im HTML.",
+      "einschaetzung": "niedrig", "begruendung": "Wenige Standorte, kleine Hallenbäder, kaum Eintrittsgeschäft."
+    },
+    {
+      "id": "faustball-1bl", "sport": "Faustball", "liga": "1. Faustball-Bundesliga (Feld/Halle, Nord/Süd)", "geschlecht": "gemischt",
+      "staffeln": [], "teams": null, "zuschauer": "ca. 50–300 (Schätzung)",
+      "quelle_typ": "unbekannt", "quelle_geprueft": true,
+      "quelle_hinweis": "faustball.com Startseite (5 KB) ohne Ligalinks.",
+      "einschaetzung": "niedrig", "begruendung": "Kaum zahlendes Publikum."
+    }
+  ]
+}
