@@ -8,12 +8,12 @@
     "sport": "Volleyball"
   },
   "ergebnis": {
-    "website": "https://prowin-volleys.de",
-    "vorverkauf": "anbieter",
-    "anbieter": "eigener Online-Ticketshop auf prowin-volleys.de (Software nicht erkennbar)",
-    "eintritt_frei": false,
+    "website": "https://prowin-volleys.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
     "ticketpreis_eur": null,
-    "halle": "Multifunktionshalle Hermann-Neuberger-Sportschule, Saarbrücken, bzw. Sporthalle Friedrich-Schiller-Schule, Heusweiler (Seite „Sportstätten“, ohne Zuordnung zur 2. Bundesliga)",
+    "halle": "Multifunktionshalle, Hermann-Neuberger-Sportschule 8, 66123 Saarbrücken",
     "kapazitaet": null,
     "instagram": "prowinvolleystvholz",
     "ansprechperson": {
@@ -21,59 +21,52 @@
       "rolle": "Geschäftsstelle TV Holz 02 e.V. (Di und Do 11–18 Uhr)",
       "kontakt": "info@prowin-volleys.de, 06806 49 99 805"
     },
-    "naechstes_heimspiel": "14.11.2026, 19:00 Uhr, TV Holz gegen KA-Beiertheim",
-    "beobachtung": "Die Ticketseite verweist auf einen „Online-Ticketshop proWIN Volleys“ mit eigenen Ticketbedingungen (prowin-volleys.de/atgb), nennt aber weder Spiele noch Preise; nächstes Heimspiel am 14.11.2026 um 19 Uhr gegen KA-Beiertheim.",
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website wirbt in der Kopfleiste mit „Online-Ticketshop proWIN Volleys“, der Link führt aber auf die eigene Seite /tickets, die außer der Überschrift nur einen Verweis auf die Ticketbedingungen (Stand 15.08.2019) enthält: kein Shop, keine Preise.",
     "quellen": [
-      "https://www.prowin-volleys.de/tickets",
-      "https://prowin-volleys.de/",
-      "https://prowin-volleys.de/sportstaetten",
       "https://prowin-volleys.de/tickets",
-      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-6471.html"
+      "https://prowin-volleys.de/atgb",
+      "https://prowin-volleys.de/sportstaetten",
+      "https://prowin-volleys.de/kalender/spiele"
     ],
     "sicherheit": "mittel"
   },
   "meta": {
     "recherchiert_am": "2026-11-13",
-    "modell": "claude-opus-5-5 (Claude Code Sitzung)",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
     "schritte": 7,
     "quellen_belegt": [
-      "https://www.prowin-volleys.de/tickets",
-      "https://prowin-volleys.de/",
+      "https://prowin-volleys.de/tickets",
+      "https://prowin-volleys.de/atgb",
       "https://prowin-volleys.de/sportstaetten",
-      "https://prowin-volleys.de/tickets"
+      "https://prowin-volleys.de/kalender/spiele"
     ],
-    "quellen_nur_suchtreffer": [
-      "https://hylo.sport/en/news/season-start-home-match-premiere-for-the-prowin-volleys-tv-holz/"
-    ],
-    "quellen_nicht_nachvollziehbar": [
-      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-6471.html"
-    ],
-    "notiz": "Shop ist vermutlich per Widget eingebettet, das im Abruf nicht sichtbar war; Anbieter und Preise daher offen. Laut Suchtreffer (hylo.sport, Saisonstart 2023) kostete die Abendkasse damals 7 €, ermäßigt 4 €; nicht abgerufen und veraltet. Welche der beiden Hallen 2026/27 die Heimspielhalle ist, steht nicht auf der Seite. Die Ticketseite wurde zweimal abgerufen (mit und ohne www).",
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Zusätzlich das Roh-HTML von /tickets per curl geprüft (3 Abrufe derselben URL): Inhaltsbereich ist ein leerer Absatz, kein eingebundenes Skript oder iFrame eines Ticketanbieters; „woocommerce“ kommt nur im Theme-CSS vor. Der Shop wurde offenbar entfernt oder nie befüllt. Ticketbedingungen nennen „autorisierte Vorverkaufsstellen“ ohne Namen und Preise nach „aktuellen Preislisten“. Zweite Sportstätte: Sporthalle Friedrich-Schiller-Schule, Heusweiler; welche die 2. BL nutzt, nennt die Vereinsseite nicht, VBL nennt Saarbrücken. Spielplan nur über Link zur VBL. VBL-Kontakte laut Vorlauf (nicht selbst gelesen): Nick Werner (Mannschaftsverantwortlicher), Lucas Jost (PR). Vorschlag des Vorlaufs (keine_angabe) bestätigt.",
     "kosten_usd": 0,
     "quellen_selbst_angegeben": [
-      "https://www.prowin-volleys.de/tickets",
-      "https://prowin-volleys.de/",
-      "https://prowin-volleys.de/sportstaetten",
       "https://prowin-volleys.de/tickets",
-      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-6471.html"
+      "https://prowin-volleys.de/atgb",
+      "https://prowin-volleys.de/sportstaetten",
+      "https://prowin-volleys.de/kalender/spiele"
     ],
     "quellen_nicht_pruefbar": [],
     "pruefung": {
       "am": "2026-11-13",
       "fakten": {
         "instagram": [
-          "https://www.prowin-volleys.de/tickets",
-          "https://prowin-volleys.de/",
+          "https://prowin-volleys.de/tickets",
+          "https://prowin-volleys.de/atgb",
           "https://prowin-volleys.de/sportstaetten",
-          "https://prowin-volleys.de/tickets"
+          "https://prowin-volleys.de/kalender/spiele"
         ],
         "ansprechperson": [
-          "https://www.prowin-volleys.de/tickets",
-          "https://prowin-volleys.de/",
+          "https://prowin-volleys.de/tickets",
+          "https://prowin-volleys.de/atgb",
           "https://prowin-volleys.de/sportstaetten",
-          "https://prowin-volleys.de/tickets"
-        ],
-        "anbieter": []
+          "https://prowin-volleys.de/kalender/spiele"
+        ]
       }
     }
   }

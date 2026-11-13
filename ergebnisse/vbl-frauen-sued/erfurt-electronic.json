@@ -8,49 +8,62 @@
     "sport": "Volleyball"
   },
   "ergebnis": {
-    "website": null,
-    "vorverkauf": "unbekannt",
+    "website": "https://wordpress.erfurt-electronic.de/",
+    "vorverkauf": "keine_angabe",
     "anbieter": null,
-    "eintritt_frei": null,
-    "ticketpreis_eur": null,
-    "halle": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 5,
+    "halle": "Sporthalle Pierre de Coubertin-Gymnasium (auf der Vereinsseite: Walter-Gropius-Sporthalle), Mozartallee 4, 99096 Erfurt",
     "kapazitaet": null,
-    "instagram": null,
-    "ansprechperson": null,
-    "naechstes_heimspiel": null,
-    "beobachtung": "Die Tabelle der 2. Bundesliga Süd Frauen führt „SW Erfurt“ mit 0 Spielen auf Platz 12; weder Schwarz-Weiß Erfurt (1. Bundesliga) noch SWE Volley-Team nennen auf ihren Startseiten eine Mannschaft in der 2. Bundesliga oder den Namen „Erfurt electronic“.",
+    "instagram": "sgerfurtelectronic",
+    "ansprechperson": {
+      "name": "Dr. Sabine Nemitz",
+      "rolle": "Mannschaftsverantwortliche (VBL)",
+      "kontakt": "volleyball@erfurt-electronic.de"
+    },
+    "naechstes_heimspiel": "Sa 21.11.2026, 19:30 gegen TSV Unterhaching (Hallenöffnung 18:30)",
+    "beobachtung": "Heimspiel gegen TSV Unterhaching am 21.11. um 19:30: Die Veranstaltungsseite nennt Eintritt 5 € (Kinder unter 18: 3 €), sagt aber nichts zu Vorverkauf oder Abendkasse und verlinkt keinen Ticketshop.",
     "quellen": [
-      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112.html",
-      "https://www.schwarz-weiss-erfurt.de/",
-      "https://swe-volley-team.de/"
+      "https://wordpress.erfurt-electronic.de/events/damen-i-2-bl-sued-heimspiel-3",
+      "https://wordpress.erfurt-electronic.de/veranstaltungen-uebersicht",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781346192&c.view=contact"
     ],
-    "sicherheit": "niedrig"
+    "sicherheit": "mittel"
   },
   "meta": {
     "recherchiert_am": "2026-11-13",
-    "modell": "claude-opus-5-5 (Claude Code Sitzung)",
-    "schritte": 6,
-    "quellen_belegt": [],
-    "quellen_nur_suchtreffer": [
-      "https://www.regioactive.de/sport/etv-hamburg-vs-schwarz-weiss-erfurt-1-heimspiel-volleyball-bundesliga-cu-arena-2026-10-13-NRKk92ySXT",
-      "https://www.wiesbaden.de/ru/leben-in-wiesbaden/sport/bundesligen/vcw"
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://wordpress.erfurt-electronic.de/events/damen-i-2-bl-sued-heimspiel-3",
+      "https://wordpress.erfurt-electronic.de/veranstaltungen-uebersicht",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781346192&c.view=contact"
     ],
+    "quellen_nur_suchtreffer": [],
     "quellen_nicht_nachvollziehbar": [],
-    "notiz": "Identität unklar: „Erfurt electronic“ fand keine Suche. Einziger Erfurter Eintrag der Staffel ist „SW Erfurt“ ohne ein einziges Spiel; in den Spielplänen von DJK München-Ost, Vilsbiburg II, VC Offenburg und TV Holz kommt Erfurt nicht vor. Vermutlich zurückgezogen oder nur Platzhalter; vereine.json prüfen. Gefundene Instagram-Links gehören zu anderen Teams (schwarzweisserfurt = 1. Bundesliga, swevolleyteam = Breitensportverein) und sind deshalb nicht eingetragen. Schwarz-Weiß Erfurt hat eine eigene Ticketseite (schwarz-weiss-erfurt.de/tickets, nicht abgerufen), Heimspielort 1. BL am 28.11.26 Riethsporthalle.",
+    "notiz": "Preis steht auf der Eventseite, ein Verkaufsweg nicht; vermutlich Abendkasse, aber nicht belegt, daher keine_angabe. Weitere Heimspiele laut Terminübersicht 31.10., 5.12. und 6.12.2026 (Gegner dort nicht genannt). Kapazität nirgends angegeben. Allgemeine Adresse info@erfurt-electronic.de steht auf der Vereinsseite. Vorschlag des Vorlaufs (keine_angabe) bestätigt.",
     "kosten_usd": 0,
     "quellen_selbst_angegeben": [
-      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112.html",
-      "https://www.schwarz-weiss-erfurt.de/",
-      "https://swe-volley-team.de/"
+      "https://wordpress.erfurt-electronic.de/events/damen-i-2-bl-sued-heimspiel-3",
+      "https://wordpress.erfurt-electronic.de/veranstaltungen-uebersicht",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781346192&c.view=contact"
     ],
-    "quellen_nicht_pruefbar": [
-      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112.html",
-      "https://www.schwarz-weiss-erfurt.de/",
-      "https://swe-volley-team.de/"
-    ],
+    "quellen_nicht_pruefbar": [],
     "pruefung": {
       "am": "2026-11-13",
-      "fakten": {}
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://wordpress.erfurt-electronic.de/events/damen-i-2-bl-sued-heimspiel-3"
+        ],
+        "instagram": [
+          "https://wordpress.erfurt-electronic.de/events/damen-i-2-bl-sued-heimspiel-3",
+          "https://wordpress.erfurt-electronic.de/veranstaltungen-uebersicht",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781346192&c.view=contact"
+        ],
+        "ansprechperson": [
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781346192&c.view=contact"
+        ]
+      }
     }
   }
 }

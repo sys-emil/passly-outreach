@@ -9,6 +9,7 @@
       "team_id": "781345658",
       "homepage": "http://www.vco.de",
       "ticketlink": "https://reservation.ticketleo.com/user/11272/event-list",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345658&c.view=teamMain",
       "hallen": [
         "Sporthalle Nord-West Otto-Hahn-Straße 9, 77654 Offenburg"
       ],
@@ -54,7 +55,7 @@
       "emails": [],
       "preise": [],
       "anbieter": {
-        "name": "leoticket",
+        "name": "ticketleo",
         "beleg": "https://reservation.ticketleo.com/user/11272/event-list",
         "wie": "VBL-Ticketlink"
       },
@@ -66,6 +67,7 @@
       "team_id": "781345638",
       "homepage": "https://volleyball-muenchen.de/",
       "ticketlink": "https://volleyball-muenchen.de/damen1/tickets/",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345638&c.view=teamMain",
       "hallen": [
         "Schulsporthalle Grund-und Mittelschule a. d. Führichstraße Kirchseeoner Str. 5, 81671 München"
       ],
@@ -114,6 +116,7 @@
       "team_id": "781346195",
       "homepage": "https://roteraben.de/akademie/volleyball-akademie-bayern",
       "ticketlink": "https://www.eventimsports.de/shop/204/home",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781346195&c.view=teamMain",
       "hallen": [
         "Ballsporthalle Vilsbiburg Urbanstr. 2, 84137 Vilsbiburg"
       ],
@@ -153,6 +156,7 @@
       "team_id": "781346192",
       "homepage": "https://wordpress.erfurt-electronic.de/",
       "ticketlink": null,
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781346192&c.view=teamMain",
       "hallen": [
         "Sporthalle Pierre de Coubertin-Gymnasium Mozartallee 4, 99096 Erfurt"
       ],
@@ -209,6 +213,7 @@
       "team_id": "781345746",
       "homepage": "https://www.sscfreisen.de/",
       "ticketlink": "https://www.eventim-light.com/de/a/61449160d7873569827c42fb",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345746&c.view=teamMain",
       "hallen": [
         "Bruchwaldhalle Schulstraße 60, 66629 Freisen"
       ],
@@ -257,6 +262,7 @@
       "team_id": "781345690",
       "homepage": "https://sv-karlsruhe-beiertheim.de/category/volleyball/",
       "ticketlink": null,
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345690&c.view=teamMain",
       "hallen": [
         "Sporthalle Oberreut Joachim-Kurzaj-Weg 4, 76189 Karlsruhe"
       ],
@@ -309,6 +315,7 @@
       "team_id": "781345875",
       "homepage": "https://www.volleyballakademie.de",
       "ticketlink": "http://www.allianz-mtv-stuttgart.de/1-bundesliga/tickets/",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345875&c.view=teamMain",
       "hallen": [
         "MTV-Halle MoTiV Feuerbacher Tal Furtwängler Straße 145, 70195 Stuttgart",
         "SCHARRena Stuttgart Fritz-Walter-Weg 5, 70372 Stuttgart"
@@ -349,6 +356,7 @@
       "team_id": "781345586",
       "homepage": "http://www.bad-soden-volleyball.de",
       "ticketlink": "https://events.vereinsticket.de/tg-badsoden",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345586&c.view=teamMain",
       "hallen": [
         "Otfried Preussler Schule Niederhofheimer Str. 43, 65812 Bad Soden"
       ],
@@ -425,6 +433,7 @@
       "team_id": "781345608",
       "homepage": "https://tsv-unterhaching.de/volleyball/teams/damen-1",
       "ticketlink": "https://buchung.tsv-unterhaching.de/?cat=22",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345608&c.view=teamMain",
       "hallen": [
         "Geothermie Arena Utzweg 1, 82008 Unterhaching"
       ],
@@ -482,6 +491,7 @@
       "team_id": "781345439",
       "homepage": "https://www.tv-dingolfing.de/team/volleyball-damen-1/",
       "ticketlink": "https://tv-dingolfing.vereinsticket.de/vo-2-bundesligasued-1-damen/",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345439&c.view=teamMain",
       "hallen": [
         "Sporthalle Höll-Ost Gutenbergstr. 27, 84130 Dingolfing"
       ],
@@ -544,6 +554,7 @@
       "team_id": "781345761",
       "homepage": "http://volleyball-altdorf.de/",
       "ticketlink": null,
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345761&c.view=teamMain",
       "hallen": [
         "3-fach Halle an der Mittelschule Schulstr. 6, 90518 Altdorf"
       ],
@@ -614,6 +625,7 @@
       "team_id": "781345711",
       "homepage": "https://www.vc-wiesbaden.de/",
       "ticketlink": "https://vivenu.com/seller/vc-wiesbaden-rj5j",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345711&c.view=teamMain",
       "hallen": [
         "Sporthalle am Platz der Deutschen Einheit Am Platz der Deutschen Einheit 5, 65185 Wiesbaden",
         "Sporthalle Am 2. Ring Konrad Adenauer-Ring 55, 65187 Wiesbaden"
@@ -650,6 +662,7 @@
       "team_id": "781345732",
       "homepage": "http://www.prowin-volleys.de/",
       "ticketlink": "https://prowin-volleys.de/tickets",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345732&c.view=teamMain",
       "hallen": [
         "Multifunktionssporthalle Hermann-Neuberger-Sportschule 8, 66123 Saarbrücken",
         "Kontakt Jobs Zoi DVV-Pokal Volleyball Supercup VBL-Ticker VBL-Wiki VBL-SAMS Impressum Datenschutz © 2026 volleyball-bundesliga.de"

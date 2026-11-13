@@ -32,9 +32,12 @@ einzelnen Verein, optional eine freigegebene Referenz. Ohne Angabe: `vbl-pro`.
    („SV Lohhof" → `sv-lohhof`, „DSHS SnowTrex Köln" → `dshs-snowtrex-koeln`).
 
 2. **Je Verein recherchieren**, genau nach `anleitung/recherche.md`. Das ist wörtlich der
-   Systemprompt des Skripts; lies ihn vor dem ersten Verein. Gib jedem Verein seinen Eintrag
-   aus `vorlauf/<liga>.json` als Startpunkte mit (Homepage, Ticketlink, Halle, VBL-Kontakte,
-   gelesene Seiten, Funde, Vorschlag). Übersetzt auf deine Werkzeuge:
+   Systemprompt des Skripts; lies ihn vor dem ersten Verein. Der Vorlauf schreibt je Verein
+   einen Kurzauftrag `vorlauf/<liga>-auftrag/<slug>.md` mit Startpunkten, Funden und einem
+   vorausgefüllten Ergebnis. **Ein Subagent bekommt nur `anleitung/recherche.md` und seine
+   Kurzaufträge**, nicht diese Datei, das Schema oder die ganze Vorlauf-Datei (spart rund
+   20.000 Tokens je Agent). Alle Modell-Vereine einer Staffel gehören in einen Agenten,
+   außer es sind mehr als sechs. Übersetzt auf deine Werkzeuge:
    `web_search` = WebSearch, `web_fetch` = WebFetch, das Werkzeug `ergebnis` = die JSON-Datei
    aus Schritt 3. Mit Startpunkten höchstens etwa vier Abrufe pro Verein, lieber
    `keine_angabe`/`unbekannt` als raten. Was danach offen ist, gehört auf die Anrufliste

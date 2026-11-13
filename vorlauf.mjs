@@ -35,7 +35,9 @@ const ANBIETER = [
   [/eventimsports\.de|eventim\.de/, 'Eventim'],
   [/reservix\.(de|net)|adticket\.de/, 'Reservix'],
   [/ticket\.io\b/, 'ticket.io'],
-  [/ticketleo\.com|leoticket\.de/, 'leoticket'],
+  // Beide gehören Leomedia; der Name muss in der Adresse stehen, sonst findet pruefe.mjs ihn nicht.
+  [/ticketleo\.com/, 'ticketleo'],
+  [/leoticket\.de/, 'leoticket'],
   [/eventfrog\.(de|ch|com)/, 'Eventfrog'],
   [/ticketino\.com/, 'Ticketino'],
   [/eventbrite\.(de|com)/, 'Eventbrite'],
@@ -51,7 +53,8 @@ const SIGNALE = {
   abendkasse: /abendkasse|tageskasse/,
   vorverkauf: /vorverkauf/,
   von_hand: /(karten|tickets?)[^.!?]{0,80}(per|via|unter|an)\s+(e-?mail|mail|telefon)|reservier|vorbestell/,
-  eintritt_frei: /eintritt\s+(ist\s+)?frei|freier eintritt|eintritt kostenlos/,
+  // „Kinder bis 12 Jahre freier Eintritt" ist kein freier Eintritt (SV Lohhof, 2026-11-13).
+  eintritt_frei: /(?<!(?:kinder|jugend\w*|schüler\w*|jahre?n?|mitglieder\w*|begleit\w*)[^.€]{0,30})(?:eintritt\s+(?:ist\s+)?frei|freier eintritt|eintritt kostenlos)/,
   dauerkarte: /dauerkarte|saisonkarte/,
   bar: /nur bar|barzahlung|bargeld/,
 };
@@ -82,7 +85,11 @@ for (const block of liste.roh.split('samsCmsComponentBlock samsCmsTeamListCompon
   const teamId = block.match(/teamId=(\d+)/)?.[1];
   if (!name || !teamId) continue;
   const link = (wort) => block.match(new RegExp(`href="(https?://[^"]+)"[^>]*>\\s*${wort}`))?.[1]?.replace(/&amp;/g, '&') ?? null;
-  teams.push({ vbl_name: name, team_id: teamId, homepage: link('Homepage'), ticketlink: link('Tickets') });
+  teams.push({
+    vbl_name: name, team_id: teamId, homepage: link('Homepage'), ticketlink: link('Tickets'),
+    // Die Teamansicht enthält nur die Links dieses Teams: Beleg für Homepage und Ticketlink.
+    vbl_team_url: `${VBL}/cms/home/${VBL_PFAD[ligaId]}/mannschaften.xhtml?c.teamId=${teamId}&c.view=teamMain`,
+  });
 }
 if (teams.length === 0) {
   console.error('Keine Teams auf der VBL-Seite gefunden; hat sich der Aufbau geändert?');
@@ -185,6 +192,7 @@ for (const t of teams) {
       }
     }
   }
+  t.gelesen = [...new Set(t.gelesen)];
   t.instagram = [...new Set(t.instagram)];
   t.emails = [...new Set(t.emails)];
 }
@@ -218,6 +226,14 @@ for (const t of teams) {
     await fs.writeFile(path.join(inDir, `${slug}.json`), JSON.stringify(ergebnisAus(t), null, 2) + '\n');
     geschrieben++;
   }
+}
+// Kurzaufträge für die Modell-Stufe: nur was dieser eine Verein braucht (statt CLAUDE.md,
+// Schema, Vorlage und der ganzen Vorlauf-Datei; das waren rund 20.000 Tokens pro Agent).
+const auftragDir = path.join(HERE, 'vorlauf', `${ligaId}-auftrag`);
+await fs.rm(auftragDir, { recursive: true, force: true });
+await fs.mkdir(auftragDir, { recursive: true });
+for (const t of teams.filter((x) => x.braucht_modell && x.verein)) {
+  await fs.writeFile(path.join(auftragDir, `${slugOf(t.verein)}.md`), auftrag(t));
 }
 const unzugeordnet = [...offen];
 if (unzugeordnet.length) console.log(`\n  Nicht auf der VBL-Seite gefunden: ${unzugeordnet.join(', ')}`);
@@ -262,8 +278,8 @@ function auswerten(t, s) {
 function vorschlag(t) {
   if (t.typ !== 'verein') return null;
   if (t.anbieter) return 'anbieter';
-  if (t.funde.eintritt_frei) return 'eintritt_frei';
   if (t.funde.nur_abendkasse) return 'keiner';
+  if (t.funde.eintritt_frei) return 'eintritt_frei';
   if (t.funde.abendkasse && !t.funde.vorverkauf) return 'keiner';
   if (t.funde.von_hand && /karte|ticket/i.test(t.funde.von_hand.stelle)) return 'manuell';
   if (t.gelesen.length) return 'keine_angabe';
@@ -271,13 +287,15 @@ function vorschlag(t) {
 }
 
 function ergebnisAus(t) {
-  const quellen = [...new Set([t.anbieter?.beleg, t.funde.eintritt_frei?.url, t.vbl_kontakt_url].filter(Boolean))];
+  const anbieterBeleg = t.anbieter?.wie === 'VBL-Ticketlink' ? t.vbl_team_url : t.anbieter?.beleg;
+  // Die Startseite trägt meist den Instagram-Link; ohne sie ist der Handle unbelegt.
+  const quellen = [...new Set([anbieterBeleg, t.funde.eintritt_frei?.url, t.instagram.length === 1 ? t.gelesen[0] : null, t.vbl_kontakt_url].filter(Boolean))];
   const kontakt = (t.vbl_kontakte ?? []).find((k) => k.email);
   const preis = t.preise.length === 1 || (t.preise.length && t.preise.every((p) => p.eur === t.preise[0].eur)) ? t.preise[0] : null;
   if (preis) quellen.push(preis.url);
-  const beobachtung = t.vorschlag === 'anbieter'
+  const beobachtung = t.vorschlag === 'anbieter' && t.anbieter
     ? `Verkauft Tickets online über ${t.anbieter.name} (${t.anbieter.wie}: ${t.anbieter.beleg}).`
-    : `Laut Vereinsseite Eintritt frei: „${t.funde.eintritt_frei.stelle}“.`;
+    : t.funde.eintritt_frei ? `Laut Vereinsseite Eintritt frei: „${t.funde.eintritt_frei.stelle}“.` : '';
   return {
     verein: { name: t.verein, ort: t.ort, land: t.land, liga: ligaId, liga_name: liga.name, sport: liga.sport },
     ergebnis: {
@@ -306,6 +324,45 @@ function ergebnisAus(t) {
       kosten_usd: 0,
     },
   };
+}
+
+function auftrag(t) {
+  const vor = ergebnisAus({ ...t, vorschlag: t.vorschlag, anbieter: t.anbieter ?? null, funde: t.funde });
+  vor.ergebnis.vorverkauf = t.vorschlag;
+  vor.ergebnis.beobachtung = 'TODO';
+  vor.ergebnis.quellen = [];
+  vor.ergebnis.sicherheit = 'TODO';
+  vor.meta.modell = 'claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)';
+  vor.meta.schritte = 0;
+  vor.meta.quellen_belegt = [];
+  vor.meta.notiz = 'TODO';
+  const funde = Object.entries(t.funde).map(([k, v]) => `- ${k}: „${v.stelle}“ (${v.url})`).join('\n') || '- keine';
+  return `# Auftrag: ${t.verein} (${liga.name})
+
+Regeln: anleitung/recherche.md. Datei schreiben nach ergebnisse/${ligaId}/${slugOf(t.verein)}.json.
+Höchstens vier WebFetch-Abrufe, keine Websuche nach der Website. Nur mit WebFetch gelesene
+Seiten in ergebnis.quellen und meta.quellen_belegt (gleiche Liste); meta.schritte = deine Abrufe.
+Vorausgefüllte Felder stammen aus dem Vorlauf: behalten, wenn du sie bestätigst, sonst
+korrigieren; „TODO" ersetzen. vorverkauf ist der Vorschlag des Vorlaufs, prüfe ihn.
+
+## Startpunkte
+- Homepage: ${t.homepage ?? 'keine'}
+- Ticketlink (VBL): ${t.ticketlink ?? 'keiner'}
+- Schon gelesen: ${t.gelesen.join(', ') || 'nichts'}${t.nicht_lesbar.length ? `\n- Nicht lesbar: ${t.nicht_lesbar.join(', ')}` : ''}
+- VBL-Kontaktseite: ${t.vbl_kontakt_url}
+- VBL-Kontakte: ${(t.vbl_kontakte ?? []).map((k) => `${k.rolle} ${k.name}${k.email ? ` <${k.email}>` : ''}`).join('; ') || 'keine'}
+- E-Mails auf der Vereinsseite: ${t.emails.join(', ') || 'keine'}
+- Instagram auf der Vereinsseite: ${t.instagram.join(', ') || 'keins'}
+- Preise gefunden: ${t.preise.map((p) => `${p.eur} € („${p.stelle}“)`).join('; ') || 'keine'}
+
+## Funde (Fundstelle, Seite)
+${funde}
+
+## Ergebnis (vorausgefüllt)
+\`\`\`json
+${JSON.stringify(vor, null, 2)}
+\`\`\`
+`;
 }
 
 function links(roh, basis) {

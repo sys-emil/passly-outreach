@@ -8,46 +8,54 @@
     "sport": "Volleyball"
   },
   "ergebnis": {
-    "website": null,
-    "vorverkauf": "unbekannt",
-    "anbieter": null,
+    "website": "http://www.vco.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "ticketleo",
     "eintritt_frei": null,
     "ticketpreis_eur": null,
-    "halle": null,
+    "halle": "Sporthalle Nord-West Otto-Hahn-Straße 9, 77654 Offenburg",
     "kapazitaet": null,
-    "instagram": null,
+    "instagram": "vcoffenburg",
     "ansprechperson": null,
-    "naechstes_heimspiel": "21.11.2026, 19:00 Uhr, VC Offenburg gegen TV Holz",
-    "beobachtung": "Die Mannschaft steht im Spielplan der 2. Bundesliga Süd Frauen als „VC Offenburg“ (u. a. 3:0 gegen Vilsbiburg II und BSP MTV Stuttgart zuhause); nächstes Heimspiel am 21.11.2026 um 19 Uhr gegen TV Holz. Zur Ticketsituation war keine Vereinsseite lesbar.",
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über ticketleo (VBL-Ticketlink: https://reservation.ticketleo.com/user/11272/event-list).",
     "quellen": [
-      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-5150.html",
-      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112.html"
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345658&c.view=teamMain",
+      "https://www.vco.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345658&c.view=contact"
     ],
-    "sicherheit": "niedrig"
+    "sicherheit": "hoch"
   },
   "meta": {
     "recherchiert_am": "2026-11-13",
-    "modell": "claude-opus-5-5 (Claude Code Sitzung)",
-    "schritte": 9,
-    "quellen_belegt": [],
-    "quellen_nur_suchtreffer": [
-      "https://www.betexplorer.com/volleyball/team/offenburg/27hY4FVl/results/",
-      "https://sportschedule.tv/sport_event/bad-soden-vs-offenburg/"
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345658&c.view=teamMain",
+      "https://www.vco.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345658&c.view=contact"
     ],
+    "quellen_nur_suchtreffer": [],
     "quellen_nicht_nachvollziehbar": [],
-    "notiz": "Im Ligaspielplan heißt das Team „VC Offenburg“; der Name „Black Forest Volleys“ tauchte in keinem Suchtreffer auf. Die Domains black-forest-volleys.de und vc-offenburg.de (von mir vermutet, nicht aus einem Suchtreffer) liefern nur einen TLS-Zertifikatsfehler des Hosters all-inkl (kasserver.com), daher keine Vereinsseite gelesen. Vorverkauf, Preis, Halle, Instagram und Kontakt bleiben unbekannt; per Telefon/Instagram-Suche nachholen.",
+    "notiz": "Ohne Modell geklärt. VBL-Name „Black Forest Volleys Offenburg“. Gelesen: https://www.vco.de/.",
     "kosten_usd": 0,
     "quellen_selbst_angegeben": [
-      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-5150.html",
-      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112.html"
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345658&c.view=teamMain",
+      "https://www.vco.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345658&c.view=contact"
     ],
-    "quellen_nicht_pruefbar": [
-      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112~team_id-5150.html",
-      "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-112.html"
-    ],
+    "quellen_nicht_pruefbar": [],
     "pruefung": {
       "am": "2026-11-13",
-      "fakten": {}
+      "fakten": {
+        "anbieter": [
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345658&c.view=teamMain",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345658&c.view=contact"
+        ],
+        "instagram": [
+          "https://www.vco.de/"
+        ]
+      }
     }
   }
 }

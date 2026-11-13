@@ -1,0 +1,748 @@
+{
+  "liga": "vbl-pro",
+  "stand": "2026-11-13",
+  "quelle": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml",
+  "abrufe": 45,
+  "teams": [
+    {
+      "vbl_name": "BayerVolleys Leverkusen",
+      "team_id": "781345255",
+      "homepage": "http://www.bayer-volleyball-bundesliga.de",
+      "ticketlink": "https://events.vereinsticket.de/tsvbayer04/vo-bayervolleys",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345255&c.view=teamMain",
+      "hallen": [
+        "Ostermann-Arena Bismarckstr. 125, 51373 Leverkusen"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345255&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Dieter Becker",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Jürgen Rothe",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "volleyball@tsvbayer04.de"
+      ],
+      "verein": "BayerVolleys Leverkusen",
+      "ort": "Leverkusen",
+      "land": "NRW",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bayer-volleys.de/",
+        "https://www.bayer-volleys.de/tickets/",
+        "https://www.bayer-volleys.de/medien/spieltagsnews/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.bayer-volleys.de/tickets/",
+          "stelle": "NN ARENA ). Einzeltickets erhalten Sie am Spieltag an der Tages- bzw. Abendkasse sowie online bei Vereinsticket ( https://events.vereinsticket.de/tsvb"
+        },
+        "eintritt_frei": {
+          "url": "https://www.bayer-volleys.de/tickets/",
+          "stelle": "der des TSV, Ehrenamtsausweis der Stadt Leverkusen, EVL Comfort-Card. Freier Eintritt: TSV-Mitglieder mit 25 Jahre Bayer-Mitgliedschaft, VBL/WVV-Schiedsric"
+        },
+        "dauerkarte": {
+          "url": "https://www.bayer-volleys.de/tickets/",
+          "stelle": "6): Eintrittspreis: 10,- Euro Ermäßigt: 6,- Euro Tages-VIP: 30,- Euro Saisonkarten 2026/2027: Preis: 100,- Euro Saison-VIP: 300,- Euro Die Saisonkarte"
+        }
+      },
+      "instagram": [
+        "bayervolleysleverkusen",
+        "tsvbayer04leverkusenvolleyball"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://events.vereinsticket.de/tsvbayer04/vo-bayervolleys",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "DSHS SnowTrex Köln",
+      "team_id": "781345162",
+      "homepage": "http://www.dshs-snowtrex-koeln.de",
+      "ticketlink": "http://www.dshs-snowtrex-koeln.de/heimspiele_anreise/tickets/",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345162&c.view=teamMain",
+      "hallen": [
+        "Deutsche Sporthochschule Köln, Halle 22 Am Sportpark Müngersdorf 6, 50933 Köln"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345162&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Thomas Bartel",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Thomas Bartel",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Jimmy Dr. Czimek",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Rio Grumbrecht",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Annika Stenchly",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Knud Zabrocki",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "kontakt@dshs-snowtrex-koeln.de",
+        "t.bartel@dshs-snowtrex-koeln.de"
+      ],
+      "verein": "DSHS SnowTrex Köln",
+      "ort": "Köln",
+      "land": "NRW",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.dshs-snowtrex-koeln.de/",
+        "https://www.dshs-snowtrex-koeln.de/tickets-kaufen/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "tickets@dshs-snowtrex-koeln.de"
+      ],
+      "preise": [
+        {
+          "eur": 8,
+          "url": "https://www.dshs-snowtrex-koeln.de/tickets-kaufen/",
+          "stelle": "eintrittspreise: erwachsene: 8 €"
+        }
+      ],
+      "anbieter": {
+        "name": "ticket.io",
+        "beleg": "https://www.dshs-snowtrex-koeln.de/tickets-kaufen/",
+        "wie": "eingebunden auf https://www.dshs-snowtrex-koeln.de/tickets-kaufen/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "ESA Grimma Volleys",
+      "team_id": "781345359",
+      "homepage": "http://www.vv-grimma.de",
+      "ticketlink": "https://www.vv-grimma.de/v4/?site=tickets&gender=damen&tid=1",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345359&c.view=teamMain",
+      "hallen": [
+        "Muldentalhalle Südstraße 80, 04668 Grimma"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345359&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Christian Beutler",
+          "email": "beutler@esa-grimma-volleys.de"
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Jens Beulich",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Christian Beutler",
+          "email": "beutler@esa-grimma-volleys.de"
+        }
+      ],
+      "vbl_emails": [
+        "beutler@esa-grimma-volleys.de"
+      ],
+      "verein": "ESA Grimma Volleys",
+      "ort": "Grimma",
+      "land": "SN",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vv-grimma.de/v4/",
+        "https://www.vv-grimma.de/v4/?site=tickets&gender=damen&tid=1",
+        "https://www.vv-grimma.de/v4/?site=ticketing&gender=&tid=361",
+        "https://www.vv-grimma.de/v4/?site=tickets&gender=&tid=361"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.vv-grimma.de/v4/?site=ticketing&gender=&tid=361",
+          "stelle": ". Partner VBL Eintrittspreise Tageskarten Vollzahler: 12,00 € 10,00 € Abendkasse VVK bis 48h vor Spielbeginn online Ermäßigt: 10,00 € 9,00 € Abendkass"
+        },
+        "von_hand": {
+          "url": "https://www.vv-grimma.de/v4/?site=ticketing&gender=&tid=361",
+          "stelle": "VK bis 48h vor Spielbeginn online Mitglieder: 4,00 € Abendkasse Jahreskarten Vollzahler: 120,00 € Ermäßigt: 108,00 € bitte per eMail bestellen und an der Abendkasse abholen (nur Barzahlung) Vereinsmitgl"
+        },
+        "bar": {
+          "url": "https://www.vv-grimma.de/v4/?site=ticketing&gender=&tid=361",
+          "stelle": "gt: 108,00 € bitte per eMail bestellen und an der Abendkasse abholen (nur Barzahlung) Vereinsmitglieder: 40,00 € Kinder bis 12 Jahre haben freien E"
+        }
+      },
+      "instagram": [
+        "esagrimmavolleys"
+      ],
+      "emails": [
+        "info@vv-grimma.de"
+      ],
+      "preise": [
+        {
+          "eur": 12,
+          "url": "https://www.vv-grimma.de/v4/?site=ticketing&gender=&tid=361",
+          "stelle": "tageskarten vollzahler: 12,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "leoticket",
+        "beleg": "https://www.vv-grimma.de/v4/?site=tickets&gender=damen&tid=1",
+        "wie": "eingebunden auf https://www.vv-grimma.de/v4/?site=tickets&gender=damen&tid=1"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "Eintracht Spontent Düsseldorf",
+      "team_id": "781345303",
+      "homepage": "https://eintracht-spontent.de/",
+      "ticketlink": null,
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345303&c.view=teamMain",
+      "hallen": [
+        "Sporthalle Luisengymnasium Völklinger Straße 122, 40221 Düsseldorf"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345303&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Till Vollhardt",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "eintracht@spontent.lol"
+      ],
+      "verein": "Eintracht Spontent Düsseldorf",
+      "ort": "Düsseldorf",
+      "land": "NRW",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://eintracht-spontent.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "eintrachtspontent"
+      ],
+      "emails": [
+        "eintracht@spontent.lol"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "vbl_name": "NawaRo Straubing",
+      "team_id": "781345272",
+      "homepage": "https://www.nawaro-straubing.de/",
+      "ticketlink": "https://nawaro-volleyball-fb0c.vivenushop.com/",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345272&c.view=teamMain",
+      "hallen": [
+        "turmair Volleyballarena Am Peterswöhrd 5, 94315 Straubing"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345272&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Bart Van der Mark",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Jürgen Eichbauer",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "bartjan.mark@nawaro-straubing.de",
+        "post@nawaro-straubing.de"
+      ],
+      "verein": "NawaRo Straubing",
+      "ort": "Straubing",
+      "land": "BY",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.nawaro-straubing.de/",
+        "https://nawaro-volleyball-fb0c.vivenushop.com/",
+        "https://www.nawaro-straubing.de/ticketshop/",
+        "https://www.nawaro-straubing.de/jobs/"
+      ],
+      "nicht_lesbar": [
+        "https://www.nawaro-straubing.de/?page_id=6665 (HTTP 404)"
+      ],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://nawaro-volleyball-fb0c.vivenushop.com/",
+          "stelle": "bing | vivenu Kopfzeile überspringen Nawaro Straubing Saisontickets | Dauerkarten Spieltagtickets Saisontickets | Dauerkarten Spieltagtickets Nawaro S"
+        }
+      },
+      "instagram": [
+        "nawaro_straubing"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "vivenu",
+        "beleg": "https://www.nawaro-straubing.de/",
+        "wie": "eingebunden auf https://www.nawaro-straubing.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "Neuseenland-Volleys Markkleeberg",
+      "team_id": "781345470",
+      "homepage": "https://neuseenland-volleys.de/",
+      "ticketlink": "https://events.vereinsticket.de/tsg1903",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345470&c.view=teamMain",
+      "hallen": [
+        "Neuseenlandhalle Städtelner Straße 15, 04416 Markkleeberg"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345470&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Sandra Peter",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Rainer Leipnitz",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "sandra.peter@neuseenland-volleys.de"
+      ],
+      "verein": "Neuseenland-Volleys Markkleeberg",
+      "ort": "Markkleeberg",
+      "land": "SN",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://neuseenland-volleys.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://events.vereinsticket.de/tsg1903",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "SCU Emlichheim",
+      "team_id": "781344876",
+      "homepage": "http://www.scuvolleyball.de",
+      "ticketlink": "http://www.scuvolleyball.de/index.php?article_id=12",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781344876&c.view=teamMain",
+      "hallen": [
+        "Vechtetalhalle Deichweg, 49824 Emlichheim"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781344876&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Silke Reurink",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Hinnerk Schröer",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "news@scuemlichheim.de"
+      ],
+      "verein": "SC Union Emlichheim",
+      "ort": "Emlichheim",
+      "land": "NI",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://scuvolleyball.de/"
+      ],
+      "nicht_lesbar": [
+        "http://www.scuvolleyball.de/index.php?article_id=12 (HTTP 403)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "news@scuvolleyball.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://scuvolleyball.de/",
+        "wie": "eingebunden auf https://scuvolleyball.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "SV Lohhof",
+      "team_id": "781345807",
+      "homepage": "http://www.lohhof-volleyball.de",
+      "ticketlink": null,
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345807&c.view=teamMain",
+      "hallen": [
+        "Sporthalle der FOS/BOS Unterschleißheim Südliche Ingolstädter Str. 1, 85716 Unterschleißheim"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345807&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Martina Banse",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Martina Banse",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "info@lohhof-volleyball.de"
+      ],
+      "verein": "SV Lohhof",
+      "ort": "Unterschleißheim",
+      "land": "BY",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://lohhof-volleyball.de/",
+        "https://lohhof-volleyball.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "nur_abendkasse": {
+          "url": "https://lohhof-volleyball.de/tickets/",
+          "stelle": "INTRITTSPREISE – SV LOHHOF E.V. VOLLEYBALL – 2. LIGA PRO Tickets sind ausschließlich an der Abendkasse erhältlich. Bei unseren Heimspielen in der 2. Liga Pro gilt freie Pla"
+        },
+        "abendkasse": {
+          "url": "https://lohhof-volleyball.de/tickets/",
+          "stelle": "HHOF E.V. VOLLEYBALL – 2. LIGA PRO Tickets sind ausschließlich an der Abendkasse erhältlich. Bei unseren Heimspielen in der 2. Liga Pro gilt freie Pla"
+        },
+        "dauerkarte": {
+          "url": "https://lohhof-volleyball.de/tickets/",
+          "stelle": "ein kostenpflichtiges Abonnement erforderlich. KATEGORIE EINZELPREIS SAISONKARTE Erwachsene 9,00 € 100,00 € Ermäßigt* 6,00 € 65,00 € Kinder bis 12 Jah"
+        }
+      },
+      "instagram": [
+        "lohhofvolleyball"
+      ],
+      "emails": [
+        "verwaltung@svlohhof.de"
+      ],
+      "preise": [
+        {
+          "eur": 9,
+          "url": "https://lohhof-volleyball.de/tickets/",
+          "stelle": "erwachsene 9,00 €"
+        },
+        {
+          "eur": 25,
+          "url": "https://lohhof-volleyball.de/tickets/",
+          "stelle": "eintritt familienkarte** 25,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "vbl_name": "Sparkassen Wildcats Stralsund",
+      "team_id": "781345315",
+      "homepage": "http://www.stralsunder-wildcats.de",
+      "ticketlink": "http://www.stralsunder-wildcats.de/heimspiel/tickets.html",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345315&c.view=teamMain",
+      "hallen": [
+        "Diesterweg-Sporthalle Rudolf-Virchow-Str. 23, 18435 Stralsund"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345315&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Tino Härle",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Tino Härle",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Steffen Täubrich",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "info@vc-stralsund.de"
+      ],
+      "verein": "Sparkassen Wildcats Stralsund",
+      "ort": "Stralsund",
+      "land": "MV",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vc-stralsund.de/wildcats/start",
+        "https://www.vc-stralsund.de/wildcats/tickets/",
+        "https://www.vc-stralsund.de/wildcats/spieltagshefte/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "sparkassen.wildcats.stralsund"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "vbl_name": "TV Planegg-Krailling",
+      "team_id": "781345224",
+      "homepage": "http://2liga.volleyball-planegg.de",
+      "ticketlink": "https://geilsterclubderwelt.leoticket.de/fs/1d2c352d-f67c-4b16-ae9b-c3cee1d1f3a6",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345224&c.view=teamMain",
+      "hallen": [
+        "Feodor-Lynen-Gymnasium Feodor-Lynen-Str. 1, 82152 Planegg"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345224&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Stephanie Dr. Mehnert",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Lena Eisinger",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Janina Kroll",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Anne Miller",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Pauline Pfaudler",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Julia Sattler",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Ann-Kathrin Stichlmair",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "info@tv-planegg-krailling.de"
+      ],
+      "verein": "TV Planegg-Krailling",
+      "ort": "Planegg",
+      "land": "BY",
+      "pilot": true,
+      "typ": "pilot",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "TV Waldgirmes",
+      "team_id": "781345125",
+      "homepage": "http://tv-waldgirmes.de/category/bundesliga/",
+      "ticketlink": "http://tv-waldgirmes.de/tickets/",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345125&c.view=teamMain",
+      "hallen": [
+        "Sporthalle der Lahntalschule Atzbach Sudetenstraße 9, 35633 Lahnau"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345125&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Martin Kukral",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "tv-05-waldgirmes@gmx.de"
+      ],
+      "verein": "TV Waldgirmes",
+      "ort": "Lahnau",
+      "land": "HE",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://tv-waldgirmes.de/category/bundesliga/",
+        "https://tv-waldgirmes.de/vbherren1/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "vbl_name": "VCO Dresden",
+      "team_id": "781345486",
+      "homepage": "http://www.vc-olympia-dresden.de",
+      "ticketlink": null,
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345486&c.view=teamMain",
+      "hallen": [
+        "Schulsporthalle des Sportschulzentrum Messering 2a, 01067 Dresden"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345486&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Christiane privat - ausgeblendet E-Mail: maik.vogt@vc-olympia-dresden.de PR-Verantwortlicher Fürst",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Sophie Kokott",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Beate Petter",
+          "email": "beapet6@web.de"
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Jens Rosemann",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "info@vc-olympia-dresden.de",
+        "maik.vogt@vc-olympia-dresden.de",
+        "beapet6@web.de"
+      ],
+      "verein": "VCO Dresden",
+      "ort": "Dresden",
+      "land": "SN",
+      "pilot": false,
+      "typ": "nachwuchs",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "VfL Oythe",
+      "team_id": "781345201",
+      "homepage": "http://vfl-oythe.de",
+      "ticketlink": null,
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345201&c.view=teamMain",
+      "hallen": [
+        "SH Gymnasium Antonianum Vechta Willohstraße 19, 49377 Vechta",
+        "Kontakt Jobs Zoi DVV-Pokal Volleyball Supercup VBL-Ticker VBL-Wiki VBL-SAMS Impressum Datenschutz © 2026 volleyball-bundesliga.de"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_pro/mannschaften.xhtml?c.teamId=781345201&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Jurina Wehry",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Andreas Middelkamp",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Michael Surmann",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "info@vfl-oythe.de"
+      ],
+      "verein": "VfL Oythe",
+      "ort": "Vechta",
+      "land": "NI",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vfl-oythe.com/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "vfl.oythe"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    }
+  ]
+}
