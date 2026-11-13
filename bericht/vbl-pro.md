@@ -57,6 +57,18 @@ Hi, Glückwunsch zum Aufstieg in die 2. Liga Pro! Ich hab gesehen, dass es eure 
 - ⚠ Nicht nachvollziehbare Quellen: https://www.volleyball-bundesliga.de/popup/matchSeries/teamDetails.xhtml?teamId=781345201&hideHistoryBackButton=true
 - ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): vorverkauf
 
+**Instagram-DM**
+
+Hi, auf eurer Seite der 1. Frauen stehen die Eintrittspreise, 8 Euro und 5 Euro ermäßigt, aber kein Weg, vor dem Spiel eine Karte zu bekommen. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link für Website und Instagram, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten für ein Telefonat?
+
+**Telefonleitfaden**
+
+- Wen: Volleyballabteilung des VfL Oythe, nach der Person fragen, die die Heimspiele organisiert. Kontakt vorher auf der Vereinsseite oder der VBL-Kontaktseite nachsehen.
+- Einstieg: Preise stehen online (8 Euro, ermäßigt 5 Euro, Kinder bis 12 frei), ein Vorverkauf nicht. Nächstes Heimspiel am 21.11. gegen Stralsund im Antonianum.
+- Frage: Wie verkauft ihr am Spieltag, und wisst ihr vorher, wie viele kommen?
+- Angebot: Ich richte das Heimspiel kostenlos als Testlauf ein, Kasse am Spieltag läuft im selben System, Auszahlung aufs Vereinskonto.
+- Abschluss: Zehn Minuten Demo per Video anbieten, Link zu getpassly.de/sportvereine hinterherschicken.
+
 ## TV Waldgirmes · 48 Punkte
 
 **Beobachtung:** Die Ticketseite nennt nur Preise (Erwachsene 10 €, Studenten 8 €, Jugend 5 €, Kinder/Mitglieder frei) und keinen Verkaufsweg: kein Shop, kein Link, kein Reservierungshinweis. Der Gesamtspielplan hängt als Bild auf der Seite. Damen 1 und Herren 1 (3. Liga) spielen beide in der Lahntalschule.

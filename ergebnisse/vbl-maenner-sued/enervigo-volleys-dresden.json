@@ -1,0 +1,63 @@
+{
+  "verein": {
+    "name": "Enervigo Volleys Dresden",
+    "ort": "Dresden",
+    "land": "SN",
+    "liga": "vbl-maenner-sued",
+    "liga_name": "2. Bundesliga Männer Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "http://www.vc-dresden.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Volleydome Bürgerwiese Parkstr. 4 (Zufahrt über Gret-Palucca-Str. 8), 01069 Dresden",
+    "kapazitaet": null,
+    "instagram": "volleyballclubdresden",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim Light (VBL-Ticketlink: https://www.eventim-light.com/de/a/62dfc2fbf520394ff5b2074a/).",
+    "quellen": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344596&c.view=teamMain",
+      "https://vc-dresden.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344596&c.view=contact"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344596&c.view=teamMain",
+      "https://vc-dresden.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344596&c.view=contact"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. VBL-Name „VC Dresden“. Gelesen: https://vc-dresden.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344596&c.view=teamMain",
+      "https://vc-dresden.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344596&c.view=contact"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344596&c.view=teamMain",
+          "https://vc-dresden.de/",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344596&c.view=contact"
+        ],
+        "instagram": [
+          "https://vc-dresden.de/",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344596&c.view=contact"
+        ]
+      }
+    }
+  }
+}

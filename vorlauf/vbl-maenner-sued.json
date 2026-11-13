@@ -1,0 +1,830 @@
+{
+  "liga": "vbl-maenner-sued",
+  "stand": "2026-11-13",
+  "quelle": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml",
+  "abrufe": 51,
+  "teams": [
+    {
+      "vbl_name": "ASV Dachau",
+      "team_id": "781343434",
+      "homepage": "https://www.asv-volleys.de/",
+      "ticketlink": "https://www.asv-volleys.de/tickets",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781343434&c.view=teamMain",
+      "hallen": [
+        "Georg-Scherer-Halle Gröbenrieder Str. 21, 85221 Dachau"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781343434&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Sven Lehmann",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Bruno Haelke",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Denis Werner",
+          "email": null
+        }
+      ],
+      "vbl_emails": [],
+      "typ": "verein",
+      "gelesen": [
+        "https://www.asv-volleys.de/",
+        "https://www.asv-volleys.de/tickets",
+        "https://www.asv-volleys.de/heimspiel",
+        "https://www.asv-volleys.de/spieltag/friedrichshafen",
+        "https://www.asv-volleys.de/spieltag/botnang"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.asv-volleys.de/",
+          "stelle": "g Gegnercheck Sa Gegnercheck So Herbst-Aktion Alle Heimspiele mit der Dauerkarte, ab 49 € Letztes Spiel Leider verloren Sonntag, 8. November, DVV-Poka"
+        },
+        "abendkasse": {
+          "url": "https://www.asv-volleys.de/tickets",
+          "stelle": "ieder; Details im Ticketshop. Tickets sichern GUT ZU WISSEN Einlass & Abendkasse Eine Stunde vor Spielbeginn. Mit dem Online-Ticket geht es ohne Anste"
+        },
+        "vorverkauf": {
+          "url": "https://www.asv-volleys.de/tickets",
+          "stelle": "t Behinderung), Kinder unter 6 frei. Bei der Online-Bestellung können Vorverkaufs- und Versandgebühren hinzukommen. Wer ein ermäßigtes Ticket hat, zei"
+        },
+        "bar": {
+          "url": "https://www.asv-volleys.de/tickets",
+          "stelle": "PayPal, Kreditkarte oder Vorkasse per Überweisung. An der Abendkasse nur Barzahlung. Wie bekomme ich mein Ticket? Per E-Mail als Print@Home-Ticket"
+        },
+        "nur_abendkasse": {
+          "url": "https://www.asv-volleys.de/heimspiel",
+          "stelle": "Mit dem Online-Ticket geht es ohne Anstehen in die Halle. Abendkasse Nur Barzahlung Die Abendkasse öffnet mit dem Einlass. Dort kannst du nur bar bezahlen. Wer lieber m"
+        },
+        "von_hand": {
+          "url": "https://www.asv-volleys.de/heimspiel",
+          "stelle": "ausweis zeigen. Die Begleitperson hat freien Eintritt. Parken Nur mit Reservierung Parkplätze für Menschen mit Behinderung gibt es nach vorheriger Re"
+        }
+      },
+      "instagram": [
+        "asv_volleys"
+      ],
+      "emails": [
+        "support@leoticket.de"
+      ],
+      "preise": [
+        {
+          "eur": 7,
+          "url": "https://www.asv-volleys.de/tickets",
+          "stelle": "tageskarte ermäßigt 7 €"
+        },
+        {
+          "eur": 10,
+          "url": "https://www.asv-volleys.de/tickets",
+          "stelle": "tickets? standard 10 €"
+        },
+        {
+          "eur": 7,
+          "url": "https://www.asv-volleys.de/heimspiel",
+          "stelle": "tageskarte ermäßigt 7 €"
+        },
+        {
+          "eur": 10,
+          "url": "https://www.asv-volleys.de/heimspiel",
+          "stelle": "eintritt standard tageskarte 10 €"
+        },
+        {
+          "eur": 7,
+          "url": "https://www.asv-volleys.de/heimspiel",
+          "stelle": "eintritt ermäßigt für 7 €"
+        }
+      ],
+      "anbieter": {
+        "name": "leoticket",
+        "beleg": "https://www.asv-volleys.de/",
+        "wie": "eingebunden auf https://www.asv-volleys.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "Baden Volleys SSC Karlsruhe II",
+      "team_id": "781344508",
+      "homepage": "https://volleyball-karlsruhe.de/",
+      "ticketlink": "https://volleyball-karlsruhe.de/tickets/",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344508&c.view=teamMain",
+      "hallen": [
+        "Sporthalle Oberreut Joachim-Kurzaj-Weg 4, 76189 Karlsruhe",
+        "Lina-Radke-Halle (2BLM) Steinhäuserstr. 29, 76135 Karlsruhe"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344508&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Frank Leonhard",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Jasmina Frauendorf",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "badenvolleys@ssc-karlsruhe.de",
+        "Frauendorf.badenvolleys@ssc-karlsruhe.de"
+      ],
+      "verein": "BADEN VOLLEYS SSC Karlsruhe II",
+      "ort": "Karlsruhe",
+      "land": "BW",
+      "pilot": false,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "Blue Volleys Gotha",
+      "team_id": "781344413",
+      "homepage": "https://www.bluevolleys.de",
+      "ticketlink": "https://events.vereinsticket.de/vc-gotha",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344413&c.view=teamMain",
+      "hallen": [
+        "Ernestiner Sporthalle Am Tivoli 6, 99867 Gotha",
+        "Goldberghalle Ludwig-Jahn-Str. 1a, 99885 Ohrdruf"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344413&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Gabi Fischer",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Wolfgang Mengs",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "info@vc-gotha.de"
+      ],
+      "verein": "Blue Volleys Gotha",
+      "ort": "Gotha",
+      "land": "TH",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bluevolleys.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@vc-gotha.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://events.vereinsticket.de/vc-gotha",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "CERATONIA Volleys Eltmann",
+      "team_id": "781344633",
+      "homepage": "http://www.vc-eltmann.de",
+      "ticketlink": "https://vceltmann.vereinsticket.de/vo-volleyballbundesliga/",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344633&c.view=teamMain",
+      "hallen": [
+        "Georg-Schäfer-Sporthalle Oskar-Serrand-Straße 29, 97483 Eltmann"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344633&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Rudolf Werner",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Maximilian Kolbe",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "rudolf.werner@vc-eltmann.de"
+      ],
+      "verein": "CERATONIA Volleys Eltmann",
+      "ort": "Eltmann",
+      "land": "BY",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vc-eltmann.de/",
+        "https://www.vc-eltmann.de/jugendspieltage-uebersicht/",
+        "https://www.vc-eltmann.de/endlich-wieder-heimspiel/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.vc-eltmann.de/",
+          "stelle": "an Tabelle Spieler Trainer Medizin Management Ticketshop Tagestickets Dauerkarten Teams Herren 2 – Bayernliga Herren 3 – Bezirksklasse Herren 4 – Krei"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://vceltmann.vereinsticket.de/vo-volleyballbundesliga/",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "Donau Volleys Regensburg",
+      "team_id": "781346142",
+      "homepage": "https://volleyball-regensburg.de/",
+      "ticketlink": "https://donauvolleys.vivenushop.com/",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781346142&c.view=teamMain",
+      "hallen": [
+        "Clermont-Ferrrand-Turnhalle Clermont-Ferrrand-Allee 21, 93049 Regensburg"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781346142&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Silke Stopper",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Amelie Maier",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "vorstand@volleyball-regensburg.de"
+      ],
+      "verein": "Donau Volleys Regensburg",
+      "ort": "Regensburg",
+      "land": "BY",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://volleyball-regensburg.de/",
+        "https://donauvolleys.vivenushop.com/",
+        "https://volleyball-regensburg.de/event/heimspiel-donau-volleys-karlsruhe-ii/",
+        "https://donauvolleys.vivenushop.com/section/neue-shop-section-viu6"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://donauvolleys.vivenushop.com/",
+          "stelle": "pringen SG Donau Volleys Regensburg e.V. Heimspiele 2. Bundesliga Süd Saisonkarte 2026/27 Bayernliga - Damen & Herren Heimspiele 2. Bundesliga Süd Sais"
+        },
+        "abendkasse": {
+          "url": "https://volleyball-regensburg.de/event/heimspiel-donau-volleys-karlsruhe-ii/",
+          "stelle": "Regensburg &#x1f39f; Tickets Tickets können bequem online oder an der Abendkasse erworben werden. Sichert euch euren Platz und unterstützt die Donau V"
+        }
+      },
+      "instagram": [
+        "donauvolleys"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "vivenu",
+        "beleg": "https://donauvolleys.vivenushop.com/",
+        "wie": "eingebunden auf https://donauvolleys.vivenushop.com/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "Keiler Volleys Stuttgart",
+      "team_id": "781346139",
+      "homepage": "https://asv-botnang.de/",
+      "ticketlink": null,
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781346139&c.view=teamMain",
+      "hallen": [
+        "Sporthalle Botnang Kauffmannstraße 39, 70195 Stuttgart"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781346139&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Samira Baâroun",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Marc Mundt",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "info@asv-botnang.de"
+      ],
+      "verein": "Keiler Volleys Stuttgart",
+      "ort": "Stuttgart",
+      "land": "BW",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://asv-botnang.de/",
+        "https://asv-botnang.de/offnungszeiten/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "vbl_name": "L.E. Volleys",
+      "team_id": "781344580",
+      "homepage": "https://le-volleys.de/",
+      "ticketlink": null,
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344580&c.view=teamMain",
+      "hallen": [
+        "Sporthalle Brüderstraße Brüderstraße 15, 04103 Leipzig"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344580&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Axel Roscher",
+          "email": "teammanager@le-volleys.de"
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Laura-Luise Drescher",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "teammanager@le-volleys.de"
+      ],
+      "verein": "L.E. Volleys",
+      "ort": "Leipzig",
+      "land": "SN",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://le-volleys.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "levolleys"
+      ],
+      "emails": [
+        "info@le-volleys.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "vbl_name": "SV Schwaig",
+      "team_id": "781344482",
+      "homepage": "http://www.sv-schwaig-volleyball.de",
+      "ticketlink": "http://www.sv-schwaig-volleyball.de/index.php/2-liga/eintritt-fancard.html",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344482&c.view=teamMain",
+      "hallen": [
+        "Hans-Simon-Halle Mittelbügweg 11, 90571 Schwaig"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344482&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Felix Reschke",
+          "email": "reschkefelix@live.de"
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Hans-Peter Ehrbar",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "volleyball@sv-schwaig.de",
+        "reschkefelix@live.de"
+      ],
+      "verein": "SV Schwaig",
+      "ort": "Schwaig bei Nürnberg",
+      "land": "BY",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://sv-schwaig-volleyball.de/",
+        "https://sv-schwaig-volleyball.de/tickets/",
+        "https://sv-schwaig-volleyball.de/tickets/regulaer/",
+        "https://sv-schwaig-volleyball.de/tickets/vip/"
+      ],
+      "nicht_lesbar": [
+        "http://www.sv-schwaig-volleyball.de/index.php/2-liga/eintritt-fancard.html (HTTP 404)"
+      ],
+      "funde": {
+        "nur_abendkasse": {
+          "url": "https://sv-schwaig-volleyball.de/tickets/regulaer/",
+          "stelle": "euen uns über eine Spende! Mit Ausnahme der FanCard sind alle Tickets nur an der Abendkasse erhältlich. Bitte beachtet unsere Hallenordnung ! 2. Bundesliga Männe"
+        },
+        "abendkasse": {
+          "url": "https://sv-schwaig-volleyball.de/tickets/regulaer/",
+          "stelle": "er eine Spende! Mit Ausnahme der FanCard sind alle Tickets nur an der Abendkasse erhältlich. Bitte beachtet unsere Hallenordnung ! 2. Bundesliga Männe"
+        },
+        "vorverkauf": {
+          "url": "https://sv-schwaig-volleyball.de/tickets/regulaer/",
+          "stelle": "iele) 34,00€ 23,00€ FanCard (Saisonticket) 3 97,00€ 64,00€ FanCard im Vorverkauf (bis 6. Sept. 2026) 89,00€ 59,00€ 3. Liga Männer Normalpreis Ermäßigt"
+        },
+        "von_hand": {
+          "url": "https://sv-schwaig-volleyball.de/tickets/vip/",
+          "stelle": "Spitzenvolleyball der 2. Bundesliga in ganz besonderer Atmosphäre: ✨ Reservierter Tisch mit Namensschild – direkt am Spielfeldrand 🍽️ Persönliche B"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "kontakt@sv-schwaig-volleyball.de"
+      ],
+      "preise": [
+        {
+          "eur": 6,
+          "url": "https://sv-schwaig-volleyball.de/tickets/regulaer/",
+          "stelle": "normalpreis ermäßigt einzelticket 6,00€"
+        },
+        {
+          "eur": 4,
+          "url": "https://sv-schwaig-volleyball.de/tickets/regulaer/",
+          "stelle": "normalpreis ermäßigt einzelticket 4,00€"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "vbl_name": "TSV Grafing",
+      "team_id": "781344562",
+      "homepage": "https://www.fightingbayrisch.org/",
+      "ticketlink": "https://www.fightingbayrisch.org/tickets",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344562&c.view=teamMain",
+      "hallen": [
+        "Jahnsporthalle Grafing Kapellenstraße 17, 85567 Grafing"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344562&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Marcus Bohle",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "tsv-grafing@online.de",
+        "mail@fightingbayrisch.org"
+      ],
+      "verein": "TSV Grafing",
+      "ort": "Grafing",
+      "land": "BY",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fightingbayrisch.org/",
+        "https://www.fightingbayrisch.org/tickets",
+        "https://www.fightingbayrisch.org/fanshop",
+        "https://www.fightingbayrisch.org/event-details/heimspiel-vs-keiler-volleys-stuttgart",
+        "https://www.fightingbayrisch.org/event-details/heimspiel-vs-tus-kriftel",
+        "https://www.fightingbayrisch.org/event-details/heimspiel-vs-tv-1895-momlingen"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.fightingbayrisch.org/",
+          "stelle": "kumente Förderverein Philosophie & Geschichte Saisonhefte Shop&#x27;s Saisonkarten & Merch Teamwear Grafing FINN - Das Grafinger Fanauto Partner More U"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "mail@fightingbayrisch.org"
+      ],
+      "preise": [
+        {
+          "eur": 8,
+          "url": "https://www.fightingbayrisch.org/event-details/heimspiel-vs-keiler-volleys-stuttgart",
+          "stelle": "tickets tickettyp erwachsene preis 8,00 €"
+        },
+        {
+          "eur": 8,
+          "url": "https://www.fightingbayrisch.org/event-details/heimspiel-vs-tus-kriftel",
+          "stelle": "tickets tickettyp erwachsene preis 8,00 €"
+        },
+        {
+          "eur": 8,
+          "url": "https://www.fightingbayrisch.org/event-details/heimspiel-vs-tv-1895-momlingen",
+          "stelle": "tickets tickettyp erwachsene preis 8,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "vbl_name": "TSV Mühldorf",
+      "team_id": "781344436",
+      "homepage": "https://www.tsv-muehldorf.de/volleyball-bundesliga/",
+      "ticketlink": null,
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344436&c.view=teamMain",
+      "hallen": [
+        "NUTZ-Arena an der Mittelschule Europastr. 3, 84453 Mühldorf"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344436&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Thomas Gailer",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Fabian Bartsch",
+          "email": "fabian.bartsch@volleyball-muehldorf.de"
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Marvin Domalewski",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Josef Enzinger",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Josef Enzinger",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "David Geisberger",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "buero@tsv-muehldorf.de",
+        "fabian.bartsch@volleyball-muehldorf.de"
+      ],
+      "verein": "TSV Mühldorf",
+      "ort": "Mühldorf am Inn",
+      "land": "BY",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsv-muehldorf.de/volleyball-bundesliga/",
+        "https://www.tsv-muehldorf.de/volleyball-bundesliga/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.tsv-muehldorf.de/volleyball-bundesliga/tickets/",
+          "stelle": "stagram Twitch Tiktok Tickets Tickets sind bei jedem Heimspiel an der Abendkasse erhältlich. NUTZ-Ar ena an der Mittelschule Europastr. 3 84453 Mühldo"
+        },
+        "von_hand": {
+          "url": "https://www.tsv-muehldorf.de/volleyball-bundesliga/tickets/",
+          "stelle": "ilungsmitglieder unter 21 Jahren: kostenlos Dauerkarte: 69 Euro (Dauerkarten können per Email bestellt werden über anmeldung@volleyball-muehldorf.de und dann an de"
+        },
+        "dauerkarte": {
+          "url": "https://www.tsv-muehldorf.de/volleyball-bundesliga/tickets/",
+          "stelle": "12 Jahren: kostenlos Abteilungsmitglieder unter 21 Jahren: kostenlos Dauerkarte: 69 Euro (Dauerkarten können per Email bestellt werden über anmeldung"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "anmeldung@volleyball-muehldorf.de"
+      ],
+      "preise": [
+        {
+          "eur": 8,
+          "url": "https://www.tsv-muehldorf.de/volleyball-bundesliga/tickets/",
+          "stelle": "tageskarte: 8 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "vbl_name": "TV 1895 Mömlingen",
+      "team_id": "781346126",
+      "homepage": "https://www.tv-moemlingen.de",
+      "ticketlink": null,
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781346126&c.view=teamMain",
+      "hallen": [
+        "Ludwig-Ritter-Halle Königsberger Str. 2, 63853 Mömlingen"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781346126&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Klaus-Peter Wolf",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Björn Schönfeldt",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "info@tv-moemlingen.de"
+      ],
+      "verein": "TV 1895 Mömlingen",
+      "ort": "Mömlingen",
+      "land": "BY",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://xn--tv-mmlingen-ufb.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@tv-moemlingen.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "vbl_name": "TuS Kriftel",
+      "team_id": "781344528",
+      "homepage": "http://www.kriftel-volley.de",
+      "ticketlink": "https://tickettune.com/kriftelvolley",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344528&c.view=teamMain",
+      "hallen": [
+        "Sporthalle Weingartenschule Rossertstraße, 65830 Kriftel/Ts."
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344528&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Danny Schleuning",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Johannes Thiel",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "geschaeftsstelle@tus-kriftel.de",
+        "danny.schleuning@gmail.com"
+      ],
+      "verein": "TuS Kriftel",
+      "ort": "Kriftel",
+      "land": "HE",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://kriftel-volley.de/",
+        "https://kriftelvolley.tickettune.com/kriftelvolley/veranstaltungen/",
+        "https://kriftel-volley.de/events/",
+        "https://kriftel-volley.de/krifteler-u18-doppelpack-erster-platz-und-hm-ticket-fuer-die-zweite/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://kriftelvolley.tickettune.com/kriftelvolley/veranstaltungen/",
+          "stelle": "se gefunden! Ausverkauft wenige Tickets 10.09.2026 &ndash; 20.03.2027 Saisonkarte 26/27 ab 60,00 € * Ausverkauft wenige Tickets Sa 21.11.2026 20:00 Uhr"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@tus-kriftel-volleyball.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "vbl_name": "VC Dresden",
+      "team_id": "781344596",
+      "homepage": "http://www.vc-dresden.de",
+      "ticketlink": "https://www.eventim-light.com/de/a/62dfc2fbf520394ff5b2074a/",
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344596&c.view=teamMain",
+      "hallen": [
+        "Volleydome Bürgerwiese Parkstr. 4 (Zufahrt über Gret-Palucca-Str. 8), 01069 Dresden"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344596&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Sven Dörendahl",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Sven Dörendahl",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Gunnar Klehm",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Anett Riemer",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "geschaeftsstelle@vc-dresden.de"
+      ],
+      "verein": "Enervigo Volleys Dresden",
+      "ort": "Dresden",
+      "land": "SN",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://vc-dresden.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "volleyballclubdresden"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://www.eventim-light.com/de/a/62dfc2fbf520394ff5b2074a/",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "vbl_name": "Volley YoungStars Friedrichshafen",
+      "team_id": "781344655",
+      "homepage": "https://www.youngstars-fn.de",
+      "ticketlink": null,
+      "vbl_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344655&c.view=teamMain",
+      "hallen": [
+        "SPACETECH ARENA Flughafen 28/2, 88046 Friedrichshafen",
+        "Kontakt Jobs Zoi DVV-Pokal Volleyball Supercup VBL-Ticker VBL-Wiki VBL-SAMS Impressum Datenschutz © 2026 volleyball-bundesliga.de"
+      ],
+      "vbl_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344655&c.view=contact",
+      "vbl_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Ralf Dr. Hoppe",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Gunthild Schulte Hoppe",
+          "email": null
+        }
+      ],
+      "vbl_emails": [
+        "adrian.pfleghar@vfb-volleyball.de"
+      ],
+      "verein": "Volley YoungStars Friedrichshafen",
+      "ort": "Friedrichshafen",
+      "land": "BW",
+      "pilot": false,
+      "typ": "nachwuchs",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    }
+  ]
+}

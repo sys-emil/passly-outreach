@@ -35,7 +35,7 @@ export function bewerte(r) {
   else if (e.sicherheit === 'niedrig') add(-10, 'Einordnung unsicher');
   if (r.meta.quellen_belegt.length === 0) add(-10, 'keine belegte Quelle');
   // Zweit- und Nachwuchsteams verkaufen fast nie selbst (Shop und Konto gehören der ersten Mannschaft).
-  if (/\bII\b|\bBSP\b|\bVCO\b/.test(r.verein.name)) add(-25, 'Zweit- oder Nachwuchsteam');
+  if (/\bII\b|\bBSP\b|\bVCO\b|YoungStars|Junior/i.test(r.verein.name)) add(-25, 'Zweit- oder Nachwuchsteam');
 
   return { punkte: Math.max(0, Math.min(100, p)), gruende };
 }

@@ -45,6 +45,7 @@ const ANBIETER = [
   [/tixforgigs\.com/, 'tixforgigs'],
   [/ticket-regional\.de/, 'Ticket Regional'],
   [/tickettoaster\.de/, 'TicketToaster'],
+  [/tickettune\.(com|de)/, 'tickettune'],
   [/getpassly\.de/, 'Passly'],
 ];
 
@@ -137,6 +138,9 @@ for (const t of teams) {
     const a = new Set(woerter(t.vbl_name));
     const b = woerter(`${v.name} ${v.ort}`);
     let p = b.filter((w) => a.has(w)).length;
+    // Namen ohne verwertbares Wort („L.E. Volleys") über den ganzen Namen vergleichen.
+    const kurz = (x) => x.toLowerCase().replace(/[^a-z0-9]/g, '');
+    if (kurz(t.vbl_name) === kurz(v.name)) p += 10;
     if (/\bII\b/.test(t.vbl_name) !== /\bII\b/.test(v.name)) p -= 0.5;
     if (p > bestPunkte) { best = v; bestPunkte = p; }
   }
@@ -150,7 +154,7 @@ for (const t of teams) {
 for (const t of teams) {
   const n = `${t.vbl_name} ${t.verein ?? ''}`;
   t.typ = /\bII\b|\b2\b/.test(n) ? 'zweitteam'
-    : /\bBSP\b|\bVCO\b|stützpunkt|akademie|internat/i.test(n) ? 'nachwuchs'
+    : /\bBSP\b|\bVCO\b|stützpunkt|akademie|internat|youngstars|junior/i.test(n) ? 'nachwuchs'
     : 'verein';
   if (t.pilot) t.typ = 'pilot';
 }
@@ -252,6 +256,10 @@ function anbieterAus(url) {
 
 function auswerten(t, s) {
   const roh = s.roh;
+  // Wix Events: Ticketverkauf im Baukasten der Vereinsseite, ohne fremde Adresse (TSV Grafing, 2026-11-13).
+  if (!t.anbieter && /wix-?events|events\.wix/i.test(roh) && /event-details/i.test(roh) && /ticket/i.test(roh)) {
+    t.anbieter = { name: 'Wix Events', beleg: s.url, wie: `Wix-Events-Shop auf ${s.url}` };
+  }
   // Shops werden oft per Skript oder iframe eingebunden (leoticket: backend.leoticket.de/…/bridge.js).
   for (const u of roh.match(/(?:https?:)?\/\/[a-z0-9.-]+\.[a-z]{2,}[^"'\s<>)]*/gi) ?? []) {
     const a = anbieterAus(u);

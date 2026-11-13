@@ -85,6 +85,18 @@ Hi, auf eurer Seite „Spieltage & Tickets“ steht für die 2. Bundesliga nur, 
 - Bewertung: +30 Website ohne Ticketangabe, kein Shop verlinkt; +8 Preis 5 €; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt
 - Belegte Quellen: <https://wordpress.erfurt-electronic.de/events/damen-i-2-bl-sued-heimspiel-3>, <https://wordpress.erfurt-electronic.de/veranstaltungen-uebersicht>, <https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781346192&c.view=contact>
 
+**Instagram-DM**
+
+Hi, ich hab auf eurer Seite zum Heimspiel gegen Unterhaching am 21.11. gesehen: 5 Euro Eintritt, aber kein Weg, vorab eine Karte zu kaufen. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link für Website und Instagram, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten für ein Telefonat?
+
+**Telefonleitfaden**
+
+- Wen: Dr. Sabine Nemitz, Mannschaftsverantwortliche laut VBL, volleyball@erfurt-electronic.de.
+- Einstieg: Heimspiel gegen Unterhaching am 21.11., 5 Euro, Kinder unter 18 3 Euro, kein Vorverkauf genannt.
+- Frage: Wie läuft der Einlass gerade, und was nervt daran?
+- Angebot: Ich richte eines der Heimspiele im Dezember kostenlos als Testlauf ein, Auszahlung aufs Vereinskonto.
+- Abschluss: Zehn Minuten Demo per Video anbieten, Link zu getpassly.de/sportvereine hinterherschicken.
+
 ## TSV Unterhaching · 56 Punkte
 
 **Beobachtung:** Die VBL verlinkt als Ticketlink das vereinseigene Buchungssystem (AN-Booking) mit der Kategorie Volleyball > Tickets, dort steht aber: „Aktuell sind in dieser Abteilung keine Veranstaltungen vorhanden.“ Die Teamseite der Damen 1 nennt weder Preise noch Vorverkauf.
@@ -98,6 +110,18 @@ Hi, auf eurer Seite „Spieltage & Tickets“ steht für die 2. Bundesliga nur, 
 - Belegte Quellen: <https://tsv-unterhaching.de/volleyball/teams/damen-1>
 - ⚠ Nicht nachvollziehbare Quellen: https://buchung.tsv-unterhaching.de/?cat=22, https://buchung.tsv-unterhaching.de/, https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_sued/mannschaften.xhtml?c.teamId=781345608&c.view=contact
 
+**Instagram-DM**
+
+Hi, die VBL verlinkt für eure Heimspiele das Buchungssystem des TSV, aber unter Volleyball > Tickets steht gerade „keine Veranstaltungen vorhanden“. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link für Website und Instagram, Gäste zahlen per Karte oder Apple Pay, an der Tür wird gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten für ein Telefonat?
+
+**Telefonleitfaden**
+
+- Wen: Christoph Mayser, Mannschaftsverantwortlicher laut VBL, oder die Geschäftsstelle des TSV (Mi 17 bis 19 Uhr, 089 611 00 294).
+- Einstieg: Der Ticketlink der VBL führt ins Buchungssystem des Vereins, die Kategorie Volleyball ist dort leer, die Teamseite nennt keine Preise.
+- Frage: Verkauft ihr nur an der Abendkasse in der Geothermie Arena, oder war online etwas geplant?
+- Angebot: Ich richte das nächste Heimspiel kostenlos als Testlauf ein, Abendkasse im selben System, Auszahlung aufs Vereinskonto.
+- Abschluss: Treffen vor Ort in Unterhaching vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken.
+
 ## proWIN Volleys TV Holz · 46 Punkte
 
 **Beobachtung:** Die Website wirbt in der Kopfleiste mit „Online-Ticketshop proWIN Volleys“, der Link führt aber auf die eigene Seite /tickets, die außer der Überschrift nur einen Verweis auf die Ticketbedingungen (Stand 15.08.2019) enthält: kein Shop, keine Preise.
@@ -109,6 +133,18 @@ Hi, auf eurer Seite „Spieltage & Tickets“ steht für die 2. Bundesliga nur, 
 - Website: https://prowin-volleys.de/
 - Bewertung: +30 Website ohne Ticketangabe, kein Shop verlinkt; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt
 - Belegte Quellen: <https://prowin-volleys.de/tickets>, <https://prowin-volleys.de/atgb>, <https://prowin-volleys.de/sportstaetten>, <https://prowin-volleys.de/kalender/spiele>
+
+**Instagram-DM**
+
+Hi, auf eurer Website steht oben „Online-Ticketshop“, die Seite dahinter ist aber leer, ohne Spiele und Preise. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link für Website und Instagram, Gäste zahlen per Karte oder Apple Pay, an der Tür wird gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten für ein Telefonat?
+
+**Telefonleitfaden**
+
+- Wen: Geschäftsstelle TV Holz 02 (Di und Do 11 bis 18 Uhr), info@prowin-volleys.de, 06806 49 99 805.
+- Einstieg: Der Link „Online-Ticketshop“ führt auf eine Seite ohne Shop, ohne Spiele und ohne Preise.
+- Frage: Wie verkauft ihr gerade, und war der Onlineshop mal in Betrieb?
+- Angebot: Ich richte das nächste Heimspiel kostenlos als Testlauf ein und ihr verlinkt es unter „Online-Ticketshop“, Auszahlung aufs Vereinskonto.
+- Abschluss: Zehn Minuten Demo per Video anbieten, Link zu getpassly.de/sportvereine hinterherschicken.
 
 ## DJK SB München-Ost · 45 Punkte
 

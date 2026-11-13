@@ -1,0 +1,63 @@
+{
+  "verein": {
+    "name": "Donau Volleys Regensburg",
+    "ort": "Regensburg",
+    "land": "BY",
+    "liga": "vbl-maenner-sued",
+    "liga_name": "2. Bundesliga Männer Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://volleyball-regensburg.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "vivenu",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Clermont-Ferrrand-Turnhalle Clermont-Ferrrand-Allee 21, 93049 Regensburg",
+    "kapazitaet": null,
+    "instagram": "donauvolleys",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über vivenu (eingebunden auf https://donauvolleys.vivenushop.com/: https://donauvolleys.vivenushop.com/).",
+    "quellen": [
+      "https://donauvolleys.vivenushop.com/",
+      "https://volleyball-regensburg.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781346142&c.view=contact"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://donauvolleys.vivenushop.com/",
+      "https://volleyball-regensburg.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781346142&c.view=contact"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. VBL-Name „Donau Volleys Regensburg“. Gelesen: https://volleyball-regensburg.de/, https://donauvolleys.vivenushop.com/, https://volleyball-regensburg.de/event/heimspiel-donau-volleys-karlsruhe-ii/, https://donauvolleys.vivenushop.com/section/neue-shop-section-viu6.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://donauvolleys.vivenushop.com/",
+      "https://volleyball-regensburg.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781346142&c.view=contact"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://donauvolleys.vivenushop.com/",
+          "https://volleyball-regensburg.de/",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781346142&c.view=contact"
+        ],
+        "instagram": [
+          "https://volleyball-regensburg.de/",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781346142&c.view=contact"
+        ]
+      }
+    }
+  }
+}

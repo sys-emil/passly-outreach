@@ -1,0 +1,75 @@
+{
+  "verein": {
+    "name": "SV Schwaig",
+    "ort": "Schwaig bei Nürnberg",
+    "land": "BY",
+    "liga": "vbl-maenner-sued",
+    "liga_name": "2. Bundesliga Männer Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "http://www.sv-schwaig-volleyball.de",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 10,
+    "halle": "Hans-Simon-Halle Mittelbügweg 11, 90571 Schwaig",
+    "kapazitaet": null,
+    "instagram": "sv_schwaig_volleyball",
+    "ansprechperson": {
+      "name": "Felix Reschke",
+      "rolle": "Mannschaftsverantwortlicher (laut VBL)",
+      "kontakt": "reschkefelix@live.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Laut Ticketseite sind alle Tickets für die 2. Bundesliga mit Ausnahme der FanCard nur an der Abendkasse erhältlich (Einzelticket 10 €, ermäßigt 7 €, 4MatchCard 34 €, FanCard 97 €); ein Online-Shop ist nicht verlinkt.",
+    "quellen": [
+      "https://sv-schwaig-volleyball.de/tickets/regulaer/",
+      "https://sv-schwaig-volleyball.de/",
+      "https://sv-schwaig-volleyball.de/?page_id=15",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344482&c.view=contact"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://sv-schwaig-volleyball.de/tickets/regulaer/",
+      "https://sv-schwaig-volleyball.de/",
+      "https://sv-schwaig-volleyball.de/?page_id=15",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344482&c.view=contact"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag 'keiner' bestätigt (Einzeltickets nur Abendkasse; FanCard hatte einen Vorverkauf bis 6.9.2026, Verkaufsweg nicht genannt). Vorlauf-Preise 6 €/4 € gehören nicht zur 2. Bundesliga; Einzelticket 2. BL ist 10 €/7 €. Nächstes Heimspiel auf Homepage und Saisonseite 'Nicht bekannt'. Halle aus VBL; Vereinsseite verlinkt nur eine Hallenordnung 'Hans-Simon-Halle'. Zweites Instagram-Konto: https://www.instagram.com/hornetsschwaig/. Allgemeine Kontaktadresse kontakt@sv-schwaig-volleyball.de (Vorlauf).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://sv-schwaig-volleyball.de/tickets/regulaer/",
+      "https://sv-schwaig-volleyball.de/",
+      "https://sv-schwaig-volleyball.de/?page_id=15"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://sv-schwaig-volleyball.de/tickets/regulaer/"
+        ],
+        "instagram": [
+          "https://sv-schwaig-volleyball.de/tickets/regulaer/",
+          "https://sv-schwaig-volleyball.de/",
+          "https://sv-schwaig-volleyball.de/?page_id=15"
+        ],
+        "vorverkauf": [
+          "https://sv-schwaig-volleyball.de/tickets/regulaer/"
+        ],
+        "ansprechperson": [
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344482&c.view=contact"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, laut eurer Ticketseite gibt es alle Karten für die 2. Bundesliga außer der FanCard nur an der Abendkasse, Einzelticket 10 Euro. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link für Website und Instagram, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, die FanCard läuft als Pass im selben System. Für den Verein kostenlos. Hättet ihr zehn Minuten?\n\n**Telefonleitfaden**\n\n- Wen: Felix Reschke, Mannschaftsverantwortlicher laut VBL (reschkefelix@live.de, private Adresse: nur persönlich, keine Werbemail).\n- Einstieg: Einzeltickets 10 Euro, ermäßigt 7 Euro, nur Abendkasse in der Hans-Simon-Halle; FanCard 97 Euro hatte einen Vorverkauf bis 6.9.\n- Frage: Wie lief der FanCard-Vorverkauf, und wie voll wird es an der Abendkasse?\n- Angebot: Ich richte das nächste Heimspiel kostenlos als Testlauf ein, Abendkasse und FanCard im selben System, Auszahlung aufs Vereinskonto.\n- Abschluss: Treffen vor Ort in Schwaig vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken."
+}

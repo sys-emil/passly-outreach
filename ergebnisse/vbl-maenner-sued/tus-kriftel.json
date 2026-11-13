@@ -1,0 +1,80 @@
+{
+  "verein": {
+    "name": "TuS Kriftel",
+    "ort": "Kriftel",
+    "land": "HE",
+    "liga": "vbl-maenner-sued",
+    "liga_name": "2. Bundesliga Männer Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "http://www.kriftel-volley.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "tickettune",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 6,
+    "halle": "Sporthalle Weingartenschule Rossertstraße, 65830 Kriftel/Ts.",
+    "kapazitaet": null,
+    "instagram": "kriftelvolley",
+    "ansprechperson": {
+      "name": "Danny Schleuning",
+      "rolle": "Team-Manager 1. Herren",
+      "kontakt": "info@tus-kriftel-volleyball.de"
+    },
+    "naechstes_heimspiel": "2026-11-21, 20:00, VC Dresden, Weingartenhalle Kriftel, Rossertstraße 49",
+    "beobachtung": "Heimspiel gegen VC Dresden am 21.11.2026 um 20 Uhr in der Weingartenhalle; Karten gibt es online über tickettune ab 6 €, dazu eine Saisonkarte 26/27 ab 60 €.",
+    "quellen": [
+      "https://kriftelvolley.tickettune.com/kriftelvolley/veranstaltungen/",
+      "https://kriftel-volley.de/",
+      "https://kriftel-volley.de/herren-1-team",
+      "https://kriftel-volley.de/events/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://kriftelvolley.tickettune.com/kriftelvolley/veranstaltungen/",
+      "https://kriftel-volley.de/",
+      "https://kriftel-volley.de/herren-1-team",
+      "https://kriftel-volley.de/events/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag keine_angabe korrigiert: Startseite und Herren-1-Seite verlinken den Ticketshop auf tickettune; dort Heimspiele 21.11. (VC Dresden), 5.12. (Volley YoungStars Friedrichshafen), 6.12. (CERATONIA Volleys Eltmann) ab 6 € und Saisonkarte ab 60 €. Shop zeigt bei jedem Termin zugleich 'Ausverkauft' und 'wenige Tickets' (vermutlich Vorlagentext), Verfügbarkeit unklar. Anstoß 5.12.: tickettune 19:00, Vereinskalender 16:00. Instagram kriftelvolley steht auf Startseite und Teamseite (Vorlauf hatte keins). Danny Schleuning als Team-Manager auf der Teamseite, ohne eigene E-Mail. Kapazität nirgends genannt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://kriftelvolley.tickettune.com/kriftelvolley/veranstaltungen/",
+      "https://kriftel-volley.de/",
+      "https://kriftel-volley.de/herren-1-team",
+      "https://kriftel-volley.de/events/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://kriftelvolley.tickettune.com/kriftelvolley/veranstaltungen/"
+        ],
+        "anbieter": [
+          "https://kriftelvolley.tickettune.com/kriftelvolley/veranstaltungen/",
+          "https://kriftel-volley.de/",
+          "https://kriftel-volley.de/herren-1-team",
+          "https://kriftel-volley.de/events/"
+        ],
+        "instagram": [
+          "https://kriftel-volley.de/",
+          "https://kriftel-volley.de/herren-1-team",
+          "https://kriftel-volley.de/events/"
+        ],
+        "ansprechperson": [
+          "https://kriftel-volley.de/",
+          "https://kriftel-volley.de/herren-1-team",
+          "https://kriftel-volley.de/events/"
+        ]
+      }
+    }
+  }
+}

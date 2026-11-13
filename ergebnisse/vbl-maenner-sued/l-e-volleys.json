@@ -1,0 +1,76 @@
+{
+  "verein": {
+    "name": "L.E. Volleys",
+    "ort": "Leipzig",
+    "land": "SN",
+    "liga": "vbl-maenner-sued",
+    "liga_name": "2. Bundesliga Männer Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://le-volleys.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 8,
+    "halle": "Sporthalle Brüderstraße Brüderstraße 15, 04103 Leipzig",
+    "kapazitaet": null,
+    "instagram": "levolleys",
+    "ansprechperson": {
+      "name": "Axel Roscher",
+      "rolle": "Mannschaftsverantwortlicher (laut VBL)",
+      "kontakt": "teammanager@le-volleys.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tagestickets für die 1. Herren gibt es laut Website nur an der Ticketkasse am Spieltag (8 €, ermäßigt 5 €, Mitglieder 3 €, Kasse öffnet etwa eine Stunde vor Spielbeginn); Saisonkarten (80/50/30 €) werden per E-Mail an info@le-volleys.de mit Wunschblock bestellt, ein Online-Ticketshop ist nicht verlinkt.",
+    "quellen": [
+      "https://le-volleys.de/",
+      "https://le-volleys.de/1herren/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/tabellespielplan/spielplan.xhtml",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344580&c.view=contact"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://le-volleys.de/",
+      "https://le-volleys.de/1herren/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344580&c.view=contact"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/tabellespielplan/spielplan.xhtml"
+    ],
+    "notiz": "Vorschlag keine_angabe korrigiert: Der Tickets-Link der Startseite führt auf /1herren/#bl-info mit Preisen, Abendkasse für Tagestickets und Saisonkarten-Bestellung per E-Mail (daher manuell; pro Spiel faktisch kein Vorverkauf). Die Ticketseite erwähnt noch die Saison 2024/2025, Preise evtl. nicht aktuell. Startseite nennt als nächstes Heimspiel TV 1895 Mömlingen ohne Datum; der VBL-Spielplan zeigte nur den Spieltag 12.-15.11.2026 (Leipzig auswärts in Karlsruhe), daher kein Datum. https://le-volleys.de/2-bundesliga/ gab 404. Ansprechperson aus dem Vorlauf (VBL-Kontaktseite), nicht selbst abgerufen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://le-volleys.de/",
+      "https://le-volleys.de/1herren/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/tabellespielplan/spielplan.xhtml"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "instagram": [
+          "https://le-volleys.de/",
+          "https://le-volleys.de/1herren/",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344580&c.view=contact"
+        ],
+        "ticketpreis_eur": [
+          "https://le-volleys.de/1herren/"
+        ],
+        "vorverkauf": [
+          "https://le-volleys.de/1herren/"
+        ],
+        "ansprechperson": [
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344580&c.view=contact"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, auf eurer Seite stehen Tagestickets nur an der Kasse am Spieltag, und Saisonkarten werden per Mail mit Wunschblock bestellt. Ich baue Passly, einen Online-Vorverkauf für Vereine: Tagestickets und Saisonkarte über einen Link, bezahlt per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten für ein Telefonat?\n\n**Telefonleitfaden**\n\n- Wen: Axel Roscher, Mannschaftsverantwortlicher laut VBL, teammanager@le-volleys.de.\n- Einstieg: Tagestickets 8 Euro, ermäßigt 5 Euro, nur an der Kasse; Saisonkarte 80 Euro per Mail an info@ mit Wunschblock. Die Ticketseite nennt noch die Saison 2024/25, Preise im Gespräch bestätigen.\n- Frage: Wie viele Saisonkarten bestellt ihr per Mail, und wie verteilt ihr die Blöcke?\n- Angebot: Saisonkarte als Pass, Blöcke als Bereiche mit eigenem Kontingent (keine Platzwahl im Plan), nächstes Heimspiel kostenlos als Testlauf.\n- Abschluss: Zehn Minuten Demo per Video anbieten, Link zu getpassly.de/sportvereine hinterherschicken."
+}

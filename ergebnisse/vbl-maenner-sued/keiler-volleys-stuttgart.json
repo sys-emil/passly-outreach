@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "Keiler Volleys Stuttgart",
+    "ort": "Stuttgart",
+    "land": "BW",
+    "liga": "vbl-maenner-sued",
+    "liga_name": "2. Bundesliga Männer Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://asv-botnang.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle Botnang Kauffmannstraße 39, 70195 Stuttgart",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Simone Schulz",
+      "rolle": "Abteilungsleitung Volleyball (ASV Botnang)",
+      "kontakt": "abteilungsleiter.volleyball@asv-botnang.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Volleyballseite des ASV Botnang hat für die Herren 1 einen Menüpunkt „Tickets“, auf der Seite selbst stehen aber weder Preise noch ein Verkaufsweg oder ein Shop-Link.",
+    "quellen": [
+      "https://asv-botnang.de/",
+      "http://asv-botnang.de/volleyball",
+      "https://asv-botnang.de/volleyball/herren-1/tickets/",
+      "https://asv-botnang.de/volleyball/aktuelles/herren-1/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "http://asv-botnang.de/volleyball"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://asv-botnang.de/",
+      "https://asv-botnang.de/volleyball/herren-1/tickets/",
+      "https://asv-botnang.de/volleyball/aktuelles/herren-1/"
+    ],
+    "notiz": "Vorschlag 'keine_angabe' bestätigt, aber nur mittlere Sicherheit: Die Ticketseite der Herren 1 (Menü noch 'Dritte Liga') lieferte nur Navigation, kein Inhalt; möglicherweise leer oder per Skript geladen. Heimspiele laut Volleyballseite in der BSH (Ballspielhalle Botnang) 'oder in anderen Hallen'; VBL-Halle behalten. News der Herren 1 enden im Oktober 2025. Kein Heimspiel nach dem 13.11.2026 auf den gelesenen Seiten. VBL-Kontakte: Samira Baâroun (Mannschaftsverantwortliche), Marc Mundt (PR), ohne Adresse. Weitere Kontaktseite: https://asv-botnang.de/volleyball/ansprechpartner/ (nicht gelesen).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://asv-botnang.de/",
+      "http://asv-botnang.de/volleyball",
+      "https://asv-botnang.de/volleyball/herren-1/tickets/",
+      "https://asv-botnang.de/volleyball/aktuelles/herren-1/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "ansprechperson": [
+          "http://asv-botnang.de/volleyball"
+        ]
+      }
+    }
+  }
+}

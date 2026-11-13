@@ -1,0 +1,72 @@
+{
+  "verein": {
+    "name": "TSV Mühldorf",
+    "ort": "Mühldorf am Inn",
+    "land": "BY",
+    "liga": "vbl-maenner-sued",
+    "liga_name": "2. Bundesliga Männer Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.tsv-muehldorf.de/volleyball-bundesliga/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 8,
+    "halle": "NUTZ-Arena an der Mittelschule Europastr. 3, 84453 Mühldorf",
+    "kapazitaet": null,
+    "instagram": "tsvmuehldorfvolleyball",
+    "ansprechperson": {
+      "name": "Fabian Bartsch",
+      "rolle": "PR-Verantwortlicher (laut VBL)",
+      "kontakt": "fabian.bartsch@volleyball-muehldorf.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tageskarten (8 €, ermäßigt 4 €) gibt es laut Ticketseite nur an der Abendkasse der NUTZ-Arena; die Dauerkarte (69 €) wird per E-Mail an anmeldung@volleyball-muehldorf.de bestellt und an der Abendkasse abgeholt.",
+    "quellen": [
+      "https://www.tsv-muehldorf.de/volleyball-bundesliga/tickets/",
+      "https://www.tsv-muehldorf.de/volleyball-bundesliga/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344436&c.view=contact"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.tsv-muehldorf.de/volleyball-bundesliga/tickets/",
+      "https://www.tsv-muehldorf.de/volleyball-bundesliga/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344436&c.view=contact"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag 'keiner' bestätigt: Einzeltickets nur Abendkasse, Dauerkarte manuell per E-Mail, kein Online-Shop. Kinder unter 12 und Abteilungsmitglieder unter 21 frei. Homepage zeigt als nächstes Spiel nur das vergangene Auswärtsspiel VC Dresden - TSV Mühldorf am 17.10.26; kein kommendes Heimspiel genannt. Übliche Anwurfzeiten Sa 19:00, So 16:00.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tsv-muehldorf.de/volleyball-bundesliga/tickets/",
+      "https://www.tsv-muehldorf.de/volleyball-bundesliga/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.tsv-muehldorf.de/volleyball-bundesliga/tickets/"
+        ],
+        "instagram": [
+          "https://www.tsv-muehldorf.de/volleyball-bundesliga/tickets/",
+          "https://www.tsv-muehldorf.de/volleyball-bundesliga/",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344436&c.view=contact"
+        ],
+        "vorverkauf": [
+          "https://www.tsv-muehldorf.de/volleyball-bundesliga/tickets/"
+        ],
+        "ansprechperson": [
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344436&c.view=contact"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass es Tageskarten bei euch nur an der Abendkasse der NUTZ-Arena gibt und die Dauerkarte per Mail bestellt und dort abgeholt wird. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link in die Bio, Gäste zahlen per Karte oder Apple Pay, die Dauerkarte läuft als Pass, an der Tür wird gescannt. Für den Verein kostenlos. Hättet ihr zehn Minuten?\n\n**Telefonleitfaden**\n\n- Wen: Fabian Bartsch, PR-Verantwortlicher laut VBL, fabian.bartsch@volleyball-muehldorf.de; für die Dauerkarte ist anmeldung@volleyball-muehldorf.de zuständig.\n- Einstieg: Tageskarte 8 Euro, ermäßigt 4 Euro, nur Abendkasse; Dauerkarte 69 Euro per Mail bestellt und an der Abendkasse abgeholt.\n- Frage: Wie viele Dauerkarten gehen so weg, und wie viel Arbeit macht das Abholen am Spieltag?\n- Angebot: Ich richte Dauerkarte und nächstes Heimspiel kostenlos ein, Auszahlung aufs Vereinskonto.\n- Abschluss: Treffen vor Ort in Mühldorf vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken."
+}

@@ -1,0 +1,75 @@
+{
+  "verein": {
+    "name": "TSV Grafing",
+    "ort": "Grafing",
+    "land": "BY",
+    "liga": "vbl-maenner-sued",
+    "liga_name": "2. Bundesliga Männer Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.fightingbayrisch.org/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Wix Events (Ticketverkauf direkt auf der Vereinswebsite)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 8,
+    "halle": "Jahnsporthalle Grafing Kapellenstraße 17, 85567 Grafing",
+    "kapazitaet": null,
+    "instagram": "volleyballgrafing",
+    "ansprechperson": {
+      "name": "Marcus Bohle",
+      "rolle": "Mannschaftsverantwortlicher (laut VBL)",
+      "kontakt": "mail@fightingbayrisch.org"
+    },
+    "naechstes_heimspiel": "2026-11-14 19:00 gegen Keiler Volleys Stuttgart, Jahnsporthalle Grafing",
+    "beobachtung": "Heimspiel gegen Keiler Volleys Stuttgart am 14.11.2026, 19:00 Uhr; Tickets werden direkt auf fightingbayrisch.org über die Event-Seite mit Warenkorb und „Zur Kasse“ verkauft (Erwachsene 8 €, ermäßigt 5 €, Kinder 3 €).",
+    "quellen": [
+      "https://www.fightingbayrisch.org/tickets",
+      "https://www.fightingbayrisch.org/event-details/heimspiel-vs-keiler-volleys-stuttgart",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344562&c.view=contact"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.fightingbayrisch.org/tickets",
+      "https://www.fightingbayrisch.org/event-details/heimspiel-vs-keiler-volleys-stuttgart",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344562&c.view=contact"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorschlag 'keine_angabe' war falsch: Die Ticketseite listet alle Heimspiele mit Button „Tickets“, die Event-Seite hat Ticketarten mit Mengenfeld und „Zur Kasse“ (Wix-Events-Checkout auf der eigenen Website). Abendkasse wird nicht erwähnt. Weitere Heimspiele: 28.11. TuS Kriftel, 12.12. TV 1895 Mömlingen, 19.12. VC Dresden, 16.1.27 Blue Volleys Gotha, 30.1.27 TSV Mühldorf, 13.2.27 SV Schwaig, 14.2.27 ASV Dachau, 6.3.27 L.E. Volleys. Vereinsseite nennt Kapellenstraße 19, VBL Kapellenstraße 17 (gleiche Halle, VBL-Angabe behalten). Betreiber laut Seite: Grafinger Volleyball GmbH. Marcus Bohle hat laut VBL keine eigene Adresse; Kontakt ist die allgemeine Vereinsadresse.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fightingbayrisch.org/tickets",
+      "https://www.fightingbayrisch.org/event-details/heimspiel-vs-keiler-volleys-stuttgart"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "anbieter": [
+          "https://www.fightingbayrisch.org/tickets",
+          "https://www.fightingbayrisch.org/event-details/heimspiel-vs-keiler-volleys-stuttgart"
+        ],
+        "instagram": [
+          "https://www.fightingbayrisch.org/tickets",
+          "https://www.fightingbayrisch.org/event-details/heimspiel-vs-keiler-volleys-stuttgart",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344562&c.view=contact"
+        ],
+        "ansprechperson": [
+          "https://www.fightingbayrisch.org/tickets",
+          "https://www.fightingbayrisch.org/event-details/heimspiel-vs-keiler-volleys-stuttgart",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781344562&c.view=contact"
+        ],
+        "ticketpreis_eur": [
+          "https://www.fightingbayrisch.org/event-details/heimspiel-vs-keiler-volleys-stuttgart"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass ihr eure Heimspiel-Tickets direkt auf fightingbayrisch.org verkauft. Ich baue Passly: Vorverkauf und Abendkasse in einem System, an der Tür wird mit dem Handy gescannt, der QR-Code wechselt jede Minute. Für den Verein kostenlos. Falls ihr euch das anschauen wollt, hättet ihr zehn Minuten?\n\n**Telefonleitfaden**\n\n- Wen: Marcus Bohle, Mannschaftsverantwortlicher laut VBL, mail@fightingbayrisch.org.\n- Einstieg: Tickets 8 Euro, ermäßigt 5 Euro, Kinder 3 Euro über die Event-Seiten der Vereinswebsite; eine Abendkasse wird nicht erwähnt.\n- Frage: Wie läuft der Einlass, und wird an der Tür auch verkauft?\n- Angebot: Kostenloser Testlauf für ein Heimspiel mit Scanner und Abendkasse.\n- Abschluss: Treffen vor Ort in Grafing vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken."
+}

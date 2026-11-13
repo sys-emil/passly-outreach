@@ -1,0 +1,71 @@
+{
+  "verein": {
+    "name": "TV 1895 Mömlingen",
+    "ort": "Mömlingen",
+    "land": "BY",
+    "liga": "vbl-maenner-sued",
+    "liga_name": "2. Bundesliga Männer Süd",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.tv-moemlingen.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Ludwig-Ritter-Halle Königsberger Str. 2, 63853 Mömlingen",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Klaus-Peter Wolf",
+      "rolle": "Mannschaftsverantwortlicher (laut VBL)",
+      "kontakt": "info@tv-moemlingen.de (Geschäftsstelle)"
+    },
+    "naechstes_heimspiel": "2026-11-15, 15:00, TuS Kriftel, Ludwig-Ritter-Halle",
+    "beobachtung": "Heimspiel gegen TuS Kriftel am 15.11.2026 um 15 Uhr in der Ludwig-Ritter-Halle; auf der Vereinsseite und der Seite der 2. Bundesliga Männer Süd steht nichts zu Eintritt oder Karten, ein Ticketshop ist nicht verlinkt.",
+    "quellen": [
+      "https://xn--tv-mmlingen-ufb.de/",
+      "https://xn--tv-mmlingen-ufb.de/sportangebot/volleyball/zweite-bundesliga-maenner-sued/",
+      "https://xn--tv-mmlingen-ufb.de/sportangebot/volleyball/ergebnisse/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/tabellespielplan/spielplan.xhtml",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781346126&c.view=contact"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://xn--tv-mmlingen-ufb.de/",
+      "https://xn--tv-mmlingen-ufb.de/sportangebot/volleyball/zweite-bundesliga-maenner-sued/",
+      "https://xn--tv-mmlingen-ufb.de/sportangebot/volleyball/ergebnisse/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781346126&c.view=contact"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/tabellespielplan/spielplan.xhtml"
+    ],
+    "notiz": "Vorschlag keine_angabe bestätigt: Startseite, 2.-Bundesliga-Seite und Gesamtspielplan-Seite nennen weder Eintritt noch Tickets; einziger Shop ist ein FAN Shop (Merchandise). Abrufe: 3 Vereinsseiten plus der VBL-Spielplan, der zugleich für L.E. Volleys abgerufen wurde; zusätzlich lieferte https://www.tv-moemlingen.de nur eine 301-Weiterleitung ohne Inhalt. Nächstes Heimspiel laut VBL-Spielplan (auch die Kriftel-Startseite nennt das Auswärtsspiel in Mömlingen am 15.11.). Spielplan-PDF auf der Vereinsseite nicht lesbar; Halle nur aus VBL-Spielplan (Ludwig-Ritter-Halle) bestätigt, Adresse aus dem Vorlauf. Ansprechperson aus dem Vorlauf (VBL), Kontakt ist die allgemeine Geschäftsstelle (06022 682173). Kein Instagram auf den gelesenen Seiten.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://xn--tv-mmlingen-ufb.de/",
+      "https://xn--tv-mmlingen-ufb.de/sportangebot/volleyball/zweite-bundesliga-maenner-sued/",
+      "https://xn--tv-mmlingen-ufb.de/sportangebot/volleyball/ergebnisse/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/tabellespielplan/spielplan.xhtml"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-13",
+      "fakten": {
+        "ansprechperson": [
+          "https://xn--tv-mmlingen-ufb.de/",
+          "https://xn--tv-mmlingen-ufb.de/sportangebot/volleyball/zweite-bundesliga-maenner-sued/",
+          "https://xn--tv-mmlingen-ufb.de/sportangebot/volleyball/ergebnisse/",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_sued/mannschaften.xhtml?c.teamId=781346126&c.view=contact"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, auf eurer Seite der 2. Bundesliga steht nichts zu Eintritt oder Karten. Ich baue Passly, einen Online-Vorverkauf für Vereine: ein Link für Website und Social Media, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, die Abendkasse läuft im selben System. Für den Verein kostenlos. Hättet ihr zehn Minuten für ein Telefonat?\n\n**Telefonleitfaden**\n\n- Hinweis: Kein Instagram-Konto belegt; die DM passt für Facebook oder das Kontaktformular, besser gleich anrufen.\n- Wen: Klaus-Peter Wolf, Mannschaftsverantwortlicher laut VBL; Geschäftsstelle info@tv-moemlingen.de.\n- Einstieg: Heimspiele in der Ludwig-Ritter-Halle, online kein Wort zu Eintritt oder Karten.\n- Frage: Was kostet der Eintritt, und wie läuft die Kasse am Spieltag?\n- Angebot: Ich richte das nächste Heimspiel kostenlos als Testlauf ein, Auszahlung aufs Vereinskonto."
+}
