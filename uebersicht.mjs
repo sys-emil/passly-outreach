@@ -26,7 +26,7 @@ export async function schreibeUebersicht() {
   }
   zeilen.sort((a, b) => b.punkte - a.punkte);
   const staffeln = ligen
-    .map((id) => ({ id, name: vereineJson.ligen[id].name, anzahl: zeilen.filter((z) => z.liga === id).length, gesamt: vereineJson.ligen[id].vereine.length }));
+    .map((id) => ({ id, name: vereineJson.ligen[id].name, sport: vereineJson.ligen[id].sport, anzahl: zeilen.filter((z) => z.liga === id).length, gesamt: vereineJson.ligen[id].vereine.length }));
   const datenReiter = await fs.readFile(path.join(HERE, 'vorlage', 'daten.html'), 'utf8');
   await fs.writeFile(ZIEL, html({ zeilen, staffeln, stand: new Date().toISOString().slice(0, 10) }).replace('<!--DATEN-REITER-->', () => datenReiter));
   return ZIEL;
@@ -46,6 +46,7 @@ function zeile(r, slug) {
     slug,
     liga: r.verein.liga,
     ligaName: r.verein.liga_name,
+    sport: r.verein.sport ?? 'unbekannt',
     name: r.verein.name,
     ort: r.verein.ort,
     land: r.verein.land,
@@ -160,6 +161,11 @@ tr.detail td { background: var(--bg); padding: 16px 16px 20px; }
 .quellen { font-size: 0.8rem; word-break: break-all; margin: 0; padding-left: 18px; }
 @media (max-width: 52em) {
   .spalte-grund, .spalte-insta { display: none; }
+  /* Feste Spalten: lange E-Mail-Adressen brechen um, statt die Tabelle zu verbreitern. */
+  .tabelle table { table-layout: fixed; }
+  .tabelle th:first-child { width: 4.2rem; }
+  .tabelle th:nth-child(4) { width: 42%; }
+  .mail, .name, .klein { overflow-wrap: anywhere; }
   .detail-grid { grid-template-columns: minmax(0, 1fr); }
 }
 </style>
@@ -168,6 +174,7 @@ tr.detail td { background: var(--bg); padding: 16px 16px 20px; }
 <main>
   <h1>Outreach Übersicht</h1>
   <p class="sub" id="sub"></p>
+  <div class="leiste" id="sportarten" hidden></div>
   <nav class="reiter"><a href="#vereine" id="r-vereine">Vereine</a><a href="#daten" id="r-daten">Daten</a></nav>
   <div id="tab-daten" hidden></div>
   <div id="tab-vereine">
@@ -191,9 +198,25 @@ const KAT = [
   { id: 'anbieter', titel: 'Verkauft schon online', was: 'Hat einen Anbieter. Aufhänger nur Dauerkarte oder Abendkasse, nie ein Vergleich.' },
   { id: 'eintritt_frei', titel: 'Eintritt frei', was: 'Nichts zu verkaufen.' },
 ];
-const zustand = { staffel: 'alle', suche: '', nurMail: false, nurBayern: false, offen: new Set() };
-try { const s = JSON.parse(localStorage.getItem('outreach-filter') || '{}'); Object.assign(zustand, { staffel: s.staffel || 'alle', nurMail: !!s.nurMail, nurBayern: !!s.nurBayern }); } catch {}
-const merke = () => { try { localStorage.setItem('outreach-filter', JSON.stringify({ staffel: zustand.staffel, nurMail: zustand.nurMail, nurBayern: zustand.nurBayern })); } catch {} };
+const zustand = { sport: 'alle', staffel: 'alle', suche: '', nurMail: false, nurBayern: false, offen: new Set() };
+try { const s = JSON.parse(localStorage.getItem('outreach-filter') || '{}'); Object.assign(zustand, { sport: s.sport || 'alle', staffel: s.staffel || 'alle', nurMail: !!s.nurMail, nurBayern: !!s.nurBayern }); } catch {}
+const merke = () => { try { localStorage.setItem('outreach-filter', JSON.stringify({ sport: zustand.sport, staffel: zustand.staffel, nurMail: zustand.nurMail, nurBayern: zustand.nurBayern })); } catch {} };
+// Sportarten mit Ergebnissen; die Leiste erscheint erst ab zwei.
+const SPORTARTEN = [...new Set(D.zeilen.map((z) => z.sport))].sort((a, b) => D.zeilen.filter((z) => z.sport === b).length - D.zeilen.filter((z) => z.sport === a).length);
+if (!SPORTARTEN.includes(zustand.sport)) zustand.sport = 'alle';
+window.imSport = (z) => zustand.sport === 'alle' || z.sport === zustand.sport;
+function sportKnoepfe() {
+  const el = document.getElementById('sportarten');
+  el.hidden = SPORTARTEN.length < 2;
+  if (el.hidden) return;
+  const k = [['alle', 'Alle Sportarten', D.zeilen.length]].concat(SPORTARTEN.map((s) => [s, s, D.zeilen.filter((z) => z.sport === s).length]));
+  el.innerHTML = k.map(([id, name, n]) => '<button data-sp="' + esc(id) + '" aria-pressed="' + (zustand.sport === id) + '">' + esc(name) + ' <span class="klein">' + n + '</span></button>').join('');
+  el.querySelectorAll('button').forEach((b) => b.onclick = () => {
+    zustand.sport = b.dataset.sp; zustand.staffel = 'alle'; merke();
+    sportKnoepfe(); staffelKnoepfe(); zeige();
+    datenFertig = false; if (location.hash === '#daten' && window.zeigeDaten) { window.zeigeDaten(); datenFertig = true; }
+  });
+}
 
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const stufe = (p) => (p >= 60 ? 'p-gut' : p >= 40 ? 'p-mittel' : 'p-schwach');
@@ -203,13 +226,14 @@ document.getElementById('sub').textContent =
 
 function staffelKnoepfe() {
   const el = document.getElementById('staffeln');
-  const k = [{ id: 'alle', name: 'Alle Staffeln', anzahl: D.zeilen.length, gesamt: 0 }, ...D.staffeln];
+  const k = [{ id: 'alle', name: 'Alle Staffeln', anzahl: D.zeilen.filter(imSport).length, gesamt: 0 }, ...D.staffeln.filter((s) => zustand.sport === 'alle' || s.sport === zustand.sport)];
   el.innerHTML = k.map((s) => '<button data-s="' + s.id + '" aria-pressed="' + (zustand.staffel === s.id) + '"' + (s.anzahl === 0 ? ' disabled title="noch nicht recherchiert"' : '') + '>' +
     esc(s.name) + ' <span class="klein">' + (s.id === 'alle' ? s.anzahl : s.anzahl + '/' + s.gesamt) + '</span></button>').join('');
   el.querySelectorAll('button').forEach((b) => b.onclick = () => { zustand.staffel = b.dataset.s; merke(); staffelKnoepfe(); zeige(); });
 }
 
 function passt(z) {
+  if (!imSport(z)) return false;
   if (zustand.staffel !== 'alle' && z.liga !== zustand.staffel) return false;
   if (zustand.nurMail && z.mails.length === 0) return false;
   if (zustand.nurBayern && z.land !== 'BY') return false;
@@ -308,10 +332,11 @@ for (const id of ['nurMail', 'nurBayern']) {
   el.checked = zustand[id];
   el.onchange = () => { zustand[id] = el.checked; merke(); zeige(); };
 }
+let datenFertig = false;
+sportKnoepfe();
 staffelKnoepfe();
 zeige();
 
-let datenFertig = false;
 function reiter() {
   const daten = location.hash === '#daten';
   document.getElementById('tab-daten').hidden = !daten;

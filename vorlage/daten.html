@@ -54,7 +54,8 @@
 .punkte-svg .median { stroke: var(--ink); stroke-width: 2; }
 .punkte-svg circle { stroke: var(--karte); stroke-width: 2; cursor: default; outline: none; }
 .punkte-svg circle:hover, .punkte-svg circle:focus-visible { stroke: var(--ink); }
-.matrix { width: 100%; border-collapse: separate; border-spacing: 2px; font-size: 0.84rem; }
+.matrix-rahmen { overflow-x: auto; }
+.matrix { width: 100%; min-width: 30rem; border-collapse: separate; border-spacing: 2px; font-size: 0.84rem; }
 .matrix th { font-size: 0.72rem; text-transform: none; letter-spacing: 0; color: var(--ink2); font-weight: 600; padding: 4px 6px; border: 0; text-align: center; }
 .matrix th.zeilenkopf { text-align: left; font-weight: 500; color: var(--ink); font-size: 0.84rem; }
 .matrix td { border: 0; padding: 0; }
@@ -66,9 +67,9 @@
 .muster li { margin-bottom: 8px; }
 .muster li b { font-variant-numeric: tabular-nums; }
 .vorsicht { font-size: 0.8rem; color: var(--ink3); margin-top: 10px; }
-details.tab { margin-top: 12px; font-size: 0.82rem; }
+details.tab { margin-top: 12px; font-size: 0.82rem; overflow-x: auto; }
 details.tab summary { cursor: pointer; color: var(--ink2); }
-details.tab table { margin-top: 8px; font-size: 0.82rem; }
+details.tab table { margin-top: 8px; font-size: 0.82rem; display: block; max-width: 100%; overflow-x: auto; }
 details.tab td, details.tab th { padding: 5px 8px; }
 #tip { position: fixed; z-index: 10; pointer-events: none; background: var(--ink); color: var(--bg); padding: 8px 10px; border-radius: 7px; font-size: 0.8rem; max-width: 280px; box-shadow: 0 6px 20px rgba(0,0,0,0.18); display: none; }
 #tip b { display: block; margin-bottom: 2px; }
@@ -136,7 +137,8 @@ details.tab td, details.tab th { padding: 5px 8px; }
 
   window.zeigeDaten = function () {
     const root = document.getElementById('tab-daten');
-    const alle = D.zeilen;
+    const alle = D.zeilen.filter(window.imSport);
+    const sportarten = [...new Set(alle.map((z) => z.sport))];
     const n = alle.length;
     const kats = KAT.filter((k) => alle.some((z) => z.vorverkauf === k.id));
 
@@ -150,9 +152,12 @@ details.tab td, details.tab th { padding: 5px 8px; }
     ];
 
     // ---- Verkaufsweg je Staffel (gestapelt, Anteile)
-    const gruppen = [{ name: 'Alle Staffeln', l: alle }].concat(
-      D.staffeln.filter((s) => s.anzahl).map((s) => ({ name: s.name, l: alle.filter((z) => z.liga === s.id), gesamt: s.gesamt })),
-      [{ name: 'Bayern', l: alle.filter((z) => z.land === 'BY'), klein: 'alle Staffeln' }, { name: 'Außerhalb Bayerns', l: alle.filter((z) => z.land !== 'BY'), klein: 'alle Staffeln' }]
+    // Mehrere Sportarten: je Sportart ein Balken; eine Sportart: je Staffel.
+    const gruppen = [{ name: sportarten.length > 1 ? 'Alle Sportarten' : 'Alle Staffeln', l: alle }].concat(
+      sportarten.length > 1
+        ? sportarten.map((sp) => ({ name: sp, l: alle.filter((z) => z.sport === sp), klein: D.staffeln.filter((s) => s.sport === sp && s.anzahl).length + ' Ligen/Staffeln' }))
+        : D.staffeln.filter((s) => s.anzahl && alle.some((z) => z.liga === s.id)).map((s) => ({ name: s.name, l: alle.filter((z) => z.liga === s.id), gesamt: s.gesamt })),
+      [{ name: 'Bayern', l: alle.filter((z) => z.land === 'BY'), klein: sportarten.length > 1 ? 'alle Sportarten' : 'alle Staffeln' }, { name: 'Außerhalb Bayerns', l: alle.filter((z) => z.land !== 'BY'), klein: sportarten.length > 1 ? 'alle Sportarten' : 'alle Staffeln' }]
     );
     const stapel = gruppen.map((g) => {
       const segs = kats.map((k) => {
@@ -206,7 +211,7 @@ details.tab td, details.tab th { padding: 5px 8px; }
 
     // ---- Merkmale × Verkaufsweg (Anteil in der Spalte, einfarbige Stufen)
     const stufe = (a) => (a === 0 ? 0 : a < 0.25 ? 1 : a < 0.45 ? 2 : a < 0.65 ? 3 : a < 0.85 ? 4 : 5);
-    const matrix = '<table class="matrix"><thead><tr><th></th>' + kats.map((k) => '<th>' + esc(KURZ[k.id]) + '<br><small>' + verein(alle.filter((z) => z.vorverkauf === k.id).length) + '</small></th>').join('') + '</tr></thead><tbody>' +
+    const matrix = '<div class="matrix-rahmen"><table class="matrix"><thead><tr><th></th>' + kats.map((k) => '<th>' + esc(KURZ[k.id]) + '<br><small>' + verein(alle.filter((z) => z.vorverkauf === k.id).length) + '</small></th>').join('') + '</tr></thead><tbody>' +
       MERKMALE.map((m) => '<tr><th class="zeilenkopf">' + esc(m.t) + '</th>' + kats.map((k) => {
         const spalte = alle.filter((z) => z.vorverkauf === k.id);
         const l = spalte.filter(m.f);
@@ -214,10 +219,14 @@ details.tab td, details.tab th { padding: 5px 8px; }
         const st = stufe(a);
         return '<td><span class="zelle' + (st ? '' : ' leer0') + '" tabindex="0" style="' + (st ? 'background:var(--seq-' + st + ');color:var(--seq-t-' + st + ')' : '') + '" data-tip="' +
           esc(tipText(m.t + ' · ' + KURZ[k.id], [l.length + ' von ' + spalte.length + ' (' + pct(l.length, spalte.length) + ' %)', l.length ? namen(l) : 'keiner'])) + '">' + l.length + ' <small>' + pct(l.length, spalte.length) + ' %</small></span></td>';
-      }).join('') + '</tr>').join('') + '</tbody></table>';
+      }).join('') + '</tr>').join('') + '</tbody></table></div>';
 
     // ---- Muster, aus den Zahlen formuliert
     const muster = [];
+    if (sportarten.length > 1) {
+      const je = sportarten.map((sp) => { const l = alle.filter((z) => z.sport === sp); return [sp, pct(l.filter(ohneOnline).length, l.length), l.length]; }).sort((a, b) => b[1] - a[1]);
+      muster.push('Ohne Online-Vorverkauf nach Sportart: ' + je.map(([sp, p, n]) => '<b>' + esc(sp) + ' ' + p + ' %</b> (' + n + ')').join(', ') + '.');
+    }
     const by = alle.filter((z) => z.land === 'BY'), nby = alle.filter((z) => z.land !== 'BY');
     if (by.length && nby.length) muster.push('In Bayern verkaufen <b>' + pct(by.filter(ohneOnline).length, by.length) + ' %</b> nicht online (' + by.filter(ohneOnline).length + ' von ' + by.length + '), außerhalb <b>' + pct(nby.filter(ohneOnline).length, nby.length) + ' %</b> (' + nby.filter(ohneOnline).length + ' von ' + nby.length + ').');
     if (anbListe.length) muster.push('Häufigster Anbieter: <b>' + esc(anbListe[0][0]) + '</b> bei ' + anbListe[0][1].length + ' von ' + mitAnb.length + ' Vereinen mit Online-Verkauf' + (anbListe.length > 1 ? '; insgesamt ' + anbListe.length + ' verschiedene.' : '.'));
