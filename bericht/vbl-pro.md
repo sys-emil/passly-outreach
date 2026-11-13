@@ -5,16 +5,16 @@ Stand 2026-11-13. Punkte 0 bis 100, Schwelle für Entwürfe 45.
 | Punkte | Verein | Vorverkauf | Kapazität | Preis | Instagram |
 |---:|---|---|---:|---:|---|
 | 96 | SV Lohhof | keiner | 700 | 9 € | @lohhofvolleyball |
+| 60 | VfL Oythe | keiner |  | 8 € | @vfl.oythe |
 | 48 | TV Waldgirmes | keiner |  | 10 € |  |
-| 35 | Eintracht Spontent Düsseldorf | unbekannt |  |  | @eintrachtspontent |
 | 32 | BayerVolleys Leverkusen | anbieter (Vereinsticket (events.vereinsticket.de/tsvbayer04)) | 3500 | 9 € |  |
 | 28 | ESA Grimma Volleys | anbieter (leoticket (eingebunden auf vv-grimma.de)) |  | 12 € | @esagrimmavolleys |
 | 27 | SC Union Emlichheim | anbieter (Reservix (auch über ADticket gelistet)) |  | 8 € | @scu.volleyball |
 | 23 | DSHS SnowTrex Köln | anbieter (ticket.io (dshs-snowtrex-koeln.ticket.io)) |  | 8 € |  |
 | 21 | NawaRo Straubing | anbieter (vivenu (vorher Cortex Tickets)) |  |  |  |
 | 19 | Neuseenland-Volleys Markkleeberg | anbieter (Vereinsticket (tsg1903.vereinsticket.de)) |  |  |  |
-| 11 | VfL Oythe | unbekannt |  | 8 € | @vfl.oythe.volleyball |
-| 0 | Sparkassen Wildcats Stralsund | anbieter (eingebetteter Online-Ticketshop (Anbieter hinter Cookie-Sperre nicht erkennbar)) |  |  | @stralsunderwildcats |
+| 12 | Sparkassen Wildcats Stralsund | anbieter |  |  | @sparkassen.wildcats.stralsund |
+| 7 | Eintracht Spontent Düsseldorf | eintritt_frei |  |  | @eintrachtspontent |
 | 0 | VCO Dresden | unbekannt |  |  |  |
 
 ## SV Lohhof · 96 Punkte
@@ -42,6 +42,21 @@ Hi, Glückwunsch zum Aufstieg in die 2. Liga Pro! Ich hab gesehen, dass es eure 
 - Angebot: Ich richte das nächste Heimspiel kostenlos als Testlauf ein, Abendkasse und Saisonkarte laufen im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.
 - Abschluss: Termin vor Ort in Unterschleißheim vorschlagen, Nachricht mit Link zu getpassly.de/sportvereine hinterherschicken.
 
+## VfL Oythe · 60 Punkte
+
+**Beobachtung:** Die Seite der 1. Frauen (2. Bundesliga Pro) nennt Eintrittspreise 8 € (ermäßigt 5 €, Kinder bis 12 frei), aber keinen Vorverkauf und keinen Ticketlink; nächstes Heimspiel am 21.11. gegen Stralsund im Antonianum.
+
+- Vorverkauf: keiner, Sicherheit mittel
+- Halle: SH Gymnasium Antonianum Vechta, Willohstraße 19, 49377 Vechta
+- Preis: 8 €
+- Nächstes Heimspiel: Samstag, 21.11.2026, 18:00 Uhr gegen Stralsund
+- Instagram: https://instagram.com/vfl.oythe
+- Website: https://www.vfl-oythe.com/volleyball/frauen-bundesliga/
+- Bewertung: +40 nur Abendkasse; +8 Preis 8 €; +8 Instagram vorhanden (DM möglich); +4 nächstes Heimspiel bekannt
+- Belegte Quellen: <https://www.vfl-oythe.com/>, <https://www.vfl-oythe.com/volleyball/frauen-bundesliga/>
+- ⚠ Nicht nachvollziehbare Quellen: https://www.volleyball-bundesliga.de/popup/matchSeries/teamDetails.xhtml?teamId=781345201&hideHistoryBackButton=true
+- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): vorverkauf
+
 ## TV Waldgirmes · 48 Punkte
 
 **Beobachtung:** Die Ticketseite nennt nur Preise (Erwachsene 10 €, Studenten 8 €, Jugend 5 €, Kinder/Mitglieder frei) und keinen Verkaufsweg: kein Shop, kein Link, kein Reservierungshinweis. Der Gesamtspielplan hängt als Bild auf der Seite. Damen 1 und Herren 1 (3. Liga) spielen beide in der Lahntalschule.
@@ -66,31 +81,6 @@ Hi, auf eurer Ticketseite stehen die Preise für die Damen in der 2. Liga Pro un
 - Frage: Wie kommen die Leute heute an Karten, und wie voll ist die Halle bei den Damen?
 - Angebot: Das nächste Heimspiel der Damen kostenlos einrichten, die Herren nach dem Test mit demselben Konto.
 - Abschluss: Link zu getpassly.de/sportvereine, Termin für einen zweiten Anruf.
-
-## Eintracht Spontent Düsseldorf · 35 Punkte
-
-**Beobachtung:** Die Website nennt das nächste Heimspiel am 4.10. in der Sporthalle Luisen-Gymnasium, aber weder Preise noch einen Verkaufsweg oder Ticketlink; die Reichweite läuft über Streaming (Twitch, Dyn, YouTube, TikTok).
-
-- Vorverkauf: unbekannt, Sicherheit mittel
-- Halle: Sporthalle Luisen-Gymnasium, Düsseldorf
-- Nächstes Heimspiel: 04.10.2026 (Sonntag), Sporthalle Luisen-Gymnasium
-- Instagram: https://instagram.com/eintrachtspontent
-- Ansprechperson: Verein (Alte Farbwerke, Halle 29, Ronsdorfer Str. 74), eintracht@spontent.lol
-- Website: https://eintracht-spontent.de
-- Bewertung: +15 Vorverkauf nicht feststellbar; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt
-- Belegte Quellen: <https://eintracht-spontent.de/>
-
-**Instagram-DM**
-
-Hi, ich hab gesehen, dass ihr am 4.10. euer nächstes Heimspiel in der Sporthalle Luisen-Gymnasium habt, und auf der Seite steht nichts zu Tickets. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird gescannt. Für den Verein kostenlos. Wie läuft der Einlass bei euch gerade?
-
-**Telefonleitfaden**
-
-- Kontakt: eintracht@spontent.lol, Instagram @eintrachtspontent (Reichweite läuft über Twitch, TikTok, YouTube).
-- Einstieg: Heimspiel am 4.10., Website ohne Ticketinfo.
-- Frage: Ist der Eintritt frei oder gibt es eine Abendkasse, und wie regelt ihr die Kapazität der Schulhalle?
-- Angebot: Kostenlose Tickets mit Kapazitätsgrenze oder bezahlte, beides über einen Link; Einrichtung fürs nächste Heimspiel kostenlos.
-- Abschluss: Link zu getpassly.de/sportvereine, Rückmeldung per DM abwarten.
 
 ## BayerVolleys Leverkusen · 32 Punkte
 
@@ -184,32 +174,30 @@ Hi, ich hab gesehen, dass eure Jahreskarten per Mail bestellt und bar an der Abe
 - Belegte Quellen: <https://tsg1903.vereinsticket.de/vt-nvm/>
 - ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ansprechperson
 
-## VfL Oythe · 11 Punkte
+## Sparkassen Wildcats Stralsund · 12 Punkte
 
-**Beobachtung:** Die Website (vfl-oythe.com) hat eine Seite „Ticket-Preise - Bundesliga“ mit 8 € / 5 € laut Suchtreffer, die Unterseiten liefern beim Abruf aber 404; die Startseite nennt weder Verkaufsweg noch Ticketlink. Ein Online-Shop ist nirgends verlinkt.
+**Beobachtung:** Die Seite „Tickets“ unter Heimspiele bettet einen externen „Ticketshop“ ein, der ohne Cookie-Zustimmung blockiert wird; Preise stehen nicht im lesbaren Text. Nächstes Heimspiel am 14.11. gegen Markkleeberg in der Diesterweg-Sporthalle.
 
-- Vorverkauf: unbekannt, Sicherheit niedrig
-- Preis: 8 €
-- Instagram: https://instagram.com/vfl.oythe.volleyball
-- Ansprechperson: VfL Oythe 1947 e.V., Oythe 25, 49377 Vechta
-- Website: https://www.vfl-oythe.com
-- Bewertung: +15 Vorverkauf nicht feststellbar; +8 Preis 8 €; +8 Instagram vorhanden (DM möglich); -10 Einordnung unsicher; -10 keine belegte Quelle
-- Belegte Quellen: keine
-- ⚠ Nicht nachvollziehbare Quellen: https://www.vfl-oythe.com/
-- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): ticketpreis_eur, instagram
+- Vorverkauf: anbieter, Sicherheit mittel
+- Halle: Diesterweg-Sporthalle, Rudolf-Virchow-Str. 23, 18435 Stralsund
+- Nächstes Heimspiel: 14.11.2026, 17:00 Uhr gegen Neuseenland-Volleys Markkleeberg
+- Instagram: https://instagram.com/sparkassen.wildcats.stralsund
+- Website: https://www.vc-stralsund.de/wildcats/start
+- Bewertung: 0 verkauft bereits online (Anbieter unbekannt); +8 Instagram vorhanden (DM möglich); +4 nächstes Heimspiel bekannt
+- Belegte Quellen: <https://www.vc-stralsund.de/wildcats/tickets/>, <https://www.vc-stralsund.de/wildcats/spielplan/>
 
-## Sparkassen Wildcats Stralsund · 0 Punkte
+## Eintracht Spontent Düsseldorf · 7 Punkte
 
-**Beobachtung:** Die Ticketseite bettet einen externen Ticketshop ein („Heimspieltickets“, durch Cookie-Einstellungen blockiert); Online-Vorverkauf existiert also, Anbieter und Preise nicht abrufbar. Aktive Instagram- und WhatsApp-Kanäle.
+**Beobachtung:** FAQ: „Du benötigst kein Ticket um unsere Heimspiele zu besuchen.“ Vor Ort gibt es eine Spendenkasse, Getränke kosten 1 €; nächstes Heimspiel der 1. Damen am 14.11. gegen BayerVolleys Leverkusen im Luisen-Gymnasium.
 
-- Vorverkauf: anbieter (eingebetteter Online-Ticketshop (Anbieter hinter Cookie-Sperre nicht erkennbar)), Sicherheit niedrig
-- Halle: Diesterweg-Halle, Stralsund
-- Instagram: https://instagram.com/stralsunderwildcats
-- Website: https://www.vc-stralsund.de/wildcats/
-- Bewertung: 0 verkauft bereits online (eingebetteter Online-Ticketshop (Anbieter hinter Cookie-Sperre nicht erkennbar)); +8 Instagram vorhanden (DM möglich); -10 Einordnung unsicher; -10 keine belegte Quelle
-- Belegte Quellen: keine
-- ⚠ Nicht nachvollziehbare Quellen: https://www.vc-stralsund.de/wildcats/tickets/
-- ⚠ Ohne Beleg auf den Quellen (pruefe.mjs, 2026-11-13): anbieter, instagram
+- Vorverkauf: eintritt_frei, Sicherheit hoch
+- Halle: Sporthalle Luisen-Gymnasium, Völklinger Straße 122-124, 40221 Düsseldorf
+- Nächstes Heimspiel: Samstag, 14.11.2026, 19:00 Uhr, 1. Damen gegen BayerVolleys Leverkusen
+- Instagram: https://instagram.com/eintrachtspontent
+- Ansprechperson: Verein (allgemeiner Kontakt), eintracht@spontent.lol
+- Website: https://eintracht-spontent.de/
+- Bewertung: -20 Eintritt frei, nichts zu verkaufen; +8 Instagram vorhanden (DM möglich); +8 Ansprechperson bekannt; +4 nächstes Heimspiel bekannt; +7 Einordnung sicher
+- Belegte Quellen: <https://eintracht-spontent.de/>, <https://eintracht-spontent.de/faq>
 
 ## VCO Dresden · 0 Punkte
 

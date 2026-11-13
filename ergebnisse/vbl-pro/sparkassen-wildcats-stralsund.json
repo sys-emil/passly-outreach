@@ -8,46 +8,48 @@
     "sport": "Volleyball"
   },
   "ergebnis": {
-    "website": "https://www.vc-stralsund.de/wildcats/",
+    "website": "https://www.vc-stralsund.de/wildcats/start",
     "vorverkauf": "anbieter",
-    "anbieter": "eingebetteter Online-Ticketshop (Anbieter hinter Cookie-Sperre nicht erkennbar)",
+    "anbieter": null,
     "eintritt_frei": false,
     "ticketpreis_eur": null,
-    "halle": "Diesterweg-Halle, Stralsund",
+    "halle": "Diesterweg-Sporthalle, Rudolf-Virchow-Str. 23, 18435 Stralsund",
     "kapazitaet": null,
-    "instagram": "stralsunderwildcats",
+    "instagram": "sparkassen.wildcats.stralsund",
     "ansprechperson": null,
-    "naechstes_heimspiel": null,
-    "beobachtung": "Die Ticketseite bettet einen externen Ticketshop ein („Heimspieltickets“, durch Cookie-Einstellungen blockiert); Online-Vorverkauf existiert also, Anbieter und Preise nicht abrufbar. Aktive Instagram- und WhatsApp-Kanäle.",
+    "naechstes_heimspiel": "14.11.2026, 17:00 Uhr gegen Neuseenland-Volleys Markkleeberg",
+    "beobachtung": "Die Seite „Tickets“ unter Heimspiele bettet einen externen „Ticketshop“ ein, der ohne Cookie-Zustimmung blockiert wird; Preise stehen nicht im lesbaren Text. Nächstes Heimspiel am 14.11. gegen Markkleeberg in der Diesterweg-Sporthalle.",
     "quellen": [
-      "https://www.vc-stralsund.de/wildcats/tickets/"
+      "https://www.vc-stralsund.de/wildcats/tickets/",
+      "https://www.vc-stralsund.de/wildcats/spielplan/"
     ],
-    "sicherheit": "niedrig"
+    "sicherheit": "mittel"
   },
   "meta": {
-    "recherchiert_am": "2026-09-20",
-    "modell": "claude-opus-5 (Claude Code Sitzung)",
-    "schritte": 3,
-    "quellen_belegt": [],
-    "quellen_nur_suchtreffer": [
-      "https://www.instagram.com/stralsunderwildcats/"
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.vc-stralsund.de/wildcats/tickets/",
+      "https://www.vc-stralsund.de/wildcats/spielplan/"
     ],
-    "quellen_nicht_nachvollziehbar": [
-      "https://www.vc-stralsund.de/wildcats/tickets/"
-    ],
-    "notiz": "Anbieter im Browser prüfen (Cookies akzeptieren). Wahrscheinlich kein Kandidat.",
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorlauf-Vorschlag keine_angabe korrigiert: Ticketseite hat ein eingebettetes externes Ticketshop-Element (Cookie-Dienst „Ticketshop“, Richtlinie „Personalisierung“), Anbietername/Domain im lesbaren Inhalt nicht erkennbar, daher anbieter null. Alter VBL-Ticketlink stralsunder-wildcats.de/heimspiel/tickets.html leitet per 301 auf vc-stralsund.de/wildcats/tickets/ (4. Abruf, nur Redirect). eintritt_frei=false abgeleitet aus vorhandenem Ticketshop. Halle durch Spielplan bestätigt. Kapazität, Preise, Ansprechperson nicht gefunden; VBL nennt Tino Härle (Mannschaft/PR) und Steffen Täubrich (PR), nicht selbst gelesen.",
     "kosten_usd": 0,
     "quellen_selbst_angegeben": [
-      "https://www.vc-stralsund.de/wildcats/tickets/"
+      "https://www.vc-stralsund.de/wildcats/tickets/",
+      "https://www.vc-stralsund.de/wildcats/spielplan/"
     ],
     "quellen_nicht_pruefbar": [],
     "pruefung": {
       "am": "2026-11-13",
       "fakten": {
-        "anbieter": [],
-        "instagram": []
-      },
-      "sicherheit_vorher": "mittel"
+        "instagram": [
+          "https://www.vc-stralsund.de/wildcats/tickets/",
+          "https://www.vc-stralsund.de/wildcats/spielplan/"
+        ]
+      }
     }
   }
 }

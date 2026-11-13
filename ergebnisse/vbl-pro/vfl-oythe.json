@@ -8,49 +8,55 @@
     "sport": "Volleyball"
   },
   "ergebnis": {
-    "website": "https://www.vfl-oythe.com",
-    "vorverkauf": "unbekannt",
+    "website": "https://www.vfl-oythe.com/volleyball/frauen-bundesliga/",
+    "vorverkauf": "keiner",
     "anbieter": null,
     "eintritt_frei": false,
     "ticketpreis_eur": 8,
-    "halle": null,
+    "halle": "SH Gymnasium Antonianum Vechta, Willohstraße 19, 49377 Vechta",
     "kapazitaet": null,
-    "instagram": "vfl.oythe.volleyball",
-    "ansprechperson": {
-      "name": null,
-      "rolle": "VfL Oythe 1947 e.V., Oythe 25, 49377 Vechta",
-      "kontakt": null
-    },
-    "naechstes_heimspiel": null,
-    "beobachtung": "Die Website (vfl-oythe.com) hat eine Seite „Ticket-Preise - Bundesliga“ mit 8 € / 5 € laut Suchtreffer, die Unterseiten liefern beim Abruf aber 404; die Startseite nennt weder Verkaufsweg noch Ticketlink. Ein Online-Shop ist nirgends verlinkt.",
+    "instagram": "vfl.oythe",
+    "ansprechperson": null,
+    "naechstes_heimspiel": "Samstag, 21.11.2026, 18:00 Uhr gegen Stralsund",
+    "beobachtung": "Die Seite der 1. Frauen (2. Bundesliga Pro) nennt Eintrittspreise 8 € (ermäßigt 5 €, Kinder bis 12 frei), aber keinen Vorverkauf und keinen Ticketlink; nächstes Heimspiel am 21.11. gegen Stralsund im Antonianum.",
     "quellen": [
-      "https://www.vfl-oythe.com/"
+      "https://www.vfl-oythe.com/",
+      "https://www.vfl-oythe.com/volleyball/frauen-bundesliga/",
+      "https://www.volleyball-bundesliga.de/popup/matchSeries/teamDetails.xhtml?teamId=781345201&hideHistoryBackButton=true"
     ],
-    "sicherheit": "niedrig"
+    "sicherheit": "mittel"
   },
   "meta": {
-    "recherchiert_am": "2026-09-20",
-    "modell": "claude-opus-5 (Claude Code Sitzung)",
-    "schritte": 5,
-    "quellen_belegt": [],
-    "quellen_nur_suchtreffer": [
-      "https://www.vfl-oythe.com/tickets",
-      "https://www.instagram.com/vfl.oythe.volleyball/"
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.vfl-oythe.com/",
+      "https://www.vfl-oythe.com/volleyball/frauen-bundesliga/"
     ],
+    "quellen_nur_suchtreffer": [],
     "quellen_nicht_nachvollziehbar": [
-      "https://www.vfl-oythe.com/"
+      "https://www.volleyball-bundesliga.de/popup/matchSeries/teamDetails.xhtml?teamId=781345201&hideHistoryBackButton=true"
     ],
-    "notiz": "Website ist ein JS-Baukasten, Unterseiten nicht abrufbar. Von Hand im Browser prüfen: vfl-oythe.com/tickets. Preis 8 € aus Suchtreffer für 2024/25.",
+    "notiz": "Vorlauf-Vorschlag keine_angabe korrigiert: Mannschaftsseite hat Abschnitt #tickets mit Preisen (8/5 €, Kinder frei), aber ohne Vorverkauf/Shop; eingeordnet als keiner (Tageskasse), aber Abendkasse wird nicht ausdrücklich genannt, daher mittel. Fanshop vfl-oythe.fan12.de ist Merchandise, nicht geprüft. Halle per VBL-Spielplan bestätigt. Kapazität und Ansprechperson nicht gefunden; VBL nennt Jurina Wehry (Mannschaft), Andreas Middelkamp und Michael Surmann (PR), nicht selbst gelesen.",
     "kosten_usd": 0,
     "quellen_selbst_angegeben": [
-      "https://www.vfl-oythe.com/"
+      "https://www.vfl-oythe.com/",
+      "https://www.vfl-oythe.com/volleyball/frauen-bundesliga/",
+      "https://www.volleyball-bundesliga.de/popup/matchSeries/teamDetails.xhtml?teamId=781345201&hideHistoryBackButton=true"
     ],
     "quellen_nicht_pruefbar": [],
     "pruefung": {
       "am": "2026-11-13",
       "fakten": {
-        "ticketpreis_eur": [],
-        "instagram": []
+        "instagram": [
+          "https://www.vfl-oythe.com/",
+          "https://www.vfl-oythe.com/volleyball/frauen-bundesliga/"
+        ],
+        "ticketpreis_eur": [
+          "https://www.vfl-oythe.com/volleyball/frauen-bundesliga/"
+        ],
+        "vorverkauf": []
       }
     }
   }

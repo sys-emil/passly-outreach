@@ -8,54 +8,59 @@
     "sport": "Volleyball"
   },
   "ergebnis": {
-    "website": "https://eintracht-spontent.de",
-    "vorverkauf": "unbekannt",
+    "website": "https://eintracht-spontent.de/",
+    "vorverkauf": "eintritt_frei",
     "anbieter": null,
-    "eintritt_frei": null,
+    "eintritt_frei": true,
     "ticketpreis_eur": null,
-    "halle": "Sporthalle Luisen-Gymnasium, Düsseldorf",
+    "halle": "Sporthalle Luisen-Gymnasium, Völklinger Straße 122-124, 40221 Düsseldorf",
     "kapazitaet": null,
     "instagram": "eintrachtspontent",
     "ansprechperson": {
       "name": null,
-      "rolle": "Verein (Alte Farbwerke, Halle 29, Ronsdorfer Str. 74)",
+      "rolle": "Verein (allgemeiner Kontakt)",
       "kontakt": "eintracht@spontent.lol"
     },
-    "naechstes_heimspiel": "04.10.2026 (Sonntag), Sporthalle Luisen-Gymnasium",
-    "beobachtung": "Die Website nennt das nächste Heimspiel am 4.10. in der Sporthalle Luisen-Gymnasium, aber weder Preise noch einen Verkaufsweg oder Ticketlink; die Reichweite läuft über Streaming (Twitch, Dyn, YouTube, TikTok).",
+    "naechstes_heimspiel": "Samstag, 14.11.2026, 19:00 Uhr, 1. Damen gegen BayerVolleys Leverkusen",
+    "beobachtung": "FAQ: „Du benötigst kein Ticket um unsere Heimspiele zu besuchen.“ Vor Ort gibt es eine Spendenkasse, Getränke kosten 1 €; nächstes Heimspiel der 1. Damen am 14.11. gegen BayerVolleys Leverkusen im Luisen-Gymnasium.",
     "quellen": [
-      "https://eintracht-spontent.de/"
+      "https://eintracht-spontent.de/",
+      "https://eintracht-spontent.de/faq"
     ],
-    "sicherheit": "mittel"
+    "sicherheit": "hoch"
   },
   "meta": {
-    "recherchiert_am": "2026-09-20",
-    "modell": "claude-opus-5 (Claude Code Sitzung)",
-    "schritte": 3,
+    "recherchiert_am": "2026-11-13",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 2,
     "quellen_belegt": [
-      "https://eintracht-spontent.de/"
+      "https://eintracht-spontent.de/",
+      "https://eintracht-spontent.de/faq"
     ],
-    "quellen_nur_suchtreffer": [
-      "https://de.wikipedia.org/wiki/Eintracht_Spontent"
-    ],
+    "quellen_nur_suchtreffer": [],
     "quellen_nicht_nachvollziehbar": [],
-    "notiz": "Von Streamern (Spontent) gegründeter Verein, junges Publikum, sehr Instagram-/TikTok-affin. Genau die Zielgruppe für einen Link in der Bio. Klären, ob Eintritt frei ist.",
+    "notiz": "Vorlauf-Vorschlag keine_angabe korrigiert auf eintritt_frei (FAQ: kein Ticket nötig, Spendenkasse). Shop-Link (indoortrends.de/vereinsheim) ist Merchandise, kein Ticketing. Kapazität nicht angegeben. VBL nennt Till Vollhardt als Mannschaftsverantwortlichen, nicht selbst gelesen.",
     "kosten_usd": 0,
     "quellen_selbst_angegeben": [
-      "https://eintracht-spontent.de/"
+      "https://eintracht-spontent.de/",
+      "https://eintracht-spontent.de/faq"
     ],
     "quellen_nicht_pruefbar": [],
     "pruefung": {
       "am": "2026-11-13",
       "fakten": {
         "instagram": [
-          "https://eintracht-spontent.de/"
+          "https://eintracht-spontent.de/",
+          "https://eintracht-spontent.de/faq"
         ],
         "ansprechperson": [
-          "https://eintracht-spontent.de/"
+          "https://eintracht-spontent.de/",
+          "https://eintracht-spontent.de/faq"
+        ],
+        "vorverkauf": [
+          "https://eintracht-spontent.de/faq"
         ]
       }
     }
-  },
-  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass ihr am 4.10. euer nächstes Heimspiel in der Sporthalle Luisen-Gymnasium habt, und auf der Seite steht nichts zu Tickets. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird gescannt. Für den Verein kostenlos. Wie läuft der Einlass bei euch gerade?\n\n**Telefonleitfaden**\n\n- Kontakt: eintracht@spontent.lol, Instagram @eintrachtspontent (Reichweite läuft über Twitch, TikTok, YouTube).\n- Einstieg: Heimspiel am 4.10., Website ohne Ticketinfo.\n- Frage: Ist der Eintritt frei oder gibt es eine Abendkasse, und wie regelt ihr die Kapazität der Schulhalle?\n- Angebot: Kostenlose Tickets mit Kapazitätsgrenze oder bezahlte, beides über einen Link; Einrichtung fürs nächste Heimspiel kostenlos.\n- Abschluss: Link zu getpassly.de/sportvereine, Rückmeldung per DM abwarten."
+  }
 }

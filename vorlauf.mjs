@@ -54,7 +54,7 @@ const SIGNALE = {
   vorverkauf: /vorverkauf/,
   von_hand: /(karten|tickets?)[^.!?]{0,80}(per|via|unter|an)\s+(e-?mail|mail|telefon)|reservier|vorbestell/,
   // „Kinder bis 12 Jahre freier Eintritt" ist kein freier Eintritt (SV Lohhof, 2026-11-13).
-  eintritt_frei: /(?<!(?:kinder|jugend\w*|schüler\w*|jahre?n?|mitglieder\w*|begleit\w*)[^.€]{0,30})(?:eintritt\s+(?:ist\s+)?frei|freier eintritt|eintritt kostenlos)/,
+  eintritt_frei: /(?<!(?:kinder|jugend\w*|schüler\w*|jahre?n?|mitglieder\w*|begleit\w*)[^.€]{0,30})(?:eintritt\s+(?:ist\s+)?frei|freier eintritt|eintritt kostenlos|(?:benötigst|brauchst|braucht|benötigt) (?:du |ihr )?kein(?:e)? tickets?)/,
   dauerkarte: /dauerkarte|saisonkarte/,
   bar: /nur bar|barzahlung|bargeld/,
 };
