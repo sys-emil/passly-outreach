@@ -9,7 +9,8 @@
     "bericht": "node --env-file-if-exists=.env bericht.mjs",
     "uebersicht": "node uebersicht.mjs",
     "fakten": "{ echo \"<!-- Kopie von tokn-on-sol/scripts/blog/fakten.md, Stand $(date +%F). Lokal immer das Original lesen; diese Kopie ist nur für Cloud-Sitzungen ohne das Hauptrepo. Nachziehen: npm run fakten -->\"; cat ../tokn-on-sol/scripts/blog/fakten.md; } > anleitung/passly-fakten.md",
-    "vorlauf": "node vorlauf.mjs"
+    "vorlauf": "node vorlauf.mjs",
+    "sync": "node --env-file-if-exists=.env sync.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.127.0"

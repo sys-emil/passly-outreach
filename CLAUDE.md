@@ -9,6 +9,10 @@ Recherche über Claude-Code-Kontingent statt über API-Guthaben.
 Punkte mit Begründung, E-Mail, Entwürfe; Reiter „Daten“ mit Statistiken über alle Staffeln). Öffnen mit `npm run uebersicht`; sie baut
 sich bei jedem `npm run bericht` neu. `bericht/<liga>.md` und `.csv` bleiben daneben.
 
+**Im Admin von Passly:** `npm run sync` schickt alle Ergebnisse an den Tab „Kundensuche“
+(Kontaktstatus, Notizen, Wiedervorlage pflegt Emil dort; der Import fasst sie nie an).
+Nach jedem Rechercheauftrag `npm run sync` anbieten, nicht ungefragt senden.
+
 **Verschickt wird nichts.** Keine Mail, keine DM, kein Formular. Du lieferst Fakten,
 Rangfolge und Entwürfe; Emil nimmt den Kontakt selbst auf (§ 7 UWG, siehe README).
 
