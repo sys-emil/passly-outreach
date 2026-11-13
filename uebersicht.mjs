@@ -25,8 +25,14 @@ export async function schreibeUebersicht() {
     }
   }
   zeilen.sort((a, b) => b.punkte - a.punkte);
+  // Ligen ohne Vereinsliste (Teams kommen aus der Quelle): Gesamtzahl aus dem Vorlauf.
+  const teamsImVorlauf = {};
+  for (const id of ligen) {
+    const v = await fs.readFile(path.join(HERE, 'vorlauf', `${id}.json`), 'utf8').then(JSON.parse).catch(() => null);
+    if (v) teamsImVorlauf[id] = v.teams.filter((t) => t.typ === 'verein').length;
+  }
   const staffeln = ligen
-    .map((id) => ({ id, name: vereineJson.ligen[id].name, sport: vereineJson.ligen[id].sport, anzahl: zeilen.filter((z) => z.liga === id).length, gesamt: vereineJson.ligen[id].vereine.length }));
+    .map((id) => ({ id, name: vereineJson.ligen[id].name, sport: vereineJson.ligen[id].sport, anzahl: zeilen.filter((z) => z.liga === id).length, gesamt: vereineJson.ligen[id].vereine.length || teamsImVorlauf[id] || 0 }));
   const datenReiter = await fs.readFile(path.join(HERE, 'vorlage', 'daten.html'), 'utf8');
   await fs.writeFile(ZIEL, html({ zeilen, staffeln, stand: new Date().toISOString().slice(0, 10) }).replace('<!--DATEN-REITER-->', () => datenReiter));
   return ZIEL;
