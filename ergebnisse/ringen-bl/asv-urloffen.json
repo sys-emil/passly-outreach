@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "ASV Urloffen",
+    "land": null,
+    "liga": "ringen-bl",
+    "liga_name": "Ringer-Bundesliga",
+    "sport": "Ringen"
+  },
+  "ergebnis": {
+    "website": "https://www.asvurloffen.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 10,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seite „Eintrittspreise“ nennt Einzelkarte 10 € und Dauerkarte 65 €, aber keinen Vorverkauf und keinen Shop.",
+    "quellen": [
+      "https://www.asvurloffen.de/eintrittspreise",
+      "https://www.asvurloffen.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.asvurloffen.de/eintrittspreise"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.asvurloffen.de/"
+    ],
+    "notiz": "Preisliste mit Überschrift Saison 2025. Instagram-Link auf der Startseite gehört einem Sponsor, deshalb keiner eingetragen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.asvurloffen.de/eintrittspreise",
+      "https://www.asvurloffen.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.asvurloffen.de/eintrittspreise"
+        ]
+      }
+    }
+  }
+}

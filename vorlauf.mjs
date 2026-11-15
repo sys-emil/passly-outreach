@@ -88,7 +88,7 @@ if (!liga || !QUELLE) {
   console.error(`Liga ${ligaId} unbekannt oder ohne Quelle. Bekannt: ${Object.keys(vereineJson.ligen).join(', ')}`);
   process.exit(1);
 }
-QUELLE.name ??= { vbl: 'VBL', gfl: 'GFL', '2bbl': '2. Basketball-Bundesliga', wikipedia: 'Wikipedia' }[QUELLE.typ] ?? QUELLE.typ.toUpperCase();
+QUELLE.name ??= { vbl: 'VBL', gfl: 'GFL', '2bbl': '2. Basketball-Bundesliga', wikipedia: 'Wikipedia', namen: 'Verband' }[QUELLE.typ] ?? QUELLE.typ.toUpperCase();
 const heute = new Date().toISOString().slice(0, 10);
 let abrufe = 0;
 
@@ -101,6 +101,7 @@ try {
   teams = QUELLE.typ === 'gfl' ? await stufe0Gfl(QUELLE)
     : QUELLE.typ === '2bbl' ? await stufe0Basketball(QUELLE)
     : QUELLE.typ === 'wikipedia' ? await stufe0Wikipedia(QUELLE)
+    : QUELLE.typ === 'namen' ? await stufe0Namen(QUELLE)
     : await stufe0Vbl(QUELLE);
 } catch {
   process.exit(2);
@@ -242,6 +243,13 @@ async function stufe0Wikipedia(q) {
     console.error('Keine Handballtabelle auf der Wikipedia-Seite gefunden; hat sich der Aufbau geändert?');
     throw new Error('quelle');
   }
+  await wikiAufloesen(teams, api);
+  return teams;
+}
+
+// Website und Ort je Team aus Wikidata (P856, P159, P281), Rückfall Infobox „Website =“.
+// team_id ist der Wikipedia-Artikel (ohne #Abschnitt zählt der Artikel).
+async function wikiAufloesen(teams, api) {
   // Artikel (ohne #Abschnitt) → Wikidata-ID, Weiterleitungen aufgelöst
   const titel = [...new Set(teams.map((t) => t.team_id.split('#')[0]))];
   const qid = {};
@@ -290,6 +298,28 @@ async function stufe0Wikipedia(q) {
       t.plz ??= String(wert(o, 'P281') ?? '').match(/\d{5}/)?.[0] ?? null;
     }
   }
+}
+
+// Nur Vereinsnamen (z. B. Ringer-Bundesliga, Tabelle auf ringen.de): je Name die Wikipedia-Suche,
+// erster Treffer wird der Artikel. Unsicher bei Allerweltsnamen, deshalb steht die Zuordnung im Hinweis.
+async function stufe0Namen(q) {
+  const api = 'https://de.wikipedia.org/w/api.php?format=json&formatversion=2&';
+  listeUrl = q.url;
+  const teams = [];
+  for (const name of q.namen) {
+    const r = await holen(`${api}action=query&list=search&srlimit=1&srsearch=${encodeURIComponent(`${name} ${q.suche ?? ''}`.trim())}`);
+    const treffer = r.ok ? JSON.parse(r.roh).query?.search?.[0]?.title : null;
+    // Nur wenn mindestens zwei Wörter des Namens im Titel stehen (sonst Ort, Person oder Liga, Ringen 2026-11-15).
+    const worte = name.toLowerCase().split(/[\s/]+/).filter((w) => w.length > 2);
+    const titel = treffer && worte.filter((w) => treffer.toLowerCase().includes(w)).length >= Math.min(2, worte.length) ? treffer : null;
+    teams.push({ verband_name: name, team_id: titel ?? name, homepage: null, ticketlink: null,
+      verband_team_url: titel ? `https://de.wikipedia.org/wiki/${encodeURIComponent(titel.replace(/ /g, '_'))}` : q.url,
+      verband_kontakt_url: q.url, verband_kontakte: [], verband_emails: [],
+      verband_hinweis: titel ? `Wikipedia-Artikel per Suche: ${titel}` : 'kein Wikipedia-Artikel gefunden' });
+  }
+  await wikiAufloesen(teams.filter((t) => t.verband_hinweis.startsWith('Wikipedia')), api);
+  // Von Hand belegte Homepages (vereine.json „homepages“) gehen vor.
+  for (const [n, h] of Object.entries(q.homepages ?? {})) { const t = teams.find((x) => x.verband_name === n); if (t) t.homepage = h; }
   return teams;
 }
 

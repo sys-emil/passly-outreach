@@ -1,0 +1,59 @@
+{
+  "verein": {
+    "name": "RKG Freiburg 2000",
+    "land": null,
+    "liga": "ringen-bl",
+    "liga_name": "Ringer-Bundesliga",
+    "sport": "Ringen"
+  },
+  "ergebnis": {
+    "website": "https://www.rkg-freiburg-2000.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 12,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "rkgfreiburg2000",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticket-Bestellung laut Website per E-Mail mit Heimkampf-Datum und Anzahl, danach Überweisung aufs Vereinskonto; Stehplatz 12 €, Matte 15 €, Dauerkarten für 6 Heimkämpfe.",
+    "quellen": [
+      "https://www.rkg-freiburg-2000.de/tickets/",
+      "https://www.rkg-freiburg-2000.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.rkg-freiburg-2000.de/tickets/",
+      "https://www.rkg-freiburg-2000.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorlauf hatte „Freier Eintritt“ gefunden: gilt nur für Kaderringer am OSP Freiburg. Bestellung per Mail plus Überweisung: klassischer Fall für Passly.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.rkg-freiburg-2000.de/tickets/",
+      "https://www.rkg-freiburg-2000.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://www.rkg-freiburg-2000.de/tickets/",
+          "https://www.rkg-freiburg-2000.de/"
+        ],
+        "vorverkauf": [
+          "https://www.rkg-freiburg-2000.de/tickets/"
+        ],
+        "ticketpreis_eur": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gelesen, dass man eure Tickets per E-Mail bestellt und dann aufs Vereinskonto überweist. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Bezahlt wird gleich beim Bestellen, Dauerkarte inklusive. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: RKG Freiburg 2000 über die Kontaktseite, nach der Person fragen, die die Ticket-Mails bearbeitet.\n- Einstieg: Bestellung per Mail mit Datum und Anzahl, dann Überweisung; Dauerkarten für 6 Heimkämpfe.\n- Frage: Wie viel Arbeit ist es, Mails und Überweisungen abzugleichen?\n- Angebot: Nächsten Heimkampf kostenlos als Testlauf einrichten, Auszahlung nach dem Kampf aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

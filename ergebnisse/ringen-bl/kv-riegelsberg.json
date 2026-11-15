@@ -1,0 +1,40 @@
+{
+  "verein": {
+    "name": "KV Riegelsberg",
+    "land": null,
+    "liga": "ringen-bl",
+    "liga_name": "Ringer-Bundesliga",
+    "sport": "Ringen"
+  },
+  "ergebnis": {
+    "website": null,
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Keine Website der Ringerabteilung von KV Riegelsberg gefunden (Suche und naheliegende Adressen); die Ticketfrage ist offen.",
+    "quellen": [],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Anruf.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {}
+    }
+  }
+}

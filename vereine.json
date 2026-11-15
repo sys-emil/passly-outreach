@@ -443,6 +443,54 @@
         "staffel": "Staffel Süd-West"
       },
       "vereine": []
+    },
+    "ringen-bl": {
+      "name": "Ringer-Bundesliga",
+      "sport": "Ringen",
+      "quelle": {
+        "typ": "namen",
+        "url": "https://www.ringen.de/bundesliga/",
+        "suche": "Ringen",
+        "namen": [
+          "KSC Hösbach",
+          "SC Kleinostheim",
+          "SVG 04 Weingarten",
+          "KSV Köllerbach",
+          "RSV Rotation Greiz",
+          "RKG Freiburg 2000",
+          "ASV Mainz 88",
+          "ASV Schorndorf",
+          "FC Erzgebirge Aue",
+          "KG Baienfurt/Ravensburg",
+          "AC Lichtenfels",
+          "KSV Witten 07",
+          "RKG Reilingen/Hockenheim",
+          "SV Wacker Burghausen",
+          "AC Heusweiler",
+          "ASV Urloffen",
+          "KV Riegelsberg",
+          "SG Weilimdorf",
+          "ASV Hüttigweiler",
+          "RG Saarbrücken"
+        ],
+        "homepages": {
+          "KSC Hösbach": "https://germania-vikings.de/",
+          "KSV Köllerbach": "https://ksv-koellerbach.de/",
+          "RSV Rotation Greiz": "https://rsv-rotation-greiz.de/",
+          "RKG Freiburg 2000": "https://www.rkg-freiburg-2000.de/",
+          "ASV Mainz 88": "https://mainz88.de/",
+          "ASV Schorndorf": "https://asvschorndorf.de/",
+          "AC Lichtenfels": "https://ac-lichtenfels.de/",
+          "KSV Witten 07": "https://www.ksv-witten.de/",
+          "SV Wacker Burghausen": "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/",
+          "AC Heusweiler": "https://www.ac-heusweiler.de/",
+          "ASV Urloffen": "https://www.asvurloffen.de/",
+          "SG Weilimdorf": "https://www.weilimdorf-ringen.de/",
+          "RG Saarbrücken": "https://www.rg-saarbruecken.de/",
+          "KG Baienfurt/Ravensburg": "https://kg-baienfurt.de/"
+        }
+      },
+      "vereine": []
     }
   }
 }

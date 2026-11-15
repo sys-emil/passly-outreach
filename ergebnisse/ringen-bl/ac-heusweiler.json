@@ -1,0 +1,50 @@
+{
+  "verein": {
+    "name": "AC Heusweiler",
+    "land": null,
+    "liga": "ringen-bl",
+    "liga_name": "Ringer-Bundesliga",
+    "sport": "Ringen"
+  },
+  "ergebnis": {
+    "website": "https://www.ac-heusweiler.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "ac_heusweiler",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Auf der Startseite von AC Heusweiler steht nichts zu Eintritt oder Tickets; übliche Ticketpfade (/tickets, /eintritt) gibt es nicht.",
+    "quellen": [
+      "https://www.ac-heusweiler.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.ac-heusweiler.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Seite lädt Menü und Inhalte per JavaScript; im lesbaren HTML nichts zu Tickets. Anruf oder Instagram klärt es.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.ac-heusweiler.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://www.ac-heusweiler.de/"
+        ]
+      }
+    }
+  }
+}

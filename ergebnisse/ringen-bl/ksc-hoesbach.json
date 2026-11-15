@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "KSC Hösbach",
+    "land": null,
+    "liga": "ringen-bl",
+    "liga_name": "Ringer-Bundesliga",
+    "sport": "Ringen"
+  },
+  "ergebnis": {
+    "website": "https://germania-vikings.de/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 16,
+    "halle": "Kultur- und Sportpark Hösbach",
+    "kapazitaet": null,
+    "instagram": "kschoesbach",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tagestickets für die Saison 2026 gibt es an der Abendkasse (Stehplatz 16 €, Mattensitzplätze 25 € schon ausverkauft); zuletzt 440 Zuschauer gegen Urloffen.",
+    "quellen": [
+      "https://germania-vikings.de/tickets/",
+      "https://germania-vikings.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://germania-vikings.de/tickets/",
+      "https://germania-vikings.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ausverkaufte Mattenplätze laufen offenbar über Dauerkarten; wie die verkauft werden, steht nicht da. Busfahrten zu Auswärtskämpfen werden bar bei Abfahrt bezahlt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://germania-vikings.de/tickets/",
+      "https://germania-vikings.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://germania-vikings.de/tickets/"
+        ],
+        "instagram": [
+          "https://germania-vikings.de/tickets/",
+          "https://germania-vikings.de/"
+        ],
+        "vorverkauf": [
+          "https://germania-vikings.de/tickets/",
+          "https://germania-vikings.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass es eure Tagestickets an der Abendkasse gibt und die Mattensitzplätze schon ausverkauft sind. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Abendkasse und Dauerkarte laufen im selben System. Für euch kostenlos. Passt ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: KSC Hösbach über die Kontaktseite von germania-vikings.de, nach der Person fragen, die die Heimkämpfe organisiert.\n- Einstieg: Tagestickets an der Abendkasse, Stehplatz 16 €, Mattensitzplätze ausverkauft, zuletzt 440 Zuschauer gegen Urloffen.\n- Frage: Wie verkauft ihr die Mattenplätze und Dauerkarten, und wie lang ist die Schlange an der Abendkasse?\n- Angebot: Nächsten Heimkampf kostenlos als Testlauf einrichten, Abendkasse im selben System, Auszahlung nach dem Kampf aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

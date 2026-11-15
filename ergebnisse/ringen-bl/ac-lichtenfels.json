@@ -1,0 +1,57 @@
+{
+  "verein": {
+    "name": "AC Lichtenfels",
+    "land": null,
+    "liga": "ringen-bl",
+    "liga_name": "Ringer-Bundesliga",
+    "sport": "Ringen"
+  },
+  "ergebnis": {
+    "website": "https://ac-lichtenfels.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Etix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "acl1921",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Etix (eingebunden auf https://ac-lichtenfels.de/: https://ac-lichtenfels.de/).",
+    "quellen": [
+      "https://ac-lichtenfels.de/",
+      "https://www.ringen.de/bundesliga/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://ac-lichtenfels.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.ringen.de/bundesliga/"
+    ],
+    "notiz": "Ohne Modell geklärt. Verband-Name „AC Lichtenfels“. Gelesen: https://ac-lichtenfels.de/, https://ac-lichtenfels.de/tickets-preise/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://ac-lichtenfels.de/",
+      "https://www.ringen.de/bundesliga/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://ac-lichtenfels.de/"
+        ],
+        "instagram": [
+          "https://ac-lichtenfels.de/"
+        ]
+      }
+    }
+  }
+}

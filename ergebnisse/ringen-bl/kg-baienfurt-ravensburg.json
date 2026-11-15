@@ -1,0 +1,66 @@
+{
+  "verein": {
+    "name": "KG Baienfurt/Ravensburg",
+    "land": null,
+    "liga": "ringen-bl",
+    "liga_name": "Ringer-Bundesliga",
+    "sport": "Ringen"
+  },
+  "ergebnis": {
+    "website": "https://kg-baienfurt.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 14,
+    "halle": "Neue Sporthalle Baienfurt",
+    "kapazitaet": null,
+    "instagram": "kgbaienfurt",
+    "ansprechperson": {
+      "name": "Markus Bohmeier",
+      "rolle": "1. Vorstand",
+      "kontakt": "info@kg-baienfurt.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seite „Eintrittspreise“ nennt Erwachsene 14 € und Dauerkarten ab 70 €, aber keinen Vorverkauf und keinen Shop.",
+    "quellen": [
+      "https://kg-baienfurt.de/verein/eintrittspreise/",
+      "https://kg-baienfurt.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://kg-baienfurt.de/verein/eintrittspreise/",
+      "https://kg-baienfurt.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Preisliste trägt noch Saison 2025/2026.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://kg-baienfurt.de/verein/eintrittspreise/",
+      "https://kg-baienfurt.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://kg-baienfurt.de/verein/eintrittspreise/"
+        ],
+        "instagram": [
+          "https://kg-baienfurt.de/verein/eintrittspreise/",
+          "https://kg-baienfurt.de/"
+        ],
+        "ansprechperson": [
+          "https://kg-baienfurt.de/verein/eintrittspreise/",
+          "https://kg-baienfurt.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab eure Eintrittspreise für die Bundesliga gesehen, Erwachsene 14 € und Dauerkarten ab 70 €, aber keinen Vorverkauf gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Markus Bohmeier (1. Vorstand), info@kg-baienfurt.de.\n- Einstieg: Erwachsene 14 €, Mitglieder 12 €, Dauerkarten ab 70 €, auf der Seite kein Vorverkauf.\n- Frage: Wie verkauft ihr die Dauerkarten gerade, und wie läuft die Abendkasse?\n- Angebot: Nächsten Heimkampf kostenlos als Testlauf einrichten, Auszahlung nach dem Kampf aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

@@ -1,0 +1,668 @@
+{
+  "liga": "ringen-bl",
+  "stand": "2026-11-15",
+  "quelle": "https://www.ringen.de/bundesliga/",
+  "abrufe": 48,
+  "teams": [
+    {
+      "verband_name": "KSC Hösbach",
+      "team_id": "KSC Hösbach",
+      "homepage": "https://germania-vikings.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "KSC Hösbach",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://germania-vikings.de/",
+        "https://germania-vikings.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://germania-vikings.de/",
+          "stelle": ". - Hier klicken! &times; Tickets für den Heimkampf am Samstag an der Abendkasse erhältlich! KSC Hösbach | Germania Vikings Traditionsreicher Ringerve"
+        },
+        "vorverkauf": {
+          "url": "https://germania-vikings.de/tickets/",
+          "stelle": "ind frei. Tageskarten anfragen an: tickets@germania-vikings.de Ticket-Vorverkauf für&#8217;s Viertelfinale vs. SV Wacker Burghausen Zu den Tickets Dau"
+        },
+        "von_hand": {
+          "url": "https://germania-vikings.de/tickets/",
+          "stelle": "se dieses Feld leer. Saison 2022 / 23 Erhältliche Produkte: Alle Dauerkarten können per Online-Shop oder auch per Mail an tickets@germania-vikings.de vorbestellt werden. Bestellte Dauerkar"
+        },
+        "dauerkarte": {
+          "url": "https://germania-vikings.de/tickets/",
+          "stelle": "Scorer OBERLIGA Kampftage Tabelle PARTNER TICKETS MERCHANDISE Kontakt Dauerkarten berechtigen zum Eintritt für die Kämpfe der Gruppenphase der Saison"
+        }
+      },
+      "instagram": [
+        "kschoesbach"
+      ],
+      "emails": [
+        "tickets@germania-vikings.de"
+      ],
+      "preise": [
+        {
+          "eur": 50,
+          "url": "https://germania-vikings.de/",
+          "stelle": "eintrittskarte zum 🤼‍♂kampf betragen 50 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SC Kleinostheim",
+      "team_id": "SC Kleinostheim",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "SC Kleinostheim",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SVG 04 Weingarten",
+      "team_id": "SVG 04 Weingarten",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "SVG 04 Weingarten",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "KSV Köllerbach",
+      "team_id": "KSV Köllerbach",
+      "homepage": "https://ksv-koellerbach.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/KSV_K%C3%B6llerbach",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "plz": null,
+      "ort_qid": null,
+      "verein": "KSV Köllerbach",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://ksv-koellerbach.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "ksvkoellerbach"
+      ],
+      "emails": [
+        "info@ksv-koellerbach.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "RSV Rotation Greiz",
+      "team_id": "RSV Rotation Greiz",
+      "homepage": "https://rsv-rotation-greiz.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/RSV_Rotation_Greiz",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "plz": null,
+      "ort_qid": null,
+      "verein": "RSV Rotation Greiz",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://rsv-rotation-greiz.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "vorstand@rsv-greiz.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "RKG Freiburg 2000",
+      "team_id": "RKG Freiburg 2000",
+      "homepage": "https://www.rkg-freiburg-2000.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/RKG_Freiburg_2000",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "plz": null,
+      "ort_qid": null,
+      "verein": "RKG Freiburg 2000",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.rkg-freiburg-2000.de/",
+        "https://www.rkg-freiburg-2000.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "eintritt_frei": {
+          "url": "https://www.rkg-freiburg-2000.de/tickets/",
+          "stelle": "nten, Schwerbehinderte, Schüler 4 € Ermäßigung mit gültigem Ausweis. *Freier Eintritt für alle DRB und SBRV Kaderringer, die am OSP Freiburg trainieren. 20"
+        },
+        "dauerkarte": {
+          "url": "https://www.rkg-freiburg-2000.de/tickets/",
+          "stelle": "aison 2026: Eintrittspreise Stehplatz &#128; 12 Einzelkarte Stehplatz Dauerkarte Stehplatz: 6 Heimkämpfe (HK): 60 Euro (ermäßigt 40€) / ein HK ist gra"
+        }
+      },
+      "instagram": [
+        "lars_schaefle",
+        "lars_sophia_schaefle"
+      ],
+      "emails": [
+        "tickets@rkg-freiburg-2000.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "ASV Mainz 88",
+      "team_id": "ASV Mainz 88",
+      "homepage": "https://mainz88.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "ASV Mainz 88",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://mainz88.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "ASV Schorndorf",
+      "team_id": "ASV Schorndorf",
+      "homepage": "https://asvschorndorf.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/ASV_Schorndorf",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "plz": null,
+      "ort_qid": null,
+      "verein": "ASV Schorndorf",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://asvschorndorf.de/",
+        "https://asvschorndorf.de/ticketing/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://asvschorndorf.de/ticketing/",
+          "stelle": "artaner live und unterstütze unser Team bei seinen Heimkämpfen. Deine Tickets bestellst du direkt per E-Mail. Tickets anfragen Ticketpreise ansehen DEIN PLATZ BEI DEN SPARTANERN"
+        },
+        "dauerkarte": {
+          "url": "https://asvschorndorf.de/ticketing/",
+          "stelle": "t auch bei Fragen zu deiner Bestellung die richtige Anlaufstelle. MIT DAUERKARTE DABEI Ein Ticket &#8211; Alle Mannschaften. Dauerkartenbesitzer haben"
+        }
+      },
+      "instagram": [
+        "asvschorndorf"
+      ],
+      "emails": [
+        "info@asvschorndorf.de",
+        "tickets@asvschorndorf.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Erzgebirge Aue",
+      "team_id": "FC Erzgebirge Aue",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Erzgebirge_Aue",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "plz": null,
+      "ort_qid": null,
+      "verein": "FC Erzgebirge Aue",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "KG Baienfurt/Ravensburg",
+      "team_id": "KG Baienfurt/Ravensburg",
+      "homepage": "https://kg-baienfurt.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "KG Baienfurt/Ravensburg",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://kg-baienfurt.de/",
+        "https://kg-baienfurt.de/verein/eintrittspreise/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://kg-baienfurt.de/verein/eintrittspreise/",
+          "stelle": "b 18 Jahren, Renter & Behinderte (50%) 4€ Jugendliche ab 14 jahren 3€ Dauerkarten ERWACHSENE 70€ Mitglieder 60€ Studenten ab 18 Jahren, Renter & Behin"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@kg-baienfurt.de"
+      ],
+      "preise": [
+        {
+          "eur": 14,
+          "url": "https://kg-baienfurt.de/verein/eintrittspreise/",
+          "stelle": "erwachsene 14€"
+        },
+        {
+          "eur": 6,
+          "url": "https://kg-baienfurt.de/verein/eintrittspreise/",
+          "stelle": "erwachsene 6€"
+        },
+        {
+          "eur": 70,
+          "url": "https://kg-baienfurt.de/verein/eintrittspreise/",
+          "stelle": "erwachsene 70€"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "AC Lichtenfels",
+      "team_id": "AC Lichtenfels",
+      "homepage": "https://ac-lichtenfels.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "AC Lichtenfels",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://ac-lichtenfels.de/",
+        "https://ac-lichtenfels.de/tickets-preise/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "acl1921"
+      ],
+      "emails": [
+        "ringen@ac-lichtenfels.de"
+      ],
+      "preise": [
+        {
+          "eur": 14.5,
+          "url": "https://ac-lichtenfels.de/tickets-preise/",
+          "stelle": "ticketshop stehplatz 14,50 euro"
+        },
+        {
+          "eur": 14.5,
+          "url": "https://ac-lichtenfels.de/tickets-preise/",
+          "stelle": "ticketshop stehplatz 14,50 euro"
+        }
+      ],
+      "anbieter": {
+        "name": "Etix",
+        "beleg": "https://ac-lichtenfels.de/",
+        "wie": "eingebunden auf https://ac-lichtenfels.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "KSV Witten 07",
+      "team_id": "KSV Witten 07",
+      "homepage": "https://www.ksv-witten.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "KSV Witten 07",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ksv-witten.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "ksvwitten",
+        "ksvwitten.jugend"
+      ],
+      "emails": [
+        "info@ksv-witten.de",
+        "mv@ksv-witten.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "RKG Reilingen/Hockenheim",
+      "team_id": "RKG Reilingen/Hockenheim",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "RKG Reilingen/Hockenheim",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Wacker Burghausen",
+      "team_id": "SV Wacker Burghausen",
+      "homepage": "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "SV Wacker Burghausen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/",
+        "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/1-Bundesliga/eintrittspreise/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/1-Bundesliga/eintrittspreise/",
+          "stelle": "er regulären Bundesliga-Saison (also vor den Play Offs) keinen Ticket-Vorverkauf gibt und auch keine Ticktes reserviert werden können. Es gilt in der"
+        },
+        "von_hand": {
+          "url": "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/1-Bundesliga/eintrittspreise/",
+          "stelle": "r den Play Offs) keinen Ticket-Vorverkauf gibt und auch keine Ticktes reserviert werden können. Es gilt in der Sportparkhalle freie Platzwahl. *= Die"
+        },
+        "dauerkarte": {
+          "url": "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/1-Bundesliga/eintrittspreise/",
+          "stelle": "re Tickets Rückblick Eintrittspreise - Bundesliga 2026/27 Einzelkarte Saisonkarte* Einzelkarte Nichtmitglieder 15 € 70 € Einzelkarte Mitglieder** 10 €"
+        }
+      },
+      "instagram": [
+        "burghausen_ringen"
+      ],
+      "emails": [
+        "juergen.loeblein@sv-wacker.de",
+        "matthias.maasch@sv-wacker.de",
+        "am2604am@gmail.com",
+        "info@sv-wacker.de",
+        "service@sv-wacker.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "AC Heusweiler",
+      "team_id": "AC Heusweiler",
+      "homepage": "https://www.ac-heusweiler.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "AC Heusweiler",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ac-heusweiler.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "ac_heusweiler"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "ASV Urloffen",
+      "team_id": "ASV Urloffen",
+      "homepage": "https://www.asvurloffen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "ASV Urloffen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.asvurloffen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "KV Riegelsberg",
+      "team_id": "KV Riegelsberg",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "KV Riegelsberg",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SG Weilimdorf",
+      "team_id": "SG Weilimdorf",
+      "homepage": "https://www.weilimdorf-ringen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "SG Weilimdorf",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.weilimdorf-ringen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "sgweilimdorfringen"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "ASV Hüttigweiler",
+      "team_id": "ASV Hüttigweiler",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "ASV Hüttigweiler",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "RG Saarbrücken",
+      "team_id": "RG Saarbrücken",
+      "homepage": "https://www.rg-saarbruecken.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakt_url": "https://www.ringen.de/bundesliga/",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "RG Saarbrücken",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.rg-saarbruecken.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "rg_saarbruecken"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    }
+  ]
+}

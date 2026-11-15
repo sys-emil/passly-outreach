@@ -1,0 +1,66 @@
+{
+  "verein": {
+    "name": "SV Wacker Burghausen",
+    "land": null,
+    "liga": "ringen-bl",
+    "liga_name": "Ringer-Bundesliga",
+    "sport": "Ringen"
+  },
+  "ergebnis": {
+    "website": "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 15,
+    "halle": "Sportparkhalle Burghausen",
+    "kapazitaet": null,
+    "instagram": "burghausen_ringen",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Geschäftsstelle SV Wacker",
+      "kontakt": "info@sv-wacker.de, 08677 91628-0"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "In der regulären Bundesliga-Saison gibt es laut Ticketseite „keinen Ticket-Vorverkauf“ und keine Reservierung, freie Platzwahl in der Sportparkhalle; Einzelkarte 15 €, Saisonkarte 70 €.",
+    "quellen": [
+      "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/1-Bundesliga/eintrittspreise/",
+      "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/1-Bundesliga/eintrittspreise/",
+      "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Amtierender Meister laut ringen.de-Schlagzeile. Saisonkarteninhaber haben Vorkaufsrecht für Play-offs: dafür gibt es also doch einen Verkaufsweg. Bayern.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/1-Bundesliga/eintrittspreise/",
+      "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/1-Bundesliga/eintrittspreise/"
+        ],
+        "ansprechperson": [
+          "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/1-Bundesliga/eintrittspreise/",
+          "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/"
+        ],
+        "instagram": [
+          "https://www.sv-wacker.de/de/sportangebot/abteilungen/ringen/"
+        ],
+        "vorverkauf": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab eure Ticketseite für die Bundesliga gelesen: freie Platzwahl in der Sportparkhalle, Einzelkarte 15 €, Saisonkarte 70 €. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Saisonkarte und Play-off-Vorkaufsrecht laufen im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen: Geschäftsstelle SV Wacker, 08677 91628-0, nach der Ringerabteilung fragen.\n- Einstieg: Einzelkarte 15 €, Saisonkarte 70 €, freie Platzwahl, keine Reservierung in der regulären Saison; Saisonkarteninhaber haben Vorkaufsrecht für die Play-offs.\n- Frage: Wie läuft das Vorkaufsrecht bei den Play-offs ab, und wie voll wird es an der Abendkasse?\n- Angebot: Nächsten Heimkampf kostenlos als Testlauf einrichten, Saisonkarte und Play-off-Kontingent im selben System, Auszahlung nach dem Kampf aufs Vereinskonto.\n- Abschluss: Termin vor Ort in Burghausen vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken."
+}

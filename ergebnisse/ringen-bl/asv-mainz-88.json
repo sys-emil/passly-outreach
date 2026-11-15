@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "ASV Mainz 88",
+    "land": null,
+    "liga": "ringen-bl",
+    "liga_name": "Ringer-Bundesliga",
+    "sport": "Ringen"
+  },
+  "ergebnis": {
+    "website": "https://mainz88.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventix",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle Am Großen Sand, Mainz",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Ticketseite bettet einen Shop von Eventix/Weeztix ein; Studierende und Azubis bekommen 50 % Rabatt.",
+    "quellen": [
+      "https://mainz88.de/tickets/",
+      "https://mainz88.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://mainz88.de/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://mainz88.de/"
+    ],
+    "notiz": "Kontakt laut Programmheft info@mainz88.de (Suchtreffer).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://mainz88.de/tickets/",
+      "https://mainz88.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://mainz88.de/tickets/"
+        ]
+      }
+    }
+  }
+}

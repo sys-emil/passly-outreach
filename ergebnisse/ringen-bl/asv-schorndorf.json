@@ -1,0 +1,68 @@
+{
+  "verein": {
+    "name": "ASV Schorndorf",
+    "land": null,
+    "liga": "ringen-bl",
+    "liga_name": "Ringer-Bundesliga",
+    "sport": "Ringen"
+  },
+  "ergebnis": {
+    "website": "https://asvschorndorf.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 15,
+    "halle": "Spartaner Arena, Schorndorf",
+    "kapazitaet": null,
+    "instagram": "asvschorndorf",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Ticketteam",
+      "kontakt": "tickets@asvschorndorf.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Der Deutsche Mannschaftsmeister nimmt Tickets nur per E-Mail an (tickets@asvschorndorf.de): Kampf, Kategorie und Anzahl schreiben; Stehplatz 15 €, Innenraum 20 €, VIP 100 €.",
+    "quellen": [
+      "https://asvschorndorf.de/ticketing/",
+      "https://asvschorndorf.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://asvschorndorf.de/ticketing/",
+      "https://asvschorndorf.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Drei Kategorien plus Ermäßigung, alles per Mail: viel Handarbeit. Starker Kandidat.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://asvschorndorf.de/ticketing/",
+      "https://asvschorndorf.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://asvschorndorf.de/ticketing/"
+        ],
+        "instagram": [
+          "https://asvschorndorf.de/ticketing/",
+          "https://asvschorndorf.de/"
+        ],
+        "ansprechperson": [
+          "https://asvschorndorf.de/ticketing/"
+        ],
+        "vorverkauf": [
+          "https://asvschorndorf.de/ticketing/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass man eure Tickets für die Spartaner Arena per E-Mail bestellt, mit Kampf, Kategorie und Anzahl. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Steh-, Innenraum- und VIP-Plätze laufen im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Ticketteam, tickets@asvschorndorf.de.\n- Einstieg: Bestellung per E-Mail, Stehplatz 15 €, Innenraum 20 €, VIP 100 €, 10 % Ermäßigung mit Ausweis.\n- Frage: Wie viele Mails kommen pro Heimkampf, und wie läuft danach Bezahlung und Abholung?\n- Angebot: Nächsten Heimkampf kostenlos als Testlauf einrichten, alle Kategorien und Ermäßigung im selben System, Auszahlung nach dem Kampf aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}
