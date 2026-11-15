@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "TV Hörde",
+    "ort": "Dortmund",
+    "land": "NRW",
+    "liga": "vbl-frauen-nord",
+    "liga_name": "2. Bundesliga Frauen Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "http://www.tvhoerde.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle Phoenix (Hörde III) Seekante 12, 44263 Dortmund",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Vereinsticket (VBL-Ticketlink: https://62b0f5fa-989d-4ebc-b968-109416e6e9f7.pipedrive.email/c/my7wqjj2k6/wy07gxjvnk/lwy00rn8ym/0?redirectUrl=https%3A%2F%2Fevents.vereinsticket.de%2Ftvhoerde&hash=-FG8-YOUJcrg90IamtrqbPvRRDMAdkElQh4e8wLcUaA).",
+    "quellen": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345397&c.view=teamMain",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345397&c.view=contact"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345397&c.view=teamMain",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345397&c.view=contact"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. VBL-Name „TV Hörde“. Gelesen: https://www.tvhoerde.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345397&c.view=teamMain",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345397&c.view=contact"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345397&c.view=teamMain",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345397&c.view=contact"
+        ]
+      }
+    }
+  }
+}

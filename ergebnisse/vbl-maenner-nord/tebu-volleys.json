@@ -1,0 +1,59 @@
+{
+  "verein": {
+    "name": "Tebu Volleys",
+    "ort": "Berlin",
+    "land": "BE",
+    "liga": "vbl-maenner-nord",
+    "liga_name": "2. Bundesliga Männer Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.tebu-volleys.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 6,
+    "halle": "Halle Burgweg",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein (allgemein)",
+      "kontakt": "info@tebu-volleys.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Ticketseite listet Einzelkarten ab 6 €, Dauerkarten für 60 € und eine Gold-Dauerkarte für 100 € für 12 Heimspiele, sagt aber nicht, wo man sie kauft oder bestellt.",
+    "quellen": [
+      "https://www.tebu-volleys.de/2-bundesliga/tickets"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.tebu-volleys.de/2-bundesliga/tickets"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Drei Kartenarten mit je vier Preisstufen, aber kein Bestellweg: viel Handarbeit wahrscheinlich.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tebu-volleys.de/2-bundesliga/tickets"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.tebu-volleys.de/2-bundesliga/tickets"
+        ],
+        "ansprechperson": [
+          "https://www.tebu-volleys.de/2-bundesliga/tickets"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab eure Ticketseite gesehen: Einzelkarten, Dauerkarte und Gold-Dauerkarte für 12 Heimspiele in der Halle Burgweg. Wo man sie kauft, hab ich nicht gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Alle Kartenarten und Preisstufen laufen im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Verein über info@tebu-volleys.de, nach der Person fragen, die Dauerkarten-Bestellungen annimmt.\n- Einstieg: Einzelkarte 6 €, Dauerkarte 60 €, Gold-Dauerkarte 100 €, je vier Preisstufen, 12 Heimspiele, kein Bestellweg auf der Seite.\n- Frage: Wie kommen die Dauerkarten-Bestellungen gerade rein, und wie viel Handarbeit ist das?\n- Angebot: Kartenarten mit Preisstufen kostenlos einrichten, nächstes Heimspiel als Testlauf, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

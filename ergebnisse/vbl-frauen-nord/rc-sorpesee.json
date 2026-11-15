@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "RC Sorpesee",
+    "ort": "Sundern",
+    "land": "NRW",
+    "liga": "vbl-frauen-nord",
+    "liga_name": "2. Bundesliga Frauen Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.rc-sorpesee.de/die-volleyballabteilung-im-rc-sorpesee/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Schulzentrum Sundern",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Volleyball-Seite des RC Sorpesee lädt zu den Heimspielen ins Schulzentrum Sundern ein und meldet über 250 Zuschauer beim 3:1 gegen den VC Osnabrück, nennt aber weder Preise noch einen Ticketweg.",
+    "quellen": [
+      "https://www.rc-sorpesee.de/die-volleyballabteilung-im-rc-sorpesee/",
+      "https://www.rc-sorpesee.de/die-volleyballabteilung-im-rc-sorpesee/1-damenmannschaft/spieltagsmagazin/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Zuschauerzahl „über 250“ aus einem Spielbericht, keine Hallenkapazität.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.rc-sorpesee.de/die-volleyballabteilung-im-rc-sorpesee/",
+      "https://www.rc-sorpesee.de/die-volleyballabteilung-im-rc-sorpesee/1-damenmannschaft/spieltagsmagazin/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.rc-sorpesee.de/die-volleyballabteilung-im-rc-sorpesee/",
+      "https://www.rc-sorpesee.de/die-volleyballabteilung-im-rc-sorpesee/1-damenmannschaft/spieltagsmagazin/"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

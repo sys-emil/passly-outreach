@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "VV Humann Essen",
+    "ort": "Essen",
+    "land": "NRW",
+    "liga": "vbl-maenner-nord",
+    "liga_name": "2. Bundesliga Männer Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "http://www.vvhumann.de",
+    "vorverkauf": "eintritt_frei",
+    "anbieter": null,
+    "eintritt_frei": true,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle Gymnasium Wolfskuhle Pinxtenweg 6, 45276 Essen",
+    "kapazitaet": null,
+    "instagram": "vvhumannessen",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Laut Vereinsseite Eintritt frei: „H-Fanschal. Das Dauerkartenangebot beinhaltet: Die Dauerkarte 2026/27 Freier Eintritt an allen 12 Heimspielen des VV Humann Bundesligateams und einen VVH F“.",
+    "quellen": [
+      "https://www.vvhumann.de/tickets/",
+      "https://www.vvhumann.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344053&c.view=contact"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.vvhumann.de/tickets/",
+      "https://www.vvhumann.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344053&c.view=contact"
+    ],
+    "notiz": "Ohne Modell geklärt. VBL-Name „VV Humann Essen“. Gelesen: https://www.vvhumann.de/, https://www.vvhumann.de/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.vvhumann.de/tickets/",
+      "https://www.vvhumann.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344053&c.view=contact"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://www.vvhumann.de/tickets/",
+          "https://www.vvhumann.de/"
+        ],
+        "vorverkauf": [
+          "https://www.vvhumann.de/tickets/"
+        ]
+      }
+    }
+  }
+}

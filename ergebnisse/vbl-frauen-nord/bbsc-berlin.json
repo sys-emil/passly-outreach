@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "BBSC Berlin",
+    "ort": "Berlin",
+    "land": "BE",
+    "liga": "vbl-frauen-nord",
+    "liga_name": "2. Bundesliga Frauen Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "http://bbsc.berlin",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventix",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle Hämmerlingstraße Friedenstr. 1/Hämmerlingstraße 80, 12555 Berlin",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein (allgemein)",
+      "kontakt": "info@bbsc.berlin"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seite „Ticketshop“ bettet einen Online-Shop von Eventix ein (shop.eventix.io); Preise stehen nur im Shop.",
+    "quellen": [
+      "https://bbsc.berlin/ticketshop/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Anbieter aus dem eingebetteten iframe (shop.eventix.io) im HTML der Ticketshop-Seite; Eventix kennt der Vorlauf noch nicht.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://bbsc.berlin/ticketshop/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://bbsc.berlin/ticketshop/"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [],
+        "ansprechperson": []
+      },
+      "sicherheit_vorher": "hoch"
+    }
+  }
+}

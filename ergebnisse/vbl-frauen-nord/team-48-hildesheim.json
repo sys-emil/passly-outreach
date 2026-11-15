@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "Team 48 Hildesheim",
+    "ort": "Hildesheim",
+    "land": "NI",
+    "liga": "vbl-frauen-nord",
+    "liga_name": "2. Bundesliga Frauen Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://team48volleyball.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle Marienburger Höhe Greifswalder Str. 5, 31141 Hildesheim",
+    "kapazitaet": null,
+    "instagram": "team48_1.damen",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website von Team 48 zeigt als jüngste Beiträge die Heimspiele vom April 2026 und nennt keine Preise und keinen Ticketweg.",
+    "quellen": [
+      "https://team48volleyball.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://team48volleyball.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Website seit April nicht aktualisiert; aktuelles eher auf Instagram.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://team48volleyball.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://team48volleyball.de/"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "Grün-Weiß Eimsbüttel",
+    "ort": "Hamburg",
+    "land": "HH",
+    "liga": "vbl-frauen-nord",
+    "liga_name": "2. Bundesliga Frauen Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://gwevolleyball.de/damen/1-damen",
+    "vorverkauf": "anbieter",
+    "anbieter": "murphies",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle Wandsbek",
+    "kapazitaet": null,
+    "instagram": "gwe1.damenvolleyball",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seite der 1. Damen verlinkt „Jetzt Tickets sichern“ auf einen Shop bei murphies (app.murphies.de/store/gwe-volleyball), einem Anbieter für Ticketing, Kasse und Einlass.",
+    "quellen": [
+      "https://gwevolleyball.de/damen/1-damen",
+      "https://app.murphies.de/store/gwe-volleyball"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://gwevolleyball.de/damen/1-damen"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "murphies ist ein direkter Wettbewerber (Ticketing, Kasse, Einlass). Shopseite lädt per JavaScript, Preise daher unbekannt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://gwevolleyball.de/damen/1-damen",
+      "https://app.murphies.de/store/gwe-volleyball"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://app.murphies.de/store/gwe-volleyball"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://gwevolleyball.de/damen/1-damen"
+        ],
+        "instagram": [
+          "https://gwevolleyball.de/damen/1-damen"
+        ]
+      }
+    }
+  }
+}

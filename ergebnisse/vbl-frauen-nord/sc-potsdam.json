@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "SC Potsdam",
+    "ort": "Potsdam",
+    "land": "BB",
+    "liga": "vbl-frauen-nord",
+    "liga_name": "2. Bundesliga Frauen Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.sc-potsdam.de/2-volleyball-bundesliga/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "MBS Arena Potsdam Olympischer Weg 6, 14471 Potsdam",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (VBL-Ticketlink: https://sportclub-potsdam.reservix.de/).",
+    "quellen": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344954&c.view=teamMain",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344954&c.view=contact"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344954&c.view=teamMain",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344954&c.view=contact"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. VBL-Name „SC Potsdam“. Mehrere Instagram-Konten verlinkt: scpotsdam.e.v, carlito.musicc, captured_bysaraa. Gelesen: https://www.sc-potsdam.de/2-volleyball-bundesliga/, https://www.sc-potsdam.de/2-volleyball-bundesliga/tickets/, https://www.sc-potsdam.de/2-volleyball-bundesliga/halloween-heimspiel-gegen-den-schweriner-sc-ii/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344954&c.view=teamMain",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344954&c.view=contact"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344954&c.view=teamMain",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344954&c.view=contact"
+        ]
+      }
+    }
+  }
+}

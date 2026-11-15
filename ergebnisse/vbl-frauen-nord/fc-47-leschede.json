@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "FC 47 Leschede",
+    "ort": "Emsbüren",
+    "land": "NI",
+    "liga": "vbl-frauen-nord",
+    "liga_name": "2. Bundesliga Frauen Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://fc-leschede.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle Emsbüren Hanwischerstraße 19, 48488 Emsbüren",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Weder die Startseite des FC 47 Leschede noch die Volleyball-Seite nennen Eintrittspreise oder einen Ticketweg für die Heimspiele der 2. Bundesliga.",
+    "quellen": [
+      "https://fc-leschede.de/",
+      "https://www.fc-leschede.de/pages/volleyball.php"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Website per Suche nicht gefunden, Adresse fc-leschede.de geraten und erreichbar; die Volleyball-Seite berichtet vor allem über andere Teams.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://fc-leschede.de/",
+      "https://www.fc-leschede.de/pages/volleyball.php"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://fc-leschede.de/",
+      "https://www.fc-leschede.de/pages/volleyball.php"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

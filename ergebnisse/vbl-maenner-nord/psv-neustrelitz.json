@@ -1,0 +1,71 @@
+{
+  "verein": {
+    "name": "PSV Neustrelitz",
+    "ort": "Neustrelitz",
+    "land": "MV",
+    "liga": "vbl-maenner-nord",
+    "liga_name": "2. Bundesliga Männer Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://volleyball-neustrelitz.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 8,
+    "halle": "Strelitzhalle Neustrelitz",
+    "kapazitaet": null,
+    "instagram": "psv_volleyball",
+    "ansprechperson": {
+      "name": "Marc Lessing",
+      "rolle": "Mannschaftsverantwortlicher",
+      "kontakt": "marclessing@gmx.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seite nennt 8 € (ermäßigt 5 €) für die Heimspiele in der Strelitzhalle und verweist auf Dauerkarten für 26/27, aber auf keinen Weg, sie zu kaufen.",
+    "quellen": [
+      "https://www.volleyball-neustrelitz.de/eintritt/",
+      "https://www.volleyball-neustrelitz.de/",
+      "https://www.volleyball-neustrelitz.de/kontakt/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.volleyball-neustrelitz.de/eintritt/",
+      "https://www.volleyball-neustrelitz.de/",
+      "https://www.volleyball-neustrelitz.de/kontakt/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Anker #dauerkarten auf der Startseite ohne erkennbaren Inhalt im HTML. Kontaktadresse Freemail.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.volleyball-neustrelitz.de/eintritt/",
+      "https://www.volleyball-neustrelitz.de/",
+      "https://www.volleyball-neustrelitz.de/kontakt/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.volleyball-neustrelitz.de/eintritt/",
+          "https://www.volleyball-neustrelitz.de/"
+        ],
+        "instagram": [
+          "https://www.volleyball-neustrelitz.de/eintritt/",
+          "https://www.volleyball-neustrelitz.de/",
+          "https://www.volleyball-neustrelitz.de/kontakt/"
+        ],
+        "ansprechperson": [
+          "https://www.volleyball-neustrelitz.de/kontakt/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass ihr für die neue Saison in der Strelitzhalle Dauerkarten anbietet und der Eintritt 8 € kostet. Wie man sie kauft, hab ich nicht gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Dauerkarte inklusive, für euch kostenlos. Passt ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Marc Lessing (Mannschaftsverantwortlicher), über Instagram zuerst, die Mailadresse ist privat.\n- Einstieg: Eintritt 8 € (ermäßigt 5 €), Dauerkarten für 26/27 angekündigt, kein Kaufweg auf der Seite.\n- Frage: Wie verkauft ihr die Dauerkarten gerade, und was nervt daran?\n- Angebot: Dauerkarte und nächstes Heimspiel kostenlos als Testlauf einrichten, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

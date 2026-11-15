@@ -1,0 +1,661 @@
+{
+  "liga": "vbl-frauen-nord",
+  "stand": "2026-11-15",
+  "quelle": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml",
+  "abrufe": 35,
+  "teams": [
+    {
+      "verband_name": "BBSC Berlin",
+      "team_id": "781345381",
+      "homepage": "http://bbsc.berlin",
+      "ticketlink": "https://bbsc.berlin/ticketshop/",
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345381&c.view=teamMain",
+      "hallen": [
+        "Sporthalle Hämmerlingstraße Friedenstr. 1/Hämmerlingstraße 80, 12555 Berlin"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345381&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Frank Körner",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Burkhard Kroll",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "klatt@berlin-bsc.de"
+      ],
+      "verein": "BBSC Berlin",
+      "ort": "Berlin",
+      "land": "BE",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://bbsc.berlin/",
+        "https://bbsc.berlin/bbsc-mit-vier-punkten-aus-heimspielwochenende/"
+      ],
+      "nicht_lesbar": [
+        "https://bbsc.berlin/ticketshop/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@bbsc.berlin"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "BSV Ostbevern",
+      "team_id": "781344913",
+      "homepage": "http://www.volleyball.bsv-ostbevern.de",
+      "ticketlink": null,
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344913&c.view=teamMain",
+      "hallen": [
+        "Beverhalle Schulstr. 17, 48346 Ostbevern"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344913&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Andreas Schneider",
+          "email": null
+        },
+        {
+          "rolle": "teammanager_volleyball@bsv-ostbevern.de",
+          "name": "Dominik PR-Verantwortlicher Münch",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "1.Vorsitzender@bsv-ostbevern.de",
+        "teammanager_volleyball@bsv-ostbevern.de",
+        "volleyball@bsv-ostbevern.de"
+      ],
+      "verein": "BSV Ostbevern",
+      "ort": "Ostbevern",
+      "land": "NRW",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.volleyball.bsv-ostbevern.de (HTTP 503)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC 47 Leschede",
+      "team_id": "781346431",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781346431&c.view=teamMain",
+      "hallen": [
+        "Sporthalle Emsbüren Hanwischerstraße 19, 48488 Emsbüren"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781346431&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Mathias Timmer",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "Teammanager-Volleyball@fc-Leschede.de"
+      ],
+      "verein": "FC 47 Leschede",
+      "ort": "Emsbüren",
+      "land": "NI",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Grün-Weiß Eimsbüttel",
+      "team_id": "781346220",
+      "homepage": "https://gwevolleyball.de/damen/1-damen",
+      "ticketlink": null,
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781346220&c.view=teamMain",
+      "hallen": [
+        "Sporthalle Wandsbek Rüterstraße 75/ Schädlerstraße 10, 22041 Hamburg"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781346220&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Leonie Knegendorf",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Leonie Knegendorf",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "info@gweimsbuettel.de"
+      ],
+      "verein": "Grün-Weiß Eimsbüttel",
+      "ort": "Hamburg",
+      "land": "HH",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://gwevolleyball.de/damen/1-damen"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://gwevolleyball.de/damen/1-damen",
+          "stelle": "Allstars Die Grünlinge Volle Lotte Beach Beach &#038; Greet Beachfeld reservieren Infos Mitgliedschaft Partner & Sponsoren Shop Intern Login Mannscha"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "anfrage@gwevolleyball.de",
+        "abteilung@gwevolleyball.de",
+        "beach@gwevolleyball.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "RC Sorpesee",
+      "team_id": "781345024",
+      "homepage": "https://www.rc-sorpesee.de/die-volleyballabteilung-im-rc-sorpesee/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345024&c.view=teamMain",
+      "hallen": [
+        "Schulzentrum Sundern Berliner Str. 45, 59846 Sundern"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345024&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Tom Zimmer",
+          "email": null
+        }
+      ],
+      "verband_emails": [],
+      "verein": "RC Sorpesee",
+      "ort": "Sundern",
+      "land": "NRW",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.rc-sorpesee.de/die-volleyballabteilung-im-rc-sorpesee/",
+        "https://www.rc-sorpesee.de/die-volleyballabteilung-im-rc-sorpesee/1-damenmannschaft/spieltagsmagazin/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SC Potsdam",
+      "team_id": "781344954",
+      "homepage": "https://www.sc-potsdam.de/2-volleyball-bundesliga/",
+      "ticketlink": "https://sportclub-potsdam.reservix.de/",
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344954&c.view=teamMain",
+      "hallen": [
+        "MBS Arena Potsdam Olympischer Weg 6, 14471 Potsdam"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344954&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Ceren Mutlu",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Jona Kuhle",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "info@sc-potsdam.de"
+      ],
+      "verein": "SC Potsdam",
+      "ort": "Potsdam",
+      "land": "BB",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sc-potsdam.de/2-volleyball-bundesliga/",
+        "https://www.sc-potsdam.de/2-volleyball-bundesliga/tickets/",
+        "https://www.sc-potsdam.de/2-volleyball-bundesliga/halloween-heimspiel-gegen-den-schweriner-sc-ii/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.sc-potsdam.de/2-volleyball-bundesliga/halloween-heimspiel-gegen-den-schweriner-sc-ii/",
+          "stelle": "uro pro Los gibt es die Chance auf verschiedene Preise, darunter eine Dauerkarte, signierte Mini-Mikasa-Bälle und Freikarten. Dabei gewinnt jedes Los."
+        }
+      },
+      "instagram": [
+        "scpotsdam.e.v",
+        "carlito.musicc",
+        "captured_bysaraa"
+      ],
+      "emails": [
+        "info@sc-potsdam.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://sportclub-potsdam.reservix.de/",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SSF Bonn",
+      "team_id": "781344975",
+      "homepage": "https://www.ssfbonn.de/de/sport/sportabteilungen/volleyball/zweite-bundesliga-damen/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344975&c.view=teamMain",
+      "hallen": [
+        "Hardtberghalle Gaußstraße 1, 53125 Bonn"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344975&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Albert Klein-Reinhardt",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Albert Klein-Reinhardt",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Lena Maasewerd",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "info@ssfbonn.de"
+      ],
+      "verein": "SSF Bonn",
+      "ort": "Bonn",
+      "land": "NRW",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ssfbonn.de/de/sport/sportabteilungen/volleyball/zweite-bundesliga-damen/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "ssfbonn",
+        "bizepsvolleys"
+      ],
+      "emails": [
+        "info@ssfbonn.de",
+        "bizepsvolleysbonn@gmail.com",
+        "nfo@ssfbonn.de",
+        "albert_klein-reinhardt@web.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Schweriner SC II",
+      "team_id": "781345039",
+      "homepage": "https://www.ssc-nachwuchs.de",
+      "ticketlink": "https://www.schweriner-sc.com/ticketshop/",
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345039&c.view=teamMain",
+      "hallen": [
+        "Volleyballhalle Am Lambrechtsgrund Von-Flotow-Straße 20, 19059 Schwerin",
+        "Palmberg Arena Von-Flotow-Str. 20, 19059 Schwerin"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345039&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Markus Pabst",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Arne Kramer",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "office@schweriner-sc.de"
+      ],
+      "verein": "Schweriner SC II",
+      "ort": "Schwerin",
+      "land": "MV",
+      "pilot": false,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "TUSA City Girls Düsseldorf",
+      "team_id": "781344821",
+      "homepage": "https://volleyball-city-girls.tusa06.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344821&c.view=teamMain",
+      "hallen": [
+        "DH Brinckmannstraße, Hulda Pankok Brinckmannstr. 16, 40225 Düsseldorf"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344821&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Tobias Hintzke",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Julia Spiekermann",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "anke.teraa@tusa06.de"
+      ],
+      "verein": "TUSA City Girls Düsseldorf",
+      "ort": "Düsseldorf",
+      "land": "NRW",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://volleyball-city-girls.tusa06.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "dcitygirls_volleyball"
+      ],
+      "emails": [
+        "sarah_reusing@web.de",
+        "tobias.hintzke@tusa06.de",
+        "nboos@gmx.net"
+      ],
+      "preise": [
+        {
+          "eur": 5,
+          "url": "https://volleyball-city-girls.tusa06.de/",
+          "stelle": "eintrittspreise vollzahlende: 5,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TV Hörde",
+      "team_id": "781345397",
+      "homepage": "http://www.tvhoerde.de",
+      "ticketlink": "https://62b0f5fa-989d-4ebc-b968-109416e6e9f7.pipedrive.email/c/my7wqjj2k6/wy07gxjvnk/lwy00rn8ym/0?redirectUrl=https%3A%2F%2Fevents.vereinsticket.de%2Ftvhoerde&hash=-FG8-YOUJcrg90IamtrqbPvRRDMAdkElQh4e8wLcUaA",
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345397&c.view=teamMain",
+      "hallen": [
+        "Sporthalle Phoenix (Hörde III) Seekante 12, 44263 Dortmund"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345397&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Isabelle Rosmus",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Lynn Kosina",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "info@tvhoerde.de"
+      ],
+      "verein": "TV Hörde",
+      "ort": "Dortmund",
+      "land": "NRW",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tvhoerde.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://62b0f5fa-989d-4ebc-b968-109416e6e9f7.pipedrive.email/c/my7wqjj2k6/wy07gxjvnk/lwy00rn8ym/0?redirectUrl=https%3A%2F%2Fevents.vereinsticket.de%2Ftvhoerde&hash=-FG8-YOUJcrg90IamtrqbPvRRDMAdkElQh4e8wLcUaA",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Team 48 Hildesheim",
+      "team_id": "781344802",
+      "homepage": "https://team48volleyball.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344802&c.view=teamMain",
+      "hallen": [
+        "Sporthalle Marienburger Höhe Greifswalder Str. 5, 31141 Hildesheim"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344802&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Harald Thiele",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Nina Laudien",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Inga Thiele",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "info@mtv48hildesheim.de"
+      ],
+      "verein": "Team 48 Hildesheim",
+      "ort": "Hildesheim",
+      "land": "NI",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://team48volleyball.de/",
+        "https://team48volleyball.de/2026/04/12/team-48-unterliegt-usc-muenster-ii-mit-03-im-letzten-heimspiel-der-saison/",
+        "https://team48volleyball.de/2026/04/07/letztes-heimspiel-der-saison-team-48-empfaengt-den-usc-muenster-ii/",
+        "https://team48volleyball.de/2026/03/29/team-48-gewinnt-30-im-vorletzten-heimspiel-der-saison/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "team48_1.damen"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "USC Münster II",
+      "team_id": "781344772",
+      "homepage": "http://www.usc-muenster.de",
+      "ticketlink": "https://usc.ms/tickets",
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344772&c.view=teamMain",
+      "hallen": [
+        "Sporthalle Berg Fidel Am Berg Fidel 51, 48153 Münster"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781344772&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Ute Zahlten",
+          "email": "ute.zahlten@t-online.de"
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Rebecca Schäperklaus",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Ute Zahlten",
+          "email": "ute.zahlten@t-online.de"
+        }
+      ],
+      "verband_emails": [
+        "info@usc-muenster.de",
+        "ute.zahlten@t-online.de"
+      ],
+      "verein": "USC Münster II",
+      "ort": "Münster",
+      "land": "NRW",
+      "pilot": false,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VC Osnabrück",
+      "team_id": "781345002",
+      "homepage": "https://www.vc-osnabrueck.de/",
+      "ticketlink": "https://vcosnabrueck.ditix.shop/",
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345002&c.view=teamMain",
+      "hallen": [
+        "Sporthalle am Schlosswall Schlosswall 10, 49080 Osnabrück"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345002&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Leon Albrecht",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Peter Vorberg",
+          "email": null
+        }
+      ],
+      "verband_emails": [],
+      "verein": "VC Osnabrück",
+      "ort": "Osnabrück",
+      "land": "NI",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vc-osnabrueck.de/",
+        "https://www.vc-osnabrueck.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "vc_osnabrueck"
+      ],
+      "emails": [
+        "verwaltung@vc-osnabrueck.de",
+        "probetraining@vc-osnabrueck.de",
+        "info@vc-osnabrueck.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "ditix",
+        "beleg": "https://vcosnabrueck.ditix.shop/",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VCO Münster",
+      "team_id": "781345061",
+      "homepage": "https://www.vco-münster.de",
+      "ticketlink": null,
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345061&c.view=teamMain",
+      "hallen": [
+        "Ballsporthalle Pascal-Gymnasium Wienburgstraße 52, 48147 Münster",
+        "Kontakt Jobs Zoi DVV-Pokal Volleyball Supercup VBL-Ticker VBL-Wiki VBL-SAMS Impressum Datenschutz © 2026 volleyball-bundesliga.de"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345061&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Jürgen Aigner",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "info@vco-muenster.de"
+      ],
+      "verein": "VCO Münster",
+      "ort": "Münster",
+      "land": "NRW",
+      "pilot": false,
+      "typ": "nachwuchs",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    }
+  ]
+}

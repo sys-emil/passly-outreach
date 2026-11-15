@@ -1,0 +1,805 @@
+{
+  "liga": "vbl-maenner-nord",
+  "stand": "2026-11-15",
+  "quelle": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml",
+  "abrufe": 41,
+  "teams": [
+    {
+      "verband_name": "Eimsbütteler TV",
+      "team_id": "781346149",
+      "homepage": "https://www.etv-hamburg.de/de/team/",
+      "ticketlink": "https://www.eventim-light.com/de/a/62decdcbf520394ff5b20427",
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346149&c.view=teamMain",
+      "hallen": [
+        "ETV Sporthalle Hoheluft Lokstedter Steindamm 52, 22529 Hamburg"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346149&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Kristin Bartels",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Stefan Köhler",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Andreas Polz",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "info@etv-hamburg.de"
+      ],
+      "verein": "Eimsbütteler TV",
+      "ort": "Hamburg",
+      "land": "HH",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.etv-hamburg.de/de/team/",
+        "https://www.etv-hamburg.de/de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "etv.hamburgervolksbank.volleys",
+        "etv.hamburg"
+      ],
+      "emails": [
+        "info@etv-hamburg.de",
+        "etv1d-team@etv-hamburg.de",
+        "info.bundesstrasse@etv-hamburg.de",
+        "info.hoheluft@etv-hamburg.de",
+        "ticketing@etv-hamburg.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://www.eventim-light.com/de/a/62decdcbf520394ff5b20427",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC Schüttorf 09",
+      "team_id": "781344319",
+      "homepage": "http://www.fcschuettorf09.de/de/abteilungen/volleyball/1-herren-bundesliga/news/",
+      "ticketlink": "https://events.vereinsticket.de/fc-schuettorf-09",
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344319&c.view=teamMain",
+      "hallen": [
+        "Vechtesporthalle Quendorfer Straße 25, 48465 Schüttorf"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344319&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Diedrich Lammering",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "info@fcschuettorf09.de"
+      ],
+      "verein": "FC Schüttorf 09",
+      "ort": "Schüttorf",
+      "land": "NI",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.fcschuettorf09.de/de/abteilungen/volleyball/1-herren-bundesliga/news/ (HTTP 404)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://events.vereinsticket.de/fc-schuettorf-09",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Kieler TV",
+      "team_id": "781344115",
+      "homepage": "http://volleyball-ktv.de/",
+      "ticketlink": "https://pretix.eu/ktvadler/saison-2627/",
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344115&c.view=teamMain",
+      "hallen": [
+        "Hein-Dahlinger-Halle Geschwister-Scholl-Straße 15, 24143 Kiel"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344115&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Kai Huke",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Carsten Bergmeier",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Michael Sevenheck",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "k.huke@gmx.net"
+      ],
+      "verein": "Kieler TV",
+      "ort": "Kiel",
+      "land": "SH",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://volleyball-ktv.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://volleyball-ktv.de/",
+          "stelle": "Hein-Dahlinger-Halle verfolgen können. Das Hygienekonzept sieht keine Abendkasse vor, so dass einer limitierten Anzahl an Dauerkartenbesitzern die Auf"
+        },
+        "eintritt_frei": {
+          "url": "https://volleyball-ktv.de/",
+          "stelle": "spiele der KTV Adler zum Preis von 10! Und wir packen noch was drauf: Freier Eintritt beim Regionalpokal (KTV ist Ausrichter) und ggf. der Qualifikation zu"
+        },
+        "dauerkarte": {
+          "url": "https://volleyball-ktv.de/",
+          "stelle": "nntag, [&hellip;] weiterlesen Der Countdown läuft! Jetzt noch schnell Dauerkarte für die Saison 26/27 sichern Supportet eure Adler mit der ADLER-Saiso"
+        }
+      },
+      "instagram": [
+        "ktvadler"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "pretix",
+        "beleg": "https://pretix.eu/ktvadler/saison-2627/",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "MLK Volleys Köln",
+      "team_id": "781344280",
+      "homepage": "http://www.mlk-volleys.de",
+      "ticketlink": null,
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344280&c.view=teamMain",
+      "hallen": [
+        "Dreifachhalle Georg Büchner Gymnasium Leipziger Str.1, 50858 Köln"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344280&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Florian Beckmann",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Eike Hansen",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Jonas Winterscheidt",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "d.puetter@fcjunkersdorf.de"
+      ],
+      "verein": "MLK Volleys Köln",
+      "ort": "Köln",
+      "land": "NRW",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://mlk-volleys.de/",
+        "https://mlk-volleys.de/heimspielhallen/",
+        "https://mlk-volleys.de/ticketing/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "nur_abendkasse": {
+          "url": "https://mlk-volleys.de/ticketing/",
+          "stelle": "ets Live Tickets Ticketbedingungen Tickets für die Heimspiele gibt es ausschließlich an der Abendkasse direkt vor Ort in der neuen Halle am Georg Büchner Gymnasium. Insgesa"
+        },
+        "abendkasse": {
+          "url": "https://mlk-volleys.de/ticketing/",
+          "stelle": "tbedingungen Tickets für die Heimspiele gibt es ausschließlich an der Abendkasse direkt vor Ort in der neuen Halle am Georg Büchner Gymnasium. Insgesa"
+        }
+      },
+      "instagram": [
+        "mlkvolleys",
+        "carlundcarla.de",
+        "klaraa.hff",
+        "miguel__tav",
+        "linusputter",
+        "mada_cologne",
+        "joko724",
+        "niklasbach_",
+        "eike_hns",
+        "fbecks4",
+        "fredrik.adams",
+        "coachtimburwitz",
+        "luis.henrichs",
+        "till.korreck",
+        "laslo.koenig",
+        "valters89",
+        "saeggl"
+      ],
+      "emails": [
+        "d.puetter@fcjunkersdorf.de",
+        "sponsoring@mlk-volleys.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "PSV Neustrelitz",
+      "team_id": "781344230",
+      "homepage": "https://volleyball-neustrelitz.de",
+      "ticketlink": null,
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344230&c.view=teamMain",
+      "hallen": [
+        "Strelitzhalle Louisenstr. 28, 17235 Neustrelitz"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344230&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Marc Lessing",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Jacob Genzmer",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Sven Gröhe",
+          "email": null
+        }
+      ],
+      "verband_emails": [],
+      "verein": "PSV Neustrelitz",
+      "ort": "Neustrelitz",
+      "land": "MV",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.volleyball-neustrelitz.de/",
+        "https://www.volleyball-neustrelitz.de/eintritt/",
+        "https://www.volleyball-neustrelitz.de/mediathek/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "psv_volleyball"
+      ],
+      "emails": [
+        "psv-neustrelitz@t-online.de",
+        "sponsoren@psv-neustrelitz.de",
+        "sponsoring@psv-neustrelitz.de"
+      ],
+      "preise": [
+        {
+          "eur": 8,
+          "url": "https://www.volleyball-neustrelitz.de/",
+          "stelle": "eintrittspreise: normal: 8€"
+        },
+        {
+          "eur": 8,
+          "url": "https://www.volleyball-neustrelitz.de/eintritt/",
+          "stelle": "eintrittspreise normal: 8€"
+        },
+        {
+          "eur": 8,
+          "url": "https://www.volleyball-neustrelitz.de/eintritt/",
+          "stelle": "eintrittspreise normal: 8€"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Rhein-Sieg Volleys / Mondorf",
+      "team_id": "781344075",
+      "homepage": "https://www.tus-mondorf.de/abteilungen/volleyball-zweite-bundesliga/",
+      "ticketlink": "https://rheinsiegvolleys.ditix.shop/",
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344075&c.view=teamMain",
+      "hallen": [
+        "PUNCTUM Arena Troisdorf Mülheimer Str. 19, 53840 Troisdorf"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344075&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Klaus Utke",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Lennart Bevers",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Sebastian Dinges",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Klaus Utke",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Sven Vollmert",
+          "email": null
+        }
+      ],
+      "verband_emails": [],
+      "verein": "TuS Mondorf",
+      "ort": "Niederkassel",
+      "land": "NRW",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tus-mondorf.de/abteilungen/volleyball-zweite-bundesliga/",
+        "https://www.tus-mondorf.de/abteilungen/volleyball-zweite-bundesliga/tickets-anreise/",
+        "https://www.tus-mondorf.de/abteilungen/volleyball-zweite-bundesliga/tickets-anreise/tickets/",
+        "https://www.tus-mondorf.de/abteilungen/heimspielzeitung/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.tus-mondorf.de/abteilungen/volleyball-zweite-bundesliga/tickets-anreise/",
+          "stelle": "nreise Volleyball 2.Bundesliga Nord Tickets gibt es Online und an der Abendkasse Tickets Heimspiele Abendkasse: Erwachsene 12,- Ermäßigt 8,- Kinder bi"
+        }
+      },
+      "instagram": [
+        "tus.mondorf",
+        "tus_mondorf_bundesliga"
+      ],
+      "emails": [
+        "geschaeftsfuehrung@tus-mondorf.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "ditix",
+        "beleg": "https://rheinsiegvolleys.ditix.shop/",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SV Lindow-Gransee",
+      "team_id": "781344214",
+      "homepage": "https://svlindowgransee.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344214&c.view=teamMain",
+      "hallen": [
+        "Dreifelderhalle Oranienburger Str. 36, 16775 Gransee"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344214&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Frank Seeger",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Matthias Haack",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Carolin Ulbrich",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "seeger-volleyball@t-online.de"
+      ],
+      "verein": "SV Lindow-Gransee",
+      "ort": "Gransee",
+      "land": "BB",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://svlindowgransee.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "dynvolleyball"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TERRA Tebu Volleys",
+      "team_id": "781346154",
+      "homepage": "https://www.tebu-volleys.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346154&c.view=teamMain",
+      "hallen": [
+        "Kardinal von Galen GS Burgweg 1, 49479 Ibbenbüren"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346154&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Karl-Ludwig Keller",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Lars Fischer",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Annette Flören",
+          "email": null
+        }
+      ],
+      "verband_emails": [],
+      "verein": "Tebu Volleys",
+      "ort": "Berlin",
+      "land": "BE",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tebu-volleys.de/",
+        "https://www.tebu-volleys.de/2-bundesliga/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.tebu-volleys.de/2-bundesliga/tickets",
+          "stelle": "mit gültigem Nachweis. ** Mitglieder des SV Cheruskia Laggenbeck e.V. Dauerkarten Mit der Saisonkarte habt ihr Eintritt zu allen Heimspielen der Saiso"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@tebu-volleys.de"
+      ],
+      "preise": [
+        {
+          "eur": 6,
+          "url": "https://www.tebu-volleys.de/2-bundesliga/tickets",
+          "stelle": "vollzahler 6,00 €"
+        },
+        {
+          "eur": 60,
+          "url": "https://www.tebu-volleys.de/2-bundesliga/tickets",
+          "stelle": "vollzahler 60,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV Giesen GRIZZLYS II",
+      "team_id": "781344165",
+      "homepage": "https://www.giesengrizzlys.de",
+      "ticketlink": null,
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344165&c.view=teamMain",
+      "hallen": [
+        "Schacht-Arena Emmerker Straße 6, 31180 Giesen"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344165&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Andreas Klimm",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Claas Blume",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Marlene Gorecki",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Jannick Watermann",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "anna.feise@tsv-giesen.de"
+      ],
+      "verein": "TSV Giesen GRIZZLYS II",
+      "ort": "Giesen",
+      "land": "NI",
+      "pilot": false,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "TuB Bocholt",
+      "team_id": "781344133",
+      "homepage": "https://www.tub-bocholt-volleyball.de/",
+      "ticketlink": "https://www.tub-bocholt.de/zuschaueranmeldung_volleyball/",
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344133&c.view=teamMain",
+      "hallen": [
+        "Sporthalle West Werther Str. 24, 46395 Bocholt"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344133&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Jonas Kubo",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "Bundesligateam@tub-bocholt.de"
+      ],
+      "verein": "TuB Bocholt",
+      "ort": "Bocholt",
+      "land": "NRW",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tub-bocholt-volleyball.de/",
+        "https://www.tub-bocholt-volleyball.de/news/news-detail?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=82&cHash=3e10ecdf09b9319ce441a908d1286550"
+      ],
+      "nicht_lesbar": [
+        "https://www.tub-bocholt.de/zuschaueranmeldung_volleyball/ (HTTP 404)"
+      ],
+      "funde": {},
+      "instagram": [
+        "tub_bocholt_volleyball"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "USC Braunschweig",
+      "team_id": "781346152",
+      "homepage": "http://bundesliga.usc-bs.de",
+      "ticketlink": "https://events.vereinsticket.de/usc-bs",
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346152&c.view=teamMain",
+      "hallen": [
+        "Sporthalle IGS Wendenring Wendenring 30b, 38114 Braunschweig"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346152&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Sven Dr. Dannemeyer",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Mika Püschmann",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "info@usc-bs.de"
+      ],
+      "verein": "USC Braunschweig",
+      "ort": "Braunschweig",
+      "land": "NI",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://bundesliga.usc-bs.de/",
+        "https://bundesliga.usc-bs.de/anfahrt-zum-heimspiel/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://bundesliga.usc-bs.de/anfahrt-zum-heimspiel/",
+          "stelle": "r Spielbeginn) einen garantierten Platz in der Halle. Eintrittspreise Abendkasse: 8€ Erwachsene (inkl. 1 Freigetränk) 5€ Ermäßigt (inkl. 1 Freigetränk"
+        }
+      },
+      "instagram": [
+        "usc_volleys"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 8,
+          "url": "https://bundesliga.usc-bs.de/anfahrt-zum-heimspiel/",
+          "stelle": "eintrittspreise abendkasse: 8€"
+        }
+      ],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://events.vereinsticket.de/usc-bs",
+        "wie": "VBL-Ticketlink"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VC Juniors Frankfurt",
+      "team_id": "781344673",
+      "homepage": "http://www.volleyball-internat.de",
+      "ticketlink": null,
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344673&c.view=teamMain",
+      "hallen": [
+        "Wintersporthalle Mörfelder Landstr. 362, Zufahrt Otto-Feck-Schneise/Flughafenstr., 60528 Frankfurt"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344673&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Calvin Schmid",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Calvin Schmid",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Lotta Stratbücker",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Jan Wüntscher",
+          "email": "jan.wuentscher@prformance.de"
+        }
+      ],
+      "verband_emails": [
+        "kontakt@volleyball-internat.de",
+        "jan.wuentscher@prformance.de"
+      ],
+      "verein": "VC Juniors Frankfurt",
+      "ort": "Frankfurt",
+      "land": "HE",
+      "pilot": false,
+      "typ": "nachwuchs",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VV Humann Essen",
+      "team_id": "781344053",
+      "homepage": "http://www.vvhumann.de",
+      "ticketlink": "http://www.vvhumann.de/bundesliga/tickets/",
+      "verband_team_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344053&c.view=teamMain",
+      "hallen": [
+        "Sporthalle Gymnasium Wolfskuhle Pinxtenweg 6, 45276 Essen",
+        "Kontakt Jobs Zoi DVV-Pokal Volleyball Supercup VBL-Ticker VBL-Wiki VBL-SAMS Impressum Datenschutz © 2026 volleyball-bundesliga.de"
+      ],
+      "verband_kontakt_url": "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781344053&c.view=contact",
+      "verband_kontakte": [
+        {
+          "rolle": "Mannschaftsverantwortlicher",
+          "name": "Birte Skreba",
+          "email": null
+        },
+        {
+          "rolle": "PR-Verantwortlicher",
+          "name": "Stephan Espelage",
+          "email": null
+        }
+      ],
+      "verband_emails": [
+        "jochem.braekling@vvhumann.de"
+      ],
+      "verein": "VV Humann Essen",
+      "ort": "Essen",
+      "land": "NRW",
+      "pilot": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vvhumann.de/",
+        "https://www.vvhumann.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.vvhumann.de/tickets/",
+          "stelle": "inzelkarten für unsere Heimspiele sind in ausreichender Anzahl an der Abendkasse erhältlich und brauchen nicht vorbestellt werden. Eine Platzreservier"
+        },
+        "vorverkauf": {
+          "url": "https://www.vvhumann.de/tickets/",
+          "stelle": "freien Eintritt Alle Preise inkl. gesetzlicher MwSt. Es fallen keine Vorverkaufs-, Bearbeitungs- oder Ticketgebühren an. Wer erhält den ermäßigten Ei"
+        },
+        "von_hand": {
+          "url": "https://www.vvhumann.de/tickets/",
+          "stelle": "ausreichender Anzahl an der Abendkasse erhältlich und brauchen nicht vorbestellt werden. Eine Platzreservierung ist nicht möglich. Reguläres Ticket:"
+        },
+        "eintritt_frei": {
+          "url": "https://www.vvhumann.de/tickets/",
+          "stelle": "H-Fanschal. Das Dauerkartenangebot beinhaltet: Die Dauerkarte 2026/27 Freier Eintritt an allen 12 Heimspielen des VV Humann Bundesligateams und einen VVH F"
+        },
+        "dauerkarte": {
+          "url": "https://www.vvhumann.de/tickets/",
+          "stelle": "e der Bundesligamannschaft finden in der Sporthalle Wolfskuhle statt. Dauerkartenangebot 12 Heimspiele. Nur 10 bezahlen. Plus VVH-Fanschal. Das Dauerk"
+        }
+      },
+      "instagram": [
+        "vvhumannessen"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 9,
+          "url": "https://www.vvhumann.de/tickets/",
+          "stelle": "ticket: 9,00 €"
+        },
+        {
+          "eur": 5,
+          "url": "https://www.vvhumann.de/tickets/",
+          "stelle": "ticket: 5,00 €"
+        },
+        {
+          "eur": 60,
+          "url": "https://www.vvhumann.de/tickets/",
+          "stelle": "tickets: 60,00 €"
+        },
+        {
+          "eur": 9,
+          "url": "https://www.vvhumann.de/tickets/",
+          "stelle": "ticket: 9,00 €"
+        },
+        {
+          "eur": 5,
+          "url": "https://www.vvhumann.de/tickets/",
+          "stelle": "ticket: 5,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": false
+    }
+  ]
+}

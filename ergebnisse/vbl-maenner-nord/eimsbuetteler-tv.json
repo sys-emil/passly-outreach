@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Eimsbütteler TV",
+    "ort": "Hamburg",
+    "land": "HH",
+    "liga": "vbl-maenner-nord",
+    "liga_name": "2. Bundesliga Männer Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.etv-hamburg.de/de/team/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "ETV Sporthalle Hoheluft Lokstedter Steindamm 52, 22529 Hamburg",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim Light (VBL-Ticketlink: https://www.eventim-light.com/de/a/62decdcbf520394ff5b20427).",
+    "quellen": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346149&c.view=teamMain",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346149&c.view=contact"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346149&c.view=teamMain",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346149&c.view=contact"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. VBL-Name „Eimsbütteler TV“. Mehrere Instagram-Konten verlinkt: etv.hamburgervolksbank.volleys, etv.hamburg. Gelesen: https://www.etv-hamburg.de/de/team/, https://www.etv-hamburg.de/de/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346149&c.view=teamMain",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346149&c.view=contact"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346149&c.view=teamMain",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346149&c.view=contact"
+        ]
+      }
+    }
+  }
+}

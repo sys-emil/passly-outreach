@@ -1,0 +1,70 @@
+{
+  "verein": {
+    "name": "MLK Volleys Köln",
+    "ort": "Köln",
+    "land": "NRW",
+    "liga": "vbl-maenner-nord",
+    "liga_name": "2. Bundesliga Männer Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "http://www.mlk-volleys.de",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 9,
+    "halle": "3-fach-Halle des Georg-Büchner-Gymnasiums, Köln-Weiden",
+    "kapazitaet": null,
+    "instagram": "mlkvolleys",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Kontakt laut Website",
+      "kontakt": "d.puetter@fcjunkersdorf.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tickets gibt es laut Website ausschließlich an der Abendkasse (Erwachsene 9 €); bei begrenztem Kontingent werden die Türen geschlossen, wenn die Halle voll ist.",
+    "quellen": [
+      "https://mlk-volleys.de/ticketing/",
+      "https://mlk-volleys.de/heimspielhallen/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://mlk-volleys.de/ticketing/",
+      "https://mlk-volleys.de/heimspielhallen/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Begrenztes Kontingent plus nur Abendkasse: genau der Fall, in dem Vorverkauf hilft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://mlk-volleys.de/ticketing/",
+      "https://mlk-volleys.de/heimspielhallen/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://mlk-volleys.de/ticketing/"
+        ],
+        "instagram": [
+          "https://mlk-volleys.de/ticketing/",
+          "https://mlk-volleys.de/heimspielhallen/"
+        ],
+        "ansprechperson": [
+          "https://mlk-volleys.de/ticketing/",
+          "https://mlk-volleys.de/heimspielhallen/"
+        ],
+        "vorverkauf": [
+          "https://mlk-volleys.de/ticketing/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gelesen, dass es eure Tickets nur an der Abendkasse gibt und ihr die Türen schließen müsst, wenn das Kontingent in der Halle am Georg-Büchner-Gymnasium voll ist. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. So wisst ihr vorher, wie viele kommen. Für euch kostenlos. Passt ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Kontakt laut Website, d.puetter@fcjunkersdorf.de; nach der Person fragen, die die Heimspiele organisiert.\n- Einstieg: Tickets ausschließlich an der Abendkasse, Erwachsene 9 €, begrenztes Kontingent, Türen zu, wenn die Halle voll ist.\n- Frage: Wie oft war die Halle schon voll, und wie läuft es dann an der Tür?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Kontingent online plus Abendkasse im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf für ein Heimspiel vorschlagen."
+}

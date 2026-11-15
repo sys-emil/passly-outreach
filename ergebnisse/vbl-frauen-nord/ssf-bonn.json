@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "SSF Bonn",
+    "ort": "Bonn",
+    "land": "NRW",
+    "liga": "vbl-frauen-nord",
+    "liga_name": "2. Bundesliga Frauen Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.ssfbonn.de/de/sport/sportabteilungen/volleyball/zweite-bundesliga-damen/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 5,
+    "halle": "Hardtberghalle, Gaußstraße 1, 53125 Bonn",
+    "kapazitaet": null,
+    "instagram": "bizepsvolleys",
+    "ansprechperson": {
+      "name": "Albert Klein-Reinhardt",
+      "rolle": "Mannschaftsverantwortlicher",
+      "kontakt": "albert_klein-reinhardt@web.de; Team: bizepsvolleysbonn@gmail.com"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seite der 1. Damen nennt Tickets für 5 € (ermäßigt 3 €, Kinder frei) in der Hardtberghalle, aber keinen Vorverkauf und keinen Shop.",
+    "quellen": [
+      "https://www.ssfbonn.de/de/sport/sportabteilungen/volleyball/zweite-bundesliga-damen/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.ssfbonn.de/de/sport/sportabteilungen/volleyball/zweite-bundesliga-damen/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Beide Mailadressen sind Freemail (web.de, gmail). Wo die Tickets verkauft werden, steht nicht da; vermutlich Abendkasse.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.ssfbonn.de/de/sport/sportabteilungen/volleyball/zweite-bundesliga-damen/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.ssfbonn.de/de/sport/sportabteilungen/volleyball/zweite-bundesliga-damen/"
+        ],
+        "instagram": [
+          "https://www.ssfbonn.de/de/sport/sportabteilungen/volleyball/zweite-bundesliga-damen/"
+        ],
+        "ansprechperson": [
+          "https://www.ssfbonn.de/de/sport/sportabteilungen/volleyball/zweite-bundesliga-damen/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab auf eurer Seite gesehen, dass Tickets für eure Heimspiele in der Hardtberghalle 5 € kosten, einen Vorverkauf hab ich aber nicht gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Albert Klein-Reinhardt (Mannschaftsverantwortlicher), Team-Adresse bizepsvolleysbonn@gmail.com. Freemail, also erst nach Antwort auf die DM per Mail.\n- Einstieg: Tickets 5 € (ermäßigt 3 €, Kinder frei), auf der Seite kein Vorverkauf.\n- Frage: Wie verkauft ihr die Tickets gerade, und was nervt daran?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

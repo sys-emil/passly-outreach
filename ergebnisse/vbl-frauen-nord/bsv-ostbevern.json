@@ -1,0 +1,49 @@
+{
+  "verein": {
+    "name": "BSV Ostbevern",
+    "ort": "Ostbevern",
+    "land": "NRW",
+    "liga": "vbl-frauen-nord",
+    "liga_name": "2. Bundesliga Frauen Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "http://www.volleyball.bsv-ostbevern.de",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Beverhalle Schulstr. 17, 48346 Ostbevern",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Volleyball-Seite war bei zwei Abrufen nicht erreichbar (HTTP 503); die Hauptseite des BSV kündigt das Heimspiel gegen den SC Potsdam in der Beverhalle an, ohne Angaben zu Tickets.",
+    "quellen": [
+      "https://www.bsv-ostbevern.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [
+      "https://www.betexplorer.com/volleyball/team/ostbevern/ObfcF4D7/"
+    ],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "volleyball.bsv-ostbevern.de antwortete zweimal mit 503. Ein Anruf oder späterer Abruf klärt die Ticketfrage. Halle Beverhalle laut Hauptseite.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.bsv-ostbevern.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.bsv-ostbevern.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {}
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "verein": {
+    "name": "TUSA City Girls Düsseldorf",
+    "ort": "Düsseldorf",
+    "land": "NRW",
+    "liga": "vbl-frauen-nord",
+    "liga_name": "2. Bundesliga Frauen Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://volleyball-city-girls.tusa06.de/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 5,
+    "halle": "Hulda-Pankok-Gesamtschule, Düsseldorf",
+    "kapazitaet": null,
+    "instagram": "dcitygirls_volleyball",
+    "ansprechperson": {
+      "name": "Tobias Hintzke",
+      "rolle": "Kontakt, Anreise und Ticketing",
+      "kontakt": "tobias.hintzke@tusa06.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Unter „Tickets vor Ort“ nennt die Seite 5 € (ermäßigt 3 €, bis 16 Jahre frei) und erklärt, dass die VBL-Satzung Eintritt vorschreibt; einen Vorverkauf gibt es nicht.",
+    "quellen": [
+      "https://volleyball-city-girls.tusa06.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://volleyball-city-girls.tusa06.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Heimspielkoordination über eine Freemail-Adresse.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://volleyball-city-girls.tusa06.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://volleyball-city-girls.tusa06.de/"
+        ],
+        "instagram": [
+          "https://volleyball-city-girls.tusa06.de/"
+        ],
+        "ansprechperson": [
+          "https://volleyball-city-girls.tusa06.de/"
+        ],
+        "vorverkauf": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab auf eurer Seite gesehen, dass es die Tickets für eure Heimspiele in der Hulda-Pankok-Gesamtschule vor Ort gibt, 5 € für Vollzahlende. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für euch kostenlos. Hättet ihr zehn Minuten für ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Tobias Hintzke (Kontakt, Anreise und Ticketing), tobias.hintzke@tusa06.de.\n- Einstieg: Tickets vor Ort, 5 € (ermäßigt 3 €, bis 16 Jahre frei), Eintritt laut VBL-Satzung Pflicht.\n- Frage: Wie läuft der Ticketverkauf an der Halle gerade, was nervt daran?\n- Angebot: Ich richte das nächste Heimspiel kostenlos als Testlauf ein, Kasse vor Ort und Online-Verkauf im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Termin für einen Testlauf vorschlagen."
+}

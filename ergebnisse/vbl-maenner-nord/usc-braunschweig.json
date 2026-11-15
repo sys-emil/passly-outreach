@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "USC Braunschweig",
+    "ort": "Braunschweig",
+    "land": "NI",
+    "liga": "vbl-maenner-nord",
+    "liga_name": "2. Bundesliga Männer Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "http://bundesliga.usc-bs.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle IGS Wendenring Wendenring 30b, 38114 Braunschweig",
+    "kapazitaet": null,
+    "instagram": "usc_volleys",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Vereinsticket (VBL-Ticketlink: https://events.vereinsticket.de/usc-bs).",
+    "quellen": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346152&c.view=teamMain",
+      "https://bundesliga.usc-bs.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346152&c.view=contact"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346152&c.view=teamMain",
+      "https://bundesliga.usc-bs.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346152&c.view=contact"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. VBL-Name „USC Braunschweig“. Gelesen: https://bundesliga.usc-bs.de/, https://bundesliga.usc-bs.de/anfahrt-zum-heimspiel/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346152&c.view=teamMain",
+      "https://bundesliga.usc-bs.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346152&c.view=contact"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346152&c.view=teamMain",
+          "https://bundesliga.usc-bs.de/",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_maenner/2_bundesliga_maenner_nord/mannschaften.xhtml?c.teamId=781346152&c.view=contact"
+        ],
+        "instagram": [
+          "https://bundesliga.usc-bs.de/"
+        ]
+      }
+    }
+  }
+}

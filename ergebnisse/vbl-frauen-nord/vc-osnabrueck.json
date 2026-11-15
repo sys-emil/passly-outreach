@@ -1,0 +1,61 @@
+{
+  "verein": {
+    "name": "VC Osnabrück",
+    "ort": "Osnabrück",
+    "land": "NI",
+    "liga": "vbl-frauen-nord",
+    "liga_name": "2. Bundesliga Frauen Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.vc-osnabrueck.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ditix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Sporthalle am Schlosswall Schlosswall 10, 49080 Osnabrück",
+    "kapazitaet": null,
+    "instagram": "vc_osnabrueck",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über ditix (VBL-Ticketlink: https://vcosnabrueck.ditix.shop/).",
+    "quellen": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345002&c.view=teamMain",
+      "https://www.vc-osnabrueck.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345002&c.view=contact"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345002&c.view=teamMain",
+      "https://www.vc-osnabrueck.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345002&c.view=contact"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. VBL-Name „VC Osnabrück“. Gelesen: https://www.vc-osnabrueck.de/, https://www.vc-osnabrueck.de/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345002&c.view=teamMain",
+      "https://www.vc-osnabrueck.de/",
+      "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345002&c.view=contact"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345002&c.view=teamMain",
+          "https://www.volleyball-bundesliga.de/cms/home/2_bundesliga_frauen/2_bundesliga_frauen_nord/mannschaften.xhtml?c.teamId=781345002&c.view=contact"
+        ],
+        "instagram": [
+          "https://www.vc-osnabrueck.de/"
+        ]
+      }
+    }
+  }
+}

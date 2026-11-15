@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "TuB Bocholt",
+    "ort": "Bocholt",
+    "land": "NRW",
+    "liga": "vbl-maenner-nord",
+    "liga_name": "2. Bundesliga Männer Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://www.tub-bocholt-volleyball.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 7,
+    "halle": "Sporthalle West, Bocholt",
+    "kapazitaet": null,
+    "instagram": "tub_bocholt_volleyball",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Einzelkarten kosten 7 € (ermäßigt 4 €); Dauerkarten für 60 € reserviert man über ein Formular auf der Ticketseite.",
+    "quellen": [
+      "https://www.tub-bocholt-volleyball.de/bundesliga/tickets",
+      "https://www.tub-bocholt-volleyball.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.tub-bocholt-volleyball.de/bundesliga/tickets",
+      "https://www.tub-bocholt-volleyball.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Der VBL-Ticketlink (tub-bocholt.de/zuschaueranmeldung_volleyball) ist tot (404).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tub-bocholt-volleyball.de/bundesliga/tickets",
+      "https://www.tub-bocholt-volleyball.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.tub-bocholt-volleyball.de/bundesliga/tickets"
+        ],
+        "instagram": [
+          "https://www.tub-bocholt-volleyball.de/bundesliga/tickets",
+          "https://www.tub-bocholt-volleyball.de/"
+        ],
+        "vorverkauf": [
+          "https://www.tub-bocholt-volleyball.de/bundesliga/tickets"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass man eure Dauerkarten für die Sporthalle West über ein Formular reserviert. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Dauerkarte und Einzelkarte laufen im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Volleyballabteilung über die Kontaktseite von tub-bocholt-volleyball.de, nach der Person fragen, die die Formular-Reservierungen bearbeitet.\n- Einstieg: Einzelkarte 7 € (ermäßigt 4 €), Dauerkarte 60 €, Reservierung per Formular.\n- Frage: Wie viel Arbeit machen die Formular-Reservierungen und die Bezahlung, was nervt daran?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Dauerkarte und Abendkasse im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

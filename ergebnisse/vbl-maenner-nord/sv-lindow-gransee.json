@@ -1,0 +1,63 @@
+{
+  "verein": {
+    "name": "SV Lindow-Gransee",
+    "ort": "Gransee",
+    "land": "BB",
+    "liga": "vbl-maenner-nord",
+    "liga_name": "2. Bundesliga Männer Nord",
+    "sport": "Volleyball"
+  },
+  "ergebnis": {
+    "website": "https://svlindowgransee.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Dreifelderhalle Oranienburger Str. 36, 16775 Gransee",
+    "kapazitaet": null,
+    "instagram": "lindow.gransee",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Abteilungsleitung",
+      "kontakt": "seeger-volleyball@t-online.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite und Kontaktseite des SV Lindow-Gransee nennen weder Eintrittspreise noch einen Ticketweg; verlinkt sind Spielplan, Fanshop und Sponsoring.",
+    "quellen": [
+      "https://svlindowgransee.de/",
+      "https://svlindowgransee.de/Kontakt.html"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://svlindowgransee.de/",
+      "https://svlindowgransee.de/Kontakt.html"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorlauf hatte dynvolleyball als Instagram erkannt; das ist das Konto von Dyn, der Verein ist lindow.gransee.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://svlindowgransee.de/",
+      "https://svlindowgransee.de/Kontakt.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://svlindowgransee.de/",
+          "https://svlindowgransee.de/Kontakt.html"
+        ],
+        "ansprechperson": [
+          "https://svlindowgransee.de/Kontakt.html"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, auf eurer Seite hab ich nichts zu Tickets für eure Heimspiele gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Dauerkarte und Abendkasse inklusive, für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Abteilungsleitung, seeger-volleyball@t-online.de (private Adresse, erst nach Antwort auf die DM mailen).\n- Einstieg: Auf Startseite und Kontaktseite keine Eintrittspreise und kein Ticketweg.\n- Frage: Wie läuft der Eintritt bei euren Heimspielen gerade, und was nervt daran?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}
