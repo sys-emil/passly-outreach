@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "ASV Cham",
+    "ort": "Cham",
+    "land": "BY",
+    "liga": "bayernliga-nord",
+    "liga_name": "Bayernliga Nord (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.asv-cham.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "asvcham_1863",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Startseite von ASV Cham nennt weder Eintrittspreise noch einen Ticketweg für die Bayernliga.",
+    "quellen": [
+      "https://www.asv-cham.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.asv-cham.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Bayernliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.asv-cham.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://www.asv-cham.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, auf eurer Seite hab ich nichts dazu gefunden, wie man Tickets für eure Bayernliga-Heimspiele bekommt. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Dauerkarte und Tageskasse inklusive, für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: ASV Cham, info@asv-cham.de, über die Kontaktdaten der Website, nach der Abteilungsleitung Fußball fragen.\n- Einstieg: Auf Startseite und Fußballseite keine Eintrittspreise und kein Ticketweg.\n- Frage: Wie läuft der Eintritt bei euren Heimspielen gerade, und was nervt daran?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Termin vor Ort vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken."
+}

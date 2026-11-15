@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "FC Eintracht Bamberg",
+    "ort": "Bamberg",
+    "land": "BY",
+    "liga": "bayernliga-nord",
+    "liga_name": "Bayernliga Nord (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fc-eintracht-2010.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fce2010",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://fce2010.de/: https://fce2010.de/).",
+    "quellen": [
+      "https://fce2010.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://fce2010.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „FC Eintracht Bamberg“. Gelesen: https://fce2010.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://fce2010.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://fce2010.de/"
+        ],
+        "instagram": [
+          "https://fce2010.de/"
+        ]
+      }
+    }
+  }
+}

@@ -227,20 +227,24 @@ async function stufe0Wikipedia(q) {
   }
   let wt = JSON.parse(seite.roh).parse?.wikitext ?? '';
   if (q.staffel) {
-    const i = wt.indexOf(`=== ${q.staffel} ===`);
-    if (i < 0) { console.error(`Abschnitt „${q.staffel}“ fehlt in ${listeUrl}`); throw new Error('quelle'); }
-    wt = wt.slice(i + q.staffel.length + 8).split(/\n==/)[0];
+    // Abschnitt beliebiger Ebene („== Staffel Nord ==“ im Fußball, „=== Staffel Nord-Ost ===“ im Handball);
+    // er endet an der nächsten Überschrift derselben oder einer höheren Ebene.
+    const m = wt.match(new RegExp(`\\n(=+) *${q.staffel.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')} *=+ *\\n`));
+    if (!m) { console.error(`Abschnitt „${q.staffel}“ fehlt in ${listeUrl}`); throw new Error('quelle'); }
+    const rest = wt.slice(m.index + m[0].length);
+    const ende = rest.search(new RegExp(`\\n={1,${m[1].length}}[^=]`));
+    wt = ende < 0 ? rest : rest.slice(0, ende);
   } else {
-    wt = wt.slice(wt.indexOf('Handballtabelle/Zeile'));
+    wt = wt.slice(Math.max(0, wt.search(/(?:Hand|Fuß)balltabelle\/Zeile/)));
   }
-  const zeilen = [...wt.matchAll(/Handballtabelle\/Zeile[^\n]*?Verein=\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g)];
+  const zeilen = [...wt.matchAll(/(?:Hand|Fuß)balltabelle\/Zeile[^\n]*?Verein= *\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g)];
   const teams = zeilen.map(([, artikel, name]) => ({
     verband_name: (name ?? artikel).trim(), team_id: artikel.trim(), homepage: null, ticketlink: null,
     verband_team_url: `https://de.wikipedia.org/wiki/${encodeURIComponent(artikel.trim().replace(/ /g, '_'))}`,
     verband_kontakt_url: listeUrl, verband_kontakte: [], verband_emails: [],
   }));
   if (teams.length === 0) {
-    console.error('Keine Handballtabelle auf der Wikipedia-Seite gefunden; hat sich der Aufbau geändert?');
+    console.error('Keine Hand- oder Fußballtabelle auf der Wikipedia-Seite gefunden; hat sich der Aufbau geändert?');
     throw new Error('quelle');
   }
   await wikiAufloesen(teams, api);
@@ -643,8 +647,16 @@ function text(html) {
     .replace(/\s+/g, ' ').trim();
 }
 
-async function holen(url) {
+async function holen(url, versuch = 0) {
   abrufe++;
+  // Wikimedia drosselt Serien von Anfragen mit 429: bis zu dreimal warten (5, 15, 45 s) und neu versuchen.
+  if (versuch === 0 && /wiki(pedia|data)\.org\//.test(url)) {
+    for (let i = 0; i < 4; i++) {
+      const r = await holen(url, 1);
+      if (r.grund !== 'HTTP 429' || i === 3) return r;
+      await new Promise((ok) => setTimeout(ok, 5000 * 3 ** i));
+    }
+  }
   try {
     const res = await fetch(url, {
       redirect: 'follow',

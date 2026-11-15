@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "SpVgg Hankofen-Hailing",
+    "ort": "Bayern",
+    "land": null,
+    "liga": "bayernliga-sued",
+    "liga_name": "Bayernliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.spvgg-hankofen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "vivenu",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "spvgg.hankofen",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über vivenu (eingebunden auf https://www.spvgg-hankofen.de/: https://www.spvgg-hankofen.de/).",
+    "quellen": [
+      "https://www.spvgg-hankofen.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.spvgg-hankofen.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „SpVgg Hankofen-Hailing“. Gelesen: https://www.spvgg-hankofen.de/, https://www.spvgg-hankofen.de/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.spvgg-hankofen.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.spvgg-hankofen.de/"
+        ],
+        "instagram": [
+          "https://www.spvgg-hankofen.de/"
+        ]
+      }
+    }
+  }
+}

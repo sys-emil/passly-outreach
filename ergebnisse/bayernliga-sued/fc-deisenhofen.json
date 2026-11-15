@@ -1,0 +1,48 @@
+{
+  "verein": {
+    "name": "FC Deisenhofen",
+    "ort": "Bayern",
+    "land": null,
+    "liga": "bayernliga-sued",
+    "liga_name": "Bayernliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fcdeisenhofen.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von FC Deisenhofen (Startseite, Fußball bzw. 1. Mannschaft) nennen weder Eintrittspreise noch einen Ticketweg für die Bayernliga.",
+    "quellen": [
+      "https://www.fcdeisenhofen.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Bayernliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fcdeisenhofen.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.fcdeisenhofen.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "FSV Stadeln",
+    "land": null,
+    "liga": "bayernliga-nord",
+    "liga_name": "Bayernliga Nord (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.fsv-stadeln.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 10,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seite „Eintrittspreise“ nennt 10 € für Nichtmitglieder und Saison-Dauerkarten ab 125 €, aber keinen Weg, sie zu kaufen.",
+    "quellen": [
+      "https://www.fsv-stadeln.de/?page_id=583",
+      "https://www.fsv-stadeln.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.fsv-stadeln.de/?page_id=583"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.fsv-stadeln.de/"
+    ],
+    "notiz": "Fürth. Kontaktadresse auf der Seite ist Freemail. Dauerkarten-Preise noch 2025/2026.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fsv-stadeln.de/?page_id=583",
+      "https://www.fsv-stadeln.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.fsv-stadeln.de/?page_id=583"
+        ]
+      }
+    }
+  }
+}

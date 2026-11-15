@@ -1,0 +1,639 @@
+{
+  "liga": "bayernliga-nord",
+  "stand": "2026-11-15",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+  "abrufe": 37,
+  "teams": [
+    {
+      "verband_name": "ASV Cham",
+      "team_id": "ASV Cham",
+      "homepage": "http://www.asv-cham.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/ASV_Cham",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "93413",
+      "ort_qid": "Q257859",
+      "ort": "Cham",
+      "verein": "ASV Cham",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.asv-cham.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "asvcham_1863"
+      ],
+      "emails": [
+        "info@asv-cham.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV Kornburg",
+      "team_id": "TSV Kornburg",
+      "homepage": "http://tsv-kornburg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Kornburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "TSV Kornburg",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsv-kornburg.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.tsv-kornburg.de/",
+          "stelle": "ahrt Willkommen auf der Internetseite des TSV Kornburg 1932 e.V. Platzreservierung Padel Court Infos zu Padel findet ihr auf der Padel Seite . ACTION"
+        }
+      },
+      "instagram": [
+        "tsv.kornburg"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Würzburger FV 04",
+      "team_id": "Würzburger FV 04",
+      "homepage": "http://www.wuerzburgerfv.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/W%C3%BCrzburger_FV_04",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "97070",
+      "ort_qid": "Q2999",
+      "ort": "Würzburg",
+      "verein": "Würzburger FV 04",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.wuerzburgerfv.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "bettinas_matchvisions"
+      ],
+      "emails": [
+        "info@wuerzburgerfv.de",
+        "vorstand@wuerzburgerfv.de",
+        "jugendleitung@wuerzburgerfv.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SpVgg Bayern Hof",
+      "team_id": "SpVgg Bayern Hof",
+      "homepage": "http://www.bayern-hof.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SpVgg_Bayern_Hof",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "95028",
+      "ort_qid": "Q6938",
+      "ort": "Hof",
+      "verein": "SpVgg Bayern Hof",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://bayern-hof.de/",
+        "https://bayern-hof.de/tickets/",
+        "https://bayern-hof.de/2026/11/08/man-of-the-match-heimspiel-gegen-asv-cham/",
+        "https://bayern-hof.de/2026/11/01/man-of-the-match-heimspiel-gegen-fc-eintracht-bamberg/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://bayern-hof.de/tickets/",
+          "stelle": "verkaufsstellen erhältlich. Einzelkarten können auch weiterhin an der Tageskasse erworben werden. Einzelkarten Kategorie Preis Online & Vorverkauf Pre"
+        },
+        "vorverkauf": {
+          "url": "https://bayern-hof.de/tickets/",
+          "stelle": "027 Tickets sind über das Ticketportal Reservix und an allen Reservix-Vorverkaufsstellen erhältlich. Einzelkarten können auch weiterhin an der Tageska"
+        },
+        "dauerkarte": {
+          "url": "https://bayern-hof.de/tickets/",
+          "stelle": "14,00 € Ehrenkarte (VIP) 50,00 € &#8211; Parkausweis** 6,00 € &#8211; Dauerkarten Platz Preis Online & Vorverkauf Stehplatz 145,00 € Stehplatz ermäßig"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "tickets@bayern-hof.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://bayern-hof.de/",
+        "wie": "eingebunden auf https://bayern-hof.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SSV Jahn Regensburg II",
+      "team_id": "SSV Jahn Regensburg#U21",
+      "homepage": "http://www.ssv-jahn.de/index.php",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SSV_Jahn_Regensburg%23U21",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "93047",
+      "ort_qid": "Q2978",
+      "ort": "Regensburg",
+      "verein": "SSV Jahn Regensburg II",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC Eintracht Bamberg",
+      "team_id": "FC Eintracht Bamberg",
+      "homepage": "http://www.fc-eintracht-2010.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Eintracht_Bamberg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "96001",
+      "ort_qid": "Q3936",
+      "ort": "Bamberg",
+      "verein": "FC Eintracht Bamberg",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fce2010.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://fce2010.de/",
+          "stelle": "w Jetzt Anfragen. Fehler: Kontaktformular wurde nicht gefunden. Jetzt Dauerkarte zur Saison 2026/27 sichern! 🎟️ 18. Spieltag SpVgg 3:3 FCE Zum Spielb"
+        }
+      },
+      "instagram": [
+        "fce2010"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://fce2010.de/",
+        "wie": "eingebunden auf https://fce2010.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "DJK Gebenbach",
+      "team_id": "DJK Gebenbach",
+      "homepage": "http://www.djk-gebenbach.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/DJK_Gebenbach",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "92274",
+      "ort_qid": "Q536475",
+      "ort": "Gebenbach",
+      "verein": "DJK Gebenbach",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.djk-gebenbach.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "djkgebenbach"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Fortuna Regensburg",
+      "team_id": "SV Fortuna Regensburg",
+      "homepage": "https://www.fortuna-regensburg.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Fortuna_Regensburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "93047",
+      "ort_qid": "Q2978",
+      "ort": "Regensburg",
+      "verein": "SV Fortuna Regensburg",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.fortuna-regensburg.com/ (HTTP 403)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Viktoria Aschaffenburg",
+      "team_id": "Viktoria Aschaffenburg",
+      "homepage": "https://sva01.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Viktoria_Aschaffenburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "63739",
+      "ort_qid": "Q3942",
+      "ort": "Aschaffenburg",
+      "verein": "Viktoria Aschaffenburg",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://sva01.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "PassShop (pass consulting)",
+        "beleg": "https://sva01.de/",
+        "wie": "eingebunden auf https://sva01.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FSV Stadeln",
+      "team_id": "FSV Stadeln",
+      "homepage": "https://www.fsv-stadeln.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FSV_Stadeln",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "FSV Stadeln",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fsv-stadeln.de/",
+        "https://www.fsv-stadeln.de/?page_id=583",
+        "https://www.fsv-stadeln.de/?p=8120",
+        "https://www.fsv-stadeln.de/?p=8094",
+        "https://www.fsv-stadeln.de/?p=8079",
+        "https://www.fsv-stadeln.de/?p=8065"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.fsv-stadeln.de/?page_id=583",
+          "stelle": "ntner und Schwerbesch. 8 € Mitglieder 9 € Nichtmitglieder 10 € Saison-Dauerkarte Mitglieder 2025/2026 125 € Saison-Dauerkarte Nichtmitglieder 2025/202"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "begovic@gmx.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV Großbardorf",
+      "team_id": "TSV Großbardorf",
+      "homepage": "http://www.tsv-grossbardorf.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Gro%C3%9Fbardorf",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "TSV Großbardorf",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.grabfeld-gallier.de/",
+        "https://www.grabfeld-gallier.de/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "eintritt_frei": {
+          "url": "https://www.grabfeld-gallier.de/tickets",
+          "stelle": "is 17 Jahre), Wehr- und Zivildienstleistende (Schwerbehinderte ab 80% Eintritt frei). Ermäßigung nur mit gültiger Bestätigung. **Kind = 11 bis 15 Jahre D"
+        },
+        "dauerkarte": {
+          "url": "https://www.grabfeld-gallier.de/tickets",
+          "stelle": "rten-Preise BAYERNLIGA: Normal Ermäßigt* Kind** 10,00 € 8,00 € 5,00 € Dauerkarten-Preise BAYERNLIGA: Normal Ermäßigt* Kind** 130,00 € 105,00 € 50,00 €"
+        }
+      },
+      "instagram": [
+        "grabfeldgallier"
+      ],
+      "emails": [
+        "mail@grabfeld-gallier.de"
+      ],
+      "preise": [
+        {
+          "eur": 10,
+          "url": "https://www.grabfeld-gallier.de/tickets",
+          "stelle": "normal ermäßigt* kind** 10,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV Neudrossenfeld",
+      "team_id": "TSV Neudrossenfeld",
+      "homepage": "http://www.tsv-neudrossenfeld.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Neudrossenfeld",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "TSV Neudrossenfeld",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.tsv-neudrossenfeld.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SpVgg SV Weiden",
+      "team_id": "SpVgg SV Weiden",
+      "homepage": "https://www.spvgg-weiden.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SpVgg_SV_Weiden",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "92637",
+      "ort_qid": "Q14803",
+      "ort": "Weiden in der Oberpfalz",
+      "verein": "SpVgg SV Weiden",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.spvgg-weiden.de/",
+        "https://www.spvgg-weiden.de/tickets",
+        "https://www.spvgg-weiden.de/tickets/allgemeine-ticketbedingungen"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.spvgg-weiden.de/",
+          "stelle": "NEU - Schnell und einfach die neuen SpVgg SV Weiden Kunstrasenplätze reservieren und buchen: Jetzt Termine auswählen und buchen . Bitte beachten, da"
+        },
+        "dauerkarte": {
+          "url": "https://www.spvgg-weiden.de/tickets",
+          "stelle": "tspreise Bayernligasaison 2026/2027 Juli 2025, Irrtum vorbehalten VIP-Dauerkarte (incl. Verpflegung & Parkplatz im Stadion) 1.000,00 € Premium-Karte ("
+        },
+        "eintritt_frei": {
+          "url": "https://www.spvgg-weiden.de/tickets/allgemeine-ticketbedingungen",
+          "stelle": "elten, ergibt sich aus dem Angebot für das jeweilige Spiel. Ein kostenfreier Eintritt begründet für sich genommen keinen Anspruch auf einen bestimmten Sitz"
+        }
+      },
+      "instagram": [
+        "kmv_kurzzeitpflege"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Ingolstadt 04 II",
+      "team_id": "FC Ingolstadt 04#Die zweite Mannschaft",
+      "homepage": "https://www.fcingolstadt.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Ingolstadt_04%23Die_zweite_Mannschaft",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "85049",
+      "ort_qid": "Q3004",
+      "ort": "Ingolstadt",
+      "verein": "FC Ingolstadt 04 II",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "DJK Ammerthal",
+      "team_id": "DJK Ammerthal",
+      "homepage": "http://www.djkammerthal.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/DJK_Ammerthal",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "92260",
+      "ort_qid": "Q473259",
+      "ort": "Ammerthal",
+      "verein": "DJK Ammerthal",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.djkammerthal.de/ (UNABLE_TO_VERIFY_LEAF_SIGNATURE)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV 1861 Nördlingen",
+      "team_id": "TSV 1861 Nördlingen",
+      "homepage": "http://www.tsv1861-noerdlingen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_1861_N%C3%B6rdlingen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "TSV 1861 Nördlingen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsv1861-noerdlingen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "DJK Don Bosco Bamberg",
+      "team_id": "DJK Don Bosco Bamberg",
+      "homepage": "http://www.djk-don-bosco-bamberg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/DJK_Don_Bosco_Bamberg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "96001",
+      "ort_qid": "Q3936",
+      "ort": "Bamberg",
+      "verein": "DJK Don Bosco Bamberg",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://djk-don-bosco-bamberg.de/start",
+        "https://djk-don-bosco-bamberg.de/sportanlage/heimspiele-der-djk",
+        "https://djk-don-bosco-bamberg.de/sportanlage/eintrittspreise"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "derplattenladen"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 10,
+          "url": "https://djk-don-bosco-bamberg.de/sportanlage/eintrittspreise",
+          "stelle": "erwachsene: 10,00 €"
+        },
+        {
+          "eur": 6,
+          "url": "https://djk-don-bosco-bamberg.de/sportanlage/eintrittspreise",
+          "stelle": "erwachsene: 6,00 €"
+        },
+        {
+          "eur": 6,
+          "url": "https://djk-don-bosco-bamberg.de/sportanlage/eintrittspreise",
+          "stelle": "erwachsene: 6,00 €"
+        },
+        {
+          "eur": 4,
+          "url": "https://djk-don-bosco-bamberg.de/sportanlage/eintrittspreise",
+          "stelle": "erwachsene: 4,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "ASV Neumarkt",
+      "team_id": "ASV Neumarkt",
+      "homepage": "http://www.asv-neumarkt.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/ASV_Neumarkt",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "92318",
+      "ort_qid": "Q14887",
+      "ort": "Neumarkt in der Oberpfalz",
+      "verein": "ASV Neumarkt",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://asv-neumarkt.de/hp1/Startseite.htm"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@asv-neumarkt.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "liga": "bayernliga-sued",
+  "stand": "2026-11-15",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+  "abrufe": 33,
+  "teams": [
+    {
+      "verband_name": "FC Pipinsried",
+      "team_id": "FC Pipinsried",
+      "homepage": "http://www.fcpipinsried.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Pipinsried",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "85250",
+      "ort_qid": "Q443815",
+      "ort": "Altomünster",
+      "verein": "FC Pipinsried",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fcpipinsried.de/",
+        "https://www.fcpipinsried.de/fans/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "nur_abendkasse": {
+          "url": "https://www.fcpipinsried.de/fans/tickets",
+          "stelle": "et: auf Anfrage VIP-Jahreskarte: 500 € Infos & Verkauf Tickets können ausschließlich an der Tageskasse erworben werden. Eine Kartenzahlung ist leider nicht möglich . EIN DO"
+        },
+        "abendkasse": {
+          "url": "https://www.fcpipinsried.de/fans/tickets",
+          "stelle": "hreskarte: 500 € Infos & Verkauf Tickets können ausschließlich an der Tageskasse erworben werden. Eine Kartenzahlung ist leider nicht möglich . EIN DO"
+        }
+      },
+      "instagram": [
+        "fcpipinsried67"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 10,
+          "url": "https://www.fcpipinsried.de/fans/tickets",
+          "stelle": "tageskarte vollzahler: 10 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV 1880 Wasserburg",
+      "team_id": "TSV 1880 Wasserburg",
+      "homepage": "http://www.tsv-wasserburg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_1880_Wasserburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "TSV 1880 Wasserburg",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tsv-wasserburg.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@tsv-wasserburg.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Erlbach",
+      "team_id": "SV Erlbach",
+      "homepage": "https://www.sv-erlbach.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Erlbach",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "84567",
+      "ort_qid": "Q1355455",
+      "ort": "Erlbach",
+      "verein": "SV Erlbach",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sv-erlbach.de/",
+        "https://www.sv-erlbach.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.sv-erlbach.de/",
+          "stelle": "hpartner Vermarktung Kontakt Fanshop % Sport - NUR DER SVE- JETZT SVE DAUERKARTE 26/27 BESTELLEN Erlebe alle Bayernliga-Highlights hautnah! Jetzt best"
+        }
+      },
+      "instagram": [
+        "sv.erlbach"
+      ],
+      "emails": [
+        "vorstand@sv-erlbach.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SpVgg Landshut",
+      "team_id": "SpVgg Landshut",
+      "homepage": "http://spvgg-landshut.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SpVgg_Landshut",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "SpVgg Landshut",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.spvgg-landshut.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@spvgg-landshut.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FSV Pfaffenhofen",
+      "team_id": "FSV Pfaffenhofen",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FSV_Pfaffenhofen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "85276",
+      "ort_qid": "Q490319",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Pfaffenhofen an der Ilm",
+      "verein": "FSV Pfaffenhofen",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SpVgg Hankofen-Hailing",
+      "team_id": "SpVgg Hankofen-Hailing",
+      "homepage": "http://www.spvgg-hankofen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SpVgg_Hankofen-Hailing",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "SpVgg Hankofen-Hailing",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.spvgg-hankofen.de/",
+        "https://www.spvgg-hankofen.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "spvgg.hankofen"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "vivenu",
+        "beleg": "https://www.spvgg-hankofen.de/",
+        "wie": "eingebunden auf https://www.spvgg-hankofen.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC Sportfreunde Schwaig",
+      "team_id": "FC Sportfreunde Schwaig",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Sportfreunde_Schwaig",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "FC Sportfreunde Schwaig",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Ismaning",
+      "team_id": "FC Ismaning",
+      "homepage": "http://www.fcismaning.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Ismaning",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "85737",
+      "ort_qid": "Q254897",
+      "ort": "Ismaning",
+      "verein": "FC Ismaning",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fcismaning.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Heimstetten",
+      "team_id": "SV Heimstetten",
+      "homepage": "http://www.sv-heimstetten.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Heimstetten",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "85551",
+      "ort_qid": "Q504880",
+      "ort": "Kirchheim bei München",
+      "verein": "SV Heimstetten",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://sv-heimstetten.com/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "vorstand@sv-heimstetten.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV 1860 München II",
+      "team_id": "TSV 1860 München II",
+      "homepage": "https://www.tsv1860.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_1860_M%C3%BCnchen_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "80331",
+      "ort_qid": "Q1726",
+      "ort": "München",
+      "verein": "TSV 1860 München II",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "TSV 1874 Kottern",
+      "team_id": "TSV 1874 Kottern",
+      "homepage": "http://www.tsv-kottern.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_1874_Kottern",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "87435",
+      "ort_qid": "Q3994",
+      "ort": "Kempten",
+      "verein": "TSV 1874 Kottern",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.tsv-kottern.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV 1860 Rosenheim",
+      "team_id": "TSV 1860 Rosenheim",
+      "homepage": "http://www.tsv1860-ro.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_1860_Rosenheim",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "83022",
+      "ort_qid": "Q4007",
+      "ort": "Rosenheim",
+      "verein": "TSV 1860 Rosenheim",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tsv1860rosenheim.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "tsv1860rosenheim"
+      ],
+      "emails": [
+        "buero@tsv1860rosenheim.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV Schwabmünchen",
+      "team_id": "TSV Schwabmünchen",
+      "homepage": "http://www.tsv-schwabmuenchen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Schwabm%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "TSV Schwabmünchen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsv-schwabmuenchen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "tsvsmue"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Deisenhofen",
+      "team_id": "FC Deisenhofen",
+      "homepage": "http://www.fcdeisenhofen.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Deisenhofen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "FC Deisenhofen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fcdeisenhofen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@fcdeisenhofen.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Gundelfingen",
+      "team_id": "FC Gundelfingen",
+      "homepage": "http://www.fcgundelfingen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Gundelfingen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "89423",
+      "ort_qid": "Q509648",
+      "ort": "Gundelfingen an der Donau",
+      "verein": "FC Gundelfingen",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fcgundelfingen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://fcgundelfingen.de/",
+          "stelle": "Team-Kollektion Herren 1 und U23 U19 Jugendmannschaften NLZ KuRa Platzreservierung Reservierunganfrage Preisliste Kunstrasen-Vermietung AGB Vermietun"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Kirchanschöring",
+      "team_id": "SV Kirchanschöring",
+      "homepage": "http://www.sv-kirchanschoering.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Kirchansch%C3%B6ring",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "83417",
+      "ort_qid": "Q265312",
+      "ort": "Kirchanschöring",
+      "verein": "SV Kirchanschöring",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.sv-kirchanschoering.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TuS Geretsried",
+      "team_id": "TuS Geretsried",
+      "homepage": "https://fussball.tus-geretsried.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TuS_Geretsried",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "82538",
+      "ort_qid": "Q504780",
+      "ort": "Geretsried",
+      "verein": "TuS Geretsried",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fussball.tus-geretsried.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Schalding-Heining",
+      "team_id": "SV Schalding-Heining",
+      "homepage": "http://www.sv-schalding-heining.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Schalding-Heining",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "94032",
+      "ort_qid": "Q4190",
+      "ort": "Passau",
+      "verein": "SV Schalding-Heining",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.sv-schalding-heining.de/ (HTTP 500)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    }
+  ]
+}

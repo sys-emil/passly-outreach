@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "FC Pipinsried",
+    "ort": "Altomünster",
+    "land": "BY",
+    "liga": "bayernliga-sued",
+    "liga_name": "Bayernliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fcpipinsried.de/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 10,
+    "halle": "Küchenstadel-Arena, Pipinsried",
+    "kapazitaet": null,
+    "instagram": "fcpipinsried67",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tickets gibt es laut Ticketseite „ausschließlich an der Tageskasse“, Kartenzahlung „leider nicht möglich“; Tageskarte 10 €, Jahreskarte 150 €, VIP-Jahreskarte 500 €.",
+    "quellen": [
+      "https://www.fcpipinsried.de/fans/tickets",
+      "https://www.fcpipinsried.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.fcpipinsried.de/fans/tickets",
+      "https://www.fcpipinsried.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Nur bar an der Tageskasse, Jahreskarten und VIP ohne Online-Weg. Landkreis Dachau, nah an München. Starker Kandidat.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fcpipinsried.de/fans/tickets",
+      "https://www.fcpipinsried.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.fcpipinsried.de/fans/tickets"
+        ],
+        "instagram": [
+          "https://www.fcpipinsried.de/fans/tickets",
+          "https://www.fcpipinsried.de/"
+        ],
+        "vorverkauf": [
+          "https://www.fcpipinsried.de/fans/tickets"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gelesen, dass es eure Tickets nur an der Tageskasse in der Küchenstadel-Arena gibt und Kartenzahlung dort nicht geht. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Jahreskarte und VIP inklusive, für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: FC Pipinsried über die Kontaktseite von fcpipinsried.de, nach der Person fragen, die die Tageskasse organisiert.\n- Einstieg: Tickets ausschließlich an der Tageskasse, keine Kartenzahlung; Tageskarte 10 €, Jahreskarte 150 €, VIP-Jahreskarte 500 €.\n- Frage: Wie viel Bargeld läuft an einem Heimspieltag durch, und wie verkauft ihr Jahres- und VIP-Karten?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Termin vor Ort vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken."
+}

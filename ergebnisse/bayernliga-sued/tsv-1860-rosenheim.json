@@ -1,0 +1,56 @@
+{
+  "verein": {
+    "name": "TSV 1860 Rosenheim",
+    "ort": "Rosenheim",
+    "land": "BY",
+    "liga": "bayernliga-sued",
+    "liga_name": "Bayernliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.tsv1860-ro.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tsv1860rosenheim",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von TSV 1860 Rosenheim (Startseite, Fußball bzw. 1. Mannschaft) nennen weder Eintrittspreise noch einen Ticketweg für die Bayernliga.",
+    "quellen": [
+      "https://tsv1860rosenheim.de/termin/herren-tsv-1860-rosenheim-spvgg-landshut-meisterschaften-bayernliga-sued/",
+      "https://tsv1860rosenheim.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://tsv1860rosenheim.de/termin/herren-tsv-1860-rosenheim-spvgg-landshut-meisterschaften-bayernliga-sued/",
+      "https://tsv1860rosenheim.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Bayernliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://tsv1860rosenheim.de/termin/herren-tsv-1860-rosenheim-spvgg-landshut-meisterschaften-bayernliga-sued/",
+      "https://tsv1860rosenheim.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://tsv1860rosenheim.de/termin/herren-tsv-1860-rosenheim-spvgg-landshut-meisterschaften-bayernliga-sued/",
+          "https://tsv1860rosenheim.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, auf eurer Seite hab ich nichts dazu gefunden, wie man Tickets für eure Bayernliga-Heimspiele bekommt. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Dauerkarte und Tageskasse inklusive, für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: TSV 1860 Rosenheim, buero@tsv1860rosenheim.de, über die Kontaktdaten der Website, nach der Abteilungsleitung Fußball fragen.\n- Einstieg: Auf Startseite und Fußballseite keine Eintrittspreise und kein Ticketweg.\n- Frage: Wie läuft der Eintritt bei euren Heimspielen gerade, und was nervt daran?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Termin vor Ort vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken."
+}

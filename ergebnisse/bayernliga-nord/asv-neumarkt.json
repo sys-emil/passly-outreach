@@ -1,0 +1,48 @@
+{
+  "verein": {
+    "name": "ASV Neumarkt",
+    "ort": "Neumarkt in der Oberpfalz",
+    "land": "BY",
+    "liga": "bayernliga-nord",
+    "liga_name": "Bayernliga Nord (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.asv-neumarkt.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Startseite von ASV Neumarkt nennt weder Eintrittspreise noch einen Ticketweg für die Bayernliga.",
+    "quellen": [
+      "https://asv-neumarkt.de/hp1/Startseite.htm"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Bayernliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://asv-neumarkt.de/hp1/Startseite.htm"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://asv-neumarkt.de/hp1/Startseite.htm"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

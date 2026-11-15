@@ -1,0 +1,68 @@
+{
+  "verein": {
+    "name": "SV Erlbach",
+    "ort": "Erlbach",
+    "land": "BY",
+    "liga": "bayernliga-sued",
+    "liga_name": "Bayernliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.sv-erlbach.de",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 9,
+    "halle": "Holzbau-Grübl-Arena, Erlbach",
+    "kapazitaet": null,
+    "instagram": "sv.erlbach",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Vorstand",
+      "kontakt": "vorstand@sv-erlbach.de, +49 171 3058939"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Eintrittskarten kosten 9 € (Kinder bis 16 frei); Jahreskarten (130 €) bestellt man über ein Anfrageformular auf der Ticketseite, Einzeltickets nur vor Ort.",
+    "quellen": [
+      "https://www.sv-erlbach.de/tickets/",
+      "https://www.sv-erlbach.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.sv-erlbach.de/tickets/",
+      "https://www.sv-erlbach.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Formular ist eine verbindliche Anfrage, Bezahlung danach von Hand.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.sv-erlbach.de/tickets/",
+      "https://www.sv-erlbach.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.sv-erlbach.de/tickets/"
+        ],
+        "instagram": [
+          "https://www.sv-erlbach.de/tickets/",
+          "https://www.sv-erlbach.de/"
+        ],
+        "ansprechperson": [
+          "https://www.sv-erlbach.de/tickets/",
+          "https://www.sv-erlbach.de/"
+        ],
+        "vorverkauf": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab eure Ticketseite gesehen: Eintritt 9 €, Kinder bis 16 frei, Jahreskarte 130 €. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Jahreskarte und Tageskasse laufen im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Vorstand, vorstand@sv-erlbach.de, +49 171 3058939.\n- Einstieg: Eintritt 9 € (ermäßigt 7 €), Jahreskarte 130 € per Anfrageformular, Einzeltickets vor Ort.\n- Frage: Wie viel Arbeit machen die Jahreskarten-Anfragen und ihre Bezahlung?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Termin vor Ort vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken."
+}

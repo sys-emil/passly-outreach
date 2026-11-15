@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "SpVgg SV Weiden",
+    "ort": "Weiden in der Oberpfalz",
+    "land": "BY",
+    "liga": "bayernliga-nord",
+    "liga_name": "Bayernliga Nord (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.spvgg-weiden.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "okticket",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 10,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Ticketseite lädt einen Ticketshop von okticket (Stehplatz 10 €, Tribüne 12 €, Dauerkarten ab 135 €); die Ticketbedingungen beschreiben Online-Kauf mit PDF-Tickets.",
+    "quellen": [
+      "https://www.spvgg-weiden.de/tickets",
+      "https://www.spvgg-weiden.de/tickets/allgemeine-ticketbedingungen"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.spvgg-weiden.de/tickets",
+      "https://www.spvgg-weiden.de/tickets/allgemeine-ticketbedingungen"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorlauf hatte „Eintritt frei“ gefunden (Schwerbehinderte o. ä.); falsch. Instagram-Link auf der Seite gehört einem Sponsor.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.spvgg-weiden.de/tickets",
+      "https://www.spvgg-weiden.de/tickets/allgemeine-ticketbedingungen"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.spvgg-weiden.de/tickets"
+        ],
+        "anbieter": [
+          "https://www.spvgg-weiden.de/tickets",
+          "https://www.spvgg-weiden.de/tickets/allgemeine-ticketbedingungen"
+        ]
+      }
+    }
+  }
+}

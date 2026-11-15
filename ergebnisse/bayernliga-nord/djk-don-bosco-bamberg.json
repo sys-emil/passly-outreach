@@ -1,0 +1,59 @@
+{
+  "verein": {
+    "name": "DJK Don Bosco Bamberg",
+    "ort": "Bamberg",
+    "land": "BY",
+    "liga": "bayernliga-nord",
+    "liga_name": "Bayernliga Nord (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.djk-don-bosco-bamberg.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 10,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "derplattenladen",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seite „Eintrittspreise“ nennt für die Bayernliga Erwachsene 10 €, ermäßigt 8 €, aber keinen Vorverkauf.",
+    "quellen": [
+      "https://djk-don-bosco-bamberg.de/sportanlage/eintrittspreise",
+      "https://djk-don-bosco-bamberg.de/start"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://djk-don-bosco-bamberg.de/sportanlage/eintrittspreise",
+      "https://djk-don-bosco-bamberg.de/start"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Bayernliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://djk-don-bosco-bamberg.de/sportanlage/eintrittspreise",
+      "https://djk-don-bosco-bamberg.de/start"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://djk-don-bosco-bamberg.de/sportanlage/eintrittspreise"
+        ],
+        "instagram": [
+          "https://djk-don-bosco-bamberg.de/sportanlage/eintrittspreise",
+          "https://djk-don-bosco-bamberg.de/start"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab eure Eintrittspreise für die Bayernliga gesehen, 10 € für Erwachsene, aber keinen Vorverkauf gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für euch kostenlos. Passt ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: DJK Don Bosco Bamberg über die Kontaktseite, nach der Abteilungsleitung Herren fragen.\n- Einstieg: Bayernliga Erwachsene 10 €, ermäßigt 8 €, kein Vorverkauf auf der Seite.\n- Frage: Wie läuft die Tageskasse an einem vollen Spieltag?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Termin vor Ort vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken."
+}

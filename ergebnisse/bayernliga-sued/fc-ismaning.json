@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "FC Ismaning",
+    "ort": "Ismaning",
+    "land": "BY",
+    "liga": "bayernliga-sued",
+    "liga_name": "Bayernliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fcismaning.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von FC Ismaning (Startseite, Fußball bzw. 1. Mannschaft) nennen weder Eintrittspreise noch einen Ticketweg für die Bayernliga.",
+    "quellen": [
+      "https://www.fcismaning.de/1-mannschaft",
+      "https://www.fcismaning.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Bayernliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. FC Ismaning: seatsio-Code im HTML ohne erkennbaren Shop.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fcismaning.de/1-mannschaft",
+      "https://www.fcismaning.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.fcismaning.de/1-mannschaft",
+      "https://www.fcismaning.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

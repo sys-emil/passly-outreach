@@ -1,0 +1,67 @@
+{
+  "verein": {
+    "name": "TSV Großbardorf",
+    "ort": "Bayern",
+    "land": null,
+    "liga": "bayernliga-nord",
+    "liga_name": "Bayernliga Nord (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.grabfeld-gallier.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 10,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "grabfeldgallier",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein (allgemein)",
+      "kontakt": "mail@grabfeld-gallier.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Ticketseite der Grabfeld-Gallier nennt Tageskarten (10 €) und Dauerkarten, Zutritt bis 30 Minuten vor Spielende, dann schließen die Kassen; einen Vorverkauf nennt sie nicht.",
+    "quellen": [
+      "https://www.grabfeld-gallier.de/tickets",
+      "https://www.grabfeld-gallier.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.grabfeld-gallier.de/tickets",
+      "https://www.grabfeld-gallier.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorlauf hatte „Eintritt frei“ gefunden: gilt nur für Schwerbehinderte ab 80 %.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.grabfeld-gallier.de/tickets",
+      "https://www.grabfeld-gallier.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.grabfeld-gallier.de/tickets"
+        ],
+        "instagram": [
+          "https://www.grabfeld-gallier.de/tickets",
+          "https://www.grabfeld-gallier.de/"
+        ],
+        "ansprechperson": [
+          "https://www.grabfeld-gallier.de/tickets",
+          "https://www.grabfeld-gallier.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab eure Ticketseite gesehen: Tageskarte 10 €, Dauerkarten, und die Kassen schließen 30 Minuten vor Spielende. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Dauerkarte und Kasse laufen im selben System. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: TSV Großbardorf, mail@grabfeld-gallier.de.\n- Einstieg: Tageskarte 10 €, Dauerkarten, Kassen schließen 30 Minuten vor Spielende, kein Vorverkauf genannt.\n- Frage: Wie verkauft ihr die Dauerkarten gerade, und wie lang ist die Schlange an der Kasse?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Termin vor Ort vorschlagen, Link zu getpassly.de/sportvereine hinterherschicken."
+}

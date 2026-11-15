@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Viktoria Aschaffenburg",
+    "ort": "Aschaffenburg",
+    "land": "BY",
+    "liga": "bayernliga-nord",
+    "liga_name": "Bayernliga Nord (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://sva01.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "PassShop (pass consulting)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über PassShop (pass consulting) (eingebunden auf https://sva01.de/: https://sva01.de/).",
+    "quellen": [
+      "https://sva01.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://sva01.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Viktoria Aschaffenburg“. Gelesen: https://sva01.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://sva01.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bayernliga_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://sva01.de/"
+        ]
+      }
+    }
+  }
+}
