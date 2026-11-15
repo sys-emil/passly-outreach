@@ -1,0 +1,72 @@
+{
+  "verein": {
+    "name": "KSV Baunatal",
+    "ort": "Baunatal",
+    "land": "HE",
+    "liga": "hessenliga",
+    "liga_name": "Hessenliga (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.ksv-baunatal-fussball.de/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 12,
+    "halle": "Parkstadion Baunatal",
+    "kapazitaet": null,
+    "instagram": "ksvbaunatal_fussball",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Fußballabteilung",
+      "kontakt": "fussball@ksv-baunatal.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tickets gibt es an den Abendkassen (Stehplatz 12 €, Sitzplatz 18 €), „KEINE EC-KARTENZAHLUNG MÖGLICH“; Dauerkarten (140 €) nur in der Geschäftsstelle und bei Heimtestspielen. Zuletzt 2.100 Zuschauer im Pokal gegen Hessen Kassel.",
+    "quellen": [
+      "https://ksv-baunatal-fussball.de/",
+      "https://ksv-baunatal-fussball.de/dauerkarten-saison-2025-2026/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://ksv-baunatal-fussball.de/",
+      "https://ksv-baunatal-fussball.de/dauerkarten-saison-2025-2026/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Nur bar an der Abendkasse bei 2.100 Zuschauern: starker Kandidat. Dauerkarten-Beitrag noch Saison 2025/2026.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://ksv-baunatal-fussball.de/",
+      "https://ksv-baunatal-fussball.de/dauerkarten-saison-2025-2026/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://ksv-baunatal-fussball.de/",
+          "https://ksv-baunatal-fussball.de/dauerkarten-saison-2025-2026/"
+        ],
+        "instagram": [
+          "https://ksv-baunatal-fussball.de/",
+          "https://ksv-baunatal-fussball.de/dauerkarten-saison-2025-2026/"
+        ],
+        "ansprechperson": [
+          "https://ksv-baunatal-fussball.de/",
+          "https://ksv-baunatal-fussball.de/dauerkarten-saison-2025-2026/"
+        ],
+        "vorverkauf": [
+          "https://ksv-baunatal-fussball.de/",
+          "https://ksv-baunatal-fussball.de/dauerkarten-saison-2025-2026/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab euren Einlass-Post gesehen: Tickets an den Abendkassen, keine EC-Kartenzahlung, und im Pokal waren 2.100 Leute im Parkstadion. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Dauerkarte und Abendkasse laufen im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Fußballabteilung, fussball@ksv-baunatal.de.\n- Einstieg: Abendkassen Stehplatz 12 €, Sitzplatz 18 €, keine Kartenzahlung, Dauerkarten nur in der Geschäftsstelle; 2.100 Zuschauer gegen Hessen Kassel.\n- Frage: Wie lief der Einlass bei 2.100 Leuten, und wie viel Bargeld habt ihr an so einem Abend?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

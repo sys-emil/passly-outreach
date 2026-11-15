@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "TSV Eintracht Stadtallendorf",
+    "ort": "Stadtallendorf",
+    "land": "HE",
+    "liga": "hessenliga",
+    "liga_name": "Hessenliga (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.tsv-eintracht-stadtallendorf.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tsv_eintrachtstadtallendorf",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von TSV Eintracht Stadtallendorf nennen weder Eintrittspreise noch einen Ticketweg für die Hessenliga.",
+    "quellen": [
+      "http://www.tsv-eintracht-stadtallendorf.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "http://www.tsv-eintracht-stadtallendorf.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. „tixly“ im HTML ist Zufall in einem Base64-Block.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "http://www.tsv-eintracht-stadtallendorf.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "http://www.tsv-eintracht-stadtallendorf.de/"
+        ]
+      }
+    }
+  }
+}

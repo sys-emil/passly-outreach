@@ -1,0 +1,665 @@
+{
+  "liga": "oberliga-bw",
+  "stand": "2026-11-15",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+  "abrufe": 39,
+  "teams": [
+    {
+      "verband_name": "TSG Backnang 1919",
+      "team_id": "TSG Backnang 1919",
+      "homepage": "http://www.tsg-backnang-fussball.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSG_Backnang_1919",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "71522",
+      "ort_qid": "Q14947",
+      "ort": "Backnang",
+      "verein": "TSG Backnang 1919",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tsg-backnang-fussball.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Oberachern",
+      "team_id": "SV Oberachern",
+      "homepage": "http://svoberachern.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Oberachern",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "77855",
+      "ort_qid": "Q373824",
+      "ort": "Achern",
+      "verein": "SV Oberachern",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.svoberachern.de/",
+        "https://www.svoberachern.de/aktuelles-beim-sv-oberachern/spieltag/",
+        "https://www.svoberachern.de/stadion/tickets-jahreskarte/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "eintritt_frei": {
+          "url": "https://www.svoberachern.de/stadion/tickets-jahreskarte/",
+          "stelle": "Staffel Süd - Team 2 Erwachsene 4 EURO Ermäßigt 3 EURO Frauen &#8211; Eintritt frei Dauerkarte / Jahreskarte Erwachsene 135 EURO Ermäßigt 105 EURO Ermäßi"
+        },
+        "dauerkarte": {
+          "url": "https://www.svoberachern.de/stadion/tickets-jahreskarte/",
+          "stelle": "Team 2 Erwachsene 4 EURO Ermäßigt 3 EURO Frauen &#8211; Eintritt frei Dauerkarte / Jahreskarte Erwachsene 135 EURO Ermäßigt 105 EURO Ermäßigt: SVO-Mit"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@svoberachern.de"
+      ],
+      "preise": [
+        {
+          "eur": 9,
+          "url": "https://www.svoberachern.de/stadion/tickets-jahreskarte/",
+          "stelle": "erwachsene 9 euro"
+        },
+        {
+          "eur": 4,
+          "url": "https://www.svoberachern.de/stadion/tickets-jahreskarte/",
+          "stelle": "erwachsene 4 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC 08 Villingen",
+      "team_id": "FC 08 Villingen",
+      "homepage": "https://fcvillingen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_08_Villingen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "78048",
+      "ort_qid": "Q3865",
+      "ort": "Villingen-Schwenningen",
+      "verein": "FC 08 Villingen",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fcvillingen.de/",
+        "https://fcvillingen.de/spieltag/schiedsrichter/",
+        "https://fcvillingen.de/spieltag/einlaufkind/",
+        "https://fcvillingen.de/spieltag/presse-akkreditierung/",
+        "https://fcvillingen.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://fcvillingen.de/tickets/",
+          "stelle": "Tickets Fanshop Startseite Tickets Tickets Tagesticket 1. Mannschaft Dauerkarte 1. Mannschaft VIP-Tickets 1. Mannschaft Tagesticket 2. Mannschaft Tic"
+        }
+      },
+      "instagram": [
+        "fc_1908_villingen"
+      ],
+      "emails": [
+        "info@fcvillingen.de"
+      ],
+      "preise": [
+        {
+          "eur": 10,
+          "url": "https://fcvillingen.de/tickets/",
+          "stelle": "ticket – stehplatz 10 euro"
+        },
+        {
+          "eur": 15,
+          "url": "https://fcvillingen.de/tickets/",
+          "stelle": "ticket – sitzplatz 15 euro"
+        },
+        {
+          "eur": 5,
+          "url": "https://fcvillingen.de/tickets/",
+          "stelle": "ticket – steh- oder sitzplatz 5 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SSV Reutlingen 05",
+      "team_id": "SSV Reutlingen 05",
+      "homepage": "http://www.ssv-reutlingen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SSV_Reutlingen_05",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "72760",
+      "ort_qid": "Q3085",
+      "ort": "Reutlingen",
+      "verein": "SSV Reutlingen 05",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://ssv-reutlingen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "ssvreutlingen05"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Bahlinger SC",
+      "team_id": "Bahlinger SC",
+      "homepage": "http://www.bahlingersc.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Bahlinger_SC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "79353",
+      "ort_qid": "Q518801",
+      "ort": "Bahlingen am Kaiserstuhl",
+      "verein": "Bahlinger SC",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bahlingersc.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.bahlingersc.de/",
+          "stelle": "ungen ansehen {title} {title} {title} Einwilligung verwalten Zur Hotelreservierung Zum Saisonticket Club 100 &#8211; Beitrittsformular Club 100 (Lega"
+        }
+      },
+      "instagram": [
+        "bahlingersc1929"
+      ],
+      "emails": [
+        "info@bahlingersc.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.bahlingersc.de/",
+        "wie": "eingebunden auf https://www.bahlingersc.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Young Boys Reutlingen",
+      "team_id": "Young Boys Reutlingen",
+      "homepage": "https://www.youngboys-reutlingen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Young_Boys_Reutlingen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "72760",
+      "ort_qid": "Q3085",
+      "ort": "Reutlingen",
+      "verein": "Young Boys Reutlingen",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.youngboys-reutlingen.de/"
+      ],
+      "nicht_lesbar": [
+        "https://www.youngboys-reutlingen.de/tickets (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [
+        "youngboysreutlingen"
+      ],
+      "emails": [
+        "herren@youngboys-reutlingen.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Karlsruher SC II",
+      "team_id": "Karlsruher SC#KSC Amateure/Karlsruher SC II",
+      "homepage": "https://www.ksc.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Karlsruher_SC%23KSC_Amateure%2FKarlsruher_SC_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "76229",
+      "ort_qid": "Q1040",
+      "ort": "Karlsruhe",
+      "verein": "Karlsruher SC II",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FV Ravensburg",
+      "team_id": "FV Ravensburg",
+      "homepage": "http://www.fv-ravensburg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FV_Ravensburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "88212",
+      "ort_qid": "Q6832",
+      "ort": "Ravensburg",
+      "verein": "FV Ravensburg",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fv-ravensburg.de/",
+        "https://www.fv-ravensburg.de/cteam-arena/eintrittspreise"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.fv-ravensburg.de/cteam-arena/eintrittspreise",
+          "stelle": "eise Daten & Fakten Wiesentalpost Eintrittspreise Saison 2026/27 Dauerkarten können ab sofort über die Geschäftsstelle per Mail bestellt werden unter: Diese E-Mail-Adresse ist vor Spambots geschütz"
+        },
+        "eintritt_frei": {
+          "url": "https://www.fv-ravensburg.de/cteam-arena/eintrittspreise",
+          "stelle": "€ 145,00 € ermäßigt* Stehplatz Dauerkarte 138,00 € 105,00 € ermäßigt* Freier Eintritt Kinder unter 6 Jahren (kein Sitzplatzanspruch). Schüler und Jugendlic"
+        },
+        "dauerkarte": {
+          "url": "https://www.fv-ravensburg.de/cteam-arena/eintrittspreise",
+          "stelle": "ttspreise Daten & Fakten Wiesentalpost Eintrittspreise Saison 2026/27 Dauerkarten können ab sofort über die Geschäftsstelle per Mail bestellt werden u"
+        }
+      },
+      "instagram": [
+        "fv1893ravensburg"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 12,
+          "url": "https://www.fv-ravensburg.de/cteam-arena/eintrittspreise",
+          "stelle": "tageskarte 12,00 €"
+        },
+        {
+          "eur": 9.5,
+          "url": "https://www.fv-ravensburg.de/cteam-arena/eintrittspreise",
+          "stelle": "tageskarte 9,50 €"
+        },
+        {
+          "eur": 5,
+          "url": "https://www.fv-ravensburg.de/cteam-arena/eintrittspreise",
+          "stelle": "tageskarte 5,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.fv-ravensburg.de/",
+        "wie": "eingebunden auf https://www.fv-ravensburg.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC Holzhausen",
+      "team_id": "FC Holzhausen",
+      "homepage": "https://fc-holzhausen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Holzhausen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1625543",
+      "ort": "Holzhausen",
+      "verein": "FC Holzhausen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fc-holzhausen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@fc-holzhausen.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "1. CfR Pforzheim",
+      "team_id": "1. CfR Pforzheim",
+      "homepage": "https://1cfr.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._CfR_Pforzheim",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "75172",
+      "ort_qid": "Q3046",
+      "ort": "Pforzheim",
+      "verein": "1. CfR Pforzheim",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://1cfr.de/",
+        "https://1cfr.de/herren/erste-mannschaft/oberliga-baden-wuerttemberg-zuschauer/",
+        "https://1cfr.de/cfr-tippspiel-15-spieltag/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "1.cfrpforzheim"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "1. FC Mühlhausen",
+      "team_id": "1. FC Mühlhausen",
+      "homepage": "https://www.fc-muehlhausen.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_M%C3%BChlhausen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "69240",
+      "ort_qid": "Q81903",
+      "ort": "Mühlhausen",
+      "verein": "1. FC Mühlhausen",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fc-muehlhausen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@fc-muehlhausen.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSG Balingen",
+      "team_id": "TSG Balingen",
+      "homepage": "http://www.tsg-balingen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSG_Balingen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "TSG Balingen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsg-balingen.de/",
+        "https://www.tsg-balingen.de/aktuelles/news/detail/zwei-siege-und-drei-tickets-f%C3%BCrs-landesfinale"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV Essingen",
+      "team_id": "TSV Essingen",
+      "homepage": "https://www.tsvessingen.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Essingen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "73457",
+      "ort_qid": "Q174483",
+      "ort": "Essingen",
+      "verein": "TSV Essingen",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsvessingen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Nöttingen",
+      "team_id": "FC Nöttingen",
+      "homepage": "https://www.fc-noettingen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_N%C3%B6ttingen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "75196",
+      "ort_qid": "Q80577",
+      "ort": "Remchingen",
+      "verein": "FC Nöttingen",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fc-noettingen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://fc-noettingen.de/",
+          "stelle": "FC Nöttingen können bequem über unseren Ticketshop oder direkt an der Tageskasse erworben werden. Bei besonders gefragten Spielen empfehlen wir eine f"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@fc-noettingen.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://fc-noettingen.de/",
+        "wie": "eingebunden auf https://fc-noettingen.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Türkischer SV Singen",
+      "team_id": "Türkischer SV Singen",
+      "homepage": "https://www.tsv-singen1981.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/T%C3%BCrkischer_SV_Singen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "78224",
+      "ort_qid": "Q6979",
+      "ort": "Singen (Hohentwiel)",
+      "verein": "Türkischer SV Singen",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsv-singen1981.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.tsv-singen1981.de/",
+          "stelle": "SV SINGEN Deutschlands MULTIKULTI Talent -Club ​ deine Anfrage Deine Dauerkarte mit Herz und Leidenschaft --&gt; jetzt sichern ​ Lasst uns gemeinsam"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "tsv-singen1981@outlook.de",
+        "tsv-jugend1981@outlook.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Teningen",
+      "team_id": "FC Teningen",
+      "homepage": "http://www.fc-teningen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Teningen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "79331",
+      "ort_qid": "Q539862",
+      "ort": "Teningen",
+      "verein": "FC Teningen",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fc-teningen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Türkspor Neckarsulm",
+      "team_id": "Türkspor Neckarsulm",
+      "homepage": "http://www.tsn1969.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/T%C3%BCrkspor_Neckarsulm",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "74172",
+      "ort_qid": "Q488708",
+      "ort": "Neckarsulm",
+      "verein": "Türkspor Neckarsulm",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsn1969.de/",
+        "https://www.tsn1969.de/tickets-1.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.tsn1969.de/tickets-1.html",
+          "stelle": "N TSN - Unsere Tickets Bestelle deine Eintrittskarte hier und Online: Dauerkarte Oberliga Baden Württemberg STADION KARTEN Sie erwerben eine Dauerkart"
+        }
+      },
+      "instagram": [
+        "tsneckarsulm"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "1. FC Normannia Gmünd",
+      "team_id": "1. FC Normannia Gmünd",
+      "homepage": "https://fc-normannia.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_Normannia_Gm%C3%BCnd",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "73525",
+      "ort_qid": "Q4037",
+      "ort": "Schwäbisch Gmünd",
+      "verein": "1. FC Normannia Gmünd",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fc-normannia.de/",
+        "https://fc-normannia.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://fc-normannia.de/tickets/",
+          "stelle": "üne ermäßigt 10,00 € VIP Karte (Getränke und Essen inklusive) 42,00 € Dauerkarten Preise je Saison Stehplatz 105,00 € Stehplatz ermäßigt 85,00 € Tribü"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://fc-normannia.de/",
+        "wie": "eingebunden auf https://fc-normannia.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    }
+  ]
+}

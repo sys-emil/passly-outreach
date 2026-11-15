@@ -1,0 +1,67 @@
+{
+  "verein": {
+    "name": "FC 08 Villingen",
+    "ort": "Villingen-Schwenningen",
+    "land": "BW",
+    "liga": "oberliga-bw",
+    "liga_name": "Oberliga Baden-Württemberg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://fcvillingen.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 11,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fc_1908_villingen",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein (allgemein)",
+      "kontakt": "info@fcvillingen.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Ticketseite nennt Tagesticket 11 €, Dauerkarte und VIP-Tickets und sagt „Tickets sind bei allen Spielen an der Kasse erhältlich“; einen Vorverkauf nennt sie nicht.",
+    "quellen": [
+      "https://fcvillingen.de/tickets/",
+      "https://fcvillingen.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://fcvillingen.de/tickets/",
+      "https://fcvillingen.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Traditionsverein, früher Regionalliga.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://fcvillingen.de/tickets/",
+      "https://fcvillingen.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://fcvillingen.de/tickets/"
+        ],
+        "instagram": [
+          "https://fcvillingen.de/tickets/",
+          "https://fcvillingen.de/"
+        ],
+        "ansprechperson": [
+          "https://fcvillingen.de/tickets/",
+          "https://fcvillingen.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab eure Ticketseite gesehen: Tagesticket 11 €, Dauerkarte und VIP, und Tickets gibt es bei allen Spielen an der Kasse. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Dauerkarte und VIP laufen im selben System. Für euch kostenlos. Passt ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: FC 08 Villingen, info@fcvillingen.de.\n- Einstieg: Tagesticket 11 €, Stehplatz 10 €, Dauerkarte und VIP-Tickets, Tickets an der Kasse.\n- Frage: Wie verkauft ihr Dauerkarten und VIP-Tickets gerade, und was nervt daran?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

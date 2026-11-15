@@ -1,0 +1,612 @@
+{
+  "liga": "hessenliga",
+  "stand": "2026-11-15",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+  "abrufe": 34,
+  "teams": [
+    {
+      "verband_name": "TSV Eintracht Stadtallendorf",
+      "team_id": "TSV Eintracht Stadtallendorf",
+      "homepage": "http://www.tsv-eintracht-stadtallendorf.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Eintracht_Stadtallendorf",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "35260",
+      "ort_qid": "Q573514",
+      "ort": "Stadtallendorf",
+      "verein": "TSV Eintracht Stadtallendorf",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.tsv-eintracht-stadtallendorf.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "tsv_eintrachtstadtallendorf"
+      ],
+      "emails": [
+        "mail@tsv-eintracht-stadtallendorf.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Unter-Flockenbach",
+      "team_id": "SV Unter-Flockenbach",
+      "homepage": "https://www.sv-unterflockenbach.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Unter-Flockenbach",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "69517",
+      "ort_qid": "Q1538518",
+      "ort": "Gorxheimertal",
+      "verein": "SV Unter-Flockenbach",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sv-unterflockenbach.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "sv1898unterflockenbach"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Rot-Weiß Hadamar",
+      "team_id": "SV Rot-Weiß Hadamar",
+      "homepage": "http://sportverein-hadamar.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Rot-Wei%C3%9F_Hadamar",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "65589",
+      "ort_qid": "Q565530",
+      "ort": "Hadamar",
+      "verein": "SV Rot-Weiß Hadamar",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://sportverein-hadamar.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Türk Gücü Friedberg",
+      "team_id": "Türk Gücü Friedberg",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/T%C3%BCrk_G%C3%BCc%C3%BC_Friedberg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "61169",
+      "ort_qid": "Q516485",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Friedberg",
+      "verein": "Türk Gücü Friedberg",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FSV 1926 Fernwald",
+      "team_id": "FSV 1926 Fernwald",
+      "homepage": "http://www.fsv-fernwald.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FSV_1926_Fernwald",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "35463",
+      "ort_qid": "Q625773",
+      "ort": "Fernwald",
+      "verein": "FSV 1926 Fernwald",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fsv-fernwald.de/",
+        "https://www.fsv-fernwald.de/verein/das-stadionmagazin-heimspiel/",
+        "https://www.fsv-fernwald.de/2026/10/endlich-wieder-heimspiel-2/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fsv_1926_fernwald"
+      ],
+      "emails": [
+        "webmaster@fsv-fernwald.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC TuBa Pohlheim",
+      "team_id": "FC TuBa Pohlheim",
+      "homepage": "https://turabdin-babylon.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_TuBa_Pohlheim",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "35415",
+      "ort_qid": "Q569668",
+      "ort": "Pohlheim",
+      "verein": "FC TuBa Pohlheim",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://turabdin-babylon.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fc.turabdin.babylon.suryoye"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Eddersheim",
+      "team_id": "FC Eddersheim",
+      "homepage": "http://www.fc-eddersheim.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Eddersheim",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "65795",
+      "ort_qid": "Q569626",
+      "ort": "Hattersheim am Main",
+      "verein": "FC Eddersheim",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fc-eddersheim.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Bayern Alzenau",
+      "team_id": "FC Bayern Alzenau",
+      "homepage": "https://www.bayern-alzenau.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Bayern_Alzenau",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "63755",
+      "ort_qid": "Q450697",
+      "ort": "Alzenau",
+      "verein": "FC Bayern Alzenau",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bayern-alzenau.com/",
+        "https://www.bayern-alzenau.com/stadion/eintrittspreise",
+        "https://www.bayern-alzenau.com/spielorganisation/spieltagsleiter"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.bayern-alzenau.com/stadion/eintrittspreise",
+          "stelle": "nd den Verkaufsständen des Stadions ist nur Barzahlung möglich. Kartenvorverkauf: Dauerkarten können telefonisch oder per E-Mail bestellt werden bei:"
+        },
+        "von_hand": {
+          "url": "https://www.bayern-alzenau.com/stadion/eintrittspreise",
+          "stelle": "asse und den Verkaufsständen des Stadions ist nur Barzahlung möglich. Kartenvorverkauf: Dauerkarten können telefonisch oder per E-Mail bestellt werden bei: Norbert Stein Geschäftsführung Barkasse +49 60 2"
+        },
+        "dauerkarte": {
+          "url": "https://www.bayern-alzenau.com/stadion/eintrittspreise",
+          "stelle": "zelkarte 15 Euro 13 Euro* 8 Euro 7 Euro* 50 Euro netto 40 Euro netto* Dauerkarte 195 Euro 169 Euro* 104 Euro 91 Euro* 650 Euro netto 520 Euro netto* *"
+        },
+        "bar": {
+          "url": "https://www.bayern-alzenau.com/stadion/eintrittspreise",
+          "stelle": "platz! Hinweis: An der Kasse und den Verkaufsständen des Stadions ist nur Barzahlung möglich. Kartenvorverkauf: Dauerkarten können telefonisch oder"
+        }
+      },
+      "instagram": [
+        "fcbayernalzenauofficial"
+      ],
+      "emails": [
+        "info@bayern-alzenau.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://www.bayern-alzenau.com/",
+        "wie": "eingebunden auf https://www.bayern-alzenau.com/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SV Darmstadt 98 II",
+      "team_id": "SV Darmstadt 98 II",
+      "homepage": "https://www.sv98.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Darmstadt_98_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "64283",
+      "ort_qid": "Q2973",
+      "ort": "Darmstadt",
+      "verein": "SV Darmstadt 98 II",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "CSC 03 Kassel",
+      "team_id": "CSC 03 Kassel",
+      "homepage": "http://www.csc03kassel.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/CSC_03_Kassel",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "34117",
+      "ort_qid": "Q2865",
+      "ort": "Kassel",
+      "verein": "CSC 03 Kassel",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.csc03kassel.de/ (UND_ERR_CONNECT_TIMEOUT)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Hünfelder SV",
+      "team_id": "Hünfelder SV",
+      "homepage": "http://www.huenfeldersv.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/H%C3%BCnfelder_SV",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "36088",
+      "ort_qid": "Q569692",
+      "ort": "Hünfeld",
+      "verein": "Hünfelder SV",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.huenfeldersv.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Rot-Weiß Walldorf",
+      "team_id": "Rot-Weiß Walldorf",
+      "homepage": "http://www.rw-walldorf.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Rot-Wei%C3%9F_Walldorf",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "64546",
+      "ort_qid": "Q16007",
+      "ort": "Mörfelden-Walldorf",
+      "verein": "Rot-Weiß Walldorf",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.rw-walldorf.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "VfB Marburg",
+      "team_id": "VfB Marburg",
+      "homepage": "http://www.vfb-marburg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfB_Marburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "35037",
+      "ort_qid": "Q3869",
+      "ort": "Marburg",
+      "verein": "VfB Marburg",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://vfb-marburg.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "vfb.1905.marburg_nfz"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "KSV Baunatal",
+      "team_id": "KSV Baunatal (Fußballabteilung)",
+      "homepage": "http://www.ksv-baunatal-fussball.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/KSV_Baunatal_(Fu%C3%9Fballabteilung)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "34225",
+      "ort_qid": "Q516581",
+      "ort": "Baunatal",
+      "verein": "KSV Baunatal",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://ksv-baunatal-fussball.de/",
+        "https://ksv-baunatal-fussball.de/zuschauerrichtlinien/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://ksv-baunatal-fussball.de/",
+          "stelle": "sball Okt. 28 Einlass-Infos! Einlass ab 16:30 Uhr Ticketpreise an den Abendkassen: Stehplatz Normal 12€ Stehplatz Ermäßigt 10€ Sitzplatz Normal 18€ Si"
+        },
+        "dauerkarte": {
+          "url": "https://ksv-baunatal-fussball.de/",
+          "stelle": "croll down News (Allgemein) Fair Play Hessen 1. Mannschaft (Senioren) Dauerkarten Saison 2025/2026 U15 (C-Jugend) | U15 entführt verdient einen Punkt"
+        }
+      },
+      "instagram": [
+        "ksvbaunatal_fussball"
+      ],
+      "emails": [
+        "fussball@ksv-baunatal.de"
+      ],
+      "preise": [
+        {
+          "eur": 12,
+          "url": "https://ksv-baunatal-fussball.de/",
+          "stelle": "normal 12€"
+        },
+        {
+          "eur": 18,
+          "url": "https://ksv-baunatal-fussball.de/",
+          "stelle": "normal 18€"
+        },
+        {
+          "eur": 12,
+          "url": "https://ksv-baunatal-fussball.de/",
+          "stelle": "normal 12€"
+        },
+        {
+          "eur": 18,
+          "url": "https://ksv-baunatal-fussball.de/",
+          "stelle": "normal 18€"
+        },
+        {
+          "eur": 12,
+          "url": "https://ksv-baunatal-fussball.de/zuschauerrichtlinien/",
+          "stelle": "normal 12€"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Hanauer SC 1960",
+      "team_id": "Hanauer SC 1960",
+      "homepage": "https://hsc1960.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Hanauer_SC_1960",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "63450",
+      "ort_qid": "Q3802",
+      "ort": "Hanau",
+      "verein": "Hanauer SC 1960",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://hsc1960.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "hanauersportclub1960"
+      ],
+      "emails": [
+        "info@hsc1960.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Hummetroth",
+      "team_id": "SV Hummetroth",
+      "homepage": "https://svceres.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Hummetroth",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "64739",
+      "ort_qid": "Q1405506",
+      "ort": "Hummetroth",
+      "verein": "SV Hummetroth",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://svceres.de/",
+        "https://svceres.de/blogs/hessenliga/spieltag-24",
+        "https://svceres.de/blogs/hessenliga/spieltag-23",
+        "https://svceres.de/blogs/hessenliga/spieltag-19"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "KSV Hessen Kassel II",
+      "team_id": "KSV Hessen Kassel#Weitere Mannschaften",
+      "homepage": "http://www.ksv-hessen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/KSV_Hessen_Kassel%23Weitere_Mannschaften",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "34117",
+      "ort_qid": "Q2865",
+      "ort": "Kassel",
+      "verein": "KSV Hessen Kassel II",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC Gießen",
+      "team_id": "FC Gießen",
+      "homepage": "http://www.fc-giessen.com",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Gie%C3%9Fen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "35415",
+      "ort_qid": "Q569668",
+      "ort": "Pohlheim",
+      "verein": "FC Gießen",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fc-giessen.com/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.fc-giessen.com/",
+          "stelle": "ich . 🎟️ Kassen & Einlass Ab 15:00 Uhr öffnen am Haupteingang : Zwei Tageskassen Zwei separate Kassen für Besucherinnen und Besucher mit bereits onli"
+        },
+        "dauerkarte": {
+          "url": "https://www.fc-giessen.com/",
+          "stelle": "#SVElversberg #testspiel #bundesliga #fussballzuhause ‍ 8.6.2026 🎟️ Dauerkarten für die Saison 26/27 – jetzt sichern! 🔴⚪ ‍ Ab sofort sind die Dauer"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "hahn@fc-giessen.com"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://www.fc-giessen.com/",
+        "wie": "eingebunden auf https://www.fc-giessen.com/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    }
+  ]
+}

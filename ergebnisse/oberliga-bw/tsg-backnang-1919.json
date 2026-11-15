@@ -1,0 +1,48 @@
+{
+  "verein": {
+    "name": "TSG Backnang 1919",
+    "ort": "Backnang",
+    "land": "BW",
+    "liga": "oberliga-bw",
+    "liga_name": "Oberliga Baden-Württemberg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.tsg-backnang-fussball.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von TSG Backnang nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga.",
+    "quellen": [
+      "https://tsg-backnang-fussball.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://tsg-backnang-fussball.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://tsg-backnang-fussball.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

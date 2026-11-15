@@ -1,0 +1,60 @@
+{
+  "verein": {
+    "name": "Türkischer SV Singen",
+    "ort": "Singen (Hohentwiel)",
+    "land": "BW",
+    "liga": "oberliga-bw",
+    "liga_name": "Oberliga Baden-Württemberg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.tsv-singen1981.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tsvsingen",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Dauerkarten-Hotline",
+      "kontakt": "tsv-singen1981@outlook.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Dauerkarten (125 €) gibt es im Istanbul Supermarkt in Singen, über drei Hotline-Nummern oder per Banküberweisung mit Abholung an der Eintrittskasse.",
+    "quellen": [
+      "https://www.tsv-singen1981.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.tsv-singen1981.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Drei private Handynummern als Dauerkarten-Hotline, Kontaktadresse Freemail. Viel Handarbeit.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tsv-singen1981.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://www.tsv-singen1981.de/"
+        ],
+        "ansprechperson": [
+          "https://www.tsv-singen1981.de/"
+        ],
+        "vorverkauf": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass man eure Dauerkarte im Supermarkt, über drei Hotline-Nummern oder per Überweisung mit Abholung an der Kasse bekommt. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Dauerkarte inklusive, für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Dauerkarten-Hotline laut Website (Herr Yüzer, Herr Topal, Herr Ibrahimoglu) oder tsv-singen1981@outlook.de.\n- Einstieg: Dauerkarte Oberliga 125 €, Verkaufsstelle Istanbul Supermarkt, Hotlines, Überweisung mit Abholung an der Kasse.\n- Frage: Wie viel Arbeit machen Hotline, Überweisungen und Abholung an der Kasse?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

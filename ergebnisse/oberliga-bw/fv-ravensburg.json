@@ -1,0 +1,63 @@
+{
+  "verein": {
+    "name": "FV Ravensburg",
+    "ort": "Ravensburg",
+    "land": "BW",
+    "liga": "oberliga-bw",
+    "liga_name": "Oberliga Baden-Württemberg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fv-ravensburg.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fv1893ravensburg",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.fv-ravensburg.de/: https://www.fv-ravensburg.de/).",
+    "quellen": [
+      "https://www.fv-ravensburg.de/",
+      "https://www.fv-ravensburg.de/cteam-arena/eintrittspreise",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.fv-ravensburg.de/",
+      "https://www.fv-ravensburg.de/cteam-arena/eintrittspreise"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „FV Ravensburg“. Gelesen: https://www.fv-ravensburg.de/, https://www.fv-ravensburg.de/cteam-arena/eintrittspreise.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fv-ravensburg.de/",
+      "https://www.fv-ravensburg.de/cteam-arena/eintrittspreise",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.fv-ravensburg.de/",
+          "https://www.fv-ravensburg.de/cteam-arena/eintrittspreise"
+        ],
+        "instagram": [
+          "https://www.fv-ravensburg.de/",
+          "https://www.fv-ravensburg.de/cteam-arena/eintrittspreise"
+        ]
+      }
+    }
+  }
+}

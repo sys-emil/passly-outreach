@@ -511,6 +511,24 @@
         "staffel": "Staffel Nord"
       },
       "vereine": []
+    },
+    "oberliga-bw": {
+      "name": "Oberliga Baden-Württemberg (Fußball, 5. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Oberliga_Baden-W%C3%BCrttemberg_2026/27"
+      },
+      "vereine": []
+    },
+    "hessenliga": {
+      "name": "Hessenliga (Fußball, 5. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Hessenliga_2026/27"
+      },
+      "vereine": []
     }
   }
 }

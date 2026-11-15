@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "1. CfR Pforzheim",
+    "ort": "Pforzheim",
+    "land": "BW",
+    "liga": "oberliga-bw",
+    "liga_name": "Oberliga Baden-Württemberg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://1cfr.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "1.cfrpforzheim",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von 1. CfR Pforzheim nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga.",
+    "quellen": [
+      "https://1cfr.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://1cfr.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://1cfr.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://1cfr.de/"
+        ]
+      }
+    }
+  }
+}

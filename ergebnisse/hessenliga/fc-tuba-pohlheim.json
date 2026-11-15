@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "FC TuBa Pohlheim",
+    "ort": "Pohlheim",
+    "land": "HE",
+    "liga": "hessenliga",
+    "liga_name": "Hessenliga (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://turabdin-babylon.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fc.turabdin.babylon.suryoye",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von FC TuBa Pohlheim nennen weder Eintrittspreise noch einen Ticketweg für die Hessenliga.",
+    "quellen": [
+      "https://turabdin-babylon.de/saisonstart-lotto-hessenliga/",
+      "https://turabdin-babylon.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://turabdin-babylon.de/saisonstart-lotto-hessenliga/",
+      "https://turabdin-babylon.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://turabdin-babylon.de/saisonstart-lotto-hessenliga/",
+      "https://turabdin-babylon.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://turabdin-babylon.de/saisonstart-lotto-hessenliga/",
+          "https://turabdin-babylon.de/"
+        ]
+      }
+    }
+  }
+}

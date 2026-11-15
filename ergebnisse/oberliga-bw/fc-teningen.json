@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "FC Teningen",
+    "ort": "Teningen",
+    "land": "BW",
+    "liga": "oberliga-bw",
+    "liga_name": "Oberliga Baden-Württemberg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fc-teningen.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von FC Teningen nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga.",
+    "quellen": [
+      "https://fc-teningen.de/1-mannschaft/",
+      "https://fc-teningen.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://fc-teningen.de/1-mannschaft/",
+      "https://fc-teningen.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://fc-teningen.de/1-mannschaft/",
+      "https://fc-teningen.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

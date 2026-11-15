@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "TSV Essingen",
+    "ort": "Essingen",
+    "land": "BW",
+    "liga": "oberliga-bw",
+    "liga_name": "Oberliga Baden-Württemberg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.tsvessingen.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 10,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Fußballseite nennt für die Oberliga 10 € (ermäßigt 8 €), aber keinen Vorverkauf.",
+    "quellen": [
+      "https://www.tsvessingen.de/angebot-3/fussball/",
+      "https://www.tsvessingen.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.tsvessingen.de/angebot-3/fussball/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.tsvessingen.de/"
+    ],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tsvessingen.de/angebot-3/fussball/",
+      "https://www.tsvessingen.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.tsvessingen.de/angebot-3/fussball/"
+        ]
+      }
+    }
+  }
+}

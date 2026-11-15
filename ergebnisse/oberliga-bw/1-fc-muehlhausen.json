@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "1. FC Mühlhausen",
+    "ort": "Mühlhausen",
+    "land": "BW",
+    "liga": "oberliga-bw",
+    "liga_name": "Oberliga Baden-Württemberg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.fc-muehlhausen.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von 1. FC Mühlhausen nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga.",
+    "quellen": [
+      "https://www.fc-muehlhausen.de/1-herren",
+      "https://www.fc-muehlhausen.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. seatsio-Code im HTML stammt vom Homepage-Baukasten, kein Shop.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fc-muehlhausen.de/1-herren",
+      "https://www.fc-muehlhausen.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.fc-muehlhausen.de/1-herren",
+      "https://www.fc-muehlhausen.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

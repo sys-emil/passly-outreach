@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "FSV 1926 Fernwald",
+    "ort": "Fernwald",
+    "land": "HE",
+    "liga": "hessenliga",
+    "liga_name": "Hessenliga (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fsv-fernwald.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fsv_1926_fernwald",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von FSV Fernwald nennen weder Eintrittspreise noch einen Ticketweg für die Hessenliga.",
+    "quellen": [
+      "https://www.fsv-fernwald.de/1-mannschaft/kader/",
+      "https://www.fsv-fernwald.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.fsv-fernwald.de/1-mannschaft/kader/",
+      "https://www.fsv-fernwald.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fsv-fernwald.de/1-mannschaft/kader/",
+      "https://www.fsv-fernwald.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://www.fsv-fernwald.de/1-mannschaft/kader/",
+          "https://www.fsv-fernwald.de/"
+        ]
+      }
+    }
+  }
+}

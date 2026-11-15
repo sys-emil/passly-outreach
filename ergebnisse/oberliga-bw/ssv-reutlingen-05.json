@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "SSV Reutlingen 05",
+    "ort": "Reutlingen",
+    "land": "BW",
+    "liga": "oberliga-bw",
+    "liga_name": "Oberliga Baden-Württemberg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.ssv-reutlingen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ditix",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "ssvreutlingen05",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Der Menüpunkt „Tickets“ führt auf einen ditix-Shop (tickets.ssv-reutlingen.de).",
+    "quellen": [
+      "https://ssv-reutlingen.de/",
+      "https://tickets.ssvreutlingen05.de"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://tickets.ssvreutlingen05.de"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://ssv-reutlingen.de/",
+      "https://tickets.ssvreutlingen05.de"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://ssv-reutlingen.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://tickets.ssvreutlingen05.de"
+        ],
+        "instagram": [
+          "https://tickets.ssvreutlingen05.de"
+        ]
+      }
+    }
+  }
+}

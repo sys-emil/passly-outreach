@@ -1,0 +1,63 @@
+{
+  "verein": {
+    "name": "SV Oberachern",
+    "ort": "Achern",
+    "land": "BW",
+    "liga": "oberliga-bw",
+    "liga_name": "Oberliga Baden-Württemberg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://svoberachern.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 9,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein (allgemein)",
+      "kontakt": "info@svoberachern.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seite „Tickets & Jahreskarten“ nennt 9 € für die Oberliga und Jahreskarten ab 105 €, aber keinen Weg, sie vorab zu kaufen.",
+    "quellen": [
+      "https://www.svoberachern.de/stadion/tickets-jahreskarte/",
+      "https://www.svoberachern.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.svoberachern.de/stadion/tickets-jahreskarte/",
+      "https://www.svoberachern.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorlauf hatte „Eintritt frei“ gefunden: gilt für die Frauen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.svoberachern.de/stadion/tickets-jahreskarte/",
+      "https://www.svoberachern.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.svoberachern.de/stadion/tickets-jahreskarte/"
+        ],
+        "ansprechperson": [
+          "https://www.svoberachern.de/stadion/tickets-jahreskarte/",
+          "https://www.svoberachern.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab eure Seite „Tickets & Jahreskarten“ gesehen, 9 € für die Oberliga und Jahreskarten ab 105 €, aber keinen Vorverkauf gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: SV Oberachern, info@svoberachern.de.\n- Einstieg: Oberliga 9 € (ermäßigt 7 €), Jahreskarte 135 € (ermäßigt 105 €), kein Vorverkauf auf der Seite.\n- Frage: Wie verkauft ihr die Jahreskarten gerade, und wie läuft die Tageskasse?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

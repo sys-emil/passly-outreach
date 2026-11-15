@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "Hünfelder SV",
+    "ort": "Hünfeld",
+    "land": "HE",
+    "liga": "hessenliga",
+    "liga_name": "Hessenliga (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.huenfeldersv.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von Hünfelder SV nennen weder Eintrittspreise noch einen Ticketweg für die Hessenliga.",
+    "quellen": [
+      "https://www.huenfeldersv.de/abteilungen/fussball/",
+      "https://www.huenfeldersv.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.huenfeldersv.de/abteilungen/fussball/",
+      "https://www.huenfeldersv.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.huenfeldersv.de/abteilungen/fussball/",
+      "https://www.huenfeldersv.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

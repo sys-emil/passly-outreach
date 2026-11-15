@@ -1,0 +1,63 @@
+{
+  "verein": {
+    "name": "Türkspor Neckarsulm",
+    "ort": "Neckarsulm",
+    "land": "BW",
+    "liga": "oberliga-bw",
+    "liga_name": "Oberliga Baden-Württemberg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.tsn1969.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Webshop",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tsneckarsulm",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein (allgemein)",
+      "kontakt": "info@tsn1969.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Ticketseite verkauft Eintrittskarten und Dauerkarten (75 €) im Shop des Homepage-Baukastens; die Karten werden am Stadioneingang hinterlegt.",
+    "quellen": [
+      "https://www.tsn1969.de/tickets-1.html",
+      "https://www.tsn1969.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.tsn1969.de/tickets-1.html",
+      "https://www.tsn1969.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Über 1.000 Zuschauer in der ERBE Arena. Online bestellt, aber Abholung am Eingang: halbe Lösung.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tsn1969.de/tickets-1.html",
+      "https://www.tsn1969.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://www.tsn1969.de/tickets-1.html",
+          "https://www.tsn1969.de/"
+        ],
+        "ansprechperson": [
+          "https://www.tsn1969.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

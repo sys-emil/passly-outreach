@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "FC Bayern Alzenau",
+    "ort": "Alzenau",
+    "land": "BY",
+    "liga": "hessenliga",
+    "liga_name": "Hessenliga (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.bayern-alzenau.com/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fcbayernalzenauofficial",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim Light (eingebunden auf https://www.bayern-alzenau.com/: https://www.bayern-alzenau.com/).",
+    "quellen": [
+      "https://www.bayern-alzenau.com/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.bayern-alzenau.com/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „FC Bayern Alzenau“. Gelesen: https://www.bayern-alzenau.com/, https://www.bayern-alzenau.com/stadion/eintrittspreise, https://www.bayern-alzenau.com/spielorganisation/spieltagsleiter.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.bayern-alzenau.com/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Hessenliga_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.bayern-alzenau.com/"
+        ],
+        "instagram": [
+          "https://www.bayern-alzenau.com/"
+        ]
+      }
+    }
+  }
+}

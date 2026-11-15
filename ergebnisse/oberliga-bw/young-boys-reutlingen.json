@@ -1,0 +1,56 @@
+{
+  "verein": {
+    "name": "Young Boys Reutlingen",
+    "ort": "Reutlingen",
+    "land": "BW",
+    "liga": "oberliga-bw",
+    "liga_name": "Oberliga Baden-Württemberg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.youngboys-reutlingen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Webshop",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "youngboysreutlingen",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tickets und Dauerkarten bestellt man im eigenen Ticketshop (shop.youngboys-reutlingen.de) und bekommt sie per E-Mail.",
+    "quellen": [
+      "https://www.youngboys-reutlingen.de/tickets",
+      "https://www.youngboys-reutlingen.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.youngboys-reutlingen.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Shopsoftware nicht erkennbar.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.youngboys-reutlingen.de/tickets",
+      "https://www.youngboys-reutlingen.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.youngboys-reutlingen.de/tickets"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://www.youngboys-reutlingen.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}
