@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "Füchse Berlin",
+    "land": null,
+    "liga": "hbf2",
+    "liga_name": "2. Handball-Bundesliga Frauen",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.spreefuexxe.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "leoticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über leoticket (eingebunden auf https://fuechseberlinfrauen.de/tickets/: https://fuechseberlinfrauen.de/tickets/).",
+    "quellen": [
+      "https://fuechseberlinfrauen.de/tickets/",
+      "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://fuechseberlinfrauen.de/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Füchse Berlin“. Gelesen: https://fuechseberlinfrauen.de/, https://fuechseberlinfrauen.de/tickets/, https://fuechseberlinfrauen.de/tickets-2/, https://fuechseberlinfrauen.de/preise/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://fuechseberlinfrauen.de/tickets/",
+      "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://fuechseberlinfrauen.de/tickets/"
+        ]
+      }
+    }
+  }
+}

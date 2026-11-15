@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "1. FSV Mainz 05",
+    "ort": "Mainz",
+    "land": "RP",
+    "liga": "hbf2",
+    "liga_name": "2. Handball-Bundesliga Frauen",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://handball.mainz05.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "1fsvmainz05handball",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Handballseite der Meenzer Dynamites verlinkt „Tickets“ auf einen eigenen Eventim-Shop des Vereins (ticket-onlineshop.com/ols/mainz05verein).",
+    "quellen": [
+      "https://handball.mainz05.de/home/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://handball.mainz05.de/home/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorlauf hatte den Fußball-Shop von mainz05.de belegt; korrigiert auf die Handballseite, die ebenfalls Eventim nutzt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://handball.mainz05.de/home/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://handball.mainz05.de/home/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "verein": {
+    "name": "HSG Freiburg",
+    "land": null,
+    "liga": "hbf2",
+    "liga_name": "2. Handball-Bundesliga Frauen",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "http://www.hsg-freiburg.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Gerhard-Graf-Sporthalle, Friedrichstraße 51, 79098 Freiburg",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Startseite der HSG Freiburg listet „Nächste Heimspiele“ der 2. Bundesliga Frauen, nennt aber weder Eintrittspreise noch einen Ticketweg.",
+    "quellen": [
+      "http://hsg-freiburg.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [
+      "https://visit.freiburg.de/en/hsg-freiburg-bergischer-hc"
+    ],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laut Suchtreffern (nicht belegt) 400 bis 600 Zuschauer pro Heimspiel.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "http://hsg-freiburg.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "http://hsg-freiburg.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

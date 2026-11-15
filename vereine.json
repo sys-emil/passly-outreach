@@ -394,6 +394,55 @@
         "url": "https://www.2basketballbundesliga.de/teams/?league=ProB"
       },
       "vereine": []
+    },
+    "hbf2": {
+      "name": "2. Handball-Bundesliga Frauen",
+      "sport": "Handball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "2._Handball-Bundesliga_(Frauen)_2026/27"
+      },
+      "vereine": []
+    },
+    "hb3-nordost": {
+      "name": "3. Liga Männer Handball Nord-Ost",
+      "sport": "Handball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "3._Liga_M%C3%A4nner_(Handball)_2026/27",
+        "staffel": "Staffel Nord-Ost"
+      },
+      "vereine": []
+    },
+    "hb3-nordwest": {
+      "name": "3. Liga Männer Handball Nord-West",
+      "sport": "Handball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "3._Liga_M%C3%A4nner_(Handball)_2026/27",
+        "staffel": "Staffel Nord-West"
+      },
+      "vereine": []
+    },
+    "hb3-sued": {
+      "name": "3. Liga Männer Handball Süd",
+      "sport": "Handball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "3._Liga_M%C3%A4nner_(Handball)_2026/27",
+        "staffel": "Staffel Süd"
+      },
+      "vereine": []
+    },
+    "hb3-suedwest": {
+      "name": "3. Liga Männer Handball Süd-West",
+      "sport": "Handball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "3._Liga_M%C3%A4nner_(Handball)_2026/27",
+        "staffel": "Staffel Süd-West"
+      },
+      "vereine": []
     }
   }
 }

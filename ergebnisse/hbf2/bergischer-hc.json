@@ -1,0 +1,49 @@
+{
+  "verein": {
+    "name": "Bergischer HC",
+    "ort": "Solingen",
+    "land": "NW",
+    "liga": "hbf2",
+    "liga_name": "2. Handball-Bundesliga Frauen",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://bhc06.de/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Auf bhc06.de (Männer-Bundesliga) gibt es keinen Hinweis auf das Frauenteam; wie Tickets für dessen Heimspiele verkauft werden, ist offen.",
+    "quellen": [
+      "https://bhc06.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 7,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://bhc06.de/"
+    ],
+    "notiz": "Vorlauf hatte Eventim vom Männer-Ticketing übernommen; das gilt nicht belegt für die Frauen. Heimhallen laut Suchtreffern Klingenhalle oder Sporthalle Wittkulle, Solingen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://bhc06.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": []
+      }
+    }
+  }
+}

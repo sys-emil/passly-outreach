@@ -1,0 +1,61 @@
+{
+  "verein": {
+    "name": "HL Buchholz 08-Rosengarten",
+    "land": null,
+    "liga": "hbf2",
+    "liga_name": "2. Handball-Bundesliga Frauen",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "http://www.handball-luchse.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketshop (tickets.handball-luchse.de)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Nordheidehalle, Holzweg 4, 21244 Buchholz i. d. Nordheide",
+    "kapazitaet": 750,
+    "instagram": "luchse_team",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Online-Geschäftsstelle",
+      "kontakt": "geschaeftsstelle@handball-luchse.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Luchse verkaufen über einen eigenen Ticketshop (tickets.handball-luchse.de), Familientickets nur im Vorverkauf; die Abendkasse öffnet 90 Minuten vorher, ab Oktober 2026 nur noch bargeldlos. 750 Sitzplätze.",
+    "quellen": [
+      "https://www.handball-luchse.de/spieltag/nordheidehalle"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.handball-luchse.de/spieltag/nordheidehalle"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Shopsoftware nicht eindeutig erkennbar (Pfad /shop/173?nextstate=…). Schon gut aufgestellt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.handball-luchse.de/spieltag/nordheidehalle"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "kapazitaet": [
+          "https://www.handball-luchse.de/spieltag/nordheidehalle"
+        ],
+        "instagram": [
+          "https://www.handball-luchse.de/spieltag/nordheidehalle"
+        ],
+        "ansprechperson": [
+          "https://www.handball-luchse.de/spieltag/nordheidehalle"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

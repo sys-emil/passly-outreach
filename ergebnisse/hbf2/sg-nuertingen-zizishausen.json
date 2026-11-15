@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "SG Nürtingen-Zizishausen",
+    "land": null,
+    "liga": "hbf2",
+    "liga_name": "2. Handball-Bundesliga Frauen",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://ntzhandball.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ditix",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 14,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein (Dauerkarten-Bestellung)",
+      "kontakt": "info@ntzhandball.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Einzeltickets gibt es online über ditix (ntz.ditix.shop, ab 14 €) und an der Abendkasse; Dauerkarten bestellt man per vorformulierter E-Mail an info@ntzhandball.de.",
+    "quellen": [
+      "https://ntzhandball.de/tickets/",
+      "https://tgnhandball.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://ntzhandball.de/tickets/",
+      "https://tgnhandball.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Handball hat eine eigene Seite (ntzhandball.de), Wikipedia nennt nur den Gesamtverein tgnuertingen.de. Dauerkarte per Mail: Aufhänger für Passly.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://ntzhandball.de/tickets/",
+      "https://tgnhandball.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://ntzhandball.de/tickets/"
+        ],
+        "anbieter": [
+          "https://ntzhandball.de/tickets/",
+          "https://tgnhandball.de/"
+        ],
+        "ansprechperson": [
+          "https://ntzhandball.de/tickets/",
+          "https://tgnhandball.de/"
+        ]
+      }
+    }
+  }
+}

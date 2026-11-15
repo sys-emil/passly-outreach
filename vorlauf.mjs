@@ -51,6 +51,11 @@ const ANBIETER = [
   // Im American Football verbreitet (GFL 2026: Berlin, Hildesheim, München, Pforzheim, Saarland).
   [/vbotickets\.com/, 'VBO Tickets'],
   [/vibe-shop\.io|vibe\.io|get-vibe\.de|egocentric\.systems/, 'vibe'],
+  // Gefunden in Volleyball Nord 2026-11-15 (BBSC Berlin als iframe, Grün-Weiß Eimsbüttel als Link).
+  [/eventix\.(io|nl)/, 'Eventix'],
+  [/murphies\.de/, 'murphies'],
+  // Im Handball verbreitet (HBL-Klubs).
+  [/ticketpay\.(de|net)/, 'ticketpay'],
   [/getpassly\.de/, 'Passly'],
 ];
 
@@ -75,7 +80,7 @@ if (!liga || !QUELLE) {
   console.error(`Liga ${ligaId} unbekannt oder ohne Quelle. Bekannt: ${Object.keys(vereineJson.ligen).join(', ')}`);
   process.exit(1);
 }
-QUELLE.name ??= { vbl: 'VBL', gfl: 'GFL', '2bbl': '2. Basketball-Bundesliga' }[QUELLE.typ] ?? QUELLE.typ.toUpperCase();
+QUELLE.name ??= { vbl: 'VBL', gfl: 'GFL', '2bbl': '2. Basketball-Bundesliga', wikipedia: 'Wikipedia' }[QUELLE.typ] ?? QUELLE.typ.toUpperCase();
 const heute = new Date().toISOString().slice(0, 10);
 let abrufe = 0;
 
@@ -87,6 +92,7 @@ let teams;
 try {
   teams = QUELLE.typ === 'gfl' ? await stufe0Gfl(QUELLE)
     : QUELLE.typ === '2bbl' ? await stufe0Basketball(QUELLE)
+    : QUELLE.typ === 'wikipedia' ? await stufe0Wikipedia(QUELLE)
     : await stufe0Vbl(QUELLE);
 } catch {
   process.exit(2);
@@ -195,6 +201,86 @@ async function stufe0Basketball(q) {
   if (teams.length === 0) {
     console.error('Keine Teams auf der Basketball-Seite gefunden; hat sich der Aufbau geändert?');
     throw new Error('quelle');
+  }
+  return teams;
+}
+
+// Wikipedia (Handball): Saisonartikel mit {{Handballtabelle/Zeile|…|Verein=[[Artikel|Name]]}},
+// optional nur der Abschnitt „staffel“. Website und Ort je Verein aus Wikidata (P856, P159, P281).
+// Fehlt die Website dort, sucht das Modell sie.
+async function stufe0Wikipedia(q) {
+  const api = 'https://de.wikipedia.org/w/api.php?format=json&formatversion=2&';
+  listeUrl = `https://de.wikipedia.org/wiki/${q.seite}`;
+  const seite = await holen(`${api}action=parse&prop=wikitext&page=${q.seite}`);
+  if (!seite.ok) {
+    console.error(`Wikipedia nicht abrufbar (${seite.grund}): ${listeUrl}`);
+    throw new Error('quelle');
+  }
+  let wt = JSON.parse(seite.roh).parse?.wikitext ?? '';
+  if (q.staffel) {
+    const i = wt.indexOf(`=== ${q.staffel} ===`);
+    if (i < 0) { console.error(`Abschnitt „${q.staffel}“ fehlt in ${listeUrl}`); throw new Error('quelle'); }
+    wt = wt.slice(i + q.staffel.length + 8).split(/\n==/)[0];
+  } else {
+    wt = wt.slice(wt.indexOf('Handballtabelle/Zeile'));
+  }
+  const zeilen = [...wt.matchAll(/Handballtabelle\/Zeile[^\n]*?Verein=\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g)];
+  const teams = zeilen.map(([, artikel, name]) => ({
+    verband_name: (name ?? artikel).trim(), team_id: artikel.trim(), homepage: null, ticketlink: null,
+    verband_team_url: `https://de.wikipedia.org/wiki/${encodeURIComponent(artikel.trim().replace(/ /g, '_'))}`,
+    verband_kontakt_url: listeUrl, verband_kontakte: [], verband_emails: [],
+  }));
+  if (teams.length === 0) {
+    console.error('Keine Handballtabelle auf der Wikipedia-Seite gefunden; hat sich der Aufbau geändert?');
+    throw new Error('quelle');
+  }
+  // Artikel (ohne #Abschnitt) → Wikidata-ID, Weiterleitungen aufgelöst
+  const titel = [...new Set(teams.map((t) => t.team_id.split('#')[0]))];
+  const qid = {};
+  for (let i = 0; i < titel.length; i += 40) {
+    const r = await holen(`${api}action=query&redirects=1&prop=pageprops&ppprop=wikibase_item&titles=${encodeURIComponent(titel.slice(i, i + 40).join('|'))}`);
+    if (!r.ok) continue;
+    const j = JSON.parse(r.roh).query ?? {};
+    const um = Object.fromEntries([...(j.normalized ?? []), ...(j.redirects ?? [])].map((x) => [x.to, x.from]));
+    for (const pg of j.pages ?? []) {
+      let t = pg.title; const kette = [t];
+      while (um[t]) { t = um[t]; kette.push(t); }
+      for (const k of kette) if (pg.pageprops?.wikibase_item) qid[k] = pg.pageprops.wikibase_item;
+    }
+  }
+  const ids = [...new Set(Object.values(qid))];
+  const ent = {};
+  for (let i = 0; i < ids.length; i += 40) {
+    const r = await holen(`https://www.wikidata.org/w/api.php?format=json&action=wbgetentities&props=claims&ids=${ids.slice(i, i + 40).join('|')}`);
+    if (r.ok) Object.assign(ent, JSON.parse(r.roh).entities ?? {});
+  }
+  const wert = (e, p) => e?.claims?.[p]?.find((c) => c.rank !== 'deprecated')?.mainsnak?.datavalue?.value;
+  const orte = new Set();
+  for (const t of teams) {
+    const e = ent[qid[t.team_id.split('#')[0]]];
+    t.homepage = wert(e, 'P856') ?? null;
+    t.plz = wert(e, 'P281') ?? null;
+    t.ort_qid = wert(e, 'P159')?.id ?? null;
+    if (t.ort_qid) orte.add(t.ort_qid);
+  }
+  // Rückfall: Infobox „Website =“ im Vereinsartikel (bei TG Nürtingen, HSG Freiburg u. a. fehlt P856).
+  for (const t of teams.filter((x) => !x.homepage)) {
+    const r = await holen(`${api}action=parse&prop=wikitext&redirects=1&page=${encodeURIComponent(t.team_id.split('#')[0])}`);
+    const a = r.ok ? JSON.parse(r.roh).parse?.wikitext ?? '' : '';
+    t.homepage = a.match(/\|\s*(?:Website|Homepage|Webseite)\s*=\s*\[?(https?:\/\/[^\s\]|]+)/)?.[1] ?? null;
+    if (!t.homepage) t.verband_hinweis = 'keine Website in Wikidata und Infobox';
+  }
+  const ortIds = [...orte];
+  for (let i = 0; i < ortIds.length; i += 40) {
+    const r = await holen(`https://www.wikidata.org/w/api.php?format=json&action=wbgetentities&props=labels|claims&languages=de&ids=${ortIds.slice(i, i + 40).join('|')}`);
+    if (!r.ok) continue;
+    const es = JSON.parse(r.roh).entities ?? {};
+    for (const t of teams) {
+      const o = es[t.ort_qid];
+      if (!o) continue;
+      t.ort = o.labels?.de?.value ?? null;
+      t.plz ??= String(wert(o, 'P281') ?? '').match(/\d{5}/)?.[0] ?? null;
+    }
   }
   return teams;
 }

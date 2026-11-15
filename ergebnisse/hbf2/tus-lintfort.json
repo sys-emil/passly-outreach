@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "TuS Lintfort",
+    "land": null,
+    "liga": "hbf2",
+    "liga_name": "2. Handball-Bundesliga Frauen",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "http://www.tus-lintfort.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Eyller Sporthalle, Kamp-Lintfort",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Geschäftsführer",
+      "kontakt": "geschaeftsfuehrer@tus-lintfort.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website des TuS Lintfort berichtet über die Heimspiele der 1. Damen in der 2. Bundesliga, nennt aber keine Eintrittspreise und keinen Ticketweg.",
+    "quellen": [
+      "https://tus-lintfort.de/",
+      "https://tus-lintfort.de/niederlage-im-heimspiel-gegen-die-red-sparrows/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://tus-lintfort.de/",
+      "https://tus-lintfort.de/niederlage-im-heimspiel-gegen-die-red-sparrows/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Die 15 € auf der Startseite sind der Mitgliedsbeitrag, nicht der Eintritt (Vorlauf hatte sie als Preis gelesen).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://tus-lintfort.de/",
+      "https://tus-lintfort.de/niederlage-im-heimspiel-gegen-die-red-sparrows/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ansprechperson": [
+          "https://tus-lintfort.de/",
+          "https://tus-lintfort.de/niederlage-im-heimspiel-gegen-die-red-sparrows/"
+        ]
+      }
+    }
+  }
+}

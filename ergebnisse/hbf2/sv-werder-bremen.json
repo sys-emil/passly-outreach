@@ -1,0 +1,40 @@
+{
+  "verein": {
+    "name": "SV Werder Bremen",
+    "land": null,
+    "liga": "hbf2",
+    "liga_name": "2. Handball-Bundesliga Frauen",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.werder.de/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "werder.de beantwortet die Abrufe mit HTTP 429 (zu viele Anfragen); die Ticketfrage für die Handballerinnen ist offen.",
+    "quellen": [],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Großverein mit Fußball-Ticketing; Handball-Frauen vermutlich mit eigenem Weg. Anruf oder späterer Abruf.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {}
+    }
+  }
+}

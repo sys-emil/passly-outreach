@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "VfL Waiblingen",
+    "land": null,
+    "liga": "hbf2",
+    "liga_name": "2. Handball-Bundesliga Frauen",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.waiblingen-tigers.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "waiblingentigers",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein (allgemein)",
+      "kontakt": "info@waiblingen-tigers.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Der Menüpunkt „Tickets Frauen“ führt auf die Teamseite ohne Preise oder Ticketweg; nur für Frauen 2 steht, dass es Karten an der Tageskasse gibt.",
+    "quellen": [
+      "https://waiblingen-tigers.de/tickets/frauen/",
+      "https://waiblingen-tigers.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://waiblingen-tigers.de/tickets/frauen/",
+      "https://waiblingen-tigers.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "/tickets/frauen/ leitet auf /ueber-uns/frauen/ um. Heimhalle laut Suchtreffer Rundsporthalle Waiblingen (nicht belegt).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://waiblingen-tigers.de/tickets/frauen/",
+      "https://waiblingen-tigers.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://waiblingen-tigers.de/tickets/frauen/"
+        ],
+        "ansprechperson": [
+          "https://waiblingen-tigers.de/tickets/frauen/",
+          "https://waiblingen-tigers.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich wollte Tickets für eure Frauen in der 2. Bundesliga suchen, der Menüpunkt führt aber nur auf die Teamseite. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Dauerkarte und Tageskasse inklusive, für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Verein über info@waiblingen-tigers.de, nach der Person fragen, die die Heimspiele der Frauen organisiert.\n- Einstieg: „Tickets Frauen“ führt auf die Teamseite ohne Preise oder Ticketweg; für Frauen 2 gibt es Karten an der Tageskasse.\n- Frage: Wie läuft der Ticketverkauf bei den Frauen gerade, und was nervt daran?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

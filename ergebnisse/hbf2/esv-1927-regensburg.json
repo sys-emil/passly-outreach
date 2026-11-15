@@ -1,0 +1,59 @@
+{
+  "verein": {
+    "name": "ESV 1927 Regensburg",
+    "land": null,
+    "liga": "hbf2",
+    "liga_name": "2. Handball-Bundesliga Frauen",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://handball-esv1927.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 12,
+    "halle": "ESV-Sporthalle („Bunker“), Regensburg",
+    "kapazitaet": null,
+    "instagram": "bunkerladies.regensburg",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Ticketseite nennt 12 € (ermäßigt 9 €) mit freier Platzwahl im „Bunker“; Karten werden über ein Formular „Ticket vorbestellen“ reserviert, Dauerkarten per Kontaktformular.",
+    "quellen": [
+      "https://handball-esv1927.de/abteilung/tickets/",
+      "https://www.regensburger-nachrichten.de/sport-und-freizeit/97943-bunkerladies-starten-zuhause-gegen-bremen-in-fuenfte-zweitliga-saison"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://handball-esv1927.de/abteilung/tickets/",
+      "https://www.regensburger-nachrichten.de/sport-und-freizeit/97943-bunkerladies-starten-zuhause-gegen-bremen-in-fuenfte-zweitliga-saison"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "esv27.de (Wikipedia) war 503. Laut Zeitungsartikel verfallen Reservierungen 30 Minuten vor Anwurf. Der Knopf „Tickets kaufen“ zeigt im HTML einen leeren Platzhalter (${m.ticketshop}). Instagram aus einem Linktree-Treffer, unsicher.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://handball-esv1927.de/abteilung/tickets/",
+      "https://www.regensburger-nachrichten.de/sport-und-freizeit/97943-bunkerladies-starten-zuhause-gegen-bremen-in-fuenfte-zweitliga-saison"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://handball-esv1927.de/abteilung/tickets/"
+        ],
+        "vorverkauf": [
+          "https://handball-esv1927.de/abteilung/tickets/",
+          "https://www.regensburger-nachrichten.de/sport-und-freizeit/97943-bunkerladies-starten-zuhause-gegen-bremen-in-fuenfte-zweitliga-saison"
+        ],
+        "instagram": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass man Karten für den Bunker über ein Formular vorbestellt und Dauerkarten über das Kontaktformular anfragt. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Gäste zahlen gleich beim Bestellen, statt nur zu reservieren. Für euch kostenlos. Passt ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Abteilung Handball über das Kontaktformular auf handball-esv1927.de, nach der Person fragen, die die Vorbestellungen bearbeitet.\n- Einstieg: 12 € (ermäßigt 9 €), freie Platzwahl, Vorbestellung per Formular, Dauerkarten per Kontaktformular.\n- Frage: Wie viele Vorbestellungen kommen pro Spiel, und wie viele holen ihre Karten am Ende nicht ab?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, bezahlte Tickets statt Reservierung, Abendkasse im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

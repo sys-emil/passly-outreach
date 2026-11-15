@@ -1,0 +1,686 @@
+{
+  "liga": "hbf2",
+  "stand": "2026-11-15",
+  "quelle": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+  "abrufe": 57,
+  "teams": [
+    {
+      "verband_name": "SG Nürtingen-Zizishausen",
+      "team_id": "TG Nürtingen",
+      "homepage": "https://tgnuertingen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TG_N%C3%BCrtingen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "SG Nürtingen-Zizishausen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tgnuertingen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@tgnuertingen.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Füchse Berlin",
+      "team_id": "Füchse Berlin (Frauenhandball)",
+      "homepage": "https://www.spreefuexxe.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/F%C3%BCchse_Berlin_(Frauenhandball)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Füchse Berlin",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fuechseberlinfrauen.de/",
+        "https://fuechseberlinfrauen.de/tickets/",
+        "https://fuechseberlinfrauen.de/tickets-2/",
+        "https://fuechseberlinfrauen.de/preise/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://fuechseberlinfrauen.de/preise/",
+          "stelle": "€ Kinder 0 – 6 Jahren Frei sind in Begleitung eines Erwachsenen frei Dauerkarten Erwachsene 180,00 € Ermäßigt 130,00 € Kinder 95,00 € Dauerkarten Füc"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://fuechseberlinfrauen.de/preise/",
+          "stelle": "vollzahler 15,00 €"
+        },
+        {
+          "eur": 16,
+          "url": "https://fuechseberlinfrauen.de/preise/",
+          "stelle": "vollzahler 16,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "leoticket",
+        "beleg": "https://fuechseberlinfrauen.de/tickets/",
+        "wie": "eingebunden auf https://fuechseberlinfrauen.de/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "1. FSV Mainz 05",
+      "team_id": "1. FSV Mainz 05#Handballabteilung",
+      "homepage": "https://www.mainz05.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FSV_Mainz_05%23Handballabteilung",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1720",
+      "verein": "1. FSV Mainz 05",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.mainz05.de/",
+        "https://www.mainz05.de/ticketinfos-nlz",
+        "https://www.mainz05.de/05er-heimspiel-digital",
+        "https://www.mainz05.de/05er-kidsclub/spieltagserlebnis"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.mainz05.de/ticketinfos-nlz",
+          "stelle": "-Ticketshop erhältlich. Am Spieltag sind auch weiterhin Karten an der Tageskasse erhältlich. Diese befindet sich bei Heimspielen der U23 und U19 am Ha"
+        },
+        "von_hand": {
+          "url": "https://www.mainz05.de/ticketinfos-nlz",
+          "stelle": "egstadions herrscht keine freie Platzwahl , für Gästefans ist Block A reserviert. Bei Bedarf werden für die Fans des Gastvereins die Blöcke K und L a"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://www.mainz05.de/ticketinfos-nlz",
+        "wie": "eingebunden auf https://www.mainz05.de/ticketinfos-nlz"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "HC Rödertal",
+      "team_id": "HC Rödertal",
+      "homepage": "https://roedertalbienen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HC_R%C3%B6dertal",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q81736",
+      "verein": "HC Rödertal",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://roedertalbienen.de/",
+        "https://roedertalbienen.de/bundesliga/aktueller-spieltag/",
+        "https://roedertalbienen.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://roedertalbienen.de/bundesliga/aktueller-spieltag/",
+          "stelle": "eht, den sechsten Saisonsieg in Folge einzufahren. Tickets gibt es im Vorverkauf unter www.roedertalbienen.de/tickets. geschaeftsstelle@roedertalbiene"
+        },
+        "von_hand": {
+          "url": "https://roedertalbienen.de/tickets/",
+          "stelle": "fordere direkt eine Dauerkarte für die gesamte Saison an! Dauerkarte reservieren ETIX Kartenvorverkauf Dauerkarten bestellen Vorverkaufsstellen 2. A"
+        },
+        "dauerkarte": {
+          "url": "https://roedertalbienen.de/tickets/",
+          "stelle": "tz- oder Stehplatz über den Kartenvorverkauf oder fordere direkt eine Dauerkarte für die gesamte Saison an! Dauerkarte reservieren ETIX Kartenvorverka"
+        }
+      },
+      "instagram": [
+        "hcroedertal"
+      ],
+      "emails": [
+        "geschaeftsstelle@roedertalbienen.de",
+        "kasse@roedersaal.de",
+        "ticket@roedertalbienen.de",
+        "info@ticketservice-radeberg.de"
+      ],
+      "preise": [
+        {
+          "eur": 13,
+          "url": "https://roedertalbienen.de/tickets/",
+          "stelle": "erwachsener 13,00 €"
+        },
+        {
+          "eur": 13,
+          "url": "https://roedertalbienen.de/tickets/",
+          "stelle": "erwachsener 13,00 €"
+        },
+        {
+          "eur": 6,
+          "url": "https://roedertalbienen.de/tickets/",
+          "stelle": "erwachsener 6,00 €"
+        },
+        {
+          "eur": 13,
+          "url": "https://roedertalbienen.de/tickets/",
+          "stelle": "erwachsener 13,00 €"
+        },
+        {
+          "eur": 13,
+          "url": "https://roedertalbienen.de/tickets/",
+          "stelle": "erwachsener 13,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://roedertalbienen.de/tickets/",
+        "wie": "eingebunden auf https://roedertalbienen.de/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VfL Waiblingen",
+      "team_id": "VfL Waiblingen Handball",
+      "homepage": "https://www.waiblingen-tigers.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfL_Waiblingen_Handball",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "VfL Waiblingen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://waiblingen-tigers.de/",
+        "https://waiblingen-tigers.de/tickets/frauen-2/",
+        "https://waiblingen-tigers.de/ueber-uns/frauen/",
+        "https://waiblingen-tigers.de/ueber-uns/maenner/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://waiblingen-tigers.de/tickets/frauen-2/",
+          "stelle": "verein Jugend Sponsoring Tickets unserer Frauen 2 erhaltet ihr an der Tageskasse Wir freuen uns auf euren Besuch bei uns in Waiblingen in unserer Rund"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "HSV Solingen-Gräfrath",
+      "team_id": "HSV Solingen-Gräfrath",
+      "homepage": "https://www.hsv-solingen-graefrath.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HSV_Solingen-Gr%C3%A4frath",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q2942",
+      "verein": "HSV Solingen-Gräfrath",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.hsv-solingen-graefrath.com/",
+        "https://www.hsv-solingen-graefrath.com/saison/spieltagsheft/",
+        "https://www.hsv-solingen-graefrath.com/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.hsv-solingen-graefrath.com/",
+          "stelle": "Sichere Dir jetzt Dein Ticket für das nächste Spiel. Oder direkt die Dauerkarte! Jetzt Ticket sichern! TimeOut - Der Podcast des HSV Solingen-Gräfrat"
+        }
+      },
+      "instagram": [
+        "hsvsolingengraefrath"
+      ],
+      "emails": [
+        "geschaeftsstelle@hsv-solingen-graefrath.de",
+        "schemann@hsv-solingen-graefrath.com"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "ESV 1927 Regensburg",
+      "team_id": "ESV 1927 Regensburg",
+      "homepage": "https://www.esv27.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/ESV_1927_Regensburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "ESV 1927 Regensburg",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.esv27.de (HTTP 503)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Bergischer HC",
+      "team_id": "Bergischer HC",
+      "homepage": "https://bhc06.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Bergischer_HC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q2942",
+      "verein": "Bergischer HC",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://bhc06.de/",
+        "https://bhc06.de/tickets/allgemeine-informationen/",
+        "https://bhc06.de/tickets/spielstaetten/",
+        "https://bhc06.de/tickets/tageskarten/",
+        "https://bhc06.de/tickets/dauerkarten/",
+        "https://bhc06.de/tickets/gruppenangebote/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://bhc06.de/",
+          "stelle": "pean League TICKETS Allgemeine Informationen Spielstätten Tageskarten Dauerkarten Gruppenangebote Kindergeburtstag Auswärtstickets FANS BRÜCKENSTEIG-F"
+        },
+        "vorverkauf": {
+          "url": "https://bhc06.de/tickets/allgemeine-informationen/",
+          "stelle": "o@bhc06.de Öffnungszeiten Di / Do: 9 bis 15 Uhr Mi / Fr: 9 bis 13 Uhr Vorverkaufsstellen Neben der BHC-Geschäftsstelle könnt ihr bei folgender Vorverk"
+        },
+        "von_hand": {
+          "url": "https://bhc06.de/tickets/allgemeine-informationen/",
+          "stelle": "5577 * Für Kundenanfragen zur Onlinebuchung oder Bestellungen bei der Ticket-Hotline steht euch der Kundenservice per Email kundenservice-bhc06@eventim.de oder per Telefon 01806 &#8211; 515355"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@bhc06.de",
+        "kundenservice-bhc0@eventim.de",
+        "kundenservice-bhc06@eventim.de",
+        "reservierung@bhc06.de"
+      ],
+      "preise": [
+        {
+          "eur": 39,
+          "url": "https://bhc06.de/tickets/tageskarten/",
+          "stelle": "vollzahler 39 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://bhc06.de/",
+        "wie": "eingebunden auf https://bhc06.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "HSG Freiburg",
+      "team_id": "HSG Freiburg",
+      "homepage": "http://www.hsg-freiburg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HSG_Freiburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q2833",
+      "verein": "HSG Freiburg",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://hsg-freiburg.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Werder Bremen",
+      "team_id": "SV Werder Bremen",
+      "homepage": "https://www.werder.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Werder_Bremen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q24879",
+      "verein": "SV Werder Bremen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.werder.de/ (HTTP 429)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "HL Buchholz 08-Rosengarten",
+      "team_id": "HL Buchholz 08-Rosengarten",
+      "homepage": "http://www.handball-luchse.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HL_Buchholz_08-Rosengarten",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "HL Buchholz 08-Rosengarten",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.handball-luchse.de/",
+        "https://www.handball-luchse.de/bundesliga-team/die-bl-spieltags-orga",
+        "https://www.handball-luchse.de/spieltag/spielplan-saison",
+        "https://www.handball-luchse.de/spieltag/hbf-tabelle",
+        "https://www.handball-luchse.de/spieltag/digitales-hallenheft",
+        "https://www.handball-luchse.de/spieltag/nordheidehalle"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.handball-luchse.de/spieltag/nordheidehalle",
+          "stelle": "rverkauf im Online- Ticketshop Familentickets zu Vorzugspreisen . Die Abendkasse öffnet 90min vor Spielbeginn. Bitte beachtet, dass wir ab dieser Sais"
+        },
+        "vorverkauf": {
+          "url": "https://www.handball-luchse.de/spieltag/nordheidehalle",
+          "stelle": "roß und Klein. Im \" Langenese Famlienblock \" gibt es auschließlich im Vorverkauf im Online- Ticketshop Familentickets zu Vorzugspreisen . Die Abendkas"
+        },
+        "bar": {
+          "url": "https://www.handball-luchse.de/spieltag/nordheidehalle",
+          "stelle": "t) Ebenfalls nicht zugelassen sind Trinkflaschen (gleich welcher Art) Bargeldloses Bezahlen. Ab Oktober 2026 werden nur noch digitale Zahlungsmitte"
+        }
+      },
+      "instagram": [
+        "luchse_team"
+      ],
+      "emails": [
+        "geschaeftsstelle@handball-luchse.de",
+        "detlef.kortstegge@handball-luchse.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SG 09 Kirchhof",
+      "team_id": "SG 09 Kirchhof",
+      "homepage": "https://www.sg09-kirchhof.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SG_09_Kirchhof",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "SG 09 Kirchhof",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sg09-kirchhof.de/",
+        "https://www.sg09-kirchhof.de/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.sg09-kirchhof.de/tickets",
+          "stelle": "n der Oberliga Hessen Nord und die C1-Jugend in der Regionalliga. Der Vorverkauf der Jahreskarten geht nun in den Endpsurt. Sei live dabei, sicher dir"
+        },
+        "von_hand": {
+          "url": "https://www.sg09-kirchhof.de/tickets",
+          "stelle": "r dir deinen Platz auf der Tribüne, der Höhle der Löwinnen. Durch die Reservierung der Goldkarte wird der Mädchen- und Frauenhandball besonders geför"
+        },
+        "dauerkarte": {
+          "url": "https://www.sg09-kirchhof.de/tickets",
+          "stelle": "SG 09 Kirchhof Name: E-Mail: Telefon: Straße & Nr. Postleitzahl Stadt Dauerkarte Alsco Bundeliga 0 1 2 3 4 5 6 7 8 9 10 Dauerkarte Oberliga 0 1 2 3 4"
+        }
+      },
+      "instagram": [
+        "sg09kirchhof"
+      ],
+      "emails": [
+        "info@sg09-kirchhof.de"
+      ],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://www.sg09-kirchhof.de/tickets",
+          "stelle": "erwachsene (15€"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV Bayer 04 Leverkusen",
+      "team_id": "Bayer 04 Leverkusen (Handball)",
+      "homepage": "https://www.werkselfen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Bayer_04_Leverkusen_(Handball)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "TSV Bayer 04 Leverkusen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.werkselfen.de/",
+        "https://www.werkselfen.de/spieltag/tickets/",
+        "https://www.werkselfen.de/spieltag/spieltagsheft/",
+        "https://www.werkselfen.de/spieltag/ostermann-arena/",
+        "https://www.werkselfen.de/handball-erleben/tickets-fuer-vereine/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.werkselfen.de/spieltag/tickets/",
+          "stelle": "Handballabteilung gegen Vorlage der Kopie des Spielerausweises. Kartenvorbestellungen: Da die Ostermann-Arena über ein ausreichendes Platzkontingent v"
+        },
+        "eintritt_frei": {
+          "url": "https://www.werkselfen.de/spieltag/tickets/",
+          "stelle": "95,- Euro nur 156,- Euro und Ermäßigt statt 156,- Euro nur 120,- Euro Freier Eintritt: TSV-Mitglieder mit 40 Jahre Bayer-Mitgliedschaft, DHB-Schiedsrichter"
+        },
+        "dauerkarte": {
+          "url": "https://www.werkselfen.de/spieltag/tickets/",
+          "stelle": "der des TSV, Ehrenamtsausweis der Stadt Leverkusen, EVL Komfortkarte. Saisonkarten (15 Bundesliga-Spiele): Die Dauerkarte berechtigt zum Eintritt für a"
+        }
+      },
+      "instagram": [
+        "handballelfen"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://www.werkselfen.de/spieltag/tickets/",
+        "wie": "eingebunden auf https://www.werkselfen.de/spieltag/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "TuS Lintfort",
+      "team_id": "TuS Lintfort",
+      "homepage": "http://www.tus-lintfort.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TuS_Lintfort",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q14895",
+      "verein": "TuS Lintfort",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tus-lintfort.de/",
+        "https://tus-lintfort.de/niederlage-im-heimspiel-gegen-die-red-sparrows/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "geschaeftsfuehrer@tus-lintfort.de",
+        "vorsitzender@tus-lintfort.de",
+        "jugendwart@tus-lintfort.de",
+        "sponsoring@tus-lintfort.de",
+        "volleyball@tus-lintfort.de"
+      ],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://tus-lintfort.de/",
+          "stelle": "erwachsene / aktive: 15 €"
+        },
+        {
+          "eur": 15,
+          "url": "https://tus-lintfort.de/niederlage-im-heimspiel-gegen-die-red-sparrows/",
+          "stelle": "erwachsene / aktive: 15 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Todesfelde",
+      "team_id": "SV Todesfelde",
+      "homepage": "https://www.svtodesfelde.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Todesfelde",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q475034",
+      "verein": "SV Todesfelde",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.svtodesfelde.de/ (HTTP 500)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Rostocker HC",
+      "team_id": "Rostocker HC",
+      "homepage": "https://www.rostocker-handballclub.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Rostocker_HC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Rostocker HC",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.rostocker-handballclub.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "rostock_dolphins"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 3,
+          "url": "https://www.rostocker-handballclub.de/",
+          "stelle": "tickets sichern (3 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.rostocker-handballclub.de/",
+        "wie": "eingebunden auf https://www.rostocker-handballclub.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "verein": {
+    "name": "SV Todesfelde",
+    "land": null,
+    "liga": "hbf2",
+    "liga_name": "2. Handball-Bundesliga Frauen",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.svtodesfelde.de/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Bad Schwartau (laut Wikipedia)",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "svtodesfelde.de antwortet mit HTTP 500; Heimspiele laut Wikipedia in Bad Schwartau, die Ticketfrage ist offen.",
+    "quellen": [
+      "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Aufsteiger aus der 3. Liga. Anruf.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {}
+    }
+  }
+}

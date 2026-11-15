@@ -1,0 +1,61 @@
+{
+  "verein": {
+    "name": "SG 09 Kirchhof",
+    "land": null,
+    "liga": "hbf2",
+    "liga_name": "2. Handball-Bundesliga Frauen",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.sg09-kirchhof.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Stadtsporthalle Melsungen",
+    "kapazitaet": null,
+    "instagram": "sg09kirchhof",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Kartenvorverkauf",
+      "kontakt": "info@sg09-kirchhof.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Jahreskarten (Dauerkarte Bundesliga, Oberliga, Vereinskarte, Goldkarte) bestellt man über ein Formular; danach kommen per E-Mail Infos zu Platzreservierung und Bezahlung. 15 Heimspiele in der 2. Bundesliga.",
+    "quellen": [
+      "https://www.sg09-kirchhof.de/tickets"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.sg09-kirchhof.de/tickets"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "„Erwachsene (15€)“ steht im Formular, unklar ob Einzel- oder Kartenpreis; deshalb kein Ticketpreis. Erstes Heimspiel in der Rundsporthalle Baunatal.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.sg09-kirchhof.de/tickets"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://www.sg09-kirchhof.de/tickets"
+        ],
+        "ansprechperson": [
+          "https://www.sg09-kirchhof.de/tickets"
+        ],
+        "vorverkauf": [
+          "https://www.sg09-kirchhof.de/tickets"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass man eure Jahreskarten für die Heimspiele in Melsungen über ein Formular bestellt und Platz und Bezahlung danach per Mail geklärt werden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Dauerkarte, Goldkarte und Einzelticket laufen im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Kartenvorverkauf, info@sg09-kirchhof.de.\n- Einstieg: Vier Jahreskarten (Dauerkarte Bundesliga, Oberliga, Vereinskarte, Goldkarte) per Formular, Platzreservierung und Bezahlung danach per E-Mail; 15 Heimspiele in der 2. Bundesliga.\n- Frage: Wie viel Arbeit machen Formular, Platzvergabe und Zahlungseingang, was nervt daran?\n- Angebot: Jahreskarten und das nächste Heimspiel kostenlos einrichten, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf für ein Heimspiel vorschlagen."
+}

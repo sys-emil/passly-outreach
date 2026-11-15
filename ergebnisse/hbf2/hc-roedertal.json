@@ -1,0 +1,63 @@
+{
+  "verein": {
+    "name": "HC Rödertal",
+    "ort": "Großröhrsdorf",
+    "land": "SN",
+    "liga": "hbf2",
+    "liga_name": "2. Handball-Bundesliga Frauen",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://roedertalbienen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "hcroedertal",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://roedertalbienen.de/tickets/: https://roedertalbienen.de/tickets/).",
+    "quellen": [
+      "https://roedertalbienen.de/tickets/",
+      "https://roedertalbienen.de/",
+      "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://roedertalbienen.de/tickets/",
+      "https://roedertalbienen.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „HC Rödertal“. Gelesen: https://roedertalbienen.de/, https://roedertalbienen.de/bundesliga/aktueller-spieltag/, https://roedertalbienen.de/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://roedertalbienen.de/tickets/",
+      "https://roedertalbienen.de/",
+      "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://roedertalbienen.de/tickets/",
+          "https://roedertalbienen.de/"
+        ],
+        "instagram": [
+          "https://roedertalbienen.de/tickets/",
+          "https://roedertalbienen.de/"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "verein": {
+    "name": "HSV Solingen-Gräfrath",
+    "land": null,
+    "liga": "hbf2",
+    "liga_name": "2. Handball-Bundesliga Frauen",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.hsv-solingen-graefrath.com/",
+    "vorverkauf": "anbieter",
+    "anbieter": "solingen-live.de",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "hsvsolingengraefrath",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Gruppenbuchungen",
+      "kontakt": "schemann@hsv-solingen-graefrath.com"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Einzeltickets bucht man online über solingen-live.de; Dauerkarten sind ausdrücklich „nicht über den Ticketshop buchbar“, Gruppenkontingente fürs Pokal-Viertelfinale am 18.11. nur per E-Mail.",
+    "quellen": [
+      "https://www.hsv-solingen-graefrath.com/tickets/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.hsv-solingen-graefrath.com/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Dauerkarte und Gruppen laufen außerhalb des Shops: genau die Lücke, die Passly füllt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hsv-solingen-graefrath.com/tickets/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.hsv-solingen-graefrath.com/tickets/"
+        ],
+        "instagram": [
+          "https://www.hsv-solingen-graefrath.com/tickets/"
+        ],
+        "ansprechperson": [
+          "https://www.hsv-solingen-graefrath.com/tickets/"
+        ]
+      }
+    }
+  }
+}

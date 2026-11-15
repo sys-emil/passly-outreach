@@ -1,0 +1,61 @@
+{
+  "verein": {
+    "name": "TSV Bayer 04 Leverkusen",
+    "land": null,
+    "liga": "hbf2",
+    "liga_name": "2. Handball-Bundesliga Frauen",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.werkselfen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "handballelfen",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Vereinsticket (eingebunden auf https://www.werkselfen.de/spieltag/tickets/: https://www.werkselfen.de/spieltag/tickets/).",
+    "quellen": [
+      "https://www.werkselfen.de/spieltag/tickets/",
+      "https://www.werkselfen.de/",
+      "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 6,
+    "quellen_belegt": [
+      "https://www.werkselfen.de/spieltag/tickets/",
+      "https://www.werkselfen.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „TSV Bayer 04 Leverkusen“. Gelesen: https://www.werkselfen.de/, https://www.werkselfen.de/spieltag/tickets/, https://www.werkselfen.de/spieltag/spieltagsheft/, https://www.werkselfen.de/spieltag/ostermann-arena/, https://www.werkselfen.de/handball-erleben/tickets-fuer-vereine/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.werkselfen.de/spieltag/tickets/",
+      "https://www.werkselfen.de/",
+      "https://de.wikipedia.org/wiki/2._Handball-Bundesliga_(Frauen)_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.werkselfen.de/spieltag/tickets/"
+        ],
+        "instagram": [
+          "https://www.werkselfen.de/spieltag/tickets/",
+          "https://www.werkselfen.de/"
+        ]
+      }
+    }
+  }
+}
