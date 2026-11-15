@@ -1,0 +1,57 @@
+{
+  "verein": {
+    "name": "HSG Krefeld Niederrhein",
+    "land": null,
+    "liga": "hb3-suedwest",
+    "liga_name": "3. Liga Männer Handball Süd-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.hsg-krefeld-niederrhein.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "hsg_krefeld_niederrhein",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://hsg-krefeld-niederrhein.de/: https://hsg-krefeld-niederrhein.de/).",
+    "quellen": [
+      "https://hsg-krefeld-niederrhein.de/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 7,
+    "quellen_belegt": [
+      "https://hsg-krefeld-niederrhein.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „HSG Krefeld Niederrhein“. Gelesen: https://hsg-krefeld-niederrhein.de/, https://hsg-krefeld-niederrhein.de/tickets/, https://hsg-krefeld-niederrhein.de/tickets/einzeltickets/, https://hsg-krefeld-niederrhein.de/tickets/dauerkarten/, https://hsg-krefeld-niederrhein.de/tickets/vip-tickets/, https://hsg-krefeld-niederrhein.de/tickets/familientickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://hsg-krefeld-niederrhein.de/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://hsg-krefeld-niederrhein.de/"
+        ],
+        "instagram": [
+          "https://hsg-krefeld-niederrhein.de/"
+        ]
+      }
+    }
+  }
+}

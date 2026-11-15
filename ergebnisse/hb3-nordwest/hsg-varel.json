@@ -1,0 +1,61 @@
+{
+  "verein": {
+    "name": "HSG Varel",
+    "land": null,
+    "liga": "hb3-nordwest",
+    "liga_name": "3. Liga Männer Handball Nord-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "http://www.handball-varel.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ditix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": 15,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über ditix (eingebunden auf https://handball-varel.de/: https://handball-varel.de/).",
+    "quellen": [
+      "https://handball-varel.de/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "https://handball-varel.de/ticketshop/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://handball-varel.de/",
+      "https://handball-varel.de/ticketshop/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „HSG Varel“. Gelesen: https://handball-varel.de/, https://handball-varel.de/ticketshop/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://handball-varel.de/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "https://handball-varel.de/ticketshop/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://handball-varel.de/",
+          "https://handball-varel.de/ticketshop/"
+        ],
+        "ticketpreis_eur": [
+          "https://handball-varel.de/ticketshop/"
+        ]
+      }
+    }
+  }
+}

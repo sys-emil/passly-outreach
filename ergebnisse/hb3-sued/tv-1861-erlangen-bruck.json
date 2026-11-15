@@ -1,0 +1,46 @@
+{
+  "verein": {
+    "name": "TV 1861 Erlangen-Bruck",
+    "land": null,
+    "liga": "hb3-sued",
+    "liga_name": "3. Liga Männer Handball Süd",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.tv61.de/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "tv61.de ist die Seite des Gesamtvereins ohne Handballbereich; die Ticketfrage für die 3. Liga ist offen.",
+    "quellen": [
+      "https://tv61.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorlauf hatte „der Eintritt ist frei“ aus einer Ankündigung einer anderen Veranstaltung übernommen. Eigene Handballseite nicht gefunden. Anruf.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://tv61.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://tv61.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {}
+    }
+  }
+}

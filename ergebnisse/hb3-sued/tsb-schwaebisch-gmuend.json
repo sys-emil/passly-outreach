@@ -1,0 +1,46 @@
+{
+  "verein": {
+    "name": "TSB Schwäbisch Gmünd",
+    "land": null,
+    "liga": "hb3-sued",
+    "liga_name": "3. Liga Männer Handball Süd",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "http://www.gmuendertsb.de/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "tsb.gd ist die Seite des Gesamtvereins ohne Handballbereich; eine eigene Handballseite war nicht zu finden.",
+    "quellen": [
+      "https://www.tsb.gd/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Mailadressen auf tsb.gd sind meist privat (yahoo, web.de, gmx, gmail) und gehören zu anderen Abteilungen. Anruf.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tsb.gd/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.tsb.gd/"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {}
+    }
+  }
+}

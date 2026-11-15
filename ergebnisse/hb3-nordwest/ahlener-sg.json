@@ -1,0 +1,70 @@
+{
+  "verein": {
+    "name": "Ahlener SG",
+    "land": null,
+    "liga": "hb3-nordwest",
+    "liga_name": "3. Liga Männer Handball Nord-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://hlz-ahlen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "snec",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 15,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "hlz_ahlenersg",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein (allgemein)",
+      "kontakt": "info@hlz-ahlen.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tageskarten (Erwachsene 15 €) und Dauerkarten (195 €) gibt es über zwei Ticketshops bei snec (tickets.snec.de).",
+    "quellen": [
+      "https://hlz-ahlen.de/tickets/",
+      "https://hlz-ahlen.de/tickets/tageskarten/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://hlz-ahlen.de/tickets/",
+      "https://hlz-ahlen.de/tickets/tageskarten/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Handball unter hlz-ahlen.de, nicht ahlenersg.de.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://hlz-ahlen.de/tickets/",
+      "https://hlz-ahlen.de/tickets/tageskarten/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://hlz-ahlen.de/tickets/",
+          "https://hlz-ahlen.de/tickets/tageskarten/"
+        ],
+        "anbieter": [
+          "https://hlz-ahlen.de/tickets/",
+          "https://hlz-ahlen.de/tickets/tageskarten/"
+        ],
+        "instagram": [
+          "https://hlz-ahlen.de/tickets/",
+          "https://hlz-ahlen.de/tickets/tageskarten/"
+        ],
+        "ansprechperson": [
+          "https://hlz-ahlen.de/tickets/",
+          "https://hlz-ahlen.de/tickets/tageskarten/"
+        ]
+      }
+    }
+  }
+}

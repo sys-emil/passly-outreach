@@ -1,0 +1,57 @@
+{
+  "verein": {
+    "name": "Oranienburger HC",
+    "land": null,
+    "liga": "hb3-nordost",
+    "liga_name": "3. Liga Männer Handball Nord-Ost",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.oranienburgerhc.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "leoticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "oranienburgerhc",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über leoticket (eingebunden auf https://www.oranienburgerhc.de/: https://www.oranienburgerhc.de/).",
+    "quellen": [
+      "https://www.oranienburgerhc.de/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.oranienburgerhc.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Oranienburger HC“. Gelesen: https://www.oranienburgerhc.de/, https://www.oranienburgerhc.de/ticketbereich/, https://www.oranienburgerhc.de/news/jetzt-laenderspiel-tickets-sichern-4450/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.oranienburgerhc.de/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.oranienburgerhc.de/"
+        ],
+        "instagram": [
+          "https://www.oranienburgerhc.de/"
+        ]
+      }
+    }
+  }
+}

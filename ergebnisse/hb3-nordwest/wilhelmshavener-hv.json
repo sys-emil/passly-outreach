@@ -1,0 +1,63 @@
+{
+  "verein": {
+    "name": "Wilhelmshavener HV",
+    "land": null,
+    "liga": "hb3-nordwest",
+    "liga_name": "3. Liga Männer Handball Nord-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "http://www.whvhandball.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ComfortTicket",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 16,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "wilhelmshavenerhv",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Geschäftsstelle",
+      "kontakt": "info@whvhandball.de, 04421 995509"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tageskarte 16 €, Dauerkarte 189 €; verkauft wird über ComfortTicket und Vorverkaufsstellen, ermäßigte Tickets und Sitzplatzwünsche aber nur telefonisch über die Geschäftsstelle.",
+    "quellen": [
+      "https://www.whvhandball.de/tickets/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.whvhandball.de/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ermäßigung und Sitzplatzwahl laufen außerhalb des Shops: Handarbeit.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.whvhandball.de/tickets/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.whvhandball.de/tickets/"
+        ],
+        "anbieter": [
+          "https://www.whvhandball.de/tickets/"
+        ],
+        "instagram": [
+          "https://www.whvhandball.de/tickets/"
+        ],
+        "ansprechperson": [
+          "https://www.whvhandball.de/tickets/"
+        ]
+      }
+    }
+  }
+}

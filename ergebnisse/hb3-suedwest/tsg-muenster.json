@@ -1,0 +1,40 @@
+{
+  "verein": {
+    "name": "TSG Münster",
+    "land": null,
+    "liga": "hb3-suedwest",
+    "liga_name": "3. Liga Männer Handball Süd-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.tsg-muenster.de/handball/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Handballseite der TSG Münster (Wikidata) gibt HTTP 404; die Ticketfrage ist offen.",
+    "quellen": [],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Hessen (Münster bei Dieburg). Anruf.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {}
+    }
+  }
+}

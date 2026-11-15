@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "HG Saarlouis",
+    "land": null,
+    "liga": "hb3-suedwest",
+    "liga_name": "3. Liga Männer Handball Süd-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.hg-saarlouis.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Online-Shop (Anbieter nicht erkennbar)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 15,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "hgsaarlouis",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Büro",
+      "kontakt": "buero@hg-saarlouis.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Ticketseite nennt „Kartenvorverkauf online über unser Ticket-System“, Tagesticket 15 €.",
+    "quellen": [
+      "https://hg-saarlouis.de/tickets/",
+      "https://hg-saarlouis.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://hg-saarlouis.de/tickets/",
+      "https://hg-saarlouis.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laut Zuschauerstatistik der HSG Hanau Schnitt rund 1.259 pro Heimspiel. Shop per Skript, Anbieter nicht im HTML.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://hg-saarlouis.de/tickets/",
+      "https://hg-saarlouis.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://hg-saarlouis.de/tickets/"
+        ],
+        "instagram": [
+          "https://hg-saarlouis.de/tickets/",
+          "https://hg-saarlouis.de/"
+        ],
+        "ansprechperson": [
+          "https://hg-saarlouis.de/tickets/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

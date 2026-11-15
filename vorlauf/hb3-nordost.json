@@ -1,0 +1,544 @@
+{
+  "liga": "hb3-nordost",
+  "stand": "2026-11-15",
+  "quelle": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+  "abrufe": 26,
+  "teams": [
+    {
+      "verband_name": "TSV Altenholz",
+      "team_id": "TSV Altenholz",
+      "homepage": "http://www.tsv-altenholz.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Altenholz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "24161",
+      "ort_qid": "Q437296",
+      "ort": "Altenholz",
+      "verein": "TSV Altenholz",
+      "land": "SH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.tsv-altenholz.de/ (ERR_TLS_CERT_ALTNAME_INVALID)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "HC Empor Rostock",
+      "team_id": "HC Empor Rostock",
+      "homepage": "https://www.hcempor.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HC_Empor_Rostock",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "18001",
+      "ort_qid": "Q2861",
+      "ort": "Rostock",
+      "verein": "HC Empor Rostock",
+      "land": "MV",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.hcempor.de/",
+        "https://www.hcempor.de/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "hc_empor"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "leoticket",
+        "beleg": "https://www.hcempor.de/",
+        "wie": "eingebunden auf https://www.hcempor.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "EHV Aue",
+      "team_id": "EHV Aue",
+      "homepage": "https://ehv-aue.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/EHV_Aue",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "EHV Aue",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://ehv-aue.de/",
+        "https://ehv-aue.de/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://ehv-aue.de/tickets",
+          "stelle": "inder gelten. Ticketkauf Tickets können sowohl online als auch an der Tageskasse erworben werden. Beim Online-Kauf wird eine zusätzliche Vorverkaufsge"
+        },
+        "vorverkauf": {
+          "url": "https://ehv-aue.de/tickets",
+          "stelle": "er Tageskasse erworben werden. Beim Online-Kauf wird eine zusätzliche Vorverkaufsgebühr von 10% erhoben. An der Tageskasse fällt eine Gebühr von 2 € p"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "kontakt@ehv-aue.de"
+      ],
+      "preise": [
+        {
+          "eur": 18,
+          "url": "https://ehv-aue.de/tickets",
+          "stelle": "ticket vollzahler 18€"
+        },
+        {
+          "eur": 16,
+          "url": "https://ehv-aue.de/tickets",
+          "stelle": "ticket ermäßigt 16€"
+        },
+        {
+          "eur": 13,
+          "url": "https://ehv-aue.de/tickets",
+          "stelle": "ticket kind / jugendlicher 13€"
+        },
+        {
+          "eur": 7,
+          "url": "https://ehv-aue.de/tickets",
+          "stelle": "ticket 7€"
+        },
+        {
+          "eur": 16,
+          "url": "https://ehv-aue.de/tickets",
+          "stelle": "ticket vollzahler 16€"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SC Magdeburg II",
+      "team_id": "SC Magdeburg II",
+      "homepage": "https://www.scm-handball.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Magdeburg_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "39104",
+      "ort_qid": "Q1733",
+      "ort": "Magdeburg",
+      "verein": "SC Magdeburg II",
+      "land": "ST",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "MTV Braunschweig",
+      "team_id": "MTV Braunschweig",
+      "homepage": "http://www.mtv-braunschweig.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/MTV_Braunschweig",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "38100",
+      "ort_qid": "Q2773",
+      "ort": "Braunschweig",
+      "verein": "MTV Braunschweig",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.mtv-bs.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "mtv.braunschweig",
+        "mtv.braunschweig1847"
+      ],
+      "emails": [
+        "info@mtv-bs.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Stralsunder HV",
+      "team_id": "Stralsunder HV",
+      "homepage": "https://stralsunder-hv.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Stralsunder_HV",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Stralsunder HV",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://stralsunder-hv.de/"
+      ],
+      "nicht_lesbar": [
+        "https://stralsunder-hv.de/corona-ticket/ (HTTP 404)"
+      ],
+      "funde": {},
+      "instagram": [
+        "stralsunder_hv_verein"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventfrog",
+        "beleg": "https://stralsunder-hv.de/",
+        "wie": "eingebunden auf https://stralsunder-hv.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Füchse Berlin Reinickendorf II",
+      "team_id": "Füchse Berlin Reinickendorf",
+      "homepage": "https://www.fuechse-berlin-reinickendorf.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/F%C3%BCchse_Berlin_Reinickendorf",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "10115",
+      "ort_qid": "Q64",
+      "ort": "Berlin",
+      "verein": "Füchse Berlin Reinickendorf II",
+      "land": "BE",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SV 04 Plauen-Oberlosa",
+      "team_id": "SV 04 Plauen-Oberlosa",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_04_Plauen-Oberlosa",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "SV 04 Plauen-Oberlosa",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Handball Club Hamburg II",
+      "team_id": "Handball Club Hamburg",
+      "homepage": "http://www.hsvhandball.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Handball_Club_Hamburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "Handball Club Hamburg II",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "TSV Burgdorf II",
+      "team_id": "TSV Burgdorf",
+      "homepage": "http://www.tsv-burgdorf.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Burgdorf",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "31303",
+      "ort_qid": "Q555618",
+      "ort": "Burgdorf",
+      "verein": "TSV Burgdorf II",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "DHK Flensborg",
+      "team_id": "DHK Flensborg",
+      "homepage": "https://dhk-flensborg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/DHK_Flensborg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "24937",
+      "ort_qid": "Q3798",
+      "ort": "Flensburg",
+      "verein": "DHK Flensborg",
+      "land": "SH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://dhk-flensborg.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "vibe",
+        "beleg": "https://dhk-flensborg.de/",
+        "wie": "eingebunden auf https://dhk-flensborg.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "NHV Concordia Delitzsch 2010",
+      "team_id": "1. SV Concordia Delitzsch#NHV Concordia Delitzsch",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._SV_Concordia_Delitzsch%23NHV_Concordia_Delitzsch",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "04509",
+      "ort_qid": "Q12052",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Delitzsch",
+      "verein": "NHV Concordia Delitzsch 2010",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "HG Hamburg-Barmbek",
+      "team_id": "HG Hamburg-Barmbek",
+      "homepage": "http://www.handball-barmbek.org/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HG_Hamburg-Barmbek",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "22049",
+      "ort_qid": "Q1138",
+      "ort": "Barmbek-Nord",
+      "verein": "HG Hamburg-Barmbek",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.handball-barmbek.org/",
+        "https://www.handball-barmbek.org/tickets/",
+        "https://www.handball-barmbek.org/herren/erste-herren/barmbek-will-sich-gegen-400-zuschauer-behaupten-hghb-team-tritt-freitag-mit-vollem-kader-bei-der-hsg-eider-harde-an/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.handball-barmbek.org/tickets/",
+          "stelle": "n Liga Nord-Ost können vorbestellt werden. Die Ausgabe erfolgt an der Abendkasse ab dem ersten Heimspiel. Wir bitten um frühzeitige Anreise, um einen"
+        },
+        "von_hand": {
+          "url": "https://www.handball-barmbek.org/tickets/",
+          "stelle": "1. Herren der HG Hamburg-Barmbek in der Dritten Liga Nord-Ost können vorbestellt werden. Die Ausgabe erfolgt an der Abendkasse ab dem ersten Heimspie"
+        },
+        "dauerkarte": {
+          "url": "https://www.handball-barmbek.org/tickets/",
+          "stelle": "Hauptvereine Mitgliedschaft Spielstätten Download Kontakt Tickets Die Dauerkarte 2026/27 15 Heimspiele. 30 Punkte. 1 Ziel. Dauerkarten für die Heimspi"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "tickets@handball-barmbek.org",
+        "tobias.beuscher@handball-barmbek.org",
+        "soeren.priebs@handball-barmbek.org"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://www.handball-barmbek.org/tickets/",
+        "wie": "eingebunden auf https://www.handball-barmbek.org/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "HV Grün-Weiß Werder",
+      "team_id": "HV Grün-Weiß Werder",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HV_Gr%C3%BCn-Wei%C3%9F_Werder",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "HV Grün-Weiß Werder",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "HSG Eider Harde",
+      "team_id": "HSG Eider Harde",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HSG_Eider_Harde",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "HSG Eider Harde",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Oranienburger HC",
+      "team_id": "Oranienburger HC",
+      "homepage": "https://www.oranienburgerhc.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Oranienburger_HC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Oranienburger HC",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.oranienburgerhc.de/",
+        "https://www.oranienburgerhc.de/ticketbereich/",
+        "https://www.oranienburgerhc.de/news/jetzt-laenderspiel-tickets-sichern-4450/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.oranienburgerhc.de/",
+          "stelle": "das Unternehmen (DOSB New Media GmbH) die Preise sowie die Rabatte im Vorverkauf mit. … zum Beitrag 11.08.2026 | OHC II, Topnews, Verein Sven Schürer"
+        },
+        "abendkasse": {
+          "url": "https://www.oranienburgerhc.de/ticketbereich/",
+          "stelle": "s ist die OHC-Dauerkarte ein wahres Schnäppchen. Ticketverkauf an der Abendkasse Tickets vor Ort kaufen Spontan zum Sport-Event mit Freunden? Kein Pro"
+        },
+        "dauerkarte": {
+          "url": "https://www.oranienburgerhc.de/ticketbereich/",
+          "stelle": "ressum Datenschutz Ticketbereich OHC-Tickets im Überblick Tickets und Dauerkarten für unsere 3. Liga Heimspiele Tickets 3. Liga Spiele 3. LIGA Deutsch"
+        }
+      },
+      "instagram": [
+        "oranienburgerhc"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "leoticket",
+        "beleg": "https://www.oranienburgerhc.de/",
+        "wie": "eingebunden auf https://www.oranienburgerhc.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    }
+  ]
+}

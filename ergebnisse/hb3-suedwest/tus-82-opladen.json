@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "TuS 82 Opladen",
+    "land": null,
+    "liga": "hb3-suedwest",
+    "liga_name": "3. Liga Männer Handball Süd-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "http://www.tus1882opladen.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Ticket Regional",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Ticket Regional (eingebunden auf https://www.tus1882opladen.de/sportarten/handball/senioren/id-1-herren-3.liga/tickets-596.html: https://www.tus1882opladen.de/sportarten/handball/senioren/id-1-herren-3.liga/tickets-596.html).",
+    "quellen": [
+      "https://www.tus1882opladen.de/sportarten/handball/senioren/id-1-herren-3.liga/tickets-596.html",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.tus1882opladen.de/sportarten/handball/senioren/id-1-herren-3.liga/tickets-596.html"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „TuS 82 Opladen“. Gelesen: https://www.tus1882opladen.de/, https://www.tus1882opladen.de/sportarten/handball/senioren/id-1-herren-3.liga/tickets-596.html, https://www.tus1882opladen.de/sportarten/handball/senioren/id-2-herren-oberliga/tickets.html.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tus1882opladen.de/sportarten/handball/senioren/id-1-herren-3.liga/tickets-596.html",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.tus1882opladen.de/sportarten/handball/senioren/id-1-herren-3.liga/tickets-596.html"
+        ]
+      }
+    }
+  }
+}

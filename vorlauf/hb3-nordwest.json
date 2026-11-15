@@ -1,0 +1,530 @@
+{
+  "liga": "hb3-nordwest",
+  "stand": "2026-11-15",
+  "quelle": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+  "abrufe": 28,
+  "teams": [
+    {
+      "verband_name": "TuS Spenge",
+      "team_id": "TuS Spenge",
+      "homepage": "https://www.tus-spenge.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TuS_Spenge",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q53904",
+      "verein": "TuS Spenge",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tus-spenge.de/",
+        "https://www.tus-spenge.de/preise"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSG A-H Bielefeld",
+      "team_id": "TSG Altenhagen-Heepen",
+      "homepage": "https://www.tsg-ah.de/index.php",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSG_Altenhagen-Heepen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q2112",
+      "verein": "TSG A-H Bielefeld",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsg-ah.de/index.php",
+        "https://www.tsg-ah.de/index.php?content=hallen&show=preise",
+        "https://www.tsg-ah.de/index.php?content=saison&show=spielplan&sid=12"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.tsg-ah.de/index.php?content=hallen&show=preise",
+          "stelle": "12 € Jugendliche (8-17 Jahre) 6 € Kinder (bis 7 Jahre) Eintritt frei Dauerkarten Erwachsene 195 € Ermäßigte* 156 € Jugendliche (8-17 Jahre) 78 € * (M"
+        }
+      },
+      "instagram": [
+        "tsgahbielefeld"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://www.tsg-ah.de/index.php?content=hallen&show=preise",
+          "stelle": "erwachsene 15 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Team Handball Lippe II",
+      "team_id": "Team Handball Lippe",
+      "homepage": "https://www.team-all.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Team_Handball_Lippe",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Team Handball Lippe II",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Wilhelmshavener HV",
+      "team_id": "Wilhelmshavener HV",
+      "homepage": "http://www.whvhandball.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Wilhelmshavener_HV",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Wilhelmshavener HV",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.whvhandball.de/",
+        "https://www.whvhandball.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.whvhandball.de/tickets/",
+          "stelle": "anze Familie. Hier findest du alle Informationen zu Ticketpreisen und Vorverkaufsstellen für den Wilhelmshavener HV. Tageskarte 16€ Voller Preis für E"
+        },
+        "dauerkarte": {
+          "url": "https://www.whvhandball.de/tickets/",
+          "stelle": "-17 J.), Studenten, Schwerbehinderung (50%+) Kinder frei Bis 12 Jahre Dauerkarte 189€ Für die komplette Saison VOrverkaufsstellen GeschäftsstelIe Göke"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@whvhandball.de"
+      ],
+      "preise": [
+        {
+          "eur": 16,
+          "url": "https://www.whvhandball.de/tickets/",
+          "stelle": "tageskarte 16€"
+        },
+        {
+          "eur": 10,
+          "url": "https://www.whvhandball.de/tickets/",
+          "stelle": "erwachsene ermäßigt 10€"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TuS Vinnhorst",
+      "team_id": "TuS Vinnhorst",
+      "homepage": "https://tusvinnhorst.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TuS_Vinnhorst",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1715",
+      "verein": "TuS Vinnhorst",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tusvinnhorst.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Sportfreunde Loxten",
+      "team_id": "Sportfreunde Loxten",
+      "homepage": "http://www.sportfreunde-loxten.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Sportfreunde_Loxten",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q225334",
+      "verein": "Sportfreunde Loxten",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sportfreunde-loxten.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV Anderten",
+      "team_id": "TSV Anderten",
+      "homepage": "https://www.tsv-anderten.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Anderten",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1715",
+      "verein": "TSV Anderten",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsv-anderten.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "HC Eintracht Hildesheim",
+      "team_id": "Eintracht_Hildesheim#Handball_bei_Eintracht_Hildesheim",
+      "homepage": "http://www.eintracht-handball.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Eintracht_Hildesheim%23Handball_bei_Eintracht_Hildesheim",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q3185",
+      "verein": "HC Eintracht Hildesheim",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.eintracht-handball.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Ahlener SG",
+      "team_id": "Ahlener SG",
+      "homepage": "https://www.ahlenersg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Ahlener_SG",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1132",
+      "verein": "Ahlener SG",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ahlenersg.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "VfL Eintracht Hagen II",
+      "team_id": "VfL Eintracht Hagen",
+      "homepage": "https://hagen-handball.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfL_Eintracht_Hagen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q2871",
+      "verein": "VfL Eintracht Hagen II",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "HSG Varel",
+      "team_id": "HSG Varel",
+      "homepage": "http://www.handball-varel.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HSG_Varel",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "HSG Varel",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://handball-varel.de/",
+        "https://handball-varel.de/ticketshop/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://handball-varel.de/ticketshop/",
+          "stelle": "übersicht &middot; 1. Herren / 3. Liga Kategorie Online-Vorverkauf*** Abendkasse Dauerkarte Erwachsene 15,00 € 17,50 € 210,00 € Ermäßigt * 14,00 € 16,"
+        },
+        "vorverkauf": {
+          "url": "https://handball-varel.de/ticketshop/",
+          "stelle": "2026/27 Preisübersicht &middot; 1. Herren / 3. Liga Kategorie Online-Vorverkauf*** Abendkasse Dauerkarte Erwachsene 15,00 € 17,50 € 210,00 € Ermäßigt"
+        },
+        "dauerkarte": {
+          "url": "https://handball-varel.de/ticketshop/",
+          "stelle": "middot; 1. Herren / 3. Liga Kategorie Online-Vorverkauf*** Abendkasse Dauerkarte Erwachsene 15,00 € 17,50 € 210,00 € Ermäßigt * 14,00 € 16,50 € 192,50"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "tickets@handball-varel.de",
+        "info@anker-sportmanagement.de",
+        "info@handball-varel.de"
+      ],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://handball-varel.de/ticketshop/",
+          "stelle": "erwachsene 15,00 €"
+        },
+        {
+          "eur": 0.99,
+          "url": "https://handball-varel.de/ticketshop/",
+          "stelle": "tickets im online-verkauf zzgl. 0,99 €"
+        }
+      ],
+      "anbieter": {
+        "name": "ditix",
+        "beleg": "https://handball-varel.de/",
+        "wie": "eingebunden auf https://handball-varel.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VfL Fredenbeck",
+      "team_id": "VfL Fredenbeck",
+      "homepage": "https://www.vfl-fredenbeck.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfL_Fredenbeck",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "VfL Fredenbeck",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://vfl-fredenbeck.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://vfl-fredenbeck.de/",
+          "stelle": "Hagen II zur Tabelle zum Spielplan zum Kader Sichere dir jetzt DEINE Dauerkarte Hier anfordern Kurse Neben den festen Sparten bietet der VfL Fredenbe"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "foerderverein@vfl-fredenbeck.de",
+        "vfl@vfl-fredenbeck.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://vfl-fredenbeck.de/",
+        "wie": "eingebunden auf https://vfl-fredenbeck.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "ESG Gensungen/Felsberg",
+      "team_id": "ESG Gensungen/Felsberg",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/ESG_Gensungen%2FFelsberg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "ESG Gensungen/Felsberg",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "MT Melsungen II",
+      "team_id": "MT Melsungen",
+      "homepage": "https://www.mt-melsungen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/MT_Melsungen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q552495",
+      "verein": "MT Melsungen II",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "OHV Aurich",
+      "team_id": "OHV Aurich",
+      "homepage": "https://www.ohv-aurich.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/OHV_Aurich",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "OHV Aurich",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://ohv-handball.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://ohv-handball.de/",
+          "stelle": ". Liga ZUM TICKER Livestream der 3. Liga ZUM LIVESTREAM Karten an der Abendkasse Design & Umsetzung Kontakt Impressum Datenschutz Copyright &copy; 202"
+        },
+        "dauerkarte": {
+          "url": "https://ohv-handball.de/",
+          "stelle": "News Leitbild Geschichte Vorstand Freundeskreis FSJ Kontakt Für uns! Dauerkarten Partner Werbemöglichkeiten Mitglied werden Spenden Live! Live-Stream"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://ohv-handball.de/",
+        "wie": "eingebunden auf https://ohv-handball.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "MTV Großenheidorn",
+      "team_id": "MTV Großenheidorn",
+      "homepage": "http://www.mtv-grossenheidorn.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/MTV_Gro%C3%9Fenheidorn",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "MTV Großenheidorn",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.mtv-grossenheidorn.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "verein": {
+    "name": "TSV Anderten",
+    "land": null,
+    "liga": "hb3-nordwest",
+    "liga_name": "3. Liga Männer Handball Nord-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.tsv-anderten.de/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Handballseite des TSV Anderten enthält keine Angaben zu Tickets; ein Suchtreffer zeigt ein Heimspiel der „Anderter Handball GmbH“ im Reservix-Portal mvp.de, nicht gelesen.",
+    "quellen": [
+      "https://www.tsv-anderten.de/index.php/abteilungen/handball"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [
+      "https://www.mvp.de/hannover/veranstaltungen/tsv-anderten-vs-wilhelmshavener-hv-sporthalle-misburg-hannover/"
+    ],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Handball läuft offenbar über eine eigene GmbH mit eigener Seite; Reservix wahrscheinlich, aber nur Suchtreffer.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tsv-anderten.de/index.php/abteilungen/handball"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.tsv-anderten.de/index.php/abteilungen/handball"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {}
+    }
+  }
+}

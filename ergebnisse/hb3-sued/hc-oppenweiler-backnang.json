@@ -1,0 +1,57 @@
+{
+  "verein": {
+    "name": "HC Oppenweiler/Backnang",
+    "land": null,
+    "liga": "hb3-sued",
+    "liga_name": "3. Liga Männer Handball Süd",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "http://www.hcob.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ditix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "hc.oppenweiler.backnang",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über ditix (eingebunden auf https://www.hcob.de/: https://www.hcob.de/).",
+    "quellen": [
+      "https://www.hcob.de/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.hcob.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „HC Oppenweiler/Backnang“. Gelesen: https://www.hcob.de/, https://www.hcob.de/spiele/tickets, https://www.hcob.de/news-meldung/hcob-jugendteams-gewinnen-heimspiele.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hcob.de/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.hcob.de/"
+        ],
+        "instagram": [
+          "https://www.hcob.de/"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,657 @@
+{
+  "liga": "hb3-sued",
+  "stand": "2026-11-15",
+  "quelle": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+  "abrufe": 33,
+  "teams": [
+    {
+      "verband_name": "VfL Pfullingen",
+      "team_id": "VfL Pfullingen",
+      "homepage": "http://www.handball-pfullingen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfL_Pfullingen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q82053",
+      "verein": "VfL Pfullingen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://handball-pfullingen.de/",
+        "https://handball-pfullingen.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://handball-pfullingen.de/",
+          "stelle": "Partner Ditix oder &#8211; wenn noch vorhanden &#8211; direkt an der Abendkasse in der Kurt-App Halle erworben werden. In der Geschäftsstelle können"
+        },
+        "vorverkauf": {
+          "url": "https://handball-pfullingen.de/",
+          "stelle": "ereins in der 3. Liga können in der Saison 2026/2027 sowohl im Online-Vorverkauf über unseren Partner Ditix oder &#8211; wenn noch vorhanden &#8211; d"
+        }
+      },
+      "instagram": [
+        "handball_pfullingen"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "ditix",
+        "beleg": "https://handball-pfullingen.de/tickets/",
+        "wie": "eingebunden auf https://handball-pfullingen.de/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "HC Oppenweiler/Backnang",
+      "team_id": "HC Oppenweiler/Backnang",
+      "homepage": "http://www.hcob.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HC_Oppenweiler%2FBacknang",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "HC Oppenweiler/Backnang",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.hcob.de/",
+        "https://www.hcob.de/spiele/tickets",
+        "https://www.hcob.de/news-meldung/hcob-jugendteams-gewinnen-heimspiele"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.hcob.de/spiele/tickets",
+          "stelle": "skarten für unsere Heimspiele gibt es im Online-Vorverkauf und an der Tageskasse. Eintrittskarten für die Handballspiele unseres Teams sind im Online-"
+        },
+        "vorverkauf": {
+          "url": "https://www.hcob.de/spiele/tickets",
+          "stelle": "uerkarten und Eintrittskarten für unsere Heimspiele gibt es im Online-Vorverkauf und an der Tageskasse. Eintrittskarten für die Handballspiele unseres"
+        },
+        "dauerkarte": {
+          "url": "https://www.hcob.de/spiele/tickets",
+          "stelle": "Datenbank Tickets Presse Sponsoring Clubshop Informationen zu Tickets Dauerkarten und Eintrittskarten für unsere Heimspiele gibt es im Online-Vorverka"
+        }
+      },
+      "instagram": [
+        "hc.oppenweiler.backnang"
+      ],
+      "emails": [
+        "dirk.hail@hcob.de",
+        "jochen.mayer@hcob.de",
+        "alexander.hornauer@hcob.de",
+        "thomas.buehler@hcob.de",
+        "armin.pfister@hcob.de",
+        "sponsoring@hcob.de",
+        "jonas.frank@hcob.de",
+        "jugendleitung@hcob.de",
+        "minis@hcob.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "ditix",
+        "beleg": "https://www.hcob.de/",
+        "wie": "eingebunden auf https://www.hcob.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SV Salamander Kornwestheim",
+      "team_id": "SV Salamander Kornwestheim",
+      "homepage": "http://www.sv-kornwestheim.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Salamander_Kornwestheim",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q16102",
+      "verein": "SV Salamander Kornwestheim",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://sv-kornwestheim.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "sv.kornwestheim"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SG Regensburg",
+      "team_id": "SG Regensburg (Handball)",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SG_Regensburg_(Handball)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "SG Regensburg",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV Neuhausen/Filder 1898",
+      "team_id": "TSV Neuhausen",
+      "homepage": "https://www.tsv-n.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Neuhausen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q80610",
+      "verein": "TSV Neuhausen/Filder 1898",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tsv-n.de/",
+        "https://tsv-n.de/abteilung/ticketshop",
+        "https://tsv-n.de/abteilung/heimspielhefte-archiv"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "nur_abendkasse": {
+          "url": "https://tsv-n.de/abteilung/ticketshop",
+          "stelle": "tattet. Tickets für die Heimspiele der MadDogs Aktuell können Tickets ausschließlich an der Tageskasse erworben werden. Tickets für Fans der Gastmannschaft können über den"
+        },
+        "abendkasse": {
+          "url": "https://tsv-n.de/abteilung/ticketshop",
+          "stelle": "bar vor den MadDogs muss ein Kombiticket für 16€, ermäßigt 11€ an der Tageskasse erworben werden. Bei Verlassen der Halle vor Anpfiff des Spiels in de"
+        },
+        "vorverkauf": {
+          "url": "https://tsv-n.de/abteilung/ticketshop",
+          "stelle": "erwerben möchte, kann dies ebenfalls bei der Bestellung angeben. Der Vorverkauf endet am 28.08.2026. Danach sind die Dauerkarten nur noch an der Tage"
+        },
+        "von_hand": {
+          "url": "https://tsv-n.de/abteilung/ticketshop",
+          "stelle": "echenden Paarung gesammelt bei uns über info@tsvneuhausen-handball.de reserviert werden. In der Regel sind ca. 60 Tickets im Gästeblock (Block C) vor"
+        },
+        "dauerkarte": {
+          "url": "https://tsv-n.de/abteilung/ticketshop",
+          "stelle": "vorhanden. Es gibt keine Sitzplatzkarten an der Tageskasse zu kaufen. Dauerkarten-Sitzplätze sind entsprechend gekennzeichnet und für Dauerkartenbesit"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@tsvneuhausen-handball.de"
+      ],
+      "preise": [
+        {
+          "eur": 16,
+          "url": "https://tsv-n.de/abteilung/ticketshop",
+          "stelle": "ticket für 16€"
+        },
+        {
+          "eur": 8,
+          "url": "https://tsv-n.de/abteilung/ticketshop",
+          "stelle": "eintritt 8€"
+        },
+        {
+          "eur": 13,
+          "url": "https://tsv-n.de/abteilung/ticketshop",
+          "stelle": "ticketpreis von 13 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "HBW Balingen-Weilstetten II",
+      "team_id": "HBW Balingen-Weilstetten",
+      "homepage": "https://www.h-bw.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HBW_Balingen-Weilstetten",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q16015",
+      "verein": "HBW Balingen-Weilstetten II",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "HSG Konstanz",
+      "team_id": "HSG Konstanz",
+      "homepage": "https://hsgkonstanz.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HSG_Konstanz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "HSG Konstanz",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://hsgkonstanz.de/",
+        "https://hsgkonstanz.de/shop-tickets/"
+      ],
+      "nicht_lesbar": [
+        "https://hsgkonstanz.de/?page_id=37 (HTTP 404)"
+      ],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://hsgkonstanz.de/",
+          "stelle": "lle. Eine einzigartige Atmosphäre. Sei hautnah dabei. Jetzt Ticket im Vorverkauf sichern und sparen! Tickets kaufen Informationen Livestream Liveticke"
+        },
+        "abendkasse": {
+          "url": "https://hsgkonstanz.de/shop-tickets/",
+          "stelle": "martphone vorzeigen und abscannen lassen. Lange Warteschlangen an der Abendkasse sind damit Geschichte. Hsg Tickets Online Shop jetzt kaufen Ticket Ho"
+        },
+        "dauerkarte": {
+          "url": "https://hsgkonstanz.de/shop-tickets/",
+          "stelle": "fen Ticket Hotline 07531 / 928080 VVK Stellen anzeigen Hygienekonzept Dauerkarten Gutscheine HSG FAN SHOP! Trikots, Shirts, Hoodies, Schals, Caps, Müt"
+        }
+      },
+      "instagram": [
+        "hsgkonstanz"
+      ],
+      "emails": [
+        "info@hsgkonstanz.de",
+        "tickets@hsgkonstanz.de"
+      ],
+      "preise": [
+        {
+          "eur": 16.5,
+          "url": "https://hsgkonstanz.de/shop-tickets/",
+          "stelle": "erwachsene sitzplatz 16,50 euro"
+        },
+        {
+          "eur": 16.5,
+          "url": "https://hsgkonstanz.de/shop-tickets/",
+          "stelle": "erwachsene sitzplatz 16,50 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSB Heilbronn-Horkheim",
+      "team_id": "TSB Heilbronn-Horkheim",
+      "homepage": "http://www.tsb-horkheim.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSB_Heilbronn-Horkheim",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "TSB Heilbronn-Horkheim",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tsb-horkheim-hunters.de/",
+        "https://tsb-horkheim-hunters.de/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "nur_abendkasse": {
+          "url": "https://tsb-horkheim-hunters.de/tickets",
+          "stelle": "mit Behinderung (10€ Sitzplatz, 7€ Stehplatz). Ermäßigte Tickets sind nur gegen Vorlage eines Nachweises an der Abendkasse erhältlich. 0€ bis 14 Jahre 7€ Schüler, Studenten, Auszubildende 15€"
+        },
+        "abendkasse": {
+          "url": "https://tsb-horkheim-hunters.de/tickets",
+          "stelle": "tz). Ermäßigte Tickets sind nur gegen Vorlage eines Nachweises an der Abendkasse erhältlich. 0€ bis 14 Jahre 7€ Schüler, Studenten, Auszubildende 15€"
+        },
+        "vorverkauf": {
+          "url": "https://tsb-horkheim-hunters.de/tickets",
+          "stelle": "esse Fanshop Sponsoren Partnerschaften Kontakt Tickets Die aktuell im Vorverkauf verfügbaren Spiele findest du unten. Weitere Begegnungen sind derzeit"
+        },
+        "dauerkarte": {
+          "url": "https://tsb-horkheim-hunters.de/tickets",
+          "stelle": "jeweils erst nach der offiziellen Spielansetzung. Lade Heimspiele... Dauerkarten und VIP-Tickets Dauerkarten und VIP-Tickets sind über unsere Geschäf"
+        }
+      },
+      "instagram": [
+        "tsbhorkheim"
+      ],
+      "emails": [
+        "geschaeftsstelle@tsb-horkheim.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "HC Erlangen II",
+      "team_id": "HC Erlangen",
+      "homepage": "https://www.hc-erlangen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HC_Erlangen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "verein": "HC Erlangen II",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SG Pforzheim/Eutingen",
+      "team_id": "SG Pforzheim/Eutingen",
+      "homepage": "http://www.sg-pforzheim.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SG_Pforzheim%2FEutingen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "SG Pforzheim/Eutingen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sg-pforzheim.de/",
+        "https://www.sg-pforzheim.de/info/ticketpreise.html",
+        "https://www.sg-pforzheim.de/info/tickets.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.sg-pforzheim.de/info/ticketpreise.html",
+          "stelle": "ise Ticketpreise im Überblick 3. Liga - Herren VVK online Tageskarten Dauerkarten Eintrittspreis 15,00 € 16,00 € 179,00 € ermäßigt* 11,00 € 12,00 € 13"
+        },
+        "abendkasse": {
+          "url": "https://www.sg-pforzheim.de/info/tickets.html",
+          "stelle": "a sind im Online-Vorverkauf bei unserem Partner Leotickets und an der Abendkasse erhältlich. Online-Tickets sind im Normalfall 8 Tage vor dem Spielter"
+        },
+        "vorverkauf": {
+          "url": "https://www.sg-pforzheim.de/info/tickets.html",
+          "stelle": "kaufen sei live dabei Eintrittskarten für die 3. Liga sind im Online-Vorverkauf bei unserem Partner Leotickets und an der Abendkasse erhältlich. Onli"
+        }
+      },
+      "instagram": [
+        "sgpforzheimeutingen"
+      ],
+      "emails": [
+        "hendrik.beier@sg-pforzheim.de"
+      ],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://www.sg-pforzheim.de/info/ticketpreise.html",
+          "stelle": "tageskarten dauerkarten eintrittspreis 15,00 €"
+        },
+        {
+          "eur": 10,
+          "url": "https://www.sg-pforzheim.de/info/ticketpreise.html",
+          "stelle": "erwachsenen 10,00 €"
+        },
+        {
+          "eur": 6,
+          "url": "https://www.sg-pforzheim.de/info/ticketpreise.html",
+          "stelle": "eintrittspreis 6,00 €"
+        },
+        {
+          "eur": 4,
+          "url": "https://www.sg-pforzheim.de/info/ticketpreise.html",
+          "stelle": "eintrittspreis 4,00 €"
+        },
+        {
+          "eur": 6,
+          "url": "https://www.sg-pforzheim.de/info/ticketpreise.html",
+          "stelle": "eintrittspreis 6,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "leoticket",
+        "beleg": "https://www.sg-pforzheim.de/info/tickets.html",
+        "wie": "eingebunden auf https://www.sg-pforzheim.de/info/tickets.html"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Wölfe Würzburg",
+      "team_id": "DJK Rimpar",
+      "homepage": "https://djk-rimpar.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/DJK_Rimpar",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "verein": "Wölfe Würzburg",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://djk-rimpar.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "geschaeftsstelle@djk-rimpar.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSB Schwäbisch Gmünd",
+      "team_id": "TSB Schwäbisch Gmünd",
+      "homepage": "http://www.gmuendertsb.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSB_Schw%C3%A4bisch_Gm%C3%BCnd",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q4037",
+      "verein": "TSB Schwäbisch Gmünd",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsb.gd/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@tsb.gd",
+        "pierrelovic@yahoo.de",
+        "nagel_reiner@web.de",
+        "azucarazul@gmx.de",
+        "omithome@gmail.com",
+        "carlosamor66@icloud.com",
+        "gd.haertel@t-online.de",
+        "danielbarth@t-online.de",
+        "jusic_emir@yahoo.com",
+        "hieber.diana@googlemail.com",
+        "danielrequard@googlemail.com",
+        "uwe.kochendoerfer@t-online.de",
+        "potapenja_nikolai@freenet.de",
+        "a-amay@gmx.de",
+        "mcniersberger@arcor.de",
+        "thilo.denz@gmx.de",
+        "trampolin_tsbgmuend@web.de",
+        "monika.roehrich@gmx.de",
+        "claudia@kruspel-net.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TV Bittenfeld II",
+      "team_id": "TV Bittenfeld",
+      "homepage": "https://www.tvb1898.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TV_Bittenfeld",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q4140",
+      "verein": "TV Bittenfeld II",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "TV 1861 Erlangen-Bruck",
+      "team_id": "TV 1861 Erlangen-Bruck",
+      "homepage": "https://www.tv61.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TV_1861_Erlangen-Bruck",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "verein": "TV 1861 Erlangen-Bruck",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tv61.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "eintritt_frei": {
+          "url": "https://tv61.de/",
+          "stelle": "r in der Emmy-Noether-Halle in Erlangen statt. Beginn ist 14 Uhr, der Eintritt ist frei. mehr lesen Sommerfest 2024 Wir laden alle Mitglieder des TV 1861 Erl"
+        }
+      },
+      "instagram": [
+        "tv61brooklynunited",
+        "brooklynunitedladies",
+        "tv1861_tennis",
+        "tv1861_erlangen_volleyball",
+        "tv61bruck"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Rhein-Neckar Löwen II",
+      "team_id": "Rhein-Neckar Löwen",
+      "homepage": "https://www.rhein-neckar-loewen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Rhein-Neckar_L%C3%B6wen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q2119",
+      "verein": "Rhein-Neckar Löwen II",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "HSG Albstadt",
+      "team_id": "HSG Albstadt",
+      "homepage": "https://www.hsg-albstadt.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HSG_Albstadt",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "HSG Albstadt",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.hsg-albstadt.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    }
+  ]
+}

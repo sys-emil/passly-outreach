@@ -1,0 +1,70 @@
+{
+  "verein": {
+    "name": "HSG Rodgau Nieder-Roden",
+    "land": null,
+    "liga": "hb3-suedwest",
+    "liga_name": "3. Liga Männer Handball Süd-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://baggerseepiraten.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "PassShop (pass consulting)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "baggerseepiraten",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Dauerkarten",
+      "kontakt": "dauerkarten@hsg-handball.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tagestickets verkaufen die Baggerseepiraten über einen PassShop (tickets.baggerseepiraten.de), dazu ein kleines Kontingent an der Abendkasse; Dauerkarten fragt man per Mail an dauerkarten@hsg-handball.de an.",
+    "quellen": [
+      "http://tickets.baggerseepiraten.de",
+      "https://baggerseepiraten.de/eintrittspreise/",
+      "https://baggerseepiraten.de/dauerkarten/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "http://tickets.baggerseepiraten.de",
+      "https://baggerseepiraten.de/eintrittspreise/",
+      "https://baggerseepiraten.de/dauerkarten/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorlauf hatte „Freier Eintritt bei ALLEN Spielen“ als Eintritt frei gelesen; der Satz beschreibt eine Leistung der Dauerkarte.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "http://tickets.baggerseepiraten.de",
+      "https://baggerseepiraten.de/eintrittspreise/",
+      "https://baggerseepiraten.de/dauerkarten/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "http://tickets.baggerseepiraten.de",
+          "https://baggerseepiraten.de/eintrittspreise/",
+          "https://baggerseepiraten.de/dauerkarten/"
+        ],
+        "instagram": [
+          "https://baggerseepiraten.de/eintrittspreise/",
+          "https://baggerseepiraten.de/dauerkarten/"
+        ],
+        "ansprechperson": [
+          "https://baggerseepiraten.de/eintrittspreise/",
+          "https://baggerseepiraten.de/dauerkarten/"
+        ]
+      }
+    }
+  }
+}

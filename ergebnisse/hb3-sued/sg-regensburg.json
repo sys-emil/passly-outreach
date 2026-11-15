@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "SG Regensburg",
+    "land": null,
+    "liga": "hb3-sued",
+    "liga_name": "3. Liga Männer Handball Süd",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://sg-regensburg.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 10,
+    "halle": "Städtische Sporthalle Königswiesen, Regensburg",
+    "kapazitaet": null,
+    "instagram": "regensburg.adler",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein (allgemein)",
+      "kontakt": "info@sg-regensburg.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Unter „Heimspieltickets 3. Bundesliga“ stehen Einzelticket 10 € und Dauerkarte 120 € für die Sporthalle Königswiesen, aber kein Shop und kein Bestellweg.",
+    "quellen": [
+      "https://sg-regensburg.de/adler/",
+      "https://sg-regensburg.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://sg-regensburg.de/adler/",
+      "https://sg-regensburg.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Website per Adressversuch gefunden. Instagram der Männer: regensburg.adler, Verein: sg.regensburg.handball.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://sg-regensburg.de/adler/",
+      "https://sg-regensburg.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://sg-regensburg.de/adler/"
+        ],
+        "instagram": [
+          "https://sg-regensburg.de/adler/"
+        ],
+        "ansprechperson": [
+          "https://sg-regensburg.de/adler/",
+          "https://sg-regensburg.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass auf eurer Adler-Seite Einzelticket und Dauerkarte für die Sporthalle Königswiesen stehen, aber kein Weg, sie vorab zu kaufen. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Dauerkarte inklusive, für euch kostenlos. Passt ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Verein über info@sg-regensburg.de, nach der Person fragen, die die Heimspiele der Adler organisiert.\n- Einstieg: Einzelticket 10 €, Dauerkarte 120 €, kein Shop und kein Bestellweg auf der Seite.\n- Frage: Wie verkauft ihr die Dauerkarten gerade, und was nervt daran?\n- Angebot: Dauerkarte und nächstes Heimspiel kostenlos einrichten, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

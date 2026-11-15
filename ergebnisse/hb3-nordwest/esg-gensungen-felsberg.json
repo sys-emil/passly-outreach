@@ -1,0 +1,67 @@
+{
+  "verein": {
+    "name": "ESG Gensungen/Felsberg",
+    "land": null,
+    "liga": "hb3-nordwest",
+    "liga_name": "3. Liga Männer Handball Nord-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://esg-gensungen-felsberg.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 13,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "gensungerjungs",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Tickets",
+      "kontakt": "tickets@esg-gensungen-felsberg.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tickets gibt es im Eventim-Light-Shop (Sitzplatz im Vorverkauf 14,45 €) oder an der Abendkasse (13 €); Dauerkarte 180 € Sitz, 150 € Steh.",
+    "quellen": [
+      "https://esg-gensungen-felsberg.de/fans/tickets/",
+      "https://esg-gensungen-felsberg.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://esg-gensungen-felsberg.de/fans/tickets/",
+      "https://esg-gensungen-felsberg.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Website per Adressversuch gefunden. Ticketseite trägt noch die Überschrift 2. Handball Bundesliga.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://esg-gensungen-felsberg.de/fans/tickets/",
+      "https://esg-gensungen-felsberg.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://esg-gensungen-felsberg.de/fans/tickets/"
+        ],
+        "anbieter": [
+          "https://esg-gensungen-felsberg.de/fans/tickets/"
+        ],
+        "instagram": [
+          "https://esg-gensungen-felsberg.de/fans/tickets/",
+          "https://esg-gensungen-felsberg.de/"
+        ],
+        "ansprechperson": [
+          "https://esg-gensungen-felsberg.de/fans/tickets/"
+        ]
+      }
+    }
+  }
+}

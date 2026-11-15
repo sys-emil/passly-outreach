@@ -1,0 +1,50 @@
+{
+  "verein": {
+    "name": "Wölfe Würzburg",
+    "land": null,
+    "liga": "hb3-sued",
+    "liga_name": "3. Liga Männer Handball Süd",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://djk-rimpar.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "tectake Arena, Würzburg",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Heimspiele der Wölfe in der tectake Arena stehen im Reservix-Portal mvp.de zum Verkauf, etwa gegen die HSG Konstanz am 13.12.",
+    "quellen": [
+      "https://www.mvp.de/wuerzburg/veranstaltungen/woelfe-wuerzburg-vs-hsg-konstanz/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.mvp.de/wuerzburg/veranstaltungen/woelfe-wuerzburg-vs-hsg-konstanz/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Wikidata-Website djk-rimpar.de (Stammverein) hat keine Ticketinfos; eigene Wölfe-Seite nicht gefunden.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.mvp.de/wuerzburg/veranstaltungen/woelfe-wuerzburg-vs-hsg-konstanz/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.mvp.de/wuerzburg/veranstaltungen/woelfe-wuerzburg-vs-hsg-konstanz/"
+        ]
+      }
+    }
+  }
+}

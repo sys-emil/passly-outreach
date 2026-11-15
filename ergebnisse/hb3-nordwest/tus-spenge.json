@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "TuS Spenge",
+    "land": null,
+    "liga": "hb3-nordwest",
+    "liga_name": "3. Liga Männer Handball Nord-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.tus-spenge.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 16,
+    "halle": "Sporthalle der Realschule Spenge",
+    "kapazitaet": null,
+    "instagram": "tusspengehandball",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seite „Eintrittspreise 3. Liga“ nennt 16 € für Erwachsene mit Topzuschlag gegen Bielefeld und Loxten, aber keinen Vorverkauf; zuletzt 650 Zuschauer im „schönsten Schuhkarton der Welt“.",
+    "quellen": [
+      "https://www.tus-spenge.de/preise",
+      "https://www.tus-spenge.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.tus-spenge.de/preise",
+      "https://www.tus-spenge.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Tabellenführer bis zur ersten Niederlage am 14.11. Kein Mailkontakt auf der Startseite gefunden.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tus-spenge.de/preise",
+      "https://www.tus-spenge.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.tus-spenge.de/preise"
+        ],
+        "instagram": [
+          "https://www.tus-spenge.de/preise",
+          "https://www.tus-spenge.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab eure Eintrittspreise für die 3. Liga gesehen, mit Topzuschlag gegen Bielefeld und Loxten, aber keinen Vorverkauf gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Topspiele können ihren eigenen Preis haben. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Verein über die Kontaktinfos auf tus-spenge.de, nach der Person fragen, die die Heimspiele organisiert.\n- Einstieg: Erwachsene 16 € mit Topzuschlag gegen Bielefeld und Loxten, kein Vorverkauf auf der Seite, zuletzt 650 Zuschauer.\n- Frage: Wie läuft es an der Kasse bei einem Topspiel, und was nervt daran?\n- Angebot: Nächstes Topspiel kostenlos als Testlauf einrichten, Abendkasse im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

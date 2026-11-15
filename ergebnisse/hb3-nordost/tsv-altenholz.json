@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "TSV Altenholz",
+    "ort": "Altenholz",
+    "land": "SH",
+    "liga": "hb3-nordost",
+    "liga_name": "3. Liga Männer Handball Nord-Ost",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "http://www.tsv-altenholz.de/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "tsv-altenholz.de verweigert den Abruf (Zertifikatsfehler, dann HTTP 403); die Ticketfrage ist offen.",
+    "quellen": [],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Halle laut Spielberichten Edgar-Meschkat-Halle, rund 270 Zuschauer (Suchtreffer). Anruf.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {}
+    }
+  }
+}

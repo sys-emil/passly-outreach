@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "HG Hamburg-Barmbek",
+    "ort": "Barmbek-Nord",
+    "land": "HH",
+    "liga": "hb3-nordost",
+    "liga_name": "3. Liga Männer Handball Nord-Ost",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "http://www.handball-barmbek.org/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim Light (eingebunden auf https://www.handball-barmbek.org/tickets/: https://www.handball-barmbek.org/tickets/).",
+    "quellen": [
+      "https://www.handball-barmbek.org/tickets/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.handball-barmbek.org/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „HG Hamburg-Barmbek“. Gelesen: https://www.handball-barmbek.org/, https://www.handball-barmbek.org/tickets/, https://www.handball-barmbek.org/herren/erste-herren/barmbek-will-sich-gegen-400-zuschauer-behaupten-hghb-team-tritt-freitag-mit-vollem-kader-bei-der-hsg-eider-harde-an/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.handball-barmbek.org/tickets/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.handball-barmbek.org/tickets/"
+        ]
+      }
+    }
+  }
+}

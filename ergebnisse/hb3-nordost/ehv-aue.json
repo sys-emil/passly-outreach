@@ -1,0 +1,69 @@
+{
+  "verein": {
+    "name": "EHV Aue",
+    "land": null,
+    "liga": "hb3-nordost",
+    "liga_name": "3. Liga Männer Handball Nord-Ost",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://ehv-aue.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Etix",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 18,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "ehv.aue",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein (allgemein)",
+      "kontakt": "kontakt@ehv-aue.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tickets gibt es online über Etix (10 % Vorverkaufsgebühr) und an der Tageskasse (2 € Gebühr pro Ticket); Einzelticket Haupttribüne 18 €, dazu Seitentribüne und Stehplätze.",
+    "quellen": [
+      "https://ehv-aue.de/tickets",
+      "https://ehv-aue.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://ehv-aue.de/tickets",
+      "https://ehv-aue.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Shoplink etix.com/ticket/v/16823?cobrand=ehv-aue. Gebühr trägt der Gast, an beiden Kanälen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://ehv-aue.de/tickets",
+      "https://ehv-aue.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://ehv-aue.de/tickets"
+        ],
+        "anbieter": [
+          "https://ehv-aue.de/tickets",
+          "https://ehv-aue.de/"
+        ],
+        "instagram": [
+          "https://ehv-aue.de/tickets",
+          "https://ehv-aue.de/"
+        ],
+        "ansprechperson": [
+          "https://ehv-aue.de/tickets",
+          "https://ehv-aue.de/"
+        ]
+      }
+    }
+  }
+}

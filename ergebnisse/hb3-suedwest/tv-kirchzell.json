@@ -1,0 +1,59 @@
+{
+  "verein": {
+    "name": "TV Kirchzell",
+    "land": null,
+    "liga": "hb3-suedwest",
+    "liga_name": "3. Liga Männer Handball Süd-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.tv-kirchzell.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Webshop",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 11,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tvk_odenwaldexpress",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Digitale Tickets (11 €), 5er-Karten und Dauerkarten verkauft der TV Kirchzell im eigenen Shop auf der Vereinsseite; die Dauerkarte enthält keine Platzreservierung mehr.",
+    "quellen": [
+      "https://www.tv-kirchzell.de/?page_id=10762",
+      "https://www.tv-kirchzell.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.tv-kirchzell.de/?page_id=10762",
+      "https://www.tv-kirchzell.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Preistabelle trägt noch 2025/26 im Titel.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tv-kirchzell.de/?page_id=10762",
+      "https://www.tv-kirchzell.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.tv-kirchzell.de/?page_id=10762",
+          "https://www.tv-kirchzell.de/"
+        ],
+        "instagram": [
+          "https://www.tv-kirchzell.de/?page_id=10762",
+          "https://www.tv-kirchzell.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

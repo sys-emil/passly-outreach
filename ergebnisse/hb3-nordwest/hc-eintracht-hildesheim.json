@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "HC Eintracht Hildesheim",
+    "land": null,
+    "liga": "hb3-nordwest",
+    "liga_name": "3. Liga Männer Handball Nord-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://hceintracht-hildesheim.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Sparkassen-Arena Hildesheim",
+    "kapazitaet": null,
+    "instagram": "hceintrachthildesheim",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tages-, Jahres- und VIP-Tickets für die Sparkassen-Arena bucht man über einen eingebundenen Shop von VBO Tickets.",
+    "quellen": [
+      "https://hceintracht-hildesheim.de/tickets/",
+      "https://hceintracht-hildesheim.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://hceintracht-hildesheim.de/tickets/",
+      "https://hceintracht-hildesheim.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Wikidata-Adresse eintracht-handball.de ist eine reservierte Domain.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://hceintracht-hildesheim.de/tickets/",
+      "https://hceintracht-hildesheim.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://hceintracht-hildesheim.de/tickets/",
+          "https://hceintracht-hildesheim.de/"
+        ],
+        "instagram": [
+          "https://hceintracht-hildesheim.de/tickets/",
+          "https://hceintracht-hildesheim.de/"
+        ]
+      }
+    }
+  }
+}

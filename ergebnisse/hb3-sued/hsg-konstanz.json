@@ -1,0 +1,63 @@
+{
+  "verein": {
+    "name": "HSG Konstanz",
+    "land": null,
+    "liga": "hb3-sued",
+    "liga_name": "3. Liga Männer Handball Süd",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://hsgkonstanz.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "vivenu",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 16.5,
+    "halle": "Schänzle-Sporthalle, Konstanz",
+    "kapazitaet": null,
+    "instagram": "hsgkonstanz",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tickets mit Platzwahl im Hallenplan gibt es im Shop shop.hsgkonstanz.de (vivenu), Sitzplatz 16,50 € online, 18 € an der Tageskasse; 1.100 Zuschauer gegen Würzburg.",
+    "quellen": [
+      "https://hsgkonstanz.de/shop-tickets/",
+      "https://hsgkonstanz.de/",
+      "https://shop.hsgkonstanz.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://hsgkonstanz.de/shop-tickets/",
+      "https://hsgkonstanz.de/",
+      "https://shop.hsgkonstanz.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Gut aufgestellt, mit Ticket-Hotline und Vorverkaufsstellen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://hsgkonstanz.de/shop-tickets/",
+      "https://hsgkonstanz.de/",
+      "https://shop.hsgkonstanz.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://hsgkonstanz.de/shop-tickets/"
+        ],
+        "instagram": [
+          "https://hsgkonstanz.de/shop-tickets/",
+          "https://hsgkonstanz.de/"
+        ],
+        "anbieter": [
+          "https://shop.hsgkonstanz.de/"
+        ]
+      }
+    }
+  }
+}

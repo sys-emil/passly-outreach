@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "TuS Vinnhorst",
+    "land": null,
+    "liga": "hb3-nordwest",
+    "liga_name": "3. Liga Männer Handball Nord-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://tusvinnhorst.com/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tusvinnhorsthandball",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Ticketseite der TuS Vinnhorst Handball GmbH bettet einen Eventim-Light-Shop ein.",
+    "quellen": [
+      "https://tusvinnhorst.com/tickets/",
+      "https://tusvinnhorst.com/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://tusvinnhorst.com/tickets/",
+      "https://tusvinnhorst.com/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Handball unter tusvinnhorst.com, nicht tusvinnhorst.de.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://tusvinnhorst.com/tickets/",
+      "https://tusvinnhorst.com/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://tusvinnhorst.com/tickets/",
+          "https://tusvinnhorst.com/"
+        ],
+        "instagram": [
+          "https://tusvinnhorst.com/tickets/",
+          "https://tusvinnhorst.com/"
+        ]
+      }
+    }
+  }
+}

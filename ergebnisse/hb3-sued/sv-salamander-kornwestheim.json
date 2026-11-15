@@ -1,0 +1,57 @@
+{
+  "verein": {
+    "name": "SV Salamander Kornwestheim",
+    "land": null,
+    "liga": "hb3-sued",
+    "liga_name": "3. Liga Männer Handball Süd",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://handball.sv-kornwestheim.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ditix",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 13,
+    "halle": "Sporthalle Ost, Kornwestheim",
+    "kapazitaet": null,
+    "instagram": "sv.kornwestheim",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Online-Tickets (ditix) gehen eine Woche vor dem Spiel in den Vorverkauf, Sitzplatz 13 €, dazu Abendkasse.",
+    "quellen": [
+      "https://handball.sv-kornwestheim.de/neues/ticket-online-verkauf",
+      "https://handball.sv-kornwestheim.de/eintrittspreise-dauerkarten"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://handball.sv-kornwestheim.de/neues/ticket-online-verkauf",
+      "https://handball.sv-kornwestheim.de/eintrittspreise-dauerkarten"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Handball unter handball.sv-kornwestheim.de.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://handball.sv-kornwestheim.de/neues/ticket-online-verkauf",
+      "https://handball.sv-kornwestheim.de/eintrittspreise-dauerkarten"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://handball.sv-kornwestheim.de/neues/ticket-online-verkauf"
+        ],
+        "ticketpreis_eur": [
+          "https://handball.sv-kornwestheim.de/eintrittspreise-dauerkarten"
+        ],
+        "instagram": []
+      }
+    }
+  }
+}

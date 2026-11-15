@@ -1,0 +1,61 @@
+{
+  "verein": {
+    "name": "Bergische Panther",
+    "land": null,
+    "liga": "hb3-suedwest",
+    "liga_name": "3. Liga Männer Handball Süd-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://bergische-panther.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": 12,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim Light (eingebunden auf https://bergische-panther.de/: https://bergische-panther.de/).",
+    "quellen": [
+      "https://bergische-panther.de/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "https://bergische-panther.de/tickets"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://bergische-panther.de/",
+      "https://bergische-panther.de/tickets"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Bergische Panther“. Gelesen: https://bergische-panther.de/, https://bergische-panther.de/tickets.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://bergische-panther.de/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27",
+      "https://bergische-panther.de/tickets"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://bergische-panther.de/",
+          "https://bergische-panther.de/tickets"
+        ],
+        "ticketpreis_eur": [
+          "https://bergische-panther.de/tickets"
+        ]
+      }
+    }
+  }
+}

@@ -56,6 +56,14 @@ const ANBIETER = [
   [/murphies\.de/, 'murphies'],
   // Im Handball verbreitet (HBL-Klubs).
   [/ticketpay\.(de|net)/, 'ticketpay'],
+  // Gefunden in der Handball-3.-Liga 2026-11-15.
+  [/etix\.com/, 'Etix'],
+  [/diginights\.com/, 'diginights'],
+  [/tickets\.snec\.de/, 'snec'],
+  [/comfortticket\.de/, 'ComfortTicket'],
+  [/nono-events\.de/, 'nono events'],
+  [/pass-consulting\.com/, 'PassShop (pass consulting)'],
+  [/solingen-live\.de/, 'solingen-live.de'],
   [/getpassly\.de/, 'Passly'],
 ];
 
@@ -417,7 +425,9 @@ for (const t of teams) {
 
 for (const t of teams) {
   t.vorschlag = vorschlag(t);
-  t.braucht_modell = t.typ === 'verein' && ['keiner', 'manuell', 'keine_angabe', 'unbekannt'].includes(t.vorschlag);
+  // „Eintritt frei“ geht immer ans Modell: Der Satz stand in der Handball-3.-Liga zweimal woanders
+  // (Leistung der Dauerkarte bei Rodgau, Vereinsfest bei Erlangen-Bruck; 2026-11-15).
+  t.braucht_modell = t.typ === 'verein' && ['keiner', 'manuell', 'keine_angabe', 'unbekannt', 'eintritt_frei'].includes(t.vorschlag);
 }
 
 await fs.mkdir(path.join(HERE, 'vorlauf'), { recursive: true });
@@ -609,7 +619,8 @@ async function holen(url) {
     const res = await fetch(url, {
       redirect: 'follow',
       signal: AbortSignal.timeout(20000),
-      headers: { 'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128 Safari/537.36', 'accept-language': 'de-DE,de;q=0.9' },
+      // Wikimedia drosselt Browser-Kennungen von Skripten (429) und verlangt eine eigene.
+      headers: { 'user-agent': /wiki(pedia|data)\.org\//.test(url) ? 'passly-outreach/1.0 (Vereinsrecherche; Skript)' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128 Safari/537.36', 'accept-language': 'de-DE,de;q=0.9' },
     });
     if (!res.ok) return { ok: false, grund: `HTTP ${res.status}` };
     const roh = await res.text();

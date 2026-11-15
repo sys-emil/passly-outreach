@@ -1,0 +1,63 @@
+{
+  "verein": {
+    "name": "Saase³Leutershausen Handball",
+    "land": null,
+    "liga": "hb3-suedwest",
+    "liga_name": "3. Liga Männer Handball Süd-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://s3l-handball.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Online-Shop (Anbieter nicht erkennbar)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Heinrich-Beck-Halle, Hirschberg-Leutershausen",
+    "kapazitaet": null,
+    "instagram": "s3l_handball",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Geschäftsstelle",
+      "kontakt": "office_leu@s3l-handball.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "S3L verkauft online im Vorverkauf und an der Abendkasse (öffnet 60 Minuten vorher); Dauerkarten (200 €) holt man in der Halle oder der Geschäftsstelle ab.",
+    "quellen": [
+      "https://s3l-handball.de/abendkasse/",
+      "https://s3l-handball.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://s3l-handball.de/abendkasse/",
+      "https://s3l-handball.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Link „Online-Ticketing öffnen“ per Skript. Spielbetriebs-GmbH.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://s3l-handball.de/abendkasse/",
+      "https://s3l-handball.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://s3l-handball.de/abendkasse/",
+          "https://s3l-handball.de/"
+        ],
+        "ansprechperson": [
+          "https://s3l-handball.de/abendkasse/",
+          "https://s3l-handball.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

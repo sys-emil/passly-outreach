@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "TV Gelnhausen",
+    "land": null,
+    "liga": "hb3-suedwest",
+    "liga_name": "3. Liga Männer Handball Süd-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "http://www.tvgelnhausen-handball.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "vivenu",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über vivenu (eingebunden auf https://www.tvgelnhausen-handball.de/: https://www.tvgelnhausen-handball.de/).",
+    "quellen": [
+      "https://www.tvgelnhausen-handball.de/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://www.tvgelnhausen-handball.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „TV Gelnhausen“. Gelesen: https://www.tvgelnhausen-handball.de/, https://www.tvgelnhausen-handball.de/spieltagsheft/, https://www.tvgelnhausen-handball.de/eintrittspreise/, https://www.tvgelnhausen-handball.de/rueckrunden-dauerkarten-ab-sofort-erhaeltlich/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tvgelnhausen-handball.de/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.tvgelnhausen-handball.de/"
+        ]
+      }
+    }
+  }
+}

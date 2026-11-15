@@ -1,0 +1,71 @@
+{
+  "verein": {
+    "name": "HSG Hanau",
+    "land": null,
+    "liga": "hb3-suedwest",
+    "liga_name": "3. Liga Männer Handball Süd-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.hsghanau.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Online-Shop (Anbieter nicht erkennbar)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 15,
+    "halle": "Main-Kinzig-Halle, Hanau",
+    "kapazitaet": null,
+    "instagram": "hsghanau",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Vorstand",
+      "kontakt": "vorstand@hsghanau.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Der Verein hat einen eigenen Ticket-Shop für Einzel- und Dauerkarten (Tageskarte 15 € inkl. Systemgebühren, Dauerkarte 180 €); zuletzt 307 Zuschauer gegen Köln.",
+    "quellen": [
+      "https://www.hsghanau.de/tickets/index.php",
+      "https://www.hsghanau.de/eintritt/index.php",
+      "https://www.hsghanau.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.hsghanau.de/tickets/index.php",
+      "https://www.hsghanau.de/eintritt/index.php",
+      "https://www.hsghanau.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Shop lädt per JavaScript.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hsghanau.de/tickets/index.php",
+      "https://www.hsghanau.de/eintritt/index.php",
+      "https://www.hsghanau.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "instagram": [
+          "https://www.hsghanau.de/tickets/index.php",
+          "https://www.hsghanau.de/eintritt/index.php",
+          "https://www.hsghanau.de/"
+        ],
+        "ansprechperson": [
+          "https://www.hsghanau.de/tickets/index.php",
+          "https://www.hsghanau.de/eintritt/index.php",
+          "https://www.hsghanau.de/"
+        ],
+        "ticketpreis_eur": [
+          "https://www.hsghanau.de/eintritt/index.php"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

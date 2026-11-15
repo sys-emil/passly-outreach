@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "MTV Großenheidorn",
+    "land": null,
+    "liga": "hb3-nordwest",
+    "liga_name": "3. Liga Männer Handball Nord-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.meer-handball.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ditix",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Auehalle Wunstorf",
+    "kapazitaet": null,
+    "instagram": "mtv_herren1",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Einzel- und Dauerkarten verkauft der MTV über ditix (tickets-mtv.ditix.shop); die Dauerkarte ist nur per PayPal zahlbar, sonst per Mail an die Geschäftsstelle.",
+    "quellen": [
+      "https://www.meer-handball.de/ticketshop/",
+      "https://www.meer-handball.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.meer-handball.de/ticketshop/",
+      "https://www.meer-handball.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Nächstes Heimspiel 21.11.2026, 19 Uhr, Auehalle Wunstorf.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.meer-handball.de/ticketshop/",
+      "https://www.meer-handball.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.meer-handball.de/ticketshop/",
+          "https://www.meer-handball.de/"
+        ],
+        "instagram": [
+          "https://www.meer-handball.de/ticketshop/",
+          "https://www.meer-handball.de/"
+        ]
+      }
+    }
+  }
+}

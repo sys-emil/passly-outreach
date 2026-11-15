@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "SV 04 Plauen-Oberlosa",
+    "land": null,
+    "liga": "hb3-nordost",
+    "liga_name": "3. Liga Männer Handball Nord-Ost",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.sv04oberlosa.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventfrog",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "sv04oberlosa",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein (allgemein)",
+      "kontakt": "info@sv04oberlosa.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Für jedes Heimspiel erscheint ein Beitrag „Onlinetickets gegen …“, der einen Eventfrog-Shop einbettet, zuletzt gegen die Füchse Berlin II.",
+    "quellen": [
+      "https://www.sv04oberlosa.de/2026/11/15/onlinetickets-gegen-fuechse-berlin-ii/",
+      "https://www.sv04oberlosa.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.sv04oberlosa.de/2026/11/15/onlinetickets-gegen-fuechse-berlin-ii/",
+      "https://www.sv04oberlosa.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laut Suchtreffer Saisonticket 25/26 für 140 € ebenfalls über Eventfrog. Neue Halle seit dieser Saison (Freie Presse, Suchtreffer).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.sv04oberlosa.de/2026/11/15/onlinetickets-gegen-fuechse-berlin-ii/",
+      "https://www.sv04oberlosa.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.sv04oberlosa.de/2026/11/15/onlinetickets-gegen-fuechse-berlin-ii/"
+        ],
+        "instagram": [
+          "https://www.sv04oberlosa.de/2026/11/15/onlinetickets-gegen-fuechse-berlin-ii/",
+          "https://www.sv04oberlosa.de/"
+        ],
+        "ansprechperson": [
+          "https://www.sv04oberlosa.de/2026/11/15/onlinetickets-gegen-fuechse-berlin-ii/",
+          "https://www.sv04oberlosa.de/"
+        ]
+      }
+    }
+  }
+}

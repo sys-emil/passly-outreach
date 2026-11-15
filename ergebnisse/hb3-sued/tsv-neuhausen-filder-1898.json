@@ -1,0 +1,61 @@
+{
+  "verein": {
+    "name": "TSV Neuhausen/Filder 1898",
+    "land": null,
+    "liga": "hb3-sued",
+    "liga_name": "3. Liga Männer Handball Süd",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.tsv-n.de",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 13,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Handball (Gästetickets)",
+      "kontakt": "info@tsvneuhausen-handball.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tickets für die Heimspiele der MadDogs gibt es laut Ticketseite „aktuell ausschließlich an der Tageskasse“ (13 €, ermäßigt 8 €); Gästefans reservieren gesammelt per E-Mail, Kombitickets mit den Vorspielen nur an der Kasse.",
+    "quellen": [
+      "https://tsv-n.de/abteilung/ticketshop"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://tsv-n.de/abteilung/ticketshop"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Seite heißt „ticketshop“, verkauft aber nichts online; das eingebettete Yolawo-Widget gehört zum Streaming. Starker Kandidat.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://tsv-n.de/abteilung/ticketshop"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://tsv-n.de/abteilung/ticketshop"
+        ],
+        "ansprechperson": [
+          "https://tsv-n.de/abteilung/ticketshop"
+        ],
+        "vorverkauf": [
+          "https://tsv-n.de/abteilung/ticketshop"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab auf eurer Ticketseite gelesen, dass es Tickets für die MadDogs aktuell nur an der Tageskasse gibt und Gästefans per Mail reservieren. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Gästeblock und Kombiticket lassen sich als eigene Kontingente anlegen. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Handballabteilung, info@tsvneuhausen-handball.de.\n- Einstieg: Tickets für die 3. Liga aktuell nur an der Tageskasse (13 €, ermäßigt 8 €), Gästeblock mit rund 60 Plätzen per Mail-Reservierung, Kombitickets mit den Vorspielen nur an der Kasse.\n- Frage: Wie viel Arbeit machen die Gäste-Reservierungen und die Kombitickets an einem Spieltag?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Gästeblock als eigenes Kontingent, Tageskasse im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

@@ -1,0 +1,59 @@
+# Auftrag: Saase³Leutershausen Handball (3. Liga Männer Handball Süd-West)
+
+Regeln: anleitung/recherche.md. Datei schreiben nach ergebnisse/hb3-suedwest/saase-leutershausen-handball.json.
+Höchstens vier WebFetch-Abrufe, keine Websuche nach der Website (außer die Homepage fehlt unten). Nur mit WebFetch gelesene
+Seiten in ergebnis.quellen und meta.quellen_belegt (gleiche Liste); meta.schritte = deine Abrufe.
+Vorausgefüllte Felder stammen aus dem Vorlauf: behalten, wenn du sie bestätigst, sonst
+korrigieren; „TODO" ersetzen. vorverkauf ist der Vorschlag des Vorlaufs, prüfe ihn.
+
+## Startpunkte
+- Homepage: https://s3l-handball.com/
+- Ticketlink (Wikipedia): keiner
+- Schon gelesen: https://s3l-handball.de/
+- Wikipedia-Seite des Teams: https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27
+- Kontakte laut Wikipedia: keine
+- E-Mails auf der Vereinsseite: office_leu@s3l-handball.de
+- Instagram auf der Vereinsseite: s3l_handball
+- Preise gefunden: keine
+
+## Funde (Fundstelle, Seite)
+- abendkasse: „b Gesamtspielplan Live-Stream Herren1 Hallen Tickets Online-Ticketing Abendkasse & Dauerkarte 2026/27 Sponsoring Sponsoren & Partner Kontakt Partner d“ (https://s3l-handball.de/)
+- dauerkarte: „plan Live-Stream Herren1 Hallen Tickets Online-Ticketing Abendkasse & Dauerkarte 2026/27 Sponsoring Sponsoren & Partner Kontakt Partner der Jugend Web“ (https://s3l-handball.de/)
+
+## Ergebnis (vorausgefüllt)
+```json
+{
+  "verein": {
+    "name": "Saase³Leutershausen Handball",
+    "land": null,
+    "liga": "hb3-suedwest",
+    "liga_name": "3. Liga Männer Handball Süd-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://s3l-handball.com/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "s3l_handball",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "TODO",
+    "quellen": [],
+    "sicherheit": "TODO"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, mit Vorlauf)",
+    "schritte": 0,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "TODO",
+    "kosten_usd": 0
+  }
+}
+```

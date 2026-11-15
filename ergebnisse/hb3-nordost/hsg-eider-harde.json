@@ -1,0 +1,50 @@
+{
+  "verein": {
+    "name": "HSG Eider Harde",
+    "land": null,
+    "liga": "hb3-nordost",
+    "liga_name": "3. Liga Männer Handball Nord-Ost",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.hsg-eider-harde.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "diginights",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Werner-Kuhrt-Halle, Hohn",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Zum Derby gegen den DHK Flensborg am Freitag, 13.11., schreibt der Verein, Tickets gebe es unter www.diginights.com und an der Abendkasse.",
+    "quellen": [
+      "https://www.hsg-eider-harde.de/2026/1-maenner/freitag-der-13-und-der-dhk-kommt-alle-in-die-halle/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.hsg-eider-harde.de/2026/1-maenner/freitag-der-13-und-der-dhk-kommt-alle-in-die-halle/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Website per Adressversuch gefunden (Wikipedia/Wikidata ohne). Laut Spielberichten (Suchtreffer) 350 bis 450 Zuschauer.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hsg-eider-harde.de/2026/1-maenner/freitag-der-13-und-der-dhk-kommt-alle-in-die-halle/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://www.hsg-eider-harde.de/2026/1-maenner/freitag-der-13-und-der-dhk-kommt-alle-in-die-halle/"
+        ]
+      }
+    }
+  }
+}

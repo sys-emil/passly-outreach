@@ -1,0 +1,69 @@
+{
+  "verein": {
+    "name": "TSB Heilbronn-Horkheim",
+    "land": null,
+    "liga": "hb3-sued",
+    "liga_name": "3. Liga Männer Handball Süd",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://tsb-horkheim-hunters.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "nono events",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 15,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tsbhorkheim",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Geschäftsstelle (Dauerkarten, VIP)",
+      "kontakt": "geschaeftsstelle@tsb-horkheim.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Einzeltickets (Sitzplatz 15 €) laden auf der Ticketseite über nono events; Dauerkarten und VIP-Tickets bucht man über die Geschäftsstelle per Formular, ermäßigte Tickets nur an der Abendkasse.",
+    "quellen": [
+      "https://tsb-horkheim-hunters.de/tickets",
+      "https://tsb-horkheim-hunters.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://tsb-horkheim-hunters.de/tickets",
+      "https://tsb-horkheim-hunters.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Anbieter aus dem Skript app.nono-events.de auf der Ticketseite; Shop lädt per JavaScript.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://tsb-horkheim-hunters.de/tickets",
+      "https://tsb-horkheim-hunters.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://tsb-horkheim-hunters.de/tickets"
+        ],
+        "anbieter": [
+          "https://tsb-horkheim-hunters.de/tickets",
+          "https://tsb-horkheim-hunters.de/"
+        ],
+        "instagram": [
+          "https://tsb-horkheim-hunters.de/tickets",
+          "https://tsb-horkheim-hunters.de/"
+        ],
+        "ansprechperson": [
+          "https://tsb-horkheim-hunters.de/tickets",
+          "https://tsb-horkheim-hunters.de/"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "verein": {
+    "name": "Sportfreunde Loxten",
+    "land": null,
+    "liga": "hb3-nordwest",
+    "liga_name": "3. Liga Männer Handball Nord-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "http://www.sportfreunde-loxten.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Startseite der Sportfreunde Loxten nennt weder Eintrittspreise noch einen Ticketweg.",
+    "quellen": [
+      "https://www.sportfreunde-loxten.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Elementor-Seite mit wenig Inhalt; TuS Spenge nennt Loxten als Topspiel mit Zuschlag.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.sportfreunde-loxten.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.sportfreunde-loxten.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "verein": {
+    "name": "HSG Albstadt",
+    "land": null,
+    "liga": "hb3-sued",
+    "liga_name": "3. Liga Männer Handball Süd",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.hsg-albstadt.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Startseite der HSG Albstadt nennt weder Eintrittspreise noch einen Ticketweg für die 3. Liga.",
+    "quellen": [
+      "https://www.hsg-albstadt.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Seite besteht vor allem aus eingebetteten Instagram-Beiträgen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hsg-albstadt.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.hsg-albstadt.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

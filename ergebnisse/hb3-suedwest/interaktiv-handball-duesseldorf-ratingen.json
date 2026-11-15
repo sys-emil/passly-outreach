@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "Interaktiv.Handball Düsseldorf-Ratingen",
+    "land": null,
+    "liga": "hb3-suedwest",
+    "liga_name": "3. Liga Männer Handball Süd-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://interaktiv-handball.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Webshop",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 10,
+    "halle": "Sporthalle Gothaer Straße, Ratingen",
+    "kapazitaet": null,
+    "instagram": "interaktiv.handball",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tickets (10 €, ermäßigt 7,50 €, freie Platzwahl) und Dauerkarten verkauft der Verein im eigenen Webshop neben Trikots und Camps; Ermäßigung wird an der Halle geprüft.",
+    "quellen": [
+      "https://interaktiv-handball.de/ticketshop/",
+      "https://interaktiv-handball.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://interaktiv-handball.de/ticketshop/",
+      "https://interaktiv-handball.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Shop ist ein Produktkatalog (WooCommerce-Aufbau), Tickets als Produkte.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://interaktiv-handball.de/ticketshop/",
+      "https://interaktiv-handball.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://interaktiv-handball.de/ticketshop/"
+        ],
+        "instagram": [
+          "https://interaktiv-handball.de/ticketshop/",
+          "https://interaktiv-handball.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

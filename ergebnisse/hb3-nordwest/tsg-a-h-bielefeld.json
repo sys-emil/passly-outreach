@@ -1,0 +1,69 @@
+{
+  "verein": {
+    "name": "TSG A-H Bielefeld",
+    "land": null,
+    "liga": "hb3-nordwest",
+    "liga_name": "3. Liga Männer Handball Nord-West",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.tsg-ah.de/index.php",
+    "vorverkauf": "anbieter",
+    "anbieter": "snec",
+    "eintritt_frei": false,
+    "ticketpreis_eur": 15,
+    "halle": "Seidensticker Halle, Bielefeld",
+    "kapazitaet": null,
+    "instagram": "tsgahbielefeld",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein (allgemein)",
+      "kontakt": "info@tsg-ah.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Einzelkarten 15 € (Dauerkarte 195 €); unter „Tickets und Shop“ verlinkt die TSG zwei Shops bei snec (tickets.snec.de).",
+    "quellen": [
+      "https://www.tsg-ah.de/index.php?content=hallen&show=preise",
+      "https://www.tsg-ah.de/index.php"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.tsg-ah.de/index.php?content=hallen&show=preise",
+      "https://www.tsg-ah.de/index.php"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "757 Zuschauer auswärts in Varel laut Spielbericht.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tsg-ah.de/index.php?content=hallen&show=preise",
+      "https://www.tsg-ah.de/index.php"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.tsg-ah.de/index.php?content=hallen&show=preise"
+        ],
+        "anbieter": [
+          "https://www.tsg-ah.de/index.php?content=hallen&show=preise",
+          "https://www.tsg-ah.de/index.php"
+        ],
+        "instagram": [
+          "https://www.tsg-ah.de/index.php?content=hallen&show=preise",
+          "https://www.tsg-ah.de/index.php"
+        ],
+        "ansprechperson": [
+          "https://www.tsg-ah.de/index.php?content=hallen&show=preise",
+          "https://www.tsg-ah.de/index.php"
+        ]
+      }
+    }
+  }
+}

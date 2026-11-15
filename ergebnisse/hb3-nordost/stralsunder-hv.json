@@ -1,0 +1,57 @@
+{
+  "verein": {
+    "name": "Stralsunder HV",
+    "land": null,
+    "liga": "hb3-nordost",
+    "liga_name": "3. Liga Männer Handball Nord-Ost",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://stralsunder-hv.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventfrog",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "stralsunder_hv_verein",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventfrog (eingebunden auf https://stralsunder-hv.de/: https://stralsunder-hv.de/).",
+    "quellen": [
+      "https://stralsunder-hv.de/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://stralsunder-hv.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Stralsunder HV“. Gelesen: https://stralsunder-hv.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://stralsunder-hv.de/",
+      "https://de.wikipedia.org/wiki/3._Liga_M%C3%A4nner_(Handball)_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-15",
+      "fakten": {
+        "anbieter": [
+          "https://stralsunder-hv.de/"
+        ],
+        "instagram": [
+          "https://stralsunder-hv.de/"
+        ]
+      }
+    }
+  }
+}
