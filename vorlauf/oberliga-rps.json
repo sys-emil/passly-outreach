@@ -1,0 +1,619 @@
+{
+  "liga": "oberliga-rps",
+  "stand": "2026-11-15",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+  "abrufe": 36,
+  "teams": [
+    {
+      "verband_name": "TSV Schott Mainz",
+      "team_id": "TSV Schott Mainz",
+      "homepage": "http://www.tsvschott.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Schott_Mainz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "55001",
+      "ort_qid": "Q1720",
+      "ort": "Mainz",
+      "verein": "TSV Schott Mainz",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tsvschott.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "tsvschottmainz"
+      ],
+      "emails": [
+        "info@tsvschott.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TuS Mechtersheim",
+      "team_id": "TuS Mechtersheim",
+      "homepage": "http://www.tusmechtersheim.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TuS_Mechtersheim",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "67354",
+      "ort_qid": "Q26269109",
+      "ort": "Mechtersheim",
+      "verein": "TuS Mechtersheim",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tusmechtersheim.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "tusmechtersheim"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FK Pirmasens",
+      "team_id": "FK Pirmasens",
+      "homepage": "https://www.fk-pirmasens.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FK_Pirmasens",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "66953",
+      "ort_qid": "Q14849",
+      "ort": "Pirmasens",
+      "verein": "FK Pirmasens",
+      "land": "SL",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.fk-pirmasens.com/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Gonsenheim",
+      "team_id": "SV Gonsenheim",
+      "homepage": "http://www.sv-gonsenheim.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Gonsenheim",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "55001",
+      "ort_qid": "Q1720",
+      "ort": "Mainz",
+      "verein": "SV Gonsenheim",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sv-gonsenheim.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "1919@sv-gonsenheim.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Wix Events",
+        "beleg": "https://www.sv-gonsenheim.de/",
+        "wie": "Wix-Events-Shop auf https://www.sv-gonsenheim.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC Rot-Weiß Koblenz",
+      "team_id": "FC Rot-Weiß Koblenz",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Rot-Wei%C3%9F_Koblenz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "56001",
+      "ort_qid": "Q3104",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Koblenz",
+      "verein": "FC Rot-Weiß Koblenz",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Rot-Weiss Wittlich",
+      "team_id": "SV Rot-Weiss Wittlich",
+      "homepage": "https://www.svrotweiss-wittlich.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Rot-Weiss_Wittlich",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "54516",
+      "ort_qid": "Q559514",
+      "ort": "Wittlich",
+      "verein": "SV Rot-Weiss Wittlich",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.svrotweiss-wittlich.de/ (ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FV Engers 07",
+      "team_id": "FV Engers 07",
+      "homepage": "http://www.fv-engers07.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FV_Engers_07",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "56564",
+      "ort_qid": "Q3967",
+      "ort": "Neuwied",
+      "verein": "FV Engers 07",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://fv-engers07.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Wormatia Worms",
+      "team_id": "Wormatia Worms",
+      "homepage": "https://www.wormatia.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Wormatia_Worms",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "67547",
+      "ort_qid": "Q3852",
+      "ort": "Worms",
+      "verein": "Wormatia Worms",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.wormatia.de/",
+        "https://www.wormatia.de/oberliga/tabelle/",
+        "https://www.wormatia.de/stadion/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.wormatia.de/stadion/tickets/",
+          "stelle": "hop Suche öffnen Menü Suchen nach: Startseite Stadion Tickets Tickets Vorverkauf Online Tickets Ticket Regional Wormser Vorverkaufsstellen Wormatia-Ge"
+        },
+        "dauerkarte": {
+          "url": "https://www.wormatia.de/stadion/tickets/",
+          "stelle": "esweit auf einen Blick Preise Oberliga Saison 2026/27 Bestellformular Dauerkarte Tageskarte ermäßigt Mitglied Dauerkarte ermäßigt Mitglied Sitzplatz ü"
+        }
+      },
+      "instagram": [
+        "vfrwormatia08",
+        "policy"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Ticket Regional",
+        "beleg": "https://www.wormatia.de/",
+        "wie": "eingebunden auf https://www.wormatia.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "TSV Gau-Odernheim",
+      "team_id": "TSV Gau-Odernheim",
+      "homepage": "https://tsv1881.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Gau-Odernheim",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "55239",
+      "ort_qid": "Q653864",
+      "ort": "Gau-Odernheim",
+      "verein": "TSV Gau-Odernheim",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tsv1881.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://tsv1881.de/",
+          "stelle": "agwörter Rheinhessen Sparkasse , Spende , Tischtennis , WirWunder Der Vorverkauf hat begonnen – Jetzt Dauerkarte sichern! 12. Juli 2026 von Benedikt P"
+        },
+        "dauerkarte": {
+          "url": "https://tsv1881.de/",
+          "stelle": "Spende , Tischtennis , WirWunder Der Vorverkauf hat begonnen – Jetzt Dauerkarte sichern! 12. Juli 2026 von Benedikt Plass-Fleßenkämper Die Vorfreude"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "geschaeftsstelle@tsv1881.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TuS Koblenz",
+      "team_id": "TuS Koblenz",
+      "homepage": "https://www.tuskoblenz.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TuS_Koblenz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "56001",
+      "ort_qid": "Q3104",
+      "ort": "Koblenz",
+      "verein": "TuS Koblenz",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tuskoblenz.de/",
+        "https://tuskoblenz.de/tickets/",
+        "https://tuskoblenz.de/gruppenticket/",
+        "https://tuskoblenz.de/dauerkarten/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://tuskoblenz.de/tickets/",
+          "stelle": "auf inklusive ÖPNV angeboten werden (rechtliche Bestimmungen). An der Tageskasse fällt eine Servicegebühr i.H.v. 1 € an, wodurch sich der Preis gegenü"
+        },
+        "vorverkauf": {
+          "url": "https://tuskoblenz.de/tickets/",
+          "stelle": "gen Vorlage der entsprechenden Ausweise **Tickets können lediglich im Vorverkauf inklusive ÖPNV angeboten werden (rechtliche Bestimmungen). An der Tag"
+        },
+        "dauerkarte": {
+          "url": "https://tuskoblenz.de/tickets/",
+          "stelle": "er Fanshop Kontakt Ansprechpartner FAQ Presse Tickets Tageskarten und Dauerkarten kaufen ZUM ONLINESHOP ANFRAGE GRUPPENTICKET DAUERKARTEN JETZT TICKET"
+        }
+      },
+      "instagram": [
+        "tuskoblenz"
+      ],
+      "emails": [
+        "post@tuskoblenz.de",
+        "paypal@tuskoblenz.de",
+        "ticketing@tuskoblenz.de"
+      ],
+      "preise": [
+        {
+          "eur": 25,
+          "url": "https://tuskoblenz.de/tickets/",
+          "stelle": "tageskarten preis tribüne ermäßigung 25€"
+        },
+        {
+          "eur": 20,
+          "url": "https://tuskoblenz.de/tickets/",
+          "stelle": "normal 20€"
+        },
+        {
+          "eur": 13,
+          "url": "https://tuskoblenz.de/tickets/",
+          "stelle": "normal 13€"
+        },
+        {
+          "eur": 9,
+          "url": "https://tuskoblenz.de/tickets/",
+          "stelle": "normal 9€"
+        },
+        {
+          "eur": 87,
+          "url": "https://tuskoblenz.de/tickets/",
+          "stelle": "normal 87 euro"
+        }
+      ],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://tuskoblenz.de/tickets/",
+        "wie": "eingebunden auf https://tuskoblenz.de/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC Emmelshausen-Karbach",
+      "team_id": "FC Karbach",
+      "homepage": "http://www.fc-karbach.de//",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Karbach",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "56281",
+      "ort_qid": "Q630776",
+      "ort": "Karbach",
+      "verein": "FC Emmelshausen-Karbach",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fc-ek.de/",
+        "https://www.fc-ek.de/ticketpreise"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fcemmelshausenkarbach"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Elversberg II",
+      "team_id": "SV Elversberg",
+      "homepage": "https://sv07elversberg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Elversberg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "66583",
+      "ort_qid": "Q629932",
+      "ort": "Spiesen-Elversberg",
+      "verein": "SV Elversberg II",
+      "land": "SL",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC Hertha Wiesbach",
+      "team_id": "FC Hertha Wiesbach",
+      "homepage": "http://www.hertha-wiesbach.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Hertha_Wiesbach",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "66571",
+      "ort_qid": "Q570286",
+      "ort": "Eppelborn",
+      "verein": "FC Hertha Wiesbach",
+      "land": "SL",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://hertha-wiesbach.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "herthawiesbach"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Cosmos Koblenz",
+      "team_id": "FC Cosmos Koblenz",
+      "homepage": "https://www.cosmos-koblenz.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Cosmos_Koblenz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "56001",
+      "ort_qid": "Q3104",
+      "ort": "Koblenz",
+      "verein": "FC Cosmos Koblenz",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.cosmos-koblenz.de (ERR_TLS_CERT_ALTNAME_INVALID)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Auersmacher",
+      "team_id": "SV Auersmacher",
+      "homepage": "http://www.sv-auersmacher.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Auersmacher",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "66271",
+      "ort_qid": "Q39781",
+      "ort": "Kleinblittersdorf",
+      "verein": "SV Auersmacher",
+      "land": "SL",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://sv-auersmacher.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "svauersmacher1919"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Ahrweiler BC",
+      "team_id": "Ahrweiler BC",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Ahrweiler_BC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "53474",
+      "ort_qid": "Q522620",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Bad Neuenahr-Ahrweiler",
+      "verein": "Ahrweiler BC",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FV 07 Diefflen",
+      "team_id": "FV 07 Diefflen",
+      "homepage": "http://www.fv07diefflen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FV_07_Diefflen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "66763",
+      "ort_qid": "Q158408",
+      "ort": "Dillingen/Saar",
+      "verein": "FV 07 Diefflen",
+      "land": "SL",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fv07diefflen.de/",
+        "https://www.fv07diefflen.de/fv07-diefflen-iii-saarwellingen/",
+        "https://www.fv07diefflen.de/heimspieltag-in-diefflen/",
+        "https://www.fv07diefflen.de/fv07-diefflen-3-heimspiel/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fv_07_diefflen_ev"
+      ],
+      "emails": [
+        "info@fv07diefflen.de",
+        "info@mediadiv.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Eisbachtaler Sportfreunde",
+      "team_id": "Eisbachtaler Sportfreunde",
+      "homepage": "http://www.sportfreunde-eisbachtal.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Eisbachtaler_Sportfreunde",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "56412",
+      "ort_qid": "Q658501",
+      "ort": "Nentershausen",
+      "verein": "Eisbachtaler Sportfreunde",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sportfreunde-eisbachtal.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "sportfreunde_eisbachtal",
+        "sf_eisbachtal_nachwuchs"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    }
+  ]
+}

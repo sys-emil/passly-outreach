@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "Lüneburger SK Hansa",
+    "ort": "Lüneburg",
+    "land": "NI",
+    "liga": "oberliga-niedersachsen",
+    "liga_name": "Oberliga Niedersachsen (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.lsk-hansa.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketshop (tickets.lueneburgersk.de)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "lskhansa",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seite „Vorverkauf nutzen!“ verlinkt einen eigenen LSK-Ticketshop (tickets.lueneburgersk.de), damit Fans nicht an den Kassen anstehen.",
+    "quellen": [
+      "https://www.lsk-hansa.de/vorverkauf",
+      "https://www.lsk-hansa.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.lsk-hansa.de/vorverkauf",
+      "https://www.lsk-hansa.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Shopsoftware nicht erkennbar (Seite lädt per JavaScript).",
+    "kosten_usd": 0
+  }
+}

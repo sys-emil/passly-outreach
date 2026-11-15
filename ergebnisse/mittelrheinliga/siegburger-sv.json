@@ -1,0 +1,40 @@
+{
+  "verein": {
+    "name": "Siegburger SV",
+    "ort": "Siegburg",
+    "land": "NW",
+    "liga": "mittelrheinliga",
+    "liga_name": "Mittelrheinliga (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.siegburg04.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 8,
+    "halle": "Walter-Mundorf-Stadion, Siegburg",
+    "kapazitaet": null,
+    "instagram": "siegburg04",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Startseite nennt Tageskarte 8 € (Mitglieder und Kinder unter 12 frei) im Walter-Mundorf-Stadion, aber keinen Vorverkauf.",
+    "quellen": [
+      "https://www.siegburg04.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.siegburg04.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass die Tageskarte bei euch 8 € kostet, einen Vorverkauf hab ich aber nicht gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Siegburger SV 04 über die Kontaktseite.\n- Einstieg: Tageskarte 8 €, Mitglieder und Kinder unter 12 frei, kein Vorverkauf auf der Seite.\n- Frage: Wie läuft die Tageskasse im Walter-Mundorf-Stadion, und was nervt daran?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

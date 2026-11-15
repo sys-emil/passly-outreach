@@ -1,0 +1,606 @@
+{
+  "liga": "oberliga-hamburg",
+  "stand": "2026-11-15",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+  "abrufe": 35,
+  "teams": [
+    {
+      "verband_name": "USC Paloma",
+      "team_id": "USC Paloma Hamburg",
+      "homepage": "http://www.uscpaloma.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/USC_Paloma_Hamburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "USC Paloma",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.uscpaloma.de/ (HTTP 503)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Niendorfer TSV",
+      "team_id": "Niendorfer TSV",
+      "homepage": "https://www.niendorfer-tsv.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Niendorfer_TSV",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "Niendorfer TSV",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.niendorfer-tsv.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "niendorfertsv1919"
+      ],
+      "emails": [
+        "info@niendorfer-tsv.de",
+        "mitgliederverwaltung@niendorfer-tsv.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SC Victoria Hamburg",
+      "team_id": "SC Victoria Hamburg",
+      "homepage": "https://sc-victoria.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Victoria_Hamburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "SC Victoria Hamburg",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://sc-victoria.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://sc-victoria.de/",
+          "stelle": "HABEN GEWONNEN! 🎉 Allgemein , Fußball , Liga Derby an der Hoheluft: Vorverkauf für Victoria gegen Altona 93 läuft Am Freitag, 13. November, um 19:30"
+        },
+        "von_hand": {
+          "url": "https://sc-victoria.de/",
+          "stelle": "großen Hockeyfamilie Mehr Informationen Kegeln beim SC Victoria Jetzt reservieren NEU!! - AUFGEPASST - NEU!! Informationen Victoria Klause: Dein Vere"
+        }
+      },
+      "instagram": [
+        "scvictoria_hamburg"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TuS Dassendorf",
+      "team_id": "TuS Dassendorf",
+      "homepage": "https://www.tus-dassendorf-liga.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TuS_Dassendorf",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "21521",
+      "ort_qid": "Q632571",
+      "ort": "Dassendorf",
+      "verein": "TuS Dassendorf",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tus-dassendorf-liga.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "HT 16 Hamburg",
+      "team_id": "Hamburger Turnerschaft von 1816",
+      "homepage": "http://www.ht16.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Hamburger_Turnerschaft_von_1816",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "HT 16 Hamburg",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ht16.de/",
+        "https://www.ht16.de/jetzt-abstimmen-fuer-unsere-sportlerinnen-trainerinnen-und-mannschaften-des-jahres/",
+        "https://www.ht16.de/fitness/preise-mitgliedschaft/",
+        "https://www.ht16.de/klettern-info/preise-mitgliedschaft/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "ht16_hamburg"
+      ],
+      "emails": [
+        "info@ht16.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Altona 93",
+      "team_id": "Altona 93",
+      "homepage": "http://www.altona93.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Altona_93",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "Altona 93",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.altona93.de/",
+        "https://www.altona93.de/tickets/",
+        "https://www.altona93.de/category/heimspiel/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.altona93.de/",
+          "stelle": "News Live-Stream Ligaspiele Presse Stadionzeitung News Archiv Tickets Dauerkarten und Tickets Ratsherrn Lounge Teams Spielpläne Liga-Leitung 1. Herren"
+        },
+        "nur_abendkasse": {
+          "url": "https://www.altona93.de/tickets/",
+          "stelle": "icherheitspersonal ist zwingend Folge zu leisten. Tageskarten gibt es nur an den Tageskassen (öffnen 90 Minuten vor Anpfiff) oder online über Reservix: Hier geht"
+        },
+        "abendkasse": {
+          "url": "https://www.altona93.de/tickets/",
+          "stelle": "ersonal ist zwingend Folge zu leisten. Tageskarten gibt es nur an den Tageskassen (öffnen 90 Minuten vor Anpfiff) oder online über Reservix: Hier geht"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "office@altona93.de",
+        "presse@altona93.de",
+        "jugendwart@altona93.de",
+        "jugendvorstand@alton93.de",
+        "jugendvorstand@altona93.de",
+        "mirja@altona93.de",
+        "markscoltock@dulwichhamletfc.co.uk",
+        "vorstand@altona93.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.altona93.de/",
+        "wie": "eingebunden auf https://www.altona93.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SC Vorwärts-Wacker 04",
+      "team_id": "SC Vorwärts-Wacker 04",
+      "homepage": "https://vorwaerts-wacker.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Vorw%C3%A4rts-Wacker_04",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "SC Vorwärts-Wacker 04",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vorwaerts-wacker.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.vorwaerts-wacker.de/",
+          "stelle": "nen rund um das LOTTO-Pokalfinale.🎉 Es geht endlich los! 🎉Der Kartenvorverkauf für den Hamburger LOTTO-Pokal startet ab Donnerstag, 23.04.2026! 🏆⚽\ud83c"
+        },
+        "von_hand": {
+          "url": "https://www.vorwaerts-wacker.de/",
+          "stelle": "ügbar! 🟣🔴Ihr könnt das Vorwärts Wacker Trikot jetzt in Rot und Lila vorbestellen! 🙌🧣 Passend dazu gibt es Schals in der jeweiligen Farbe.📧 Vorbes"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "vw04boxen@gmail.com",
+        "c.kober@scvw04.de",
+        "u.taytanli@scvw04.de",
+        "c.pechlivanidis@scvw04.de",
+        "m.boelke@scvw04.de",
+        "j.otte@scvw04.de",
+        "r.neumann@scvw04.de",
+        "ralf-peter.rudl@t-online.de",
+        "geschaeftsstelle@scvw04.de",
+        "Tickets@scvw04.de",
+        "a.ohms@scvw04.de",
+        "m.inal@scvw04.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV Sasel",
+      "team_id": "TSV Sasel",
+      "homepage": "https://tsv-sasel.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Sasel",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "TSV Sasel",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tsv-sasel.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "tsv_sasel_official"
+      ],
+      "emails": [
+        "info@tsv-sasel.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TBS Pinneberg",
+      "team_id": "TBS Pinneberg",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TBS_Pinneberg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "TBS Pinneberg",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Süderelbe",
+      "team_id": "FC Süderelbe",
+      "homepage": "http://www.fcsuederelbe.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_S%C3%BCderelbe",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "FC Süderelbe",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fc-suederelbe.de/",
+        "https://fc-suederelbe.de/index.php/77-liga/spieltagvorschau/171-fan-information"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fc.suederelbe"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "ETSV Hamburg",
+      "team_id": "ETSV Hamburg",
+      "homepage": "https://etsvhamburg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/ETSV_Hamburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "ETSV Hamburg",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.etsvhamburg.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "etsvhhliga"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "HEBC",
+      "team_id": "Hamburg-Eimsbütteler-Ballspiel-Club",
+      "homepage": "http://www.hebc.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Hamburg-Eimsb%C3%BCtteler-Ballspiel-Club",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "HEBC",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://hebc.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "hebc_1911"
+      ],
+      "emails": [
+        "info@hebc.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Teutonia 05 Ottensen",
+      "team_id": "FC Teutonia 05 Ottensen",
+      "homepage": "http://www.fcteutonia05.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Teutonia_05_Ottensen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "FC Teutonia 05 Ottensen",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fcteutonia05.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fc_teutonia_05"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV Buchholz 08",
+      "team_id": "TSV Buchholz 08",
+      "homepage": "http://www.tsv-buchholz08.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Buchholz_08",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "21244",
+      "ort_qid": "Q14892",
+      "ort": "Buchholz in der Nordheide",
+      "verein": "TSV Buchholz 08",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tsv-buchholz08.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "tsv_buchholz_08_ev"
+      ],
+      "emails": [
+        "geschaeftsstelle@tsv-buchholz08.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Wandsbeker TSV Concordia",
+      "team_id": "Wandsbeker TSV Concordia",
+      "homepage": "https://www.wtsvc81.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Wandsbeker_TSV_Concordia",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "Wandsbeker TSV Concordia",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://wtsv-concordia.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "wtsvconcordia_ev"
+      ],
+      "emails": [
+        "kontakt@wtsv-concordia.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SSG Nikola Tesla Hamburg",
+      "team_id": "SSG Nikola Tesla Hamburg",
+      "homepage": "https://fk-tesla.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SSG_Nikola_Tesla_Hamburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "SSG Nikola Tesla Hamburg",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fk-tesla.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TuRa Harksheide",
+      "team_id": "TuRa Harksheide",
+      "homepage": "https://tura-harksheide.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TuRa_Harksheide",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "22844",
+      "ort_qid": "Q3928",
+      "ort": "Norderstedt",
+      "verein": "TuRa Harksheide",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tura-harksheide.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@tura-harksheide.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Eintracht Norderstedt II",
+      "team_id": "Eintracht Norderstedt",
+      "homepage": "http://www.eintrachtnorderstedt.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Eintracht_Norderstedt",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Hamburg_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "22844",
+      "ort_qid": "Q3928",
+      "ort": "Norderstedt",
+      "verein": "Eintracht Norderstedt II",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    }
+  ]
+}

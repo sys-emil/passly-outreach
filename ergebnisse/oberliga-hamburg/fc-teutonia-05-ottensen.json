@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "FC Teutonia 05 Ottensen",
+    "ort": "Hamburg",
+    "land": "HH",
+    "liga": "oberliga-hamburg",
+    "liga_name": "Oberliga Hamburg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fcteutonia05.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fc_teutonia_05",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von FC Teutonia 05 Ottensen nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga Hamburg.",
+    "quellen": [
+      "https://www.fcteutonia05.de/oberliga",
+      "https://www.fcteutonia05.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.fcteutonia05.de/oberliga",
+      "https://www.fcteutonia05.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0
+  }
+}

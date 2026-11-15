@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "VfL Jüchen-Garzweiler",
+    "ort": "Jüchen",
+    "land": "NW",
+    "liga": "oberliga-niederrhein",
+    "liga_name": "Oberliga Niederrhein (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://vfljuechen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Webshop",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "vfljuechengarzweiler",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website hat eine Ticket-Kasse im eigenen WooCommerce-Shop (vfljuechen.de/tickets-checkout).",
+    "quellen": [
+      "https://vfljuechen.de/tickets-checkout/",
+      "https://vfljuechen.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://vfljuechen.de/tickets-checkout/",
+      "https://vfljuechen.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Nur die Checkout-Seite gefunden, keine Ticketliste; ob dort Heimspiele verkauft werden, ist unsicher.",
+    "kosten_usd": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "FC Emmelshausen-Karbach",
+    "ort": "Karbach",
+    "land": "RP",
+    "liga": "oberliga-rps",
+    "liga_name": "Oberliga Rheinland-Pfalz/Saar (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fc-karbach.de//",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fcemmelshausenkarbach",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von FC Emmelshausen-Karbach nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga Rheinland-Pfalz/Saar.",
+    "quellen": [
+      "https://www.fc-ek.de/ticketpreise",
+      "https://www.fc-ek.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.fc-ek.de/ticketpreise",
+      "https://www.fc-ek.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. Seite „Ticketpreise“ lädt ihren Inhalt per JavaScript.",
+    "kosten_usd": 0
+  }
+}

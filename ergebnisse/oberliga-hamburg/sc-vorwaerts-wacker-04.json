@@ -1,0 +1,39 @@
+{
+  "verein": {
+    "name": "SC Vorwärts-Wacker 04",
+    "ort": "Hamburg",
+    "land": "HH",
+    "liga": "oberliga-hamburg",
+    "liga_name": "Oberliga Hamburg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://vorwaerts-wacker.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von SC Vorwärts-Wacker 04 nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga Hamburg.",
+    "quellen": [
+      "https://www.vorwaerts-wacker.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.vorwaerts-wacker.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. Kartenvorverkauf nur für ein Pokalspiel angekündigt, Karten für die Vereinsjugend nur im Vereinshaus.",
+    "kosten_usd": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "FC Hürth",
+    "ort": "Hürth",
+    "land": "NW",
+    "liga": "mittelrheinliga",
+    "liga_name": "Mittelrheinliga (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fc-huerth.de/index.php?id=1",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von FC Hürth nennen weder Eintrittspreise noch einen Ticketweg für die Mittelrheinliga.",
+    "quellen": [
+      "https://www.fc-huerth.de/mannschaften/",
+      "https://www.fc-huerth.de/?id=1"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.fc-huerth.de/mannschaften/",
+      "https://www.fc-huerth.de/?id=1"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0
+  }
+}

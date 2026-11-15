@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "TSV Schott Mainz",
+    "ort": "Mainz",
+    "land": "RP",
+    "liga": "oberliga-rps",
+    "liga_name": "Oberliga Rheinland-Pfalz/Saar (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.tsvschott.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tsvschottmainz",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Fußballseite verlinkt den Reservix-Shop des Vereins (tsvschott.reservix.de).",
+    "quellen": [
+      "https://tsvschott.de/fussball/",
+      "https://tsvschott.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://tsvschott.de/fussball/",
+      "https://tsvschott.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0
+  }
+}

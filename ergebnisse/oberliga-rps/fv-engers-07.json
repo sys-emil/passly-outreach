@@ -1,0 +1,35 @@
+{
+  "verein": {
+    "name": "FV Engers 07",
+    "ort": "Neuwied",
+    "land": "RP",
+    "liga": "oberliga-rps",
+    "liga_name": "Oberliga Rheinland-Pfalz/Saar (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fv-engers07.de",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Wikidata-Adresse fv-engers07.de zeigt eine Casino-Seite (Domain offenbar übernommen); die echte Vereinsseite ist unbekannt.",
+    "quellen": [],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Anruf.",
+    "kosten_usd": 0
+  }
+}

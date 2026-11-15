@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "SV Wilhelmshaven",
+    "ort": "Wilhelmshaven",
+    "land": "NI",
+    "liga": "oberliga-niedersachsen",
+    "liga_name": "Oberliga Niedersachsen (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.svwilhelmshaven.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Preisseite nennt Dauerkarten (120 €) und ein VIP-Upgrade für 30 €, aber keinen Weg, sie zu kaufen.",
+    "quellen": [
+      "https://www.sv-wilhelmshaven.de/Preise.php",
+      "https://www.sv-wilhelmshaven.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.sv-wilhelmshaven.de/Preise.php",
+      "https://www.sv-wilhelmshaven.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0
+  }
+}

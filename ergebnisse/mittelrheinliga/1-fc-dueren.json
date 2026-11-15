@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "1. FC Düren",
+    "ort": "Düren",
+    "land": "NW",
+    "liga": "mittelrheinliga",
+    "liga_name": "Mittelrheinliga (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://fcdueren.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "vivenu",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fcdueren",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über vivenu (eingebunden auf https://www.fcdueren.de/: https://www.fcdueren.de/).",
+    "quellen": [
+      "https://www.fcdueren.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://www.fcdueren.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „1. FC Düren“. Gelesen: https://www.fcdueren.de/, https://www.fcdueren.de/business/vip-tickets, https://www.fcdueren.de/ticketing/akkreditierungen, https://www.fcdueren.de/ticketing/tagesticket.",
+    "kosten_usd": 0
+  }
+}

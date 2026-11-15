@@ -1,0 +1,35 @@
+{
+  "verein": {
+    "name": "SC St. Tönis 11/20",
+    "ort": "Tönisvorst",
+    "land": "NW",
+    "liga": "oberliga-niederrhein",
+    "liga_name": "Oberliga Niederrhein (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": null,
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Keine Website von SC St. Tönis in Wikipedia/Wikidata; die Ticketfrage ist offen.",
+    "quellen": [],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Anruf.",
+    "kosten_usd": 0
+  }
+}

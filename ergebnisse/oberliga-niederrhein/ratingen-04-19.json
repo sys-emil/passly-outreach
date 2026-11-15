@@ -1,0 +1,46 @@
+{
+  "verein": {
+    "name": "Ratingen 04/19",
+    "ort": "Ratingen",
+    "land": "NW",
+    "liga": "oberliga-niederrhein",
+    "liga_name": "Oberliga Niederrhein (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.ratingen0419.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 12,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "ratingen0419offiziell",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein (allgemein)",
+      "kontakt": "info@ratingen0419.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seite „Eintrittspreise“ nennt 12 € für die Oberliga; für das Pokal-Viertelfinale gegen RWE kündigt der Verein einen Vorverkauf an, ohne dass ein Shop verlinkt ist.",
+    "quellen": [
+      "https://ratingen0419.de/eintrittspreise/",
+      "https://ratingen0419.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://ratingen0419.de/eintrittspreise/",
+      "https://ratingen0419.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorverkauf offenbar nur für Pokal-Highlights, Weg unklar.",
+    "kosten_usd": 0
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass ihr für das Pokal-Viertelfinale gegen RWE einen Vorverkauf macht, für die Oberliga aber nur Preise nennt. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Pokalspiel und Liga laufen im selben System. Für euch kostenlos. Passt ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Ratingen 04/19, info@ratingen0419.de.\n- Einstieg: Oberliga Vollzahler 12 €, Tages-VIP 70 €, Vorverkauf fürs Pokal-Viertelfinale gegen RWE.\n- Frage: Wie habt ihr den Pokal-Vorverkauf organisiert, und wie lief es?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

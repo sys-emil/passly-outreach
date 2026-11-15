@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "Eisbachtaler Sportfreunde",
+    "ort": "Nentershausen",
+    "land": "RP",
+    "liga": "oberliga-rps",
+    "liga_name": "Oberliga Rheinland-Pfalz/Saar (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.sportfreunde-eisbachtal.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von Eisbachtaler Sportfreunde nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga Rheinland-Pfalz/Saar.",
+    "quellen": [
+      "https://www.sportfreunde-eisbachtal.de/1-mannschaft/",
+      "https://www.sportfreunde-eisbachtal.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.sportfreunde-eisbachtal.de/1-mannschaft/",
+      "https://www.sportfreunde-eisbachtal.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0
+  }
+}

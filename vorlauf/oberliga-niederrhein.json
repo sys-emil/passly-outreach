@@ -1,0 +1,675 @@
+{
+  "liga": "oberliga-niederrhein",
+  "stand": "2026-11-15",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+  "abrufe": 48,
+  "teams": [
+    {
+      "verband_name": "SpVg Schonnebeck",
+      "team_id": "SpVg Schonnebeck",
+      "homepage": "http://www.sv-schonnebeck.com",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SpVg_Schonnebeck",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "45127",
+      "ort_qid": "Q2066",
+      "ort": "Essen",
+      "verein": "SpVg Schonnebeck",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sv-schonnebeck.com/",
+        "https://www.sv-schonnebeck.com/oberliga/eintrittspreise",
+        "https://www.sv-schonnebeck.com/seniorenteams/eintrittspreise-2024-05-15"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "eintritt_frei": {
+          "url": "https://www.sv-schonnebeck.com/",
+          "stelle": "Davidheimann! Verein - 13.11.2026 Weiterlesen... Schwalben laden ein: Freier Eintritt und Christmas-Party 1. Mannschaft - 12.11.2026 Weiterlesen... Einladu"
+        },
+        "abendkasse": {
+          "url": "https://www.sv-schonnebeck.com/oberliga/eintrittspreise",
+          "stelle": "kalspielen keine Gültigkeit. Ticketverkauf Tickets sind sowohl an der Tageskasse, als auch im Online-Ticketshop erhältlich. Bitte jedoch stets unsere"
+        },
+        "dauerkarte": {
+          "url": "https://www.sv-schonnebeck.com/oberliga/eintrittspreise",
+          "stelle": "Kassen, sowie unsere Informationen im Vorfeld eines Spiels beachten. Dauerkarten haben bei Pokalspielen keine Gültigkeit. Ticketverkauf Tickets sind"
+        }
+      },
+      "instagram": [
+        "svschonnebeck"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://www.sv-schonnebeck.com/",
+        "wie": "eingebunden auf https://www.sv-schonnebeck.com/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SSVg Velbert",
+      "team_id": "SSVg Velbert",
+      "homepage": "https://www.ssvg.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SSVg_Velbert",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "42549",
+      "ort_qid": "Q3840",
+      "ort": "Velbert",
+      "verein": "SSVg Velbert",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ssvg.de/",
+        "https://www.ssvg.de/fans/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.ssvg.de/fans/tickets",
+          "stelle": "ts Jobbörse Presse Jobbörse Impressum Datenschutz Cookies Kontakt Die Tageskassen öffnen für Heimspiele der 1. Mannschaft in der Oberliga Niederrhein"
+        },
+        "dauerkarte": {
+          "url": "https://www.ssvg.de/fans/tickets",
+          "stelle": "Eintrittspreise für die SSVg Heimspiele in der Oberliga Niederrhein: Dauerkarten Saison 2026/27 VIP-Dauerkarte 1.300,- € Dauerkarte Sitzplatz Tribüne"
+        }
+      },
+      "instagram": [
+        "ssvg02"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Fortuna Düsseldorf II",
+      "team_id": "Fortuna Düsseldorf II",
+      "homepage": "https://f95.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Fortuna_D%C3%BCsseldorf_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "40210",
+      "ort_qid": "Q1718",
+      "ort": "Düsseldorf",
+      "verein": "Fortuna Düsseldorf II",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SC St. Tönis 11/20",
+      "team_id": "SC St. Tönis 11/20",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_St._T%C3%B6nis_11%2F20",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "47918",
+      "ort_qid": "Q163570",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Tönisvorst",
+      "verein": "SC St. Tönis 11/20",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Wuppertaler SV",
+      "team_id": "Wuppertaler SV",
+      "homepage": "https://wsv1954.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Wuppertaler_SV",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "42001",
+      "ort_qid": "Q2107",
+      "ort": "Wuppertal",
+      "verein": "Wuppertaler SV",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.wsv1954.de/",
+        "https://www.wsv1954.de/news/newscenter/fan-u-ticketinfos",
+        "https://www.wsv1954.de/tickets",
+        "https://www.wsv1954.de/tickets/dauerkarten",
+        "https://www.wsv1954.de/tickets/infos-fuer-gaeste",
+        "https://www.wsv1954.de/tickets/infos-fuer-gaeste/anfahrt"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.wsv1954.de/",
+          "stelle": "gliedschaft Vorteile Mitglied werden Fanrat WSV Seniorenkreis Tickets Dauerkarten Tageskarten Ticketshop Infos für Gäste Anfahrt Business Partner werd"
+        },
+        "vorverkauf": {
+          "url": "https://www.wsv1954.de/news/newscenter/fan-u-ticketinfos",
+          "stelle": "onnebeck ohne Zuschauer im Stadion am Zoo statt. 05.08.2026 Fans Fans Vorverkauf für unser erstes Auswärtsspiel startet Am Samstag, den 16. August 202"
+        },
+        "von_hand": {
+          "url": "https://www.wsv1954.de/tickets/dauerkarten",
+          "stelle": "ützung von Erfurt & Sohn – herzlichen Dank dafür! Stammplätze bleiben reserviert Eure Plätze aus der vergangenen Saison bleiben bis einschließlich 19"
+        },
+        "eintritt_frei": {
+          "url": "https://www.wsv1954.de/tickets/dauerkarten",
+          "stelle": "rigen dauerhaft – auch nach Ablauf der Early-Bird-Aktion am 29. Juli. Freier Eintritt bis einschließlich 18 Jahre Auch in der Saison 2026/27 erhalten alle"
+        }
+      },
+      "instagram": [
+        "wuppertaler_sv"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://www.wsv1954.de/",
+        "wie": "eingebunden auf https://www.wsv1954.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "1. FC Monheim",
+      "team_id": "1. FC Monheim",
+      "homepage": "http://fc-monheim.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_Monheim",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "40789",
+      "ort_qid": "Q7062",
+      "ort": "Monheim am Rhein",
+      "verein": "1. FC Monheim",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.fc-monheim.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fcm1910"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Sportfreunde Baumberg",
+      "team_id": "Sportfreunde Baumberg",
+      "homepage": "http://www.sfbaumberg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Sportfreunde_Baumberg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "40789",
+      "ort_qid": "Q7062",
+      "ort": "Monheim am Rhein",
+      "verein": "Sportfreunde Baumberg",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sfbaumberg.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "sfbaumberg"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Ratingen 04/19",
+      "team_id": "Ratingen 04/19",
+      "homepage": "http://www.ratingen0419.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Ratingen_04%2F19",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "40878",
+      "ort_qid": "Q3791",
+      "ort": "Ratingen",
+      "verein": "Ratingen 04/19",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://ratingen0419.de/",
+        "https://ratingen0419.de/sportstaetten/",
+        "https://ratingen0419.de/eintrittspreise/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://ratingen0419.de/",
+          "stelle": "m Viertelfinale im Niederrheinpokal. Anstoß im... mehr lesen Samstag: Vorverkauf für Pokal-Knaller gegen RWE Nov. 13, 2026 | 1. Mannschaft (mmm) Das h"
+        }
+      },
+      "instagram": [
+        "ratingen0419offiziell"
+      ],
+      "emails": [
+        "gastro@ratingen0419.de",
+        "info@ratingen0419.de",
+        "jugend@ratingen0419.de",
+        "eric.hoffmann@ratingen0419.de"
+      ],
+      "preise": [
+        {
+          "eur": 12,
+          "url": "https://ratingen0419.de/eintrittspreise/",
+          "stelle": "vollzahler 12,00 €"
+        },
+        {
+          "eur": 6,
+          "url": "https://ratingen0419.de/eintrittspreise/",
+          "stelle": "vollzahler 6,00 €"
+        },
+        {
+          "eur": 5,
+          "url": "https://ratingen0419.de/eintrittspreise/",
+          "stelle": "vollzahler 5,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "VfL Jüchen-Garzweiler",
+      "team_id": "VfL Jüchen-Garzweiler",
+      "homepage": "https://www.vflviktoria.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfL_J%C3%BCchen-Garzweiler",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "41363",
+      "ort_qid": "Q255416",
+      "ort": "Jüchen",
+      "verein": "VfL Jüchen-Garzweiler",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://vfljuechen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "vfljuechengarzweiler"
+      ],
+      "emails": [
+        "hallo@vflviktoria.de",
+        "info@vflviktoria.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Sonsbeck",
+      "team_id": "SV Sonsbeck",
+      "homepage": "http://www.sv-sonsbeck.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Sonsbeck",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "47665",
+      "ort_qid": "Q163100",
+      "ort": "Sonsbeck",
+      "verein": "SV Sonsbeck",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sv-sonsbeck.de/index.php/sv-sonsbeck",
+        "https://www.sv-sonsbeck.de/news/654/ergebnisse-11--spieltag-rueckrunde"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@sv-sonsbeck.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Blau-Weiß Dingden",
+      "team_id": "SV Blau-Weiß Dingden",
+      "homepage": "https://www.bw-dingden.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Blau-Wei%C3%9F_Dingden",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "46499",
+      "ort_qid": "Q1226372",
+      "ort": "Dingden",
+      "verein": "SV Blau-Weiß Dingden",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bw-dingden.de/",
+        "https://www.bw-dingden.de/jugendspieltag-2/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@bw-dingden.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Solingen 03",
+      "team_id": "Solingen 03",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Solingen_03",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "42601",
+      "ort_qid": "Q2942",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Solingen",
+      "verein": "Solingen 03",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "KFC Uerdingen 05",
+      "team_id": "KFC Uerdingen 05",
+      "homepage": "https://www.kfc-uerdingen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/KFC_Uerdingen_05",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "47829",
+      "ort_qid": "Q447973",
+      "ort": "Uerdingen",
+      "verein": "KFC Uerdingen 05",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.kfc-uerdingen.de/",
+        "https://www.kfc-uerdingen.de/grotenburg/tickets/",
+        "https://www.kfc-uerdingen.de/grotenburg/tickets/tageskarten/",
+        "https://www.kfc-uerdingen.de/grotenburg/tickets/dauerkarten/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.kfc-uerdingen.de/",
+          "stelle": "reiheit Medien Gästefans Groundhopper Tickets Ticketinfos Tageskarten Dauerkarten Historie Der Grotifant Fans Fanshop ☍ JAKO Teamshop ☍ Fanclubs Fanfo"
+        },
+        "abendkasse": {
+          "url": "https://www.kfc-uerdingen.de/grotenburg/tickets/",
+          "stelle": "Geschäftsstelle , eine der offiziellen Vorverkaufsstellen oder an der Tageskasse am Spieltag selbst. Per Anruf über die Ticket-Hotline 01803-019050 (0"
+        },
+        "vorverkauf": {
+          "url": "https://www.kfc-uerdingen.de/grotenburg/tickets/",
+          "stelle": "nline bestellen Vor-Ort in der Geschäftsstelle , eine der offiziellen Vorverkaufsstellen oder an der Tageskasse am Spieltag selbst. Per Anruf über die"
+        },
+        "von_hand": {
+          "url": "https://www.kfc-uerdingen.de/grotenburg/tickets/tageskarten/",
+          "stelle": "iedsrichterbeauftragten anmelden und erhalten dann ihre Schiedsrichterkarten per Mail zugeschickt. Falls eine Tageskasse angeboten wird, sind Schiedsrichte"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "simon.berger@kfc05.de"
+      ],
+      "preise": [
+        {
+          "eur": 23,
+          "url": "https://www.kfc-uerdingen.de/grotenburg/tickets/",
+          "stelle": "vollzahler m 23,00 €"
+        },
+        {
+          "eur": 20,
+          "url": "https://www.kfc-uerdingen.de/grotenburg/tickets/",
+          "stelle": "vollzahler l / n / b / c 20,00 €"
+        },
+        {
+          "eur": 17,
+          "url": "https://www.kfc-uerdingen.de/grotenburg/tickets/",
+          "stelle": "vollzahler o / d 17,00 €"
+        },
+        {
+          "eur": 14,
+          "url": "https://www.kfc-uerdingen.de/grotenburg/tickets/",
+          "stelle": "vollzahler k 14,00 €"
+        },
+        {
+          "eur": 12,
+          "url": "https://www.kfc-uerdingen.de/grotenburg/tickets/",
+          "stelle": "vollzahler p / q 12,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Scherpenberg",
+      "team_id": "SV Scherpenberg",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Scherpenberg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "47443",
+      "ort_qid": "Q21042080",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Scherpenberg",
+      "verein": "SV Scherpenberg",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Schwarz-Weiß Essen",
+      "team_id": "Schwarz-Weiß Essen",
+      "homepage": "http://www.etb-schwarz-weiss.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Schwarz-Wei%C3%9F_Essen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "45127",
+      "ort_qid": "Q2066",
+      "ort": "Essen",
+      "verein": "Schwarz-Weiß Essen",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://etb-schwarz-weiss.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@etb-schwarz-weiss.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Büderich",
+      "team_id": "FC Büderich",
+      "homepage": "http://www.fcbuederich.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_B%C3%BCderich",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "40667",
+      "ort_qid": "Q4105",
+      "ort": "Meerbusch",
+      "verein": "FC Büderich",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fcbuederich.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://fcbuederich.de/",
+          "stelle": "ch wieder geöffnet. Hier finden Sie alle Informationen zu Angebot und Reservierungsmöglich-keiten. Setzen Sie sich gerne mit uns in Verbindung. Mehr"
+        }
+      },
+      "instagram": [
+        "fcbuederich"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV Meerbusch",
+      "team_id": "TSV Meerbusch",
+      "homepage": "http://www.tus64.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Meerbusch",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "40667",
+      "ort_qid": "Q4105",
+      "ort": "Meerbusch",
+      "verein": "TSV Meerbusch",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tus64.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Holzheimer SG",
+      "team_id": "Holzheimer SG",
+      "homepage": "https://www.sg-holzheim.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Holzheimer_SG",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niederrhein_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "41460",
+      "ort_qid": "Q2948",
+      "ort": "Neuss",
+      "verein": "Holzheimer SG",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sg-holzheim.de/",
+        "https://www.sg-holzheim.de/kalender/heimspiel-erste-herren-verbandsliga-663-990-615-766-162-186-667-620-914-374/",
+        "https://www.sg-holzheim.de/kalender/heimspiel-erste-herren-verbandsliga-663-990-615/",
+        "https://www.sg-holzheim.de/kalender/heimspiel-erste-herren-verbandsliga-663-990-615-766-162-186-667-620-914-374-437-919-371-100/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "hsg1920"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    }
+  ]
+}

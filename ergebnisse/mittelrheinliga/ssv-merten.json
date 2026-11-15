@@ -1,0 +1,42 @@
+{
+  "verein": {
+    "name": "SSV Merten",
+    "ort": "Bornheim",
+    "land": "NW",
+    "liga": "mittelrheinliga",
+    "liga_name": "Mittelrheinliga (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.ssv-merten1925.de",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 8,
+    "halle": "MerKur-Arena, Bornheim-Merten",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Eintritt 8 €; Dauerkarten bestellt man per E-Mail bei einer Ansprechpartnerin und holt sie mit eingraviertem Namen am Kassenhäuschen der MerKur-Arena ab.",
+    "quellen": [
+      "https://www.ssv-merten.de/de/fussball/1-mannschaft/termine---tabelle/",
+      "https://www.ssv-merten.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.ssv-merten.de/de/fussball/1-mannschaft/termine---tabelle/",
+      "https://www.ssv-merten.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Dauerkarte per Mail plus Abholung: Handarbeit.",
+    "kosten_usd": 0
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gelesen, dass man eure Dauerkarte per E-Mail bestellt und am Kassenhäuschen der MerKur-Arena abholt. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Dauerkarte inklusive, für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: SSV Merten über die Kontaktseite, nach der Ansprechpartnerin für Dauerkarten fragen.\n- Einstieg: Eintritt 8 €, Dauerkarte 25 % günstiger, Bestellung per Mail, Abholung am Kassenhäuschen.\n- Frage: Wie viel Arbeit machen die Dauerkarten-Mails und die Abholung?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

@@ -1,0 +1,35 @@
+{
+  "verein": {
+    "name": "SC Hemmingen-Westerfeld",
+    "ort": "Hemmingen",
+    "land": "NI",
+    "liga": "oberliga-niedersachsen",
+    "liga_name": "Oberliga Niedersachsen (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.sc-hemmingen-westerfeld.de/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Das Zertifikat von sc-hemmingen-westerfeld.de ist abgelaufen; die Seite war nicht lesbar.",
+    "quellen": [],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Anruf.",
+    "kosten_usd": 0
+  }
+}

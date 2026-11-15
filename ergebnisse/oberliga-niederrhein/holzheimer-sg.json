@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "Holzheimer SG",
+    "ort": "Neuss",
+    "land": "NW",
+    "liga": "oberliga-niederrhein",
+    "liga_name": "Oberliga Niederrhein (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.sg-holzheim.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "hsg1920",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von Holzheimer SG nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga.",
+    "quellen": [
+      "https://www.sg-holzheim.de/fussball/",
+      "https://www.sg-holzheim.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.sg-holzheim.de/fussball/",
+      "https://www.sg-holzheim.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0
+  }
+}

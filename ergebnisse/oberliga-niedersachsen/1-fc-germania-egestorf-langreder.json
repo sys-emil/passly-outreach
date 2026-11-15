@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "1. FC Germania Egestorf/Langreder",
+    "ort": "Barsinghausen",
+    "land": "NI",
+    "liga": "oberliga-niedersachsen",
+    "liga_name": "Oberliga Niedersachsen (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://1fcgel.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "1fcgel",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von 1. FC Germania Egestorf/Langreder nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga Niedersachsen.",
+    "quellen": [
+      "https://1fcgel.de/tabelle/",
+      "https://1fcgel.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://1fcgel.de/tabelle/",
+      "https://1fcgel.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0
+  }
+}

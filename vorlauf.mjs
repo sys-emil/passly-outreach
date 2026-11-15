@@ -406,7 +406,7 @@ for (const t of teams) {
 // Zweitteams und Nachwuchs-/Stützpunktteams verkaufen fast nie selbst: nicht recherchieren.
 for (const t of teams) {
   const n = `${t.verband_name} ${t.verein ?? ''}`;
-  t.typ = /\bII\b|\b2\b/.test(n) ? 'zweitteam'
+  t.typ = /\bII\b|\bIII\b|\b[23]\b/.test(n) ? 'zweitteam'
     : /\bBSP\b|\bVCO\b|\bBBA\b|stützpunkt|akademie|academy|internat|youngstars|junior/i.test(n) ? 'nachwuchs'
     : 'verein';
   if (t.pilot) t.typ = 'pilot';

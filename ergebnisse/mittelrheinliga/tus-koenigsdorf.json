@@ -1,0 +1,40 @@
+{
+  "verein": {
+    "name": "TuS Königsdorf",
+    "land": null,
+    "liga": "mittelrheinliga",
+    "liga_name": "Mittelrheinliga (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.tuskoenigsdorf.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von TuS Königsdorf nennen weder Eintrittspreise noch einen Ticketweg für die Mittelrheinliga.",
+    "quellen": [
+      "https://www.tus-koenigsdorf.de/fuba/",
+      "https://www.tus-koenigsdorf.de/tus/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.tus-koenigsdorf.de/fuba/",
+      "https://www.tus-koenigsdorf.de/tus/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0
+  }
+}

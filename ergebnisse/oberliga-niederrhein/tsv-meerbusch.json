@@ -1,0 +1,35 @@
+{
+  "verein": {
+    "name": "TSV Meerbusch",
+    "ort": "Meerbusch",
+    "land": "NW",
+    "liga": "oberliga-niederrhein",
+    "liga_name": "Oberliga Niederrhein (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.tus64.de/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Wikidata-Adresse tus64.de zeigt eine Casino-Seite (Domain offenbar übernommen); die echte Vereinsseite ist unbekannt.",
+    "quellen": [],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Wikidata-Eintrag korrigieren wäre fair. Anruf.",
+    "kosten_usd": 0
+  }
+}

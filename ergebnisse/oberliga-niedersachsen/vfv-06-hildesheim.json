@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "VfV 06 Hildesheim",
+    "ort": "Hildesheim",
+    "land": "NI",
+    "liga": "oberliga-niedersachsen",
+    "liga_name": "Oberliga Niedersachsen (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.vfv06.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "hiApp Webticketing (28apps)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Friedrich-Ebert-Stadion, Hildesheim",
+    "kapazitaet": null,
+    "instagram": "diedomstadtelf",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Neben dem Vorverkauf im Telco Shop gibt es einen Online-Ticketshop von hiApp (28apps) ohne Anmeldung.",
+    "quellen": [
+      "https://www.vfv06.de/tickets",
+      "https://www.vfv06.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.vfv06.de/tickets",
+      "https://www.vfv06.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0
+  }
+}

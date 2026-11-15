@@ -1,0 +1,530 @@
+{
+  "liga": "oberliga-niedersachsen",
+  "stand": "2026-11-15",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+  "abrufe": 27,
+  "teams": [
+    {
+      "verband_name": "SC Spelle-Venhaus",
+      "team_id": "SC Spelle-Venhaus",
+      "homepage": "http://www.scsv.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Spelle-Venhaus",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "48480",
+      "ort_qid": "Q672822",
+      "ort": "Spelle",
+      "verein": "SC Spelle-Venhaus",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.scsv.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "scspellevenhaus",
+        "sc_spelle_venhaus_laufgruppe"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Wilhelmshaven",
+      "team_id": "SV Wilhelmshaven",
+      "homepage": "http://www.svwilhelmshaven.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Wilhelmshaven",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "26384",
+      "ort_qid": "Q3857",
+      "ort": "Wilhelmshaven",
+      "verein": "SV Wilhelmshaven",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sv-wilhelmshaven.de/",
+        "https://www.sv-wilhelmshaven.de/Preise.php"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.sv-wilhelmshaven.de/Preise.php",
+          "stelle": "cket mit Truppenausweis 8,00 € VIP-Ticket (ab dem 01.01.2027) 16,00 € Dauerkarte 120,00 € Dauerkarte mit Ermäßigung* 80,00 € VIP-Dauerkarte (ab dem 01"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "verein@svwilhelmshaven.de"
+      ],
+      "preise": [
+        {
+          "eur": 12,
+          "url": "https://www.sv-wilhelmshaven.de/Preise.php",
+          "stelle": "eintrittspreise heimspiel-ticket 12,00 €"
+        },
+        {
+          "eur": 8,
+          "url": "https://www.sv-wilhelmshaven.de/Preise.php",
+          "stelle": "ticket mit ermäßigung* 8,00 €"
+        },
+        {
+          "eur": 8,
+          "url": "https://www.sv-wilhelmshaven.de/Preise.php",
+          "stelle": "ticket mit truppenausweis 8,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Eintracht Braunschweig II",
+      "team_id": "Eintracht Braunschweig#Zweite Mannschaft (U23)",
+      "homepage": "http://www.eintracht.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Eintracht_Braunschweig%23Zweite_Mannschaft_(U23)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "38100",
+      "ort_qid": "Q2773",
+      "ort": "Braunschweig",
+      "verein": "Eintracht Braunschweig II",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Heeslinger SC",
+      "team_id": "Heeslinger SC",
+      "homepage": "http://www.heeslinger-sc.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Heeslinger_SC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "27404",
+      "ort_qid": "Q504725",
+      "ort": "Heeslingen",
+      "verein": "Heeslinger SC",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.heeslinger-sc.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "heeslingersc"
+      ],
+      "emails": [
+        "info@heeslinger-sc.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "VfV 06 Hildesheim",
+      "team_id": "VfV 06 Hildesheim",
+      "homepage": "http://www.vfv06.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfV_06_Hildesheim",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "31101",
+      "ort_qid": "Q3185",
+      "ort": "Hildesheim",
+      "verein": "VfV 06 Hildesheim",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vfv06.de/",
+        "https://www.vfv06.de/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.vfv06.de/",
+          "stelle": "6 - Statistik Downloads Stadionzeitung Archiv Tickets Tickets Tickets Dauerkarten Stadion Stadion Friedrich-Ebert-Stadion (F-E-S) Cafe Engelke Lounge"
+        },
+        "vorverkauf": {
+          "url": "https://www.vfv06.de/tickets",
+          "stelle": "aison 26/27 sind aktuell keine Onlinetickets über die HI App buchbar. Vorverkauf nur im Telco Shop, Hindenburg Platz 1, Hildesheim. Weitere Infos folg"
+        }
+      },
+      "instagram": [
+        "diedomstadtelf"
+      ],
+      "emails": [
+        "ticketing@vfv06.de"
+      ],
+      "preise": [
+        {
+          "eur": 12,
+          "url": "https://www.vfv06.de/tickets",
+          "stelle": "ticketpreise tribüne: erwachsene 12 €"
+        },
+        {
+          "eur": 9,
+          "url": "https://www.vfv06.de/tickets",
+          "stelle": "erwachsene 9 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Blau-Weiß Lohne",
+      "team_id": "Blau-Weiß Lohne",
+      "homepage": "http://www.tus-bw-lohne.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Blau-Wei%C3%9F_Lohne",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "49393",
+      "ort_qid": "Q539693",
+      "ort": "Lohne",
+      "verein": "Blau-Weiß Lohne",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://bw-lohne.de/de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "tusblauweisslohne"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "BSV Rehden",
+      "team_id": "BSV Rehden",
+      "homepage": "http://www.bsv-rehden.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/BSV_Rehden",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "49453",
+      "ort_qid": "Q502845",
+      "ort": "Rehden",
+      "verein": "BSV Rehden",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bsv-rehden.de/",
+        "https://www.bsv-rehden.de/fanblock-tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "bsvrehden"
+      ],
+      "emails": [
+        "info@bsv-rehden.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Meppen II",
+      "team_id": "SV Meppen#Zweite Mannschaft",
+      "homepage": "https://www.svmeppen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Meppen%23Zweite_Mannschaft",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "49716",
+      "ort_qid": "Q15977",
+      "ort": "Meppen",
+      "verein": "SV Meppen II",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SV Vorwärts Nordhorn",
+      "team_id": "SV Vorwärts Nordhorn",
+      "homepage": "http://www.vorwaertsnordhorn.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Vorw%C3%A4rts_Nordhorn",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "48527",
+      "ort_qid": "Q4133",
+      "ort": "Nordhorn",
+      "verein": "SV Vorwärts Nordhorn",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.vorwaertsnordhorn.de (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Verden 04",
+      "team_id": "FC Verden 04",
+      "homepage": "https://www.fcverden04.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Verden_04",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "27283",
+      "ort_qid": "Q486551",
+      "ort": "Verden (Aller)",
+      "verein": "FC Verden 04",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fcverden04.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fcv_04"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TuS Bersenbrück",
+      "team_id": "TuS Bersenbrück",
+      "homepage": "http://www.tus-bersenbrueck.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TuS_Bersenbr%C3%BCck",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "49593",
+      "ort_qid": "Q520011",
+      "ort": "Bersenbrück",
+      "verein": "TuS Bersenbrück",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.tus-bersenbrueck.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "1. FC Germania Egestorf/Langreder",
+      "team_id": "1. FC Germania Egestorf/Langreder",
+      "homepage": "http://1fcgel.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_Germania_Egestorf%2FLangreder",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "30890",
+      "ort_qid": "Q16022",
+      "ort": "Barsinghausen",
+      "verein": "1. FC Germania Egestorf/Langreder",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://1fcgel.de/"
+      ],
+      "nicht_lesbar": [
+        "https://1fcgel.de/tabelle/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [
+        "1fcgel"
+      ],
+      "emails": [
+        "paul.nieber@1fcgel.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Lüneburger SK Hansa",
+      "team_id": "Lüneburger SK Hansa",
+      "homepage": "http://www.lsk-hansa.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/L%C3%BCneburger_SK_Hansa",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "21335",
+      "ort_qid": "Q3920",
+      "ort": "Lüneburg",
+      "verein": "Lüneburger SK Hansa",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.lsk-hansa.de/",
+        "https://www.lsk-hansa.de/akkreditierung-fuer-heimspiele"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.lsk-hansa.de/",
+          "stelle": "r Stadionordnung Trainingscenter Goseburg Stadionheft Tickets Tickets Vorverkauf Sponsoren Sponsoren Unsere Sponsoren Hauptsponsor BRUNS LSK-Ausrüster"
+        }
+      },
+      "instagram": [
+        "lskhansa"
+      ],
+      "emails": [
+        "juergen.poersch@lsk-hansa"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Drochtersen/Assel II",
+      "team_id": "SV Drochtersen/Assel",
+      "homepage": "http://www.svdrochtersenassel.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Drochtersen%2FAssel",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "21706",
+      "ort_qid": "Q505599",
+      "ort": "Drochtersen",
+      "verein": "SV Drochtersen/Assel II",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SC Hemmingen-Westerfeld",
+      "team_id": "SC Hemmingen-Westerfeld",
+      "homepage": "https://www.sc-hemmingen-westerfeld.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Hemmingen-Westerfeld",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "30953",
+      "ort_qid": "Q534259",
+      "ort": "Hemmingen",
+      "verein": "SC Hemmingen-Westerfeld",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.sc-hemmingen-westerfeld.de/ (CERT_HAS_EXPIRED)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SSV Vorsfelde",
+      "team_id": "SSV Vorsfelde",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SSV_Vorsfelde",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "38440",
+      "ort_qid": "Q3014",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Wolfsburg",
+      "verein": "SSV Vorsfelde",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    }
+  ]
+}

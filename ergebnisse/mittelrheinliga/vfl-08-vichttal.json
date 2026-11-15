@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "VfL 08 Vichttal",
+    "ort": "Stolberg",
+    "land": "NW",
+    "liga": "mittelrheinliga",
+    "liga_name": "Mittelrheinliga (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://vfl08.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventfrog",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventfrog (eingebunden auf https://vfl08.de/: https://vfl08.de/).",
+    "quellen": [
+      "https://vfl08.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://vfl08.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „VfL 08 Vichttal“. Gelesen: https://vfl08.de/.",
+    "kosten_usd": 0
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "liga": "mittelrheinliga",
+  "stand": "2026-11-15",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+  "abrufe": 34,
+  "teams": [
+    {
+      "verband_name": "FC Wegberg-Beeck",
+      "team_id": "FC Wegberg-Beeck",
+      "homepage": "http://www.fc-wegberg-beeck.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Wegberg-Beeck",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "41844",
+      "ort_qid": "Q204860",
+      "ort": "Wegberg",
+      "verein": "FC Wegberg-Beeck",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fc-wegberg-beeck.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@fcwb1920.de",
+        "verein@fcwb1920.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SSV Merten",
+      "team_id": "SSV Merten",
+      "homepage": "http://www.ssv-merten1925.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SSV_Merten",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "53332",
+      "ort_qid": "Q6852",
+      "ort": "Bornheim",
+      "verein": "SSV Merten",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ssv-merten.de/",
+        "https://www.ssv-merten.de/de/fussball/1-mannschaft/termine---tabelle/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.ssv-merten.de/de/fussball/1-mannschaft/termine---tabelle/",
+          "stelle": "hüler, Studenten 6,00 € - Jugendliche bis 16 Jahre: frei Hol' Dir die Dauerkarte für die Saison 2026/2027 ! Spare mit der Dauerkarte 25 % vom reguläre"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "mail@ssv-merten.de",
+        "loedelchen@aol.com"
+      ],
+      "preise": [
+        {
+          "eur": 8,
+          "url": "https://www.ssv-merten.de/de/fussball/1-mannschaft/termine---tabelle/",
+          "stelle": "erwachsene 8,00 €"
+        },
+        {
+          "eur": 8,
+          "url": "https://www.ssv-merten.de/de/fussball/1-mannschaft/termine---tabelle/",
+          "stelle": "erwachsene 8,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SC Fortuna Köln II",
+      "team_id": "SC Fortuna Köln#Die zweite Herrenmannschaft",
+      "homepage": "https://www.fortuna-koeln.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Fortuna_K%C3%B6ln%23Die_zweite_Herrenmannschaft",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "51149",
+      "ort_qid": "Q365",
+      "ort": "Köln",
+      "verein": "SC Fortuna Köln II",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SV Eintracht Hohkeppel",
+      "team_id": "SV Eintracht Hohkeppel",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Eintracht_Hohkeppel",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "51789",
+      "ort_qid": "Q11047",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Lindlar",
+      "verein": "SV Eintracht Hohkeppel",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SpVg Frechen 20",
+      "team_id": "SpVg Frechen 20",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SpVg_Frechen_20",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "50226",
+      "ort_qid": "Q6823",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Frechen",
+      "verein": "SpVg Frechen 20",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "1. FC Düren",
+      "team_id": "1. FC Düren",
+      "homepage": "https://fcdueren.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_D%C3%BCren",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "52351",
+      "ort_qid": "Q1884",
+      "ort": "Düren",
+      "verein": "1. FC Düren",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fcdueren.de/",
+        "https://www.fcdueren.de/business/vip-tickets",
+        "https://www.fcdueren.de/ticketing/akkreditierungen",
+        "https://www.fcdueren.de/ticketing/tagesticket"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.fcdueren.de/business/vip-tickets",
+          "stelle": "en Spieltag in vollen Zügen genießen können. Ob Sie sich für eine VIP-Dauerkarte entscheiden, um die gesamte Saison hautnah mitzuerleben, oder eine VI"
+        },
+        "abendkasse": {
+          "url": "https://www.fcdueren.de/ticketing/tagesticket",
+          "stelle": "spiel auf der Westkampfbahn - alle wichtigen Infos! Wir öffnen unsere Tageskasse auf der Westkampfbahn immer 1,5 Stunden vor dem Anstoß - aktuell biet"
+        }
+      },
+      "instagram": [
+        "fcdueren"
+      ],
+      "emails": [
+        "mike.schulz@fcdueren.de",
+        "vorstand@1.fcdueren.de",
+        "sebastian.tews@fcdueren.de"
+      ],
+      "preise": [
+        {
+          "eur": 10,
+          "url": "https://www.fcdueren.de/ticketing/tagesticket",
+          "stelle": "vollzahler 10€"
+        },
+        {
+          "eur": 12,
+          "url": "https://www.fcdueren.de/ticketing/tagesticket",
+          "stelle": "vollzahler 12€"
+        }
+      ],
+      "anbieter": {
+        "name": "vivenu",
+        "beleg": "https://www.fcdueren.de/",
+        "wie": "eingebunden auf https://www.fcdueren.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VfL 08 Vichttal",
+      "team_id": "VfL 08 Vichttal",
+      "homepage": "https://vfl08.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfL_08_Vichttal",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "52222",
+      "ort_qid": "Q4068",
+      "ort": "Stolberg",
+      "verein": "VfL 08 Vichttal",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://vfl08.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventfrog",
+        "beleg": "https://vfl08.de/",
+        "wie": "eingebunden auf https://vfl08.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SSV Bornheim",
+      "team_id": "SSV Bornheim",
+      "homepage": "https://www.ssv-bornheim.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SSV_Bornheim",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "SSV Bornheim",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://ssv-bornheim.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "dieerstessvbornheim"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Borussia Lindenthal-Hohenlind",
+      "team_id": "Borussia Lindenthal-Hohenlind",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Borussia_Lindenthal-Hohenlind",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "51149",
+      "ort_qid": "Q365",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Köln",
+      "verein": "Borussia Lindenthal-Hohenlind",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TuS Chlodwig Zülpich",
+      "team_id": "TuS Chlodwig Zülpich",
+      "homepage": "http://www.tuszuelpich.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TuS_Chlodwig_Z%C3%BClpich",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "53909",
+      "ort_qid": "Q5398",
+      "ort": "Zülpich",
+      "verein": "TuS Chlodwig Zülpich",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tuszuelpich.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Siegburger SV",
+      "team_id": "Siegburger SV",
+      "homepage": "http://www.siegburg04.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Siegburger_SV",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "53721",
+      "ort_qid": "Q14870",
+      "ort": "Siegburg",
+      "verein": "Siegburger SV",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.siegburg04.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "siegburg04"
+      ],
+      "emails": [
+        "ibrahim.uzun@siegburg04.de",
+        "oliver.karp@siegburg04.de",
+        "ferat.canbakan@siegburg04.de",
+        "tom.caspers@siegburg04.de",
+        "vereinsverwaltung@siegburg04.de",
+        "info@siegburg04.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Hürth",
+      "team_id": "FC Hürth",
+      "homepage": "http://www.fc-huerth.de/index.php?id=1",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_H%C3%BCrth",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "50354",
+      "ort_qid": "Q4060",
+      "ort": "Hürth",
+      "verein": "FC Hürth",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fc-huerth.de/?id=1"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fchuerth",
+        "fc_huerth"
+      ],
+      "emails": [
+        "info@fchuerth.de",
+        "info-jugend@fchuerth.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Hennef 05",
+      "team_id": "FC Hennef 05",
+      "homepage": "http://www.fc-hennef.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Hennef_05",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "53773",
+      "ort_qid": "Q6961",
+      "ort": "Hennef",
+      "verein": "FC Hennef 05",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fc-hennef.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FSV Neunkirchen-Seelscheid",
+      "team_id": "FSV Neunkirchen-Seelscheid",
+      "homepage": "https://www.fsv-nks.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FSV_Neunkirchen-Seelscheid",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "53819",
+      "ort_qid": "Q254171",
+      "ort": "Neunkirchen-Seelscheid",
+      "verein": "FSV Neunkirchen-Seelscheid",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fsv-nks.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@fsv-nks.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TuS Königsdorf",
+      "team_id": "TuS Königsdorf",
+      "homepage": "https://www.tuskoenigsdorf.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TuS_K%C3%B6nigsdorf",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "TuS Königsdorf",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tus-koenigsdorf.de/tus/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@tus-koenigsdorf.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SpVg Porz",
+      "team_id": "SpVg Porz",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SpVg_Porz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Mittelrheinliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q458242",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Porz",
+      "verein": "SpVg Porz",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    }
+  ]
+}

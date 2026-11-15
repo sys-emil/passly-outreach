@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "SSVg Velbert",
+    "ort": "Velbert",
+    "land": "NW",
+    "liga": "oberliga-niederrhein",
+    "liga_name": "Oberliga Niederrhein (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.ssvg.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "ssvg02",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Ticketseite nennt Tageskassen und Dauerkarten (Sitzplatz Tribüne 210 €, VIP-Dauerkarte 1.300 €), aber keinen Online-Vorverkauf.",
+    "quellen": [
+      "https://www.ssvg.de/fans/tickets",
+      "https://www.ssvg.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.ssvg.de/fans/tickets",
+      "https://www.ssvg.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Wie die Dauerkarten verkauft werden, steht nicht da.",
+    "kosten_usd": 0
+  }
+}

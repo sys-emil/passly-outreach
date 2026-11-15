@@ -529,6 +529,69 @@
         "seite": "Fu%C3%9Fball-Hessenliga_2026/27"
       },
       "vereine": []
+    },
+    "oberliga-niederrhein": {
+      "name": "Oberliga Niederrhein (Fußball, 5. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Oberliga_Niederrhein_2026/27"
+      },
+      "vereine": []
+    },
+    "oberliga-westfalen": {
+      "name": "Oberliga Westfalen (Fußball, 5. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Oberliga_Westfalen_2026/27"
+      },
+      "vereine": []
+    },
+    "mittelrheinliga": {
+      "name": "Mittelrheinliga (Fußball, 5. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Mittelrheinliga_2026/27"
+      },
+      "vereine": []
+    },
+    "oberliga-niedersachsen": {
+      "name": "Oberliga Niedersachsen (Fußball, 5. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Oberliga_Niedersachsen_2026/27"
+      },
+      "vereine": []
+    },
+    "oberliga-rps": {
+      "name": "Oberliga Rheinland-Pfalz/Saar (Fußball, 5. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27"
+      },
+      "vereine": []
+    },
+    "oberliga-hamburg": {
+      "name": "Oberliga Hamburg (Fußball, 5. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Oberliga_Hamburg_2026/27"
+      },
+      "vereine": []
+    },
+    "bremen-liga": {
+      "name": "Bremen-Liga (Fußball, 5. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Bremen-Liga_2026/27"
+      },
+      "vereine": []
     }
   }
 }

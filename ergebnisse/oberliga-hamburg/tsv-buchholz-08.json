@@ -1,0 +1,39 @@
+{
+  "verein": {
+    "name": "TSV Buchholz 08",
+    "ort": "Buchholz in der Nordheide",
+    "land": "NI",
+    "liga": "oberliga-hamburg",
+    "liga_name": "Oberliga Hamburg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.tsv-buchholz08.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tsv_buchholz_08_ev",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von TSV Buchholz 08 nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga Hamburg.",
+    "quellen": [
+      "https://tsv-buchholz08.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://tsv-buchholz08.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0
+  }
+}

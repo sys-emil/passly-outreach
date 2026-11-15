@@ -1,0 +1,39 @@
+{
+  "verein": {
+    "name": "TuS Dassendorf",
+    "ort": "Dassendorf",
+    "land": "NI",
+    "liga": "oberliga-hamburg",
+    "liga_name": "Oberliga Hamburg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.tus-dassendorf-liga.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von TuS Dassendorf nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga Hamburg.",
+    "quellen": [
+      "https://www.tus-dassendorf-liga.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.tus-dassendorf-liga.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0
+  }
+}

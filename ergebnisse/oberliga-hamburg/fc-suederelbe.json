@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "FC Süderelbe",
+    "ort": "Hamburg",
+    "land": "HH",
+    "liga": "oberliga-hamburg",
+    "liga_name": "Oberliga Hamburg (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fcsuederelbe.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fc.suederelbe",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von FC Süderelbe nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga Hamburg.",
+    "quellen": [
+      "https://fc-suederelbe.de/index.php/77-liga/spieltagvorschau/171-fan-information",
+      "https://fc-suederelbe.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://fc-suederelbe.de/index.php/77-liga/spieltagvorschau/171-fan-information",
+      "https://fc-suederelbe.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "verein": {
+    "name": "SpVgg Erkenschwick",
+    "ort": "Oer-Erkenschwick",
+    "land": "NW",
+    "liga": "oberliga-westfalen",
+    "liga_name": "Oberliga Westfalen (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://esv1916.de/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Wikidata-Adresse esv1916.de leitet auf eine Casino-Werbeseite um (Domain offenbar übernommen); die echte Vereinsseite ist unbekannt.",
+    "quellen": [],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Traditionsverein. Anruf.",
+    "kosten_usd": 0
+  }
+}

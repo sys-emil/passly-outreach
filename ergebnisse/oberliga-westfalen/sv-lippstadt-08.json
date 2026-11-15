@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "SV Lippstadt 08",
+    "ort": "Lippstadt",
+    "land": "NW",
+    "liga": "oberliga-westfalen",
+    "liga_name": "Oberliga Westfalen (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.svlippstadt08.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Etix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Etix (eingebunden auf https://svlippstadt08.de/: https://svlippstadt08.de/).",
+    "quellen": [
+      "https://svlippstadt08.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Westfalen_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://svlippstadt08.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Westfalen_2026/27"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „SV Lippstadt 08“. Gelesen: https://svlippstadt08.de/, https://svlippstadt08.de/bruchbaum/liebelt-arena/tickets.",
+    "kosten_usd": 0
+  }
+}

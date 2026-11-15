@@ -1,0 +1,45 @@
+{
+  "verein": {
+    "name": "TSV Gau-Odernheim",
+    "ort": "Gau-Odernheim",
+    "land": "RP",
+    "liga": "oberliga-rps",
+    "liga_name": "Oberliga Rheinland-Pfalz/Saar (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://tsv1881.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": "Sabine Tasch",
+      "rolle": "Vereinsmanagerin",
+      "kontakt": "0160 4874304"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ein Beitrag vom 12. Juli kündigt den Dauerkarten-Vorverkauf für die Oberliga an (erstmals digital oder als Plastikkarte), die Seite nennt aber keinen Shop und keinen Bestellweg.",
+    "quellen": [
+      "https://tsv1881.de/",
+      "https://tsv1881.de/author/admin-fussball/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://tsv1881.de/",
+      "https://tsv1881.de/author/admin-fussball/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Digitale Dauerkarte deutet auf ein System hin; welches, ist offen.",
+    "kosten_usd": 0
+  }
+}

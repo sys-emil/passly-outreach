@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "Blau-Weiß Lohne",
+    "ort": "Lohne",
+    "land": "NI",
+    "liga": "oberliga-niedersachsen",
+    "liga_name": "Oberliga Niedersachsen (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.tus-bw-lohne.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tusblauweisslohne",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von Blau-Weiß Lohne nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga Niedersachsen.",
+    "quellen": [
+      "https://bw-lohne.de/de/abteilungen/fussball/",
+      "https://bw-lohne.de/de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://bw-lohne.de/de/abteilungen/fussball/",
+      "https://bw-lohne.de/de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "verein": {
+    "name": "BSV Rehden",
+    "ort": "Rehden",
+    "land": "NI",
+    "liga": "oberliga-niedersachsen",
+    "liga_name": "Oberliga Niedersachsen (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.bsv-rehden.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "bsvrehden",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Ticketbestellung",
+      "kontakt": "info@bsv-rehden.de, 05446 993439"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Der Menüpunkt „Ticketshop“ führt auf eine Seite mit „TICKETBESTELLUNG UNTER: E-mail: info@bsv-rehden.de oder Tel. 05446-993439“, einen Online-Shop gibt es nicht.",
+    "quellen": [
+      "https://www.bsv-rehden.de/fanblock-tickets/",
+      "https://www.bsv-rehden.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.bsv-rehden.de/fanblock-tickets/",
+      "https://www.bsv-rehden.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Früher Regionalliga. „Ticketshop“ heißt hier Mail und Telefon: guter Aufhänger.",
+    "kosten_usd": 0
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab auf eurer Seite gesehen, dass der Ticketshop eine Bestellung per Mail oder Telefon ist. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Fanblock, Dauerkarte und Tageskasse laufen im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: BSV Rehden, info@bsv-rehden.de, 05446 993439.\n- Einstieg: Menüpunkt „Ticketshop“ führt auf „Ticketbestellung unter E-Mail oder Telefon“.\n- Frage: Wie viele Bestellungen kommen so pro Heimspiel, und wie läuft die Bezahlung?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

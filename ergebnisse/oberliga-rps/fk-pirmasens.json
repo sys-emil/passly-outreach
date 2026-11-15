@@ -1,0 +1,39 @@
+{
+  "verein": {
+    "name": "FK Pirmasens",
+    "ort": "Pirmasens",
+    "land": "SL",
+    "liga": "oberliga-rps",
+    "liga_name": "Oberliga Rheinland-Pfalz/Saar (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.fk-pirmasens.com/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Startseite des FK Pirmasens verlinkt einen Vereinsticket-Shop (events.vereinsticket.de/fkpirmasens).",
+    "quellen": [
+      "https://fk-pirmasens.com/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://fk-pirmasens.com/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0
+  }
+}

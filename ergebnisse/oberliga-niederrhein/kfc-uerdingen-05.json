@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "KFC Uerdingen 05",
+    "ort": "Uerdingen",
+    "land": "NW",
+    "liga": "oberliga-niederrhein",
+    "liga_name": "Oberliga Niederrhein (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.kfc-uerdingen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketshop (kfc-tickets.de)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": "Grotenburg-Stadion, Krefeld",
+    "kapazitaet": null,
+    "instagram": "kfc_uerdingen",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tickets gibt es online über kfc-tickets.de (Versand per Post), in der Geschäftsstelle, an Vorverkaufsstellen und an der Tageskasse.",
+    "quellen": [
+      "https://www.kfc-uerdingen.de/grotenburg/tickets/",
+      "https://www.kfc-uerdingen.de/grotenburg/tickets/tageskarten/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.kfc-uerdingen.de/grotenburg/tickets/",
+      "https://www.kfc-uerdingen.de/grotenburg/tickets/tageskarten/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ehemaliger Bundesligist, voll ausgebaut. Shopsoftware nicht erkennbar.",
+    "kosten_usd": 0
+  }
+}

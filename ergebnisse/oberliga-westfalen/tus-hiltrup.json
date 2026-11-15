@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "TuS Hiltrup",
+    "ort": "Münster",
+    "land": "NW",
+    "liga": "oberliga-westfalen",
+    "liga_name": "Oberliga Westfalen (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.tus-hiltrup.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tushiltrup1930ev",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von TuS Hiltrup nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga.",
+    "quellen": [
+      "https://www.tus-hiltrup.de/de/Sportangebot/sportangebote-und-abteilungen/fussball/",
+      "https://www.tus-hiltrup.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.tus-hiltrup.de/de/Sportangebot/sportangebote-und-abteilungen/fussball/",
+      "https://www.tus-hiltrup.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0
+  }
+}

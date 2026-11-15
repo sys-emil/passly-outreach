@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "SV Gonsenheim",
+    "ort": "Mainz",
+    "land": "RP",
+    "liga": "oberliga-rps",
+    "liga_name": "Oberliga Rheinland-Pfalz/Saar (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.sv-gonsenheim.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Wix Events",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Wix Events (Wix-Events-Shop auf https://www.sv-gonsenheim.de/: https://www.sv-gonsenheim.de/).",
+    "quellen": [
+      "https://www.sv-gonsenheim.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.sv-gonsenheim.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „SV Gonsenheim“. Gelesen: https://www.sv-gonsenheim.de/.",
+    "kosten_usd": 0
+  }
+}

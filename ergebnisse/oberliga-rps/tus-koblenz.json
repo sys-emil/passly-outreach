@@ -1,0 +1,43 @@
+{
+  "verein": {
+    "name": "TuS Koblenz",
+    "ort": "Koblenz",
+    "land": "RP",
+    "liga": "oberliga-rps",
+    "liga_name": "Oberliga Rheinland-Pfalz/Saar (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.tuskoblenz.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": 25,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tuskoblenz",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://tuskoblenz.de/tickets/: https://tuskoblenz.de/tickets/).",
+    "quellen": [
+      "https://tuskoblenz.de/tickets/",
+      "https://tuskoblenz.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-15",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://tuskoblenz.de/tickets/",
+      "https://tuskoblenz.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Rheinland-Pfalz/Saar_2026/27"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „TuS Koblenz“. Gelesen: https://tuskoblenz.de/, https://tuskoblenz.de/tickets/, https://tuskoblenz.de/gruppenticket/, https://tuskoblenz.de/dauerkarten/.",
+    "kosten_usd": 0
+  }
+}
