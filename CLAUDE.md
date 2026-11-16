@@ -11,6 +11,8 @@ sich bei jedem `npm run bericht` neu. `bericht/<liga>.md` und `.csv` bleiben dan
 
 **Im Admin von Passly:** `npm run sync` schickt alle Ergebnisse an den Tab „Kundensuche“
 (Kontaktstatus, Notizen, Wiedervorlage pflegt Emil dort; der Import fasst sie nie an).
+Vereine unter 30 Punkten schickt er nur grob (Name, Liga, Verkaufsweg, Punkte) für die Statistik,
+ohne Kontakte und Entwürfe; die vollen Daten bleiben in `ergebnisse/`.
 Nach jedem Rechercheauftrag `npm run sync` anbieten, nicht ungefragt senden.
 
 **Verschickt wird nichts.** Keine Mail, keine DM, kein Formular. Du lieferst Fakten,

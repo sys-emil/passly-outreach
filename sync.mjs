@@ -13,12 +13,20 @@
 // Der Import ersetzt die Rechercheergebnisse in outreach_vereine; den
 // Kontaktstatus (outreach_status) fasst er nie an. Die Punkte rechnet
 // bewertung.mjs, dieselbe Formel wie Bericht und Übersicht.
+//
+// Seit 2026-11-16 (Emils Wunsch): Vereine unter SCHWELLE Punkten gehen nur
+// grob in die Datenbank (Name, Liga, Ort, Verkaufsweg, Anbieter, Punkte) und
+// zählen nur in der Statistik. Kontakte, Entwürfe, Quellen und Gründe bleiben
+// hier im Repo; die Produktions-DB hält so keine privaten Adressen von
+// Vereinen, die Emil nie anschreibt. Ein späterer Sync überschreibt auch alte
+// volle Zeilen mit der groben Form.
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { bewerte } from './bewertung.mjs';
 
+const SCHWELLE = 30;
 const HERE = path.dirname(fileURLToPath(import.meta.url));
 const ZIELE = {
   produktion: { url: process.env.APP_URL ?? 'https://getpassly.de', secret: 'ADMIN_SECRET' },
@@ -41,6 +49,17 @@ for (const liga of ligen) {
     const e = r.ergebnis;
     const b = bewerte(r);
     const fakten = r.meta.pruefung?.fakten;
+    if (b.punkte < SCHWELLE) {
+      vereine.push({
+        id: `${liga}/${f.replace(/\.json$/, '')}`,
+        liga, liga_name: r.verein.liga_name, sport: r.verein.sport, name: r.verein.name,
+        ort: r.verein.ort ?? null, land: r.verein.land ?? null,
+        vorverkauf: e.vorverkauf, anbieter: e.anbieter ?? null, punkte: b.punkte,
+        gruende: [], kontakt_emails: [], daten: { grob: true },
+        recherchiert_am: r.meta.recherchiert_am ?? null,
+      });
+      continue;
+    }
     const mails = [...new Set([e.ansprechperson?.kontakt ?? '', r.mail?.an ?? ''].join(' ').match(/[\w.+-]+@[\w-]+(?:\.[\w-]+)+/g) ?? [])];
     vereine.push({
       id: `${liga}/${f.replace(/\.json$/, '')}`,
@@ -80,6 +99,7 @@ if (args.includes('--probe')) {
   const sport = {};
   for (const v of vereine) sport[v.sport] = (sport[v.sport] ?? 0) + 1;
   console.log('Sportarten:', sport);
+  console.log(`grob (unter ${SCHWELLE}):`, vereine.filter((v) => v.daten.grob).length);
   console.log('Kandidaten ab 45:', vereine.filter((v) => v.punkte >= 45).length);
   process.exit(0);
 }
