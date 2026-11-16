@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Weiß-Blaue Bühne e. V.",
+    "land": "BY",
+    "liga": "kultur-muc-amateurtheater",
+    "liga_name": "Amateurtheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.weiss-blaue-buehne.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": 15,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Kartenvorverkauf unter Telefon 089 690 99 87“ Di–Do abends, Bestellungen verbindlich; „Tickets vor Ort nur in bar … Eine Kartenzahlung ist leider nicht“ möglich. Erwachsene 15 €, Studenten 10 €, Kinder 5 €.",
+    "quellen": [
+      "https://www.weiss-blaue-buehne.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.weiss-blaue-buehne.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Spielt im Prinzregent-Garten Pasing.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.weiss-blaue-buehne.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.weiss-blaue-buehne.de/"
+        ],
+        "vorverkauf": [
+          "https://www.weiss-blaue-buehne.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass ihr Karten telefonisch verkauft und vor Ort nur bar zahlen lasst. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Weiß-Blaue Bühne über die Website.\n- Einstieg: Kartenvorverkauf per Telefon Di bis Do abends, 15 € Erwachsene, nur Barzahlung.\n- Frage: Wer macht den Telefondienst, und wie viele Bestellungen kommen pro Vorstellung?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

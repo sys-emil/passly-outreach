@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "Kleines Spiel",
+    "land": "BY",
+    "liga": "kultur-muc-kleinkunst",
+    "liga_name": "Kleinkunstbühnen München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.kleinesspiel.de",
+    "vorverkauf": "eintritt_frei",
+    "anbieter": null,
+    "eintritt_frei": true,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Der Eintritt zu unseren Vorstellungen ist seit der Theatergründung im Jahr 1947 frei. Es gibt keine Eintrittskarten – und daher auch keinen Kartenvorverkauf.“ Spenden erbeten.",
+    "quellen": [
+      "https://www.kleinesspiel.de/alterhut/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.kleinesspiel.de/alterhut/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Kein Ticketgeschäft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.kleinesspiel.de/alterhut/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "vorverkauf": [
+          "https://www.kleinesspiel.de/alterhut/"
+        ]
+      }
+    }
+  }
+}

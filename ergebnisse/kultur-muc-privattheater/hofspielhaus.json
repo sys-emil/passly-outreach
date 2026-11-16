@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "Hofspielhaus",
+    "land": "BY",
+    "liga": "kultur-muc-privattheater",
+    "liga_name": "Privattheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "http://www.hofspielhaus.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": true,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "hofspielhaus",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von Hofspielhaus nennen weder Eintrittspreise noch einen Kartenweg.",
+    "quellen": [
+      "https://www.hofspielhaus.de/spielplan/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.hofspielhaus.de/spielplan/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ticketweg nicht belegt. Brotzeit per karten@hofspielhaus.de; „Theater für alle – ohne Eintritt“ ist eine Sonderreihe.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hofspielhaus.de/spielplan/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.hofspielhaus.de/spielplan/"
+        ]
+      }
+    }
+  }
+}

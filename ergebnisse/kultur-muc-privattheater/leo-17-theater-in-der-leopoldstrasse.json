@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "LEO 17 – Theater in der Leopoldstraße",
+    "land": "BY",
+    "liga": "kultur-muc-privattheater",
+    "liga_name": "Privattheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://leo17.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "theaterleo17",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von LEO 17 nennen weder Eintrittspreise noch einen Kartenweg.",
+    "quellen": [
+      "https://leo17.de/spielplan/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://leo17.de/spielplan/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ticketweg nicht belegt. Gastspiele laut Veranstaltungsportalen teils über Eventim.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://leo17.de/spielplan/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://leo17.de/spielplan/"
+        ]
+      }
+    }
+  }
+}

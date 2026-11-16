@@ -1,0 +1,68 @@
+{
+  "verein": {
+    "name": "Theater gruppo di grappa",
+    "land": "BY",
+    "liga": "kultur-muc-amateurtheater",
+    "liga_name": "Amateurtheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.gruppo-di-grappa.theater/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": 20,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Ensemble",
+      "kontakt": "info@gruppo-di-grappa.theater"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Je Spielort Abendkasse; „Reservierungen: info@gruppo-di-grappa.theater oder unter Ticketvorbestellungen“ (Formular). Für Gastspiele teils München Ticket. 20 €, ermäßigt 15 €.",
+    "quellen": [
+      "https://www.gruppo-di-grappa.theater/",
+      "https://www.gruppo-di-grappa.theater/ticketvorbestellung/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.gruppo-di-grappa.theater/",
+      "https://www.gruppo-di-grappa.theater/ticketvorbestellung/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Tourt durch mehrere Spielorte (INTERIM, Pasinger Fabrik, LUISE).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.gruppo-di-grappa.theater/",
+      "https://www.gruppo-di-grappa.theater/ticketvorbestellung/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.gruppo-di-grappa.theater/",
+          "https://www.gruppo-di-grappa.theater/ticketvorbestellung/"
+        ],
+        "ansprechperson": [
+          "https://www.gruppo-di-grappa.theater/",
+          "https://www.gruppo-di-grappa.theater/ticketvorbestellung/"
+        ],
+        "vorverkauf": [
+          "https://www.gruppo-di-grappa.theater/",
+          "https://www.gruppo-di-grappa.theater/ticketvorbestellung/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass ihr an mehreren Spielorten spielt und Reservierungen per Mail oder Formular annehmt, bezahlt wird an der Abendkasse. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Ein Link für alle Spielorte. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Theater gruppo di grappa, info@gruppo-di-grappa.theater.\n- Einstieg: Gastspiele im INTERIM, in der Pasinger Fabrik und im LUISE, Reservierung per Mail oder Formular, 20 € / 15 €.\n- Frage: Wie behaltet ihr den Überblick über die Reservierungen je Spielort?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

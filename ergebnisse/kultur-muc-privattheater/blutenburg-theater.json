@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "Blutenburg-Theater",
+    "land": "BY",
+    "liga": "kultur-muc-privattheater",
+    "liga_name": "Privattheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "http://www.blutenburg-theater.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "blutenburgtheater",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Kartenbestellung über ein eigenes „Karten-Reservierungssystem“ oder telefonisch an der Theaterkasse 089/123 43 00.",
+    "quellen": [
+      "https://www.blutenburg-theater.de/blth/karten/bestellen_neu_blth.php"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.blutenburg-theater.de/blth/karten/bestellen_neu_blth.php"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Eigenes Bestellformular; ob online bezahlt wird, nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.blutenburg-theater.de/blth/karten/bestellen_neu_blth.php"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "vorverkauf": [
+          "https://www.blutenburg-theater.de/blth/karten/bestellen_neu_blth.php"
+        ],
+        "instagram": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass ihr Karten über euer eigenes Reservierungssystem und telefonisch verkauft. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Blutenburg-Theater, Theaterkasse 089/123 43 00.\n- Einstieg: Eigenes Kartenbestellsystem und Telefon, Sitzplan auf der Website.\n- Frage: Zahlt man bei euch vorab oder an der Abendkasse? Achtung: Sitzplan heißt vermutlich nummerierte Plätze.\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

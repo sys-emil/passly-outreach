@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "Stemmerhof",
+    "land": "BY",
+    "liga": "kultur-muc-kleinkunst",
+    "liga_name": "Kleinkunstbühnen München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "http://www.ars-musica-muenchen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Ticketino",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "arsmusica_muenchen",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Vorverkauf-Seite von ars musica verlinkt ticketino.com; daneben telefonische Reservierung und Vorverkauf im Musikladen Lindwurmstraße.",
+    "quellen": [
+      "https://www.ars-musica-muenchen.de/page.php?id=6&lang=de&title=Vorverkauf"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.ars-musica-muenchen.de/page.php?id=6&lang=de&title=Vorverkauf"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.ars-musica-muenchen.de/page.php?id=6&lang=de&title=Vorverkauf"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.ars-musica-muenchen.de/page.php?id=6&lang=de&title=Vorverkauf"
+        ],
+        "instagram": []
+      }
+    }
+  }
+}

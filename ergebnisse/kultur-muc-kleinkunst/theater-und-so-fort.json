@@ -1,0 +1,57 @@
+{
+  "verein": {
+    "name": "theater ... und so fort",
+    "land": "BY",
+    "liga": "kultur-muc-kleinkunst",
+    "liga_name": "Kleinkunstbühnen München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "http://www.undsofort.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": 24,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Online-Kartenbestellung als verbindliche Reservierung mit Bestätigung per Mail; Abholung und Zahlung an der Abendkasse („Abholung der Karten bis 30 Minuten“ vorher). Preise je Produktion, z. B. 24/17 €.",
+    "quellen": [
+      "https://www.undsofort.de/kartenbestellung/von-wegen-weihnachten,7366",
+      "https://www.undsofort.de/spielplan"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.undsofort.de/kartenbestellung/von-wegen-weihnachten,7366"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Reservierung ohne Bezahlung; „Bei Nichterscheinen (ohne Absage)“ wird berechnet.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.undsofort.de/kartenbestellung/von-wegen-weihnachten,7366",
+      "https://www.undsofort.de/spielplan"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.undsofort.de/spielplan"
+    ],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "vorverkauf": [
+          "https://www.undsofort.de/kartenbestellung/von-wegen-weihnachten,7366"
+        ],
+        "ticketpreis_eur": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass eure Online-Kartenbestellung eine Reservierung ist und an der Abendkasse bezahlt wird. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: theater ... und so fort über die Kontaktseite.\n- Einstieg: Online-Reservierung mit Bestätigung per Mail, Abholung 30 Minuten vorher, Nichterscheinen wird berechnet.\n- Frage: Wie oft müsst ihr Nichterscheinen hinterherlaufen?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

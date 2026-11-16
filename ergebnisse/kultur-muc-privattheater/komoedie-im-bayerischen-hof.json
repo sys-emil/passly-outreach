@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "Komödie im Bayerischen Hof",
+    "land": "BY",
+    "liga": "kultur-muc-privattheater",
+    "liga_name": "Privattheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.komoedie-muenchen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Inhouse",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Spielplan & Tickets über komoedie-muenchen.eventim-inhouse.de.",
+    "quellen": [
+      "https://www.komoedie-muenchen.de/spielplan-tickets.html"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.komoedie-muenchen.de/spielplan-tickets.html"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.komoedie-muenchen.de/spielplan-tickets.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.komoedie-muenchen.de/spielplan-tickets.html"
+        ]
+      }
+    }
+  }
+}

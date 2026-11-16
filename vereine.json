@@ -701,55 +701,187 @@
     "eh-bayernliga": {
       "name": "Eishockey-Bayernliga (4. Liga)",
       "sport": "Eishockey",
-      "quelle": { "typ": "wikipedia", "seite": "Eishockey-Regionalliga_2026/27", "staffel": "Bayernliga", "format": "liste" },
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Eishockey-Regionalliga_2026/27",
+        "staffel": "Bayernliga",
+        "format": "liste"
+      },
       "vereine": []
     },
     "eh-bw-liga": {
       "name": "Eishockey-Baden-Württemberg-Liga (4. Liga)",
       "sport": "Eishockey",
-      "quelle": { "typ": "wikipedia", "seite": "Eishockey-Regionalliga_2026/27", "staffel": "Baden-Württemberg-Liga", "format": "liste" },
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Eishockey-Regionalliga_2026/27",
+        "staffel": "Baden-Württemberg-Liga",
+        "format": "liste"
+      },
       "vereine": []
     },
     "eh-rl-nordost": {
       "name": "Eishockey-Regionalliga Nordost (4. Liga)",
       "sport": "Eishockey",
-      "quelle": { "typ": "wikipedia", "seite": "Eishockey-Regionalliga_2026/27", "staffel": "Regionalliga Nordost", "format": "liste" },
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Eishockey-Regionalliga_2026/27",
+        "staffel": "Regionalliga Nordost",
+        "format": "liste"
+      },
       "vereine": []
     },
     "eh-rl-west": {
       "name": "Eishockey-Regionalliga West (4. Liga)",
       "sport": "Eishockey",
-      "quelle": { "typ": "wikipedia", "seite": "Eishockey-Regionalliga_2026/27", "staffel": "Regionalliga West", "format": "liste" },
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Eishockey-Regionalliga_2026/27",
+        "staffel": "Regionalliga West",
+        "format": "liste"
+      },
       "vereine": []
     },
     "bb-rl1-nord": {
       "name": "1. Regionalliga Nord (Basketball, Herren)",
       "sport": "Basketball",
-      "quelle": { "typ": "dbb", "ligaId": 54819 },
+      "quelle": {
+        "typ": "dbb",
+        "ligaId": 54819
+      },
       "vereine": []
     },
     "bb-rl1-west": {
       "name": "1. Regionalliga West (Basketball, Herren)",
       "sport": "Basketball",
-      "quelle": { "typ": "dbb", "ligaId": 54569 },
+      "quelle": {
+        "typ": "dbb",
+        "ligaId": 54569
+      },
       "vereine": []
     },
     "bb-rl1-suedwest": {
       "name": "1. Regionalliga Südwest (Basketball, Herren)",
       "sport": "Basketball",
-      "quelle": { "typ": "dbb", "ligaId": 53088 },
+      "quelle": {
+        "typ": "dbb",
+        "ligaId": 53088
+      },
       "vereine": []
     },
     "bb-rl1-suedost-nord": {
       "name": "1. Regionalliga Südost Nord (Basketball, Herren)",
       "sport": "Basketball",
-      "quelle": { "typ": "dbb", "ligaId": 52515 },
+      "quelle": {
+        "typ": "dbb",
+        "ligaId": 52515
+      },
       "vereine": []
     },
     "bb-rl1-suedost-sued": {
       "name": "1. Regionalliga Südost Süd (Basketball, Herren)",
       "sport": "Basketball",
-      "quelle": { "typ": "dbb", "ligaId": 52514 },
+      "quelle": {
+        "typ": "dbb",
+        "ligaId": 52514
+      },
+      "vereine": []
+    },
+    "kultur-muc-kleinkunst": {
+      "name": "Kleinkunstbühnen München",
+      "sport": "Kultur",
+      "quelle": {
+        "typ": "wikiliste",
+        "seite": "Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+        "abschnitte": [
+          "Liste von Kleinkunstbühnen im Raum München"
+        ],
+        "format": "tabelle"
+      },
+      "vereine": []
+    },
+    "kultur-muc-privattheater": {
+      "name": "Privattheater München",
+      "sport": "Kultur",
+      "quelle": {
+        "typ": "wikiliste",
+        "seite": "Liste_der_Theater_in_M%C3%BCnchen",
+        "abschnitte": [
+          "Private Theater"
+        ],
+        "format": "liste",
+        "ohne": [
+          "Teamtheater",
+          "Theater im Fraunhofer",
+          "theater ... und so fort",
+          "Heppel & Ettlich",
+          "Rationaltheater",
+          "TamS",
+          "Theater Drehleier",
+          "Wirtshaus zum Isartal",
+          "KRIST & MÜNCH Table Magic Theater",
+          "Kleines Spiel"
+        ],
+        "homepages": {
+          "Die Spieldose": "https://www.die-spieldose.de/",
+          "Galli Theater": "https://galli-muenchen.de/",
+          "GOP Varieté-Theater": "https://www.variete.de/muenchen",
+          "INTERIM-Theater": "https://www.interim-kultur.de/",
+          "Kleines Theater im Pförtnerhaus": "https://www.kasperlbuehne.de/",
+          "Komödie im Bayerischen Hof": "https://www.komoedie-muenchen.de/",
+          "LEO 17 – Theater in der Leopoldstraße": "https://leo17.de/",
+          "Münchner Sommertheater": "https://www.muenchner-sommertheater.de/",
+          "Oberanger Theater": "https://www.oberangertheater.de/",
+          "proT": "https://www.prot.de/",
+          "teatro - the art of show and cuisine": "https://www.teatro.de/"
+        }
+      },
+      "vereine": []
+    },
+    "kultur-muc-amateurtheater": {
+      "name": "Amateurtheater München",
+      "sport": "Kultur",
+      "quelle": {
+        "typ": "wikiliste",
+        "seite": "Liste_der_Theater_in_M%C3%BCnchen",
+        "abschnitte": [
+          "Amateurtheater"
+        ],
+        "format": "liste",
+        "ohne": [
+          "Münchner Vorstadtbrettl",
+          "TSV Forstenried"
+        ],
+        "homepages": {
+          "ArtikultTheater": "https://artikulttheater.de/",
+          "Die Spielmacher": "https://www.die-spielmacher.de/",
+          "Heiglhoftheater": "https://www.heiglhoftheater.de",
+          "Kachina Theater GbR": "http://www.kachina-theater.de/",
+          "Sendlinger Bauernbühne": "http://www.ftm-sued.de/",
+          "Theater gruppo di grappa": "https://www.gruppo-di-grappa.theater/",
+          "Theater im Kloster": "http://www.theaterimkloster.de/",
+          "Theatergruppe Rasselglocke": "http://www.rasselglocke.de/",
+          "Theaterteam Helena": "http://www.theaterteam-helena.de/",
+          "Theaterverein Die lustigen Truderinger": "http://www.die-lustigen-truderinger.de/",
+          "Thow & Show": "http://www.thowshow.jimdo.com/",
+          "Bayerische Volksbühne Watzmann e. V.": "http://www.b-v-w.de/",
+          "Dramatischer Club Alpenröserl e. V.": "http://www.alpenroeserl.de/",
+          "el teatro e. V.": "http://www.el-teatro.de/",
+          "Feldmochinger Volkstheater e. V.": "https://feldmochinger-volkstheater.de",
+          "Laimer Brett’l e. V.": "https://www.laimerbrettl.de/",
+          "Milbertshofener Bühne e. V.": "https://www.milbertshofener-buehne.de/",
+          "Münchner Heimatbühne e. V.": "http://www.muenchner-heimatbuehne.de/",
+          "Neuaubinger Volksbühne e. V.": "https://neuaubinger-volksbuehne.de/",
+          "Südtiroler Volksbühne e. V.": "https://www.suedtiroler-volksbuehne.de/",
+          "s’ Bredl": "http://www.sbredl.de/",
+          "Theaterbrett’l 1993": "https://www.theaterbrettl.de/",
+          "Theatergruppe Musikforum Blutenburg e. V.": "http://www.musikforum-blutenburg.de/",
+          "Theatergruppe Siemens e. V.": "http://www.theater-ensemble-tgsm.de/",
+          "Weiß-Blaue Bühne e. V.": "http://www.weiss-blaue-buehne.de/",
+          "Lampenfieber Bayerisches Volkstheater": "https://lampenfieber-muenchen.de/",
+          "Theater in der Au e. V.": "https://www.theaterinderau.de/"
+        }
+      },
       "vereine": []
     }
   }

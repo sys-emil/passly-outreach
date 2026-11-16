@@ -107,6 +107,7 @@ try {
     : QUELLE.typ === 'wikipedia' ? await stufe0Wikipedia(QUELLE)
     : QUELLE.typ === 'namen' ? await stufe0Namen(QUELLE)
     : QUELLE.typ === 'dbb' ? await stufe0Dbb(QUELLE)
+    : QUELLE.typ === 'wikiliste' ? await stufe0WikiListe(QUELLE)
     : await stufe0Vbl(QUELLE);
 } catch {
   process.exit(2);
@@ -325,6 +326,59 @@ async function stufe0Dbb(q) {
   if (eintraege.length === 0) { console.error(`Basketball-Bund: keine Tabelle für Liga ${q.ligaId}`); throw new Error('quelle'); }
   const namen = eintraege.filter((e) => !e.team.verzicht).map((e) => e.team.teamname.trim());
   return stufe0Namen({ url: `https://www.basketball-bund.net/static/#/liga/${q.ligaId}`, suche: q.suche ?? 'Basketball', namen, homepages: q.homepages });
+}
+
+// Wikipedia-Listenartikel (seit 2026-11-16, Kultur): Abschnitte „abschnitte“ einer Seite,
+// je Eintrag eine Aufzählungszeile („* [[Artikel|Name]] …“ oder „* Name (…“) oder eine
+// Tabellenzeile (erste Zelle Name, Spalte mit [http…] als Homepage). Einträge ohne
+// Artikel behalten homepage null; „ohne“ schließt Namen aus (Dubletten zwischen Listen).
+async function stufe0WikiListe(q) {
+  const api = 'https://de.wikipedia.org/w/api.php?format=json&formatversion=2&';
+  listeUrl = `https://de.wikipedia.org/wiki/${q.seite}`;
+  const seite = await holen(`${api}action=parse&prop=wikitext&page=${q.seite}`);
+  if (!seite.ok) { console.error(`Wikipedia nicht abrufbar (${seite.grund}): ${listeUrl}`); throw new Error('quelle'); }
+  const wt = JSON.parse(seite.roh).parse?.wikitext ?? '';
+  const abschnitt = (name) => {
+    const m = wt.match(new RegExp(`\\n(=+) *(?:\\[\\[)?${name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(?:\\]\\])? *=+ *\\n`));
+    if (!m) { console.error(`Abschnitt „${name}“ fehlt in ${listeUrl}`); throw new Error('quelle'); }
+    const rest = wt.slice(m.index + m[0].length);
+    const ende = rest.search(new RegExp(`\\n={1,${m[1].length}}[^=]`));
+    return ende < 0 ? rest : rest.slice(0, ende);
+  };
+  const sauber = (x) => x.replace(/<ref[\s\S]*?(<\/ref>|\/>)/g, '').replace(/\{\{[^}]*\}\}/g, '').replace(/''+/g, '').replace(/&nbsp;/g, ' ').replace(/[„“"]/g, '').trim();
+  const eintraege = [];
+  for (const name of q.abschnitte) {
+    const text = abschnitt(name);
+    if (q.format === 'tabelle') {
+      for (const zeile of text.split(/\n\|-[^\n]*/).slice(1)) {
+        const zellen = zeile.split(/\n\|/).map((z) => z.trim()).filter(Boolean);
+        if (!zellen.length || /^!/.test(zellen[0])) continue;
+        const link = zellen[0].match(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/);
+        const web = zeile.match(/\[(https?:\/\/[^\s\]]+)/)?.[1] ?? null;
+        eintraege.push({ name: sauber(link ? (link[2] ?? link[1]) : zellen[0]), artikel: link?.[1] ?? null, web });
+      }
+    } else {
+      for (const zeile of text.split('\n').filter((z) => /^\*/.test(z))) {
+        const z = zeile.replace(/^\*\s*/, '');
+        // Link am Anfang, sonst der erste Link in den ersten Wörtern („Marionettentheater [[Kleines Spiel]]“).
+        const link = z.match(/^\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/) ?? z.match(/^[^\[(,]{0,40}\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/);
+        const extern = z.match(/^\[(https?:\/\/\S+) ([^\]]+)\]/);
+        const name = link ? (link[2] ?? link[1]) : extern ? extern[2] : sauber(z.split(/\s+\(|,|\s\)/)[0]);
+        eintraege.push({ name: sauber(name), artikel: link?.[1] ?? null, web: extern?.[1] ?? null });
+      }
+    }
+  }
+  const ohne = new Set(q.ohne ?? []);
+  const gesehen = new Set();
+  const teams = eintraege.filter((e) => e.name && !ohne.has(e.name) && !gesehen.has(e.name) && gesehen.add(e.name)).map((e) => ({
+    verband_name: e.name, team_id: e.artikel ?? e.name, homepage: null, ticketlink: null, _web: e.web, _artikel: !!e.artikel,
+    verband_team_url: e.artikel ? `https://de.wikipedia.org/wiki/${encodeURIComponent(e.artikel.replace(/ /g, '_'))}` : listeUrl,
+    verband_kontakt_url: listeUrl, verband_kontakte: [], verband_emails: [],
+  }));
+  await wikiAufloesen(teams.filter((t) => t._artikel), api);
+  for (const t of teams) { if (t._web) t.homepage = t._web; delete t._web; delete t._artikel; }
+  for (const [n, h] of Object.entries(q.homepages ?? {})) { const t = teams.find((x) => x.verband_name === n); if (t) t.homepage = h; }
+  return teams;
 }
 
 async function stufe0Namen(q) {

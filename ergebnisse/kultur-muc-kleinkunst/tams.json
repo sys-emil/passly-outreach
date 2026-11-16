@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "TamS",
+    "land": "BY",
+    "liga": "kultur-muc-kleinkunst",
+    "liga_name": "Kleinkunstbühnen München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "http://www.tamstheater.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "München Ticket (für die meisten Vorstellungen)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tamstheater",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Karten „telefonisch“ reservieren, an der Abendkasse abholen, „nur Barzahlung möglich (keine Kredit- oder ec-Karten)“; für die meisten Veranstaltungen auch über MÜNCHEN TICKET. Eintritt 30 € / 20 € / 10 €.",
+    "quellen": [
+      "https://tamstheater.de/karten"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://tamstheater.de/karten"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Teil-Lücke: Reservierung per Telefon, Abendkasse nur bar.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://tamstheater.de/karten"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://tamstheater.de/karten"
+        ],
+        "instagram": [
+          "https://tamstheater.de/karten"
+        ]
+      }
+    }
+  }
+}

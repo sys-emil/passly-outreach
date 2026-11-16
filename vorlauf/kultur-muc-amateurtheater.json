@@ -1,0 +1,1335 @@
+{
+  "liga": "kultur-muc-amateurtheater",
+  "stand": "2026-11-16",
+  "quelle": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+  "abrufe": 51,
+  "teams": [
+    {
+      "verband_name": "ArtikultTheater",
+      "team_id": "ArtikultTheater",
+      "homepage": "https://artikulttheater.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "ArtikultTheater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://artikulttheater.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "artikulttheater"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Bauerntheater in Obermenzing",
+      "team_id": "Bauerntheater in Obermenzing",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Bauerntheater in Obermenzing",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Bayerische Volksbühne Watzmann e. V.",
+      "team_id": "Bayerische Volksbühne Watzmann e. V.",
+      "homepage": "http://www.b-v-w.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Bayerische Volksbühne Watzmann e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.b-v-w.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Bayerisches Volkskunsttheater",
+      "team_id": "Bayerisches Volkskunsttheater",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Bayerisches Volkskunsttheater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Die Spielmacher",
+      "team_id": "Die Spielmacher",
+      "homepage": "https://www.die-spielmacher.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Die Spielmacher",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.die-spielmacher.de/",
+        "https://www.die-spielmacher.de/protected/?comeFrom=%2Fintern%2Fzuschauerumfrage-2016%2F"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.die-spielmacher.de/",
+          "stelle": "der Bühne bist, bist du alles!) 02. April 2025: Ab sofort läuft unser Vorverkauf. HIER gibt's alle Informationen rund um die Platzreservierung, und HI"
+        },
+        "von_hand": {
+          "url": "https://www.die-spielmacher.de/",
+          "stelle": "htreffen Zuschauerumfrage 2016 Ablaufbeschreibung für die Online-Platzreservierung Verlinkte Listen & Übersichten Galerie \"Making Of\"-Videos Probe 21"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@die-spielmacher.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "ticketleo",
+        "beleg": "https://www.die-spielmacher.de/",
+        "wie": "eingebunden auf https://www.die-spielmacher.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Dramatischer Club Alpenröserl e. V.",
+      "team_id": "Dramatischer Club Alpenröserl e. V.",
+      "homepage": "http://www.alpenroeserl.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Dramatischer Club Alpenröserl e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fam-greif.de/Alpenroeserl/wp/",
+        "https://www.fam-greif.de/Alpenroeserl/wp/kartenvorverkauf/"
+      ],
+      "nicht_lesbar": [
+        "https://www.fam-greif.de/Alpenroeserl/wp/wp-login.php?redirect_to=https%3A%2F%2Fwww.fam-greif.de%2FAlpenroeserl%2Fwp%2Fkartenvorverkauf%2F (HTTP 503)"
+      ],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.fam-greif.de/Alpenroeserl/wp/",
+          "stelle": "er den Kulissen Stückgeschichte Dokumente Jubiläum 2022 Kontakt Kartenvorverkauf Umstellung Postversand Newsletter Blog Intern Aktuelles Am 30. Oktobe"
+        },
+        "von_hand": {
+          "url": "https://www.fam-greif.de/Alpenroeserl/wp/",
+          "stelle": "rstag von 12 – 14 Uhr sowie 18 – 20 Uhr Hier geht es zur Online-Kartenreservierung Stellengesuch Wir suchen Sie! Werden Sie Teil unserer Theatergrupp"
+        },
+        "abendkasse": {
+          "url": "https://www.fam-greif.de/Alpenroeserl/wp/kartenvorverkauf/",
+          "stelle": "eservierung verwendet. Bestellte, nicht genutzte Karten müssen an der Abendkasse bezahlt werden, falls diese nicht mindestens 4 Tage vor der Aufführun"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "mail@alpenroeserl.de",
+        "kartenvorverkauf@alpenroeserl.de"
+      ],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://www.fam-greif.de/Alpenroeserl/wp/kartenvorverkauf/",
+          "stelle": "eintrittspreis erwachsene: 15 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "el teatro e. V.",
+      "team_id": "el teatro e. V.",
+      "homepage": "http://www.el-teatro.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "el teatro e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.el-teatro.de/ (UNABLE_TO_VERIFY_LEAF_SIGNATURE)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Erlebnis Oper e. V.",
+      "team_id": "Erlebnis Oper e. V.",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Erlebnis Oper e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Feldmochinger Volkstheater e. V.",
+      "team_id": "Feldmochinger Volkstheater e. V.",
+      "homepage": "https://feldmochinger-volkstheater.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Feldmochinger Volkstheater e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://feldmochinger-volkstheater.de (ECONNREFUSED)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Heiglhoftheater",
+      "team_id": "Heiglhoftheater",
+      "homepage": "https://www.heiglhoftheater.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Heiglhoftheater",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Heiglhoftheater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.heiglhoftheater.de/",
+        "https://www.heiglhoftheater.de/tickets-und-kontakt/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.heiglhoftheater.de/",
+          "stelle": "2. 2026 18:00 Uhr Ticketpreise 16 Euro und 12 Euro (ermäßigt) Tickets reservieren Gruppe Das Heiglhoftheater wurde am 17. Mai 1995 von 14 Theater-Beg"
+        }
+      },
+      "instagram": [
+        "heiglhoftheater"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 16,
+          "url": "https://www.heiglhoftheater.de/",
+          "stelle": "ticketpreise 16 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "International Munich Artlab Musiktheater",
+      "team_id": "International Munich Artlab Musiktheater",
+      "homepage": "https://imal-musiktheater.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/International_Munich_Artlab_Musiktheater",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "80331",
+      "ort_qid": "Q1726",
+      "ort": "München",
+      "verein": "International Munich Artlab Musiktheater",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "nachwuchs",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Kachina Theater GbR",
+      "team_id": "Kachina Theater GbR",
+      "homepage": "http://www.kachina-theater.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kachina Theater GbR",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.kachina-theater.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kleine Bühne München e. V.",
+      "team_id": "Kleine Bühne München e. V.",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kleine Bühne München e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kolpingbühne München-Giesing",
+      "team_id": "Kolpingbühne München-Giesing",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kolpingbühne München-Giesing",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Komödien-Brettl Untermenzing",
+      "team_id": "Komödien-Brettl Untermenzing",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Komödien-Brettl Untermenzing",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Laienspielgruppe s’ Moosacher Brett’l e. V.",
+      "team_id": "Laienspielgruppe s’ Moosacher Brett’l e. V.",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Laienspielgruppe s’ Moosacher Brett’l e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Laienspielgruppe Waldtrudering",
+      "team_id": "Laienspielgruppe Waldtrudering",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Laienspielgruppe Waldtrudering",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Laimer Brett’l e. V.",
+      "team_id": "Laimer Brett’l e. V.",
+      "homepage": "https://www.laimerbrettl.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Laimer Brett’l e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.laimerbrettl.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Lampenfieber Bayerisches Volkstheater",
+      "team_id": "Lampenfieber Bayerisches Volkstheater",
+      "homepage": "https://lampenfieber-muenchen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Lampenfieber Bayerisches Volkstheater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://lampenfieber-muenchen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://lampenfieber-muenchen.de/",
+          "stelle": "6 8. bis 10. Oktober 2026 jeweils 19:30 Uhr Wir sind weitestgehend ausreserviert. Wer dennoch es probieren möchte, kann hier noch reservieren: Plätze"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventbrite",
+        "beleg": "https://lampenfieber-muenchen.de/",
+        "wie": "eingebunden auf https://lampenfieber-muenchen.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Ludwigsbühne München",
+      "team_id": "Ludwigsbühne München",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Ludwigsbühne München",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Milbertshofener Bühne e. V.",
+      "team_id": "Milbertshofener Bühne e. V.",
+      "homepage": "https://www.milbertshofener-buehne.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Milbertshofener Bühne e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.milbertshofener-buehne.de/",
+        "https://www.milbertshofener-buehne.de/?page_id=41",
+        "https://www.milbertshofener-buehne.de/?p=3518",
+        "https://www.milbertshofener-buehne.de/?p=3512"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.milbertshofener-buehne.de/",
+          "stelle": "tz Ticket Update 27. Oktober 2026 27. Oktober 2026 webadmin Der Kartenvorverkauf ist in vollem Gange! Drei unserer 6 Vorstellungen sind bereits ausver"
+        },
+        "von_hand": {
+          "url": "https://www.milbertshofener-buehne.de/",
+          "stelle": "rungen Unser Theaterstück im Spätherbst 2026 Galerie Newsletter Kartenreservierung Über uns Das sind wir Mitglieder Rückblick Wir in der Presse Unser"
+        },
+        "abendkasse": {
+          "url": "https://www.milbertshofener-buehne.de/?page_id=41",
+          "stelle": "Vorbestellte Karten sollten bitte bis 30 min. vor Spielbeginn an der Abendkasse abgeholt werden. Sollten Sie verhindert sein, bitten wir Sie, uns rec"
+        },
+        "bar": {
+          "url": "https://www.milbertshofener-buehne.de/?page_id=41",
+          "stelle": "dass sowohl der Kartenschalter als auch die Bewirtung ausschließlich Barzahlungen akzeptieren können. Aktuelles Ticket Update Kartenvorverkauf starte"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Millionendorf-Theater e. V.",
+      "team_id": "Millionendorf-Theater e. V.",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Millionendorf-Theater e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Münchner Heimatbühne e. V.",
+      "team_id": "Münchner Heimatbühne e. V.",
+      "homepage": "http://www.muenchner-heimatbuehne.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Münchner Heimatbühne e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://muenchner-heimatbuehne.de/",
+        "https://muenchner-heimatbuehne.de/karten/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Münchner Volkssänger-Bühne",
+      "team_id": "Münchner Volkssänger-Bühne",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/M%C3%BCnchner_Volkss%C3%A4nger-B%C3%BChne",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Münchner Volkssänger-Bühne",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Sendlinger Bauernbühne",
+      "team_id": "Sendlinger Bauernbühne",
+      "homepage": "http://www.ftm-sued.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Sendlinger Bauernbühne",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.ftm-sued.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Spielgemeinschaft Kleine Bühne e. V.",
+      "team_id": "Spielgemeinschaft Kleine Bühne e. V.",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Spielgemeinschaft Kleine Bühne e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Neuaubinger Volksbühne e. V.",
+      "team_id": "Neuaubinger Volksbühne e. V.",
+      "homepage": "https://neuaubinger-volksbuehne.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Neuaubinger Volksbühne e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://neuaubinger-volksbuehne.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://neuaubinger-volksbuehne.de/",
+          "stelle": "folgenden Kanal erwerben Tickets im Onlineshop und in unseren lokalen Vorverkaufsstellen: Westkreuz Fahrschule Biegelmann Aubing Bertrams Service Shop"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Südtiroler Volksbühne e. V.",
+      "team_id": "Südtiroler Volksbühne e. V.",
+      "homepage": "https://www.suedtiroler-volksbuehne.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Südtiroler Volksbühne e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.suedtiroler-volksbuehne.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.suedtiroler-volksbuehne.de/",
+          "stelle": "auf der Bühne wird von unserer Liveband musikalisch untermalt. Kartenreservierung ab sofort möglich! Bitte reserviert Eure Plätze bequem über unser"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Szenenwechsel",
+      "team_id": "Szenenwechsel",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Szenenwechsel",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "s’ Bredl",
+      "team_id": "s’ Bredl",
+      "homepage": "http://www.sbredl.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "s’ Bredl",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.sbredl.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Tierschutztheater e. V.",
+      "team_id": "Tierschutztheater e. V.",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Tierschutztheater e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theater als Weg",
+      "team_id": "Theater als Weg",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theater als Weg",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theater gruppo di grappa",
+      "team_id": "Theater gruppo di grappa",
+      "homepage": "https://www.gruppo-di-grappa.theater/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theater gruppo di grappa",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.gruppo-di-grappa.theater/",
+        "https://www.gruppo-di-grappa.theater/ticketvorbestellung/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.gruppo-di-grappa.theater/",
+          "stelle": "tadttheater Weilheim i.OB Theaterplatz 1 82362 Weilheim i.OB Tickets: Abendkasse im Stadttheater ab 19:00 Uhr Reservierungen: info@gruppo-di-grappa.th"
+        },
+        "von_hand": {
+          "url": "https://www.gruppo-di-grappa.theater/",
+          "stelle": "ble gruppo di grappa Menü Aktuelles Third Floor (Flurgeflüster) Ticketvorbestellung Über uns Darsteller: Joachim Rogier, Astrid Neubert Ich möchte mit"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@gruppo-di-grappa.theater",
+        "karten@interim-kultur.de"
+      ],
+      "preise": [
+        {
+          "eur": 20,
+          "url": "https://www.gruppo-di-grappa.theater/",
+          "stelle": "ticketvorbestellungen ticketpreise: 20 euro"
+        },
+        {
+          "eur": 20,
+          "url": "https://www.gruppo-di-grappa.theater/",
+          "stelle": "ticketvorbestellungen ticketpreise: 20 euro"
+        },
+        {
+          "eur": 20,
+          "url": "https://www.gruppo-di-grappa.theater/",
+          "stelle": "ticketvorbestellungen ticketpreise: 20 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theater im Kloster",
+      "team_id": "Theater im Kloster",
+      "homepage": "http://www.theaterimkloster.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theater im Kloster",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.theaterimkloster.de/start"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.theaterimkloster.de/start",
+          "stelle": "ts des Regenbogens 1989 Der Goggolori 1985-1988 Diverse Mundartstücke Reservierung Impressum Datenschutz Kontakt Anfahrt Start Herzlich Willkommen! H"
+        }
+      },
+      "instagram": [
+        "theater.im.kloster"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theater in der Au e. V.",
+      "team_id": "Theater in der Au e. V.",
+      "homepage": "https://www.theaterinderau.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theater in der Au e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.theaterinderau.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterbrett’l 1993",
+      "team_id": "Theaterbrett’l 1993",
+      "homepage": "https://www.theaterbrettl.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterbrett’l 1993",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.theaterbrettl.de/",
+        "https://www.theaterbrettl.de/kartenvorbestellung-spielplan/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.theaterbrettl.de/",
+          "stelle": "ie Brettlhelden Skip to content Über uns / Team Aktuelles Stück Kartenvorbestellung &#038; Spielplan Anfahrt Chronik Danke Presse Über uns / Team Aktu"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "christa.herrmann@gmx.com"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "ticketleo",
+        "beleg": "https://www.theaterbrettl.de/kartenvorbestellung-spielplan/",
+        "wie": "eingebunden auf https://www.theaterbrettl.de/kartenvorbestellung-spielplan/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Theater-GGG e. V.",
+      "team_id": "Theater-GGG e. V.",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theater-GGG e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe der Pfarrei St. Quirin",
+      "team_id": "Theatergruppe der Pfarrei St. Quirin",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe der Pfarrei St. Quirin",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe Heidekraut",
+      "team_id": "Theatergruppe Heidekraut",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe Heidekraut",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe Musikforum Blutenburg e. V.",
+      "team_id": "Theatergruppe Musikforum Blutenburg e. V.",
+      "homepage": "http://www.musikforum-blutenburg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe Musikforum Blutenburg e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://musikforum-blutenburg.de/",
+        "https://musikforum-blutenburg.de/anmeldeformular-und-agb-inkl-preise/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "musikforum.blutenburg"
+      ],
+      "emails": [
+        "band@blubanda.de",
+        "info@musikforum-blutenburg.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe Rasselglocke",
+      "team_id": "Theatergruppe Rasselglocke",
+      "homepage": "http://www.rasselglocke.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe Rasselglocke",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.rasselglocke.de/ (ENOTFOUND)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe Siemens e. V.",
+      "team_id": "Theatergruppe Siemens e. V.",
+      "homepage": "http://www.theater-ensemble-tgsm.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe Siemens e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tgsm.de/",
+        "https://www.tgsm.de/karten-reservieren"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.tgsm.de/karten-reservieren",
+          "stelle": "Karten reservieren Home Theater 2027-39Stufen 2026-Sushi 2025-ToedlichesGlasRotwein 20"
+        }
+      },
+      "instagram": [
+        "theater_tgsm"
+      ],
+      "emails": [
+        "vorstand@tgsm.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterteam Helena",
+      "team_id": "Theaterteam Helena",
+      "homepage": "http://www.theaterteam-helena.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterteam Helena",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://theaterteam-helena.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://theaterteam-helena.de/",
+          "stelle": "Termine Die Termine für die Saison 2027 stehen noch nicht fest Kartenvorverkauf Der Kartenvorverkauf startet in 2027 wieder 2 Wochen vor der Premiere"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterverein Die lustigen Truderinger",
+      "team_id": "Theaterverein Die lustigen Truderinger",
+      "homepage": "http://www.die-lustigen-truderinger.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterverein Die lustigen Truderinger",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.die-lustigen-truderinger.de/ (HTTP 403)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Thow & Show",
+      "team_id": "Thow & Show",
+      "homepage": "http://www.thowshow.jimdo.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Thow & Show",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.thowshow.jimdo.com/ (ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Volksbühne Waldheim e. V.",
+      "team_id": "Volksbühne Waldheim e. V.",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Volksbühne Waldheim e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Weiß-Blaue Bühne e. V.",
+      "team_id": "Weiß-Blaue Bühne e. V.",
+      "homepage": "http://www.weiss-blaue-buehne.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Weiß-Blaue Bühne e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.weiss-blaue-buehne.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.weiss-blaue-buehne.de/",
+          "stelle": "n/Pasing im Prinzregent-Garten Benedikterstr. 35, 81241 München Kartenvorverkauf unter Telefon 089 690 99 87 Dienstag bis Donnerstag von 18.30 bis 21."
+        },
+        "von_hand": {
+          "url": "https://www.weiss-blaue-buehne.de/",
+          "stelle": "München/Pasing im Prinzregent-Garten Benedikterstr. 35, 81241 München Kartenvorverkauf unter Telefon 089 690 99 87 Dienstag bis Donnerstag von 18.30 bis 21.00 Uhr oder Be"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "eintrittskarten@weiss-blaue-buehne.de"
+      ],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://www.weiss-blaue-buehne.de/",
+          "stelle": "eintritt beträgt für erwachsene 15 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    }
+  ]
+}

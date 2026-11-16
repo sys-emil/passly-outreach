@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "Münchner Theater für Kinder",
+    "land": "BY",
+    "liga": "kultur-muc-privattheater",
+    "liga_name": "Privattheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.mtfk.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "München Ticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "mtfk_theaterkanal",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Spielplan verlinkt München Ticket; „Online Tickets oder telefonisch an der Theaterkasse 089 /59 54 54“.",
+    "quellen": [
+      "https://www.mtfk.de/spielplan/details/peter-pan"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.mtfk.de/spielplan/details/peter-pan"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.mtfk.de/spielplan/details/peter-pan"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.mtfk.de/spielplan/details/peter-pan"
+        ],
+        "instagram": [
+          "https://www.mtfk.de/spielplan/details/peter-pan"
+        ]
+      }
+    }
+  }
+}

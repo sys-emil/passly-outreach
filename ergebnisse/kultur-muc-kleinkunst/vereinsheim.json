@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "Vereinsheim",
+    "land": "BY",
+    "liga": "kultur-muc-kleinkunst",
+    "liga_name": "Kleinkunstbühnen München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "http://www.vereinsheim.net/",
+    "vorverkauf": "anbieter",
+    "anbieter": "München Ticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite verlinkt je Veranstaltung tickets.muenchenticket.net.",
+    "quellen": [
+      "https://www.vereinsheim.net/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.vereinsheim.net/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.vereinsheim.net/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.vereinsheim.net/"
+        ]
+      }
+    }
+  }
+}

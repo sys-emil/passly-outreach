@@ -1,0 +1,48 @@
+{
+  "verein": {
+    "name": "Münchner Heimatbühne e. V.",
+    "land": "BY",
+    "liga": "kultur-muc-amateurtheater",
+    "liga_name": "Amateurtheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://muenchner-heimatbuehne.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seite von Münchner Heimatbühne nennt weder Eintrittspreise noch einen Kartenweg.",
+    "quellen": [
+      "https://muenchner-heimatbuehne.de/karten/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laienbühne, Ticketweg nicht belegt. Kartenseite ohne lesbaren Inhalt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://muenchner-heimatbuehne.de/karten/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://muenchner-heimatbuehne.de/karten/"
+    ],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "theater Viel Lärm um Nichts",
+    "land": "BY",
+    "liga": "kultur-muc-privattheater",
+    "liga_name": "Privattheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.theaterviellaermumnichts.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Wix Events",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Wix Events (Wix-Events-Shop auf https://www.theaterviellaermumnichts.de/: https://www.theaterviellaermumnichts.de/).",
+    "quellen": [
+      "https://www.theaterviellaermumnichts.de/",
+      "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.theaterviellaermumnichts.de/",
+      "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. WIKILISTE-Name „theater Viel Lärm um Nichts“. Gelesen: https://www.theaterviellaermumnichts.de/, https://www.theaterviellaermumnichts.de/karten.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.theaterviellaermumnichts.de/",
+      "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.theaterviellaermumnichts.de/",
+          "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen"
+        ]
+      }
+    }
+  }
+}

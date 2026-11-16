@@ -1,0 +1,59 @@
+{
+  "verein": {
+    "name": "Theater im Fraunhofer",
+    "land": "BY",
+    "liga": "kultur-muc-kleinkunst",
+    "liga_name": "Kleinkunstbühnen München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "http://www.fraunhofertheater.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Theaterbüro",
+      "kontakt": "info@fraunhofertheater.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Kartenseite: „Karten reservieren können Sie jederzeit über den Ticketlink oder per Mail unter: info@fraunhofertheater.de“. „Karten bekommen Sie nur gegen Barzahlung an der Abendkasse“, reservierte Karten bis 19:45 Uhr abholen.",
+    "quellen": [
+      "http://www.fraunhofertheater.de/karten_"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "http://www.fraunhofertheater.de/karten_"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Reservierung ohne Vorauszahlung, Abendkasse nur bar.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "http://www.fraunhofertheater.de/karten_"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ansprechperson": [
+          "http://www.fraunhofertheater.de/karten_"
+        ],
+        "vorverkauf": [
+          "http://www.fraunhofertheater.de/karten_"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass man bei euch Karten reserviert und sie dann nur bar an der Abendkasse bekommt. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Theater im Fraunhofer, info@fraunhofertheater.de.\n- Einstieg: Reservierung per Ticketlink oder Mail, Abholung bis 19:45 Uhr, nur Barzahlung.\n- Frage: Wie viele Reservierungen werden nicht abgeholt, und wie läuft es mit Bargeld?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

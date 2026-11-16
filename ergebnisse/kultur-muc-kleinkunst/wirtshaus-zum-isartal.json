@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Wirtshaus zum Isartal",
+    "land": "BY",
+    "liga": "kultur-muc-kleinkunst",
+    "liga_name": "Kleinkunstbühnen München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.wirtshaus-zum-isartal.de/theater-buehne-konzert-show.html",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Theaterplätze per Telefon (089 / 77 21 21) oder Reservierungsformular; Gutscheine und Eintrittskarten als Gutschein per Mail (PayPal).",
+    "quellen": [
+      "https://www.wirtshaus-zum-isartal.de/reservierung.html",
+      "https://www.wirtshaus-zum-isartal.de/gutscheine-tickets-eintrittskarte-geschenk.html"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.wirtshaus-zum-isartal.de/reservierung.html",
+      "https://www.wirtshaus-zum-isartal.de/gutscheine-tickets-eintrittskarte-geschenk.html"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Wirtshausbühne, Reservierung wie im Restaurant.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.wirtshaus-zum-isartal.de/reservierung.html",
+      "https://www.wirtshaus-zum-isartal.de/gutscheine-tickets-eintrittskarte-geschenk.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "vorverkauf": [
+          "https://www.wirtshaus-zum-isartal.de/reservierung.html",
+          "https://www.wirtshaus-zum-isartal.de/gutscheine-tickets-eintrittskarte-geschenk.html"
+        ]
+      }
+    }
+  }
+}

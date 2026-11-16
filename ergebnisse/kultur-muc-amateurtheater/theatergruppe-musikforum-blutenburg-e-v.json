@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "Theatergruppe Musikforum Blutenburg e. V.",
+    "land": "BY",
+    "liga": "kultur-muc-amateurtheater",
+    "liga_name": "Amateurtheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://musikforum-blutenburg.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "musikforum.blutenburg",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seite von Musikforum Blutenburg nennt weder Eintrittspreise noch einen Kartenweg.",
+    "quellen": [
+      "https://musikforum-blutenburg.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://musikforum-blutenburg.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laienbühne, Ticketweg nicht belegt. Seite der Musikschule, Theatergruppe nicht erwähnt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://musikforum-blutenburg.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://musikforum-blutenburg.de/"
+        ]
+      }
+    }
+  }
+}

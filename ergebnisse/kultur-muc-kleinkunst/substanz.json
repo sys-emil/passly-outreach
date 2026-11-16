@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "Substanz",
+    "land": "BY",
+    "liga": "kultur-muc-kleinkunst",
+    "liga_name": "Kleinkunstbühnen München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "http://www.substanz-club.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "München Ticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "substanz_club",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite verlinkt den München-Ticket-Shop.",
+    "quellen": [
+      "https://substanz-club.com/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://substanz-club.com/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Eher Club als Kleinkunst.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://substanz-club.com/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://substanz-club.com/"
+        ],
+        "instagram": [
+          "https://substanz-club.com/"
+        ]
+      }
+    }
+  }
+}

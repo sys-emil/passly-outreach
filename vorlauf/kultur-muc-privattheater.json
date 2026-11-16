@@ -1,0 +1,1070 @@
+{
+  "liga": "kultur-muc-privattheater",
+  "stand": "2026-11-16",
+  "quelle": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+  "abrufe": 76,
+  "teams": [
+    {
+      "verband_name": "Blutenburg-Theater",
+      "team_id": "Blutenburg-Theater",
+      "homepage": "http://www.blutenburg-theater.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Blutenburg-Theater",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Blutenburg-Theater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.blutenburg-theater.de/willkommen.html",
+        "https://www.blutenburg-theater.de/karten/kartenbestellung.html",
+        "https://www.blutenburg-theater.de/karten/sitzplan.html",
+        "https://www.blutenburg-theater.de/karten/eintrittspreise.html",
+        "https://www.blutenburg-theater.de/karten/krimi-im-abo.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "bar": {
+          "url": "https://www.blutenburg-theater.de/karten/eintrittspreise.html",
+          "stelle": "R 26,00 Zahlung Eintrittskarten, Abonnements und Gutscheine nur gegen Barzahlung. EC- bzw. Kreditkartenzahlung oder Überweisung ist nicht möglich, wir"
+        },
+        "abendkasse": {
+          "url": "https://www.blutenburg-theater.de/karten/krimi-im-abo.html",
+          "stelle": "Platz für einen Dienstag, Mittwoch oder Donnerstag Ihrer Wahl. An der Abendkasse am jeweiligen Vorstellungstag erhalten Sie Ihre reservierte Platzkart"
+        },
+        "von_hand": {
+          "url": "https://www.blutenburg-theater.de/karten/krimi-im-abo.html",
+          "stelle": "se ist nur Barzahlung möglich. Wenn Sie Ihr Abo einlösen wollen, dann reservieren einfach - telefonisch, online oder vor Ort an der Kasse - Ihren Pla"
+        }
+      },
+      "instagram": [
+        "blutenburgtheater"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 5,
+          "url": "https://www.blutenburg-theater.de/karten/krimi-im-abo.html",
+          "stelle": "normalpreis jeweils 5 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "dasvinzenz",
+      "team_id": "dasvinzenz",
+      "homepage": "http://www.theaterblauemaus.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/dasvinzenz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "dasvinzenz",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://dasvinzenz.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://dasvinzenz.de/",
+          "stelle": "dasvinzenz &#8211; Theater Musik Literatur Inszenierungen Spielplan/Reservierungen MaterialKreislauf Fortbildung Das Team Archiv Kontakt Büroadress"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Die Spieldose",
+      "team_id": "Die Spieldose",
+      "homepage": "https://www.die-spieldose.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Die Spieldose",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.die-spieldose.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FestSpielHaus",
+      "team_id": "FestSpielHaus",
+      "homepage": "https://festspielhaus.biz/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FestSpielHaus",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "FestSpielHaus",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://festspielhaus.biz/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Galli Theater",
+      "team_id": "Galli Theater",
+      "homepage": "https://galli-muenchen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Galli Theater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://galli-muenchen.de/",
+        "https://galli-muenchen.de/kinder-und-jugend/ferientheaterkurse/anmeldung-ferientheaterkurs/",
+        "https://galli-muenchen.de/business/businesstraining/anmeldung-businesstraining/",
+        "https://galli-muenchen.de/kinder-und-jugend/woechentliche-theaterkurse-und-workshops/anmeldung-woechentlicher-theaterkurs/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://galli-muenchen.de/",
+          "stelle": "dolenzbuch REPERTOIRE Abendtheater Märchen- und Mitspieltheater KARTENRESERVIERUNG Abendtheaterstück Märchentheaterstück Mitspieltheaterstück SERVICE"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "amalienpassage@galli.de"
+      ],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://galli-muenchen.de/",
+          "stelle": "eintritt: 15 €"
+        },
+        {
+          "eur": 15,
+          "url": "https://galli-muenchen.de/",
+          "stelle": "eintritt: 15 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://galli-muenchen.de/",
+        "wie": "eingebunden auf https://galli-muenchen.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "GOP Varieté-Theater",
+      "team_id": "GOP Varieté-Theater",
+      "homepage": "https://www.variete.de/muenchen",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "GOP Varieté-Theater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.variete.de/muenchen",
+        "https://www.variete.de/muenchen/saalplan-preise"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.variete.de/muenchen",
+          "stelle": "en Sie so keine Neuigkeiten mehr. Wir informieren Sie regelmäßig über Vorverkaufstarts, neue Sonderveranstaltungen und Kooperationen. Hier eintragen V"
+        },
+        "von_hand": {
+          "url": "https://www.variete.de/muenchen",
+          "stelle": "dem limitierten Premieren-Abo prickelnde Showpremieren an Ihren fest reservierten Plätzen und spüren Sie die besondere Premierenstimmung hautnah! Me"
+        }
+      },
+      "instagram": [
+        "gopmuenchen"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 64,
+          "url": "https://www.variete.de/muenchen/saalplan-preise",
+          "stelle": "ticket-preise 64 euro"
+        },
+        {
+          "eur": 64,
+          "url": "https://www.variete.de/muenchen/saalplan-preise",
+          "stelle": "ticket-preise 64 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Hofspielhaus",
+      "team_id": "Hofspielhaus",
+      "homepage": "http://www.hofspielhaus.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Hofspielhaus",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Hofspielhaus",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.hofspielhaus.de/",
+        "https://www.hofspielhaus.de/theater-fuer-alle/",
+        "https://www.hofspielhaus.de/karten/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "eintritt_frei": {
+          "url": "https://www.hofspielhaus.de/theater-fuer-alle/",
+          "stelle": "füllt mit viel Musik, Theater und Gelächter! Das Programm am Kosttor: Eintritt frei für alle! Jazz am Kosttor mit der Haberjazzband Am Mittwoch, 15.07.,"
+        },
+        "abendkasse": {
+          "url": "https://www.hofspielhaus.de/karten/",
+          "stelle": "MS Kreissparkasse München Nach der Bezahlung liegen die Karten an der Abendkasse auf Ihren Namen bereit. Sie müssen NICHT vorab ins Theater kommen. So"
+        },
+        "von_hand": {
+          "url": "https://www.hofspielhaus.de/karten/",
+          "stelle": "kt Hofspielhaus Newsletter Karten Buchen Sie Karten direkt hier Kartenreservierung Im HOFSPIELHAUS gibt es verschiedene Wege, Karten zu reservieren."
+        },
+        "bar": {
+          "url": "https://www.hofspielhaus.de/karten/",
+          "stelle": "ollten Sie spontan an die Abendkasse oder im Theater vorbeikommen ist nur Barzahlung möglich. Dies gilt auch für unser gastronomisches Angebot. Per"
+        }
+      },
+      "instagram": [
+        "hofspielhaus"
+      ],
+      "emails": [
+        "info@hofspielhaus.de",
+        "karten@hofspielhaus.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "HochX",
+      "team_id": "HochX",
+      "homepage": "https://theater-hochx.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HochX",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "HochX",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://theater-hochx.de/",
+        "https://theater-hochx.de/besuch/tickets/",
+        "https://theater-hochx.de/en/visit/tickets-en/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://theater-hochx.de/besuch/tickets/",
+          "stelle": "er Onlineabstimmung mitentscheiden, welche Projekte gefördert werden. Abendkasse Die Kasse öffnet eine Stunde vor Vorstellungsbeginn. An der Abendkass"
+        },
+        "vorverkauf": {
+          "url": "https://theater-hochx.de/besuch/tickets/",
+          "stelle": "echnik Produzieren am HochX Mieten Medien HochX Magazin Audio Video x Vorverkauf Tickets erhältst Du online in unserem Rausgegangen-Ticketshop. Bitte"
+        },
+        "von_hand": {
+          "url": "https://theater-hochx.de/besuch/tickets/",
+          "stelle": "u außerdem eine kostenlose Begleitkarte bekommen. Bitte wende Dich an reservierung@theater-hochx.de . 6 € | Vorstellung im Saal | Foyerveranstaltung"
+        },
+        "bar": {
+          "url": "https://theater-hochx.de/besuch/tickets/",
+          "stelle": "kannst du bar oder mit Karte bezahlen. Achtung: An der Bar kannst Du nur bar zahlen. Gruppenreservierung Für Gruppenreservierungen ab 10 Personen"
+        }
+      },
+      "instagram": [
+        "hochx"
+      ],
+      "emails": [
+        "reservierung@theater-hochx.de"
+      ],
+      "preise": [
+        {
+          "eur": 30,
+          "url": "https://theater-hochx.de/besuch/tickets/",
+          "stelle": "ticket genau das richtige für dich. 30 €"
+        },
+        {
+          "eur": 20,
+          "url": "https://theater-hochx.de/besuch/tickets/",
+          "stelle": "ticketpreis zahlen möchten. 20 €"
+        },
+        {
+          "eur": 3.06,
+          "url": "https://theater-hochx.de/besuch/tickets/",
+          "stelle": "ticket 3,06 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Iberl-Bühne",
+      "team_id": "Iberl-Bühne",
+      "homepage": "https://www.iberlbuehne.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Iberl-B%C3%BChne",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Iberl-Bühne",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://iberlbuehne.de/",
+        "https://iberlbuehne.de/tickets.html",
+        "https://iberlbuehne.de/service/tickets-reservierung/",
+        "https://iberlbuehne.de/service/tickets-info.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://iberlbuehne.de/",
+          "stelle": "besetzt Di/Do/Fr nur telefonische Erreichbarkeit Email-Buchung Ticket-Reservierung Ticket Online Online-Kartenverkauf Hinweis zum Online-Kartenverkau"
+        },
+        "abendkasse": {
+          "url": "https://iberlbuehne.de/tickets.html",
+          "stelle": "Porto (Alternative: Print-Ticket oder Versandart \"Hinterlegung an der Abendkasse\" über Webshop-Buchung )! Ticketpreise Kabarett/Musik variieren. Bankv"
+        },
+        "vorverkauf": {
+          "url": "https://iberlbuehne.de/tickets.html",
+          "stelle": "en für Paypal-Zahlungen € 01,50 Ticket-Verkauf über Eventim zuzüglich Vorverkaufsgebühr und Porto (Alternative: Print-Ticket oder Versandart \"Hinterle"
+        },
+        "bar": {
+          "url": "https://iberlbuehne.de/tickets.html",
+          "stelle": "ckets können Sie entweder direkt im Iberl-Büro abholen und bezahlen ( NUR BAR ) oder Sie überweisen den Betrag auf unser Konto. Täglich 10.00 - 16."
+        }
+      },
+      "instagram": [
+        "iberlbuehne_muenchen"
+      ],
+      "emails": [
+        "info@iberlbuehne.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://iberlbuehne.de/service/tickets-info.html",
+        "wie": "eingebunden auf https://iberlbuehne.de/service/tickets-info.html"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Inkunst e. V.",
+      "team_id": "Inkunst e. V.",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Inkunst e. V.",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "INTERIM-Theater",
+      "team_id": "INTERIM-Theater",
+      "homepage": "https://www.interim-kultur.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/INTERIM-Theater",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "INTERIM-Theater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.interim-kultur.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@interim-kultur.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kleines Theater im Pförtnerhaus",
+      "team_id": "Kleines Theater im Pförtnerhaus",
+      "homepage": "https://www.kasperlbuehne.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kleines Theater im Pförtnerhaus",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.kasperlbuehne.de/",
+        "https://www.kasperlbuehne.de/karten-info"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.kasperlbuehne.de/",
+          "stelle": "önnen und um Ihnen somit &Auml;rger zu ersparen, gibt es keinen Kartenvorverkauf (mit Ausnahme Nikolausveranstaltungen - Kartenvorverkauf ab Mitte Okt"
+        },
+        "von_hand": {
+          "url": "https://www.kasperlbuehne.de/",
+          "stelle": "chst ein bis zwei Monate vor dem Ereignis bei unserem Geburtstagsteam reservieren ( 089/986234 ). Dies ermöglicht nicht nur die für Sie beste Vorstel"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@kasperlbuehne.de"
+      ],
+      "preise": [
+        {
+          "eur": 10,
+          "url": "https://www.kasperlbuehne.de/karten-info",
+          "stelle": "erwachsene je 10€"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Komödie im Bayerischen Hof",
+      "team_id": "Komödie im Bayerischen Hof",
+      "homepage": "https://www.komoedie-muenchen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kom%C3%B6die_im_Bayerischen_Hof",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Komödie im Bayerischen Hof",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.komoedie-muenchen.de/",
+        "https://www.komoedie-muenchen.de/spielplan-tickets.html",
+        "https://www.komoedie-muenchen.de/spielplan-tickets/programm.html",
+        "https://www.komoedie-muenchen.de/spielplan-tickets/sondervorstellungen.html",
+        "https://www.komoedie-muenchen.de/spielplan-tickets/abonnement.html",
+        "https://www.komoedie-muenchen.de/spielplan-tickets/ticketinformationen.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.komoedie-muenchen.de/spielplan-tickets/ticketinformationen.html",
+          "stelle": "0 – 14:00 Uhr, 15:00 – 18:30 Uhr Sonn- und Feiertag 15:00 – 17:00 Uhr Abendkasse ab eine Stunde vor Vorstellungsbeginn Telefon: +49-(0)89-29 28 10 Fax"
+        },
+        "vorverkauf": {
+          "url": "https://www.komoedie-muenchen.de/spielplan-tickets/ticketinformationen.html",
+          "stelle": "nserem Webshop, bei unserer Kartenreservierung oder bei den bekannten Vorverkaufsstellen zu kaufen. Wir warnen vor teilweise unseriösen Online-Börsen."
+        },
+        "von_hand": {
+          "url": "https://www.komoedie-muenchen.de/spielplan-tickets/ticketinformationen.html",
+          "stelle": "ielplan & Tickets Ticketinformationen Informationen zur Ticketauswahl Karten können online, telefonisch oder an unserer Kasse gebucht werden sowie per Mail an Diese E-Mail-Adresse ist vor Spambots geschützt! Zur Anzeige muss"
+        }
+      },
+      "instagram": [
+        "komoedieimbayerischenhof",
+        "komoediemuenchen"
+      ],
+      "emails": [
+        "print@home bequem"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "LEO 17 – Theater in der Leopoldstraße",
+      "team_id": "LEO 17 – Theater in der Leopoldstraße",
+      "homepage": "https://leo17.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "LEO 17 – Theater in der Leopoldstraße",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://leo17.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "theaterleo17"
+      ],
+      "emails": [
+        "theater@leo17.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Metropoltheater",
+      "team_id": "Metropoltheater (München)",
+      "homepage": "https://www.metropoltheater.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Metropoltheater_(M%C3%BCnchen)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Metropoltheater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.metropoltheater.com/",
+        "https://www.metropoltheater.com/karten/kartenverkauf/",
+        "https://www.metropoltheater.com/karten/gutscheine/",
+        "https://www.metropoltheater.com/karten/metropol-flatrate/",
+        "https://www.metropoltheater.com/karten/junior-flat/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.metropoltheater.com/",
+          "stelle": "T-Shirts Neue Farben, Bio-Baumwolle, erhältlich im Vorverkauf, an der Abendkasse oder per Email-Bestellung Der Youtube-Kanal des Metropoltheaters Viel"
+        },
+        "vorverkauf": {
+          "url": "https://www.metropoltheater.com/",
+          "stelle": "Mitglied Metropol T-Shirts Neue Farben, Bio-Baumwolle, erhältlich im Vorverkauf, an der Abendkasse oder per Email-Bestellung Der Youtube-Kanal des Me"
+        },
+        "von_hand": {
+          "url": "https://www.metropoltheater.com/karten/kartenverkauf/",
+          "stelle": "ungen Pressestimmen Unterstützen Freundeskreis Spenden Förderer Kartenreservierung Tel: 089 32 19 55 33 Fax: 089 32 19 55 44 E-Mail: info _at_ metrop"
+        },
+        "bar": {
+          "url": "https://www.metropoltheater.com/karten/kartenverkauf/",
+          "stelle": "von Eintrittskarten/Gutscheinen/Flatratekarten vor Ort ausschließlich Barzahlung möglich ist. Bankverbindung für die Zahlung von Eintrittskarten und G"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Münchner Galerie Theater",
+      "team_id": "Münchner Galerie Theater",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/M%C3%BCnchner_Galerie_Theater",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Münchner Galerie Theater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Münchner Marionettentheater",
+      "team_id": "Münchner Marionettentheater",
+      "homepage": "https://www.muema-theater.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/M%C3%BCnchner_Marionettentheater",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Münchner Marionettentheater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.muema-theater.de/",
+        "https://www.muema-theater.de/karten-shop/",
+        "https://www.muema-theater.de/tickets-und-preise/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.muema-theater.de/",
+          "stelle": "ts Vorverkauf Mi-So von 10 bis 13 Uhr seitlich am Geb&#xE4;ude Tages-/Abendkasse &#xD6;ffnet jeweils 45 Minuten vor Vorstellungsbeginn Social Media Fo"
+        },
+        "vorverkauf": {
+          "url": "https://www.muema-theater.de/",
+          "stelle": "eich der &#x201E;Oidn Wiesn&#x201C;. W&#xE4;hrend dieser Zeit ist die Vorverkaufskasse Mo-Fr von 10-13 Uhr ge&#xF6;ffnet. Tickets k&#xF6;nnen auch onl"
+        },
+        "von_hand": {
+          "url": "https://www.muema-theater.de/karten-shop/",
+          "stelle": "sand statt. Ticketbuchung Online: Karten Shop/Gutscheine Telefonische Reservierung: ACHTUNG: Reservierte Karten m&#xFC;ssen bis sp&#xE4;testens 7 Tag"
+        }
+      },
+      "instagram": [
+        "muenchner_marionettentheater"
+      ],
+      "emails": [
+        "kontakt@muenchner-marionettentheater.de"
+      ],
+      "preise": [
+        {
+          "eur": 20,
+          "url": "https://www.muema-theater.de/karten-shop/",
+          "stelle": "ticket: 20,00 euro"
+        },
+        {
+          "eur": 16,
+          "url": "https://www.muema-theater.de/karten-shop/",
+          "stelle": "erwachsene: 16,00 euro"
+        },
+        {
+          "eur": 30,
+          "url": "https://www.muema-theater.de/karten-shop/",
+          "stelle": "erwachsenenprogramm unterst&#xfc;tzerticket: 30,00 euro"
+        },
+        {
+          "eur": 25,
+          "url": "https://www.muema-theater.de/karten-shop/",
+          "stelle": "erwachsene: 25,00 euro"
+        },
+        {
+          "eur": 20,
+          "url": "https://www.muema-theater.de/karten-shop/",
+          "stelle": "ticket: 20,00 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Münchner Sommertheater",
+      "team_id": "Münchner Sommertheater",
+      "homepage": "https://www.muenchner-sommertheater.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/M%C3%BCnchner_Sommertheater",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Münchner Sommertheater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.muenchner-sommertheater.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "muenchner_sommertheater"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Münchner Theater für Kinder",
+      "team_id": "Münchner Theater für Kinder",
+      "homepage": "https://www.mtfk.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/M%C3%BCnchner_Theater_f%C3%BCr_Kinder",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Münchner Theater für Kinder",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.mtfk.de/",
+        "https://www.mtfk.de/spielplan/details/gastproduktion-die-ewige-zweitbesetzung"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.mtfk.de/",
+          "stelle": "30 Uhr im Haus, dafür benötigen Sie keine zusätzliche Eintrittskarte! Karten gibt es nur über unsere Theaterkasse: Bestellung per E-Mail an kasse@mtfk.de. Für Kinder-, Schul- und Hortgruppen ist eine Beglei"
+        }
+      },
+      "instagram": [
+        "mtfk_theaterkanal"
+      ],
+      "emails": [
+        "kasse@mtfk.de"
+      ],
+      "preise": [
+        {
+          "eur": 18,
+          "url": "https://www.mtfk.de/",
+          "stelle": "ticket à 18 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Münchner Vorstadtbrettl",
+      "team_id": "Münchner Vorstadtbrettl",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/M%C3%BCnchner_Vorstadtbrettl",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Münchner Vorstadtbrettl",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Oberanger Theater",
+      "team_id": "Oberanger Theater",
+      "homepage": "https://www.oberangertheater.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Oberanger Theater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.oberangertheater.de/",
+        "https://www.oberangertheater.de/preise/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Pathos Transport Theater",
+      "team_id": "Pathos Transport Theater",
+      "homepage": "https://www.pathos.theater/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Pathos_Transport_Theater",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Pathos Transport Theater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.pathos.theater/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "hallo@pathos.theater",
+        "bayernhymne@bfg-bayern.de",
+        "dana.pflueger@pathos.theater"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "proT",
+      "team_id": "proT",
+      "homepage": "https://www.prot.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/proT",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "proT",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.prot.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Sollner Kultbühne",
+      "team_id": "Sollner Kultbühne",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Sollner_Kultb%C3%BChne",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Sollner Kultbühne",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "teatro - the art of show and cuisine",
+      "team_id": "teatro - the art of show and cuisine",
+      "homepage": "https://www.teatro.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "teatro - the art of show and cuisine",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.teatro.de/",
+        "https://www.teatro.de/tickets/kategorien-preise",
+        "https://www.teatro.de/tickets/exklusivtische",
+        "https://www.teatro.de/tickets/versand"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.teatro.de/tickets/versand",
+          "stelle": "auert in der Regel 2–3 Werktage . Print@Home Natürlich können Sie Ihr Ticket auch bequem per E-Mail erhalten und zuhause ausdrucken oder auf dem Smartphone abspeichern."
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 10,
+          "url": "https://www.teatro.de/tickets/versand",
+          "stelle": "ticketmappe für 10 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "theater Viel Lärm um Nichts",
+      "team_id": "theater Viel Lärm um Nichts",
+      "homepage": "https://www.theaterviellaermumnichts.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/theater_Viel_L%C3%A4rm_um_Nichts",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "theater Viel Lärm um Nichts",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.theaterviellaermumnichts.de/",
+        "https://www.theaterviellaermumnichts.de/karten"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.theaterviellaermumnichts.de/karten",
+          "stelle": "gekaufte Tickets behalten ihre Gültigkeit. telefonisch (reservieren) Abendkasse der Pasinger Fabrik: 089 / 829 290 79 (Di mit So 17:30 bis 20:30 Uhr)"
+        },
+        "von_hand": {
+          "url": "https://www.theaterviellaermumnichts.de/karten",
+          "stelle": "llen. Bereits gekaufte Tickets behalten ihre Gültigkeit. telefonisch (reservieren) Abendkasse der Pasinger Fabrik: 089 / 829 290 79 (Di mit So 17:30"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@theaterviellaermumnichts.de"
+      ],
+      "preise": [
+        {
+          "eur": 23,
+          "url": "https://www.theaterviellaermumnichts.de/karten",
+          "stelle": "eintritt regulär: 23 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Wix Events",
+        "beleg": "https://www.theaterviellaermumnichts.de/",
+        "wie": "Wix-Events-Shop auf https://www.theaterviellaermumnichts.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "WERK7 theater",
+      "team_id": "WERK7 theater",
+      "homepage": "https://www.eventfabrik-muenchen.de/werk7theater-erleben/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "WERK7 theater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.eventfabrik-muenchen.de/location/werk7-theater/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.eventfabrik-muenchen.de/location/werk7-theater/",
+          "stelle": "bitte die VVK-Stellen oder den Veranstalter des jeweiligen Konzertes. Abendkasse Ob es eine Abendkasse gibt, erfahrt Ihr spätestens am Veranstaltungst"
+        },
+        "vorverkauf": {
+          "url": "https://www.eventfabrik-muenchen.de/location/werk7-theater/",
+          "stelle": "mitgeführt werden. Infos der Stadt München zu diesem Thema . Tickets: Vorverkauf Der Kartenvorverkauf erfolgt alleinig über den Veranstalter des Konze"
+        }
+      },
+      "instagram": [
+        "eventfabrikmuenchen"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    }
+  ]
+}

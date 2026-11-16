@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Die Spielmacher",
+    "land": "BY",
+    "liga": "kultur-muc-amateurtheater",
+    "liga_name": "Amateurtheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.die-spielmacher.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ticketleo",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über ticketleo (eingebunden auf https://www.die-spielmacher.de/: https://www.die-spielmacher.de/).",
+    "quellen": [
+      "https://www.die-spielmacher.de/",
+      "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.die-spielmacher.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen"
+    ],
+    "notiz": "Ohne Modell geklärt. WIKILISTE-Name „Die Spielmacher“. Gelesen: https://www.die-spielmacher.de/, https://www.die-spielmacher.de/protected/?comeFrom=%2Fintern%2Fzuschauerumfrage-2016%2F.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.die-spielmacher.de/",
+      "https://de.wikipedia.org/wiki/Liste_der_Theater_in_M%C3%BCnchen"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.die-spielmacher.de/"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Metropoltheater",
+    "land": "BY",
+    "liga": "kultur-muc-privattheater",
+    "liga_name": "Privattheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.metropoltheater.com/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Kulturkurier",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Spielplan bindet ein Kulturkurier-Formular ein; Vorverkauf, Abendkasse und Bestellung per Mail.",
+    "quellen": [
+      "https://www.metropoltheater.com/spielplan/aktuell/",
+      "https://www.metropoltheater.com/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.metropoltheater.com/spielplan/aktuell/",
+      "https://www.metropoltheater.com/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.metropoltheater.com/spielplan/aktuell/",
+      "https://www.metropoltheater.com/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.metropoltheater.com/spielplan/aktuell/",
+          "https://www.metropoltheater.com/"
+        ]
+      }
+    }
+  }
+}

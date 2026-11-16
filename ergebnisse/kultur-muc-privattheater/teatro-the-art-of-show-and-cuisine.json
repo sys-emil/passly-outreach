@@ -1,0 +1,50 @@
+{
+  "verein": {
+    "name": "teatro - the art of show and cuisine",
+    "land": "BY",
+    "liga": "kultur-muc-privattheater",
+    "liga_name": "Privattheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.teatro.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketshop (shop.teatro.de)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Dinnershow, Kategorien ab 70 € pro Person, Shop shop.teatro.de.",
+    "quellen": [
+      "https://www.teatro.de/tickets/kategorien-preise"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.teatro.de/tickets/kategorien-preise"
+    ],
+    "notiz": "Dinnershow von Käfer, kein Zielkunde.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.teatro.de/tickets/kategorien-preise"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": []
+      },
+      "sicherheit_vorher": "hoch"
+    }
+  }
+}

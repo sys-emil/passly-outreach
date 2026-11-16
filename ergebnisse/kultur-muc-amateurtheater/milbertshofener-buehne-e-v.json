@@ -1,0 +1,56 @@
+{
+  "verein": {
+    "name": "Milbertshofener Bühne e. V.",
+    "land": "BY",
+    "liga": "kultur-muc-amateurtheater",
+    "liga_name": "Amateurtheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.milbertshofener-buehne.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Kartenreservierungen nur telefonisch und nur während der angegebenen Zeiten“; Abholung bis 30 min vor Beginn an der Abendkasse, Kartenschalter „ausschließlich Barzahlungen“. Laut News sind „Drei unserer 6 Vorstellungen bereits ausverkauft“.",
+    "quellen": [
+      "https://www.milbertshofener-buehne.de/?page_id=41",
+      "https://www.milbertshofener-buehne.de/?p=3518"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.milbertshofener-buehne.de/?page_id=41",
+      "https://www.milbertshofener-buehne.de/?p=3518"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Nur Telefon und Bargeld, Vorstellungen ausverkauft: sehr gut passend.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.milbertshofener-buehne.de/?page_id=41",
+      "https://www.milbertshofener-buehne.de/?p=3518"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "vorverkauf": [
+          "https://www.milbertshofener-buehne.de/?page_id=41",
+          "https://www.milbertshofener-buehne.de/?p=3518"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gelesen, dass bei euch drei von sechs Vorstellungen schon ausverkauft sind, Glückwunsch! Reserviert wird nur telefonisch, gezahlt bar. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Milbertshofener Bühne über die Website.\n- Einstieg: Reservierung nur telefonisch zu festen Zeiten, Abholung an der Abendkasse, nur Barzahlung, Vorstellungen ausverkauft.\n- Frage: Wie viel Zeit kostet euch der Telefondienst, und bleiben reservierte Plätze leer?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

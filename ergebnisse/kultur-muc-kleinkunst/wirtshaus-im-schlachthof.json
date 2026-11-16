@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Wirtshaus im Schlachthof",
+    "land": "BY",
+    "liga": "kultur-muc-kleinkunst",
+    "liga_name": "Kleinkunstbühnen München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "http://www.im-schlachthof.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (eingebunden auf https://im-schlachthof.de/: https://im-schlachthof.de/).",
+    "quellen": [
+      "https://im-schlachthof.de/",
+      "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://im-schlachthof.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen"
+    ],
+    "notiz": "Ohne Modell geklärt. WIKILISTE-Name „Wirtshaus im Schlachthof“. Gelesen: https://im-schlachthof.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://im-schlachthof.de/",
+      "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://im-schlachthof.de/"
+        ]
+      }
+    }
+  }
+}

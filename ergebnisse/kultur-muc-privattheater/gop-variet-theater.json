@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "GOP Varieté-Theater",
+    "land": "BY",
+    "liga": "kultur-muc-privattheater",
+    "liga_name": "Privattheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.variete.de/muenchen",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketshop (GOP)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "gopmuenchen",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Saalplan-Seite: Tickets telefonisch oder „Online Bestellen“ über shop.variete.de.",
+    "quellen": [
+      "https://www.variete.de/muenchen/saalplan-preise"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.variete.de/muenchen/saalplan-preise"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Kette GOP Varieté, kein Zielkunde.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.variete.de/muenchen/saalplan-preise"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.variete.de/muenchen/saalplan-preise"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

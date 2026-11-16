@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Heppel & Ettlich",
+    "land": "BY",
+    "liga": "kultur-muc-kleinkunst",
+    "liga_name": "Kleinkunstbühnen München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "http://www.heppel-ettlich.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim Light (eingebunden auf https://heppel-ettlich.de/: https://heppel-ettlich.de/).",
+    "quellen": [
+      "https://heppel-ettlich.de/",
+      "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 6,
+    "quellen_belegt": [
+      "https://heppel-ettlich.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen"
+    ],
+    "notiz": "Ohne Modell geklärt. WIKILISTE-Name „Heppel & Ettlich“. Mehrere Instagram-Konten verlinkt: heppel.ettlich, thenonessentials.ev, loveyourartist. Gelesen: https://heppel-ettlich.de/, https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/duo-stiehler-lucaciu-munchen-E74ESER, https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/the-blissful-bob-munchen-EO35P00, https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/lyhre-dead-concept-munchen-EJHLJRG, https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/the-blissful-bob-party-munchen-ESEH395.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://heppel-ettlich.de/",
+      "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://heppel-ettlich.de/"
+        ]
+      }
+    }
+  }
+}

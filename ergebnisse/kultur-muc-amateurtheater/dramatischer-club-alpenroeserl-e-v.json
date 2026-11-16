@@ -1,0 +1,67 @@
+{
+  "verein": {
+    "name": "Dramatischer Club Alpenröserl e. V.",
+    "land": "BY",
+    "liga": "kultur-muc-amateurtheater",
+    "liga_name": "Amateurtheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.fam-greif.de/Alpenroeserl/wp/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": 15,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "mail@alpenroeserl.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Kartenvorverkauf ab 01.10.2026 telefonisch bei einer Vorverkaufsstelle (Tel. 089 40 98 40, Di und Do zu festen Zeiten) oder per Online-Kartenanfrage; „Bestellte, nicht genutzte Karten müssen an der Abendkasse bezahlt werden“. Erwachsene 15 €, Kinder 5 €. Spielort Gaststätte Parkpalast Sendling.",
+    "quellen": [
+      "https://www.fam-greif.de/Alpenroeserl/wp/kartenvorverkauf/",
+      "https://www.fam-greif.de/Alpenroeserl/wp/kontakt/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.fam-greif.de/Alpenroeserl/wp/kartenvorverkauf/",
+      "https://www.fam-greif.de/Alpenroeserl/wp/kontakt/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Gegründet 1922, Münchens älteste noch spielende Amateurbühne.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fam-greif.de/Alpenroeserl/wp/kartenvorverkauf/",
+      "https://www.fam-greif.de/Alpenroeserl/wp/kontakt/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.fam-greif.de/Alpenroeserl/wp/kartenvorverkauf/"
+        ],
+        "ansprechperson": [
+          "https://www.fam-greif.de/Alpenroeserl/wp/kartenvorverkauf/",
+          "https://www.fam-greif.de/Alpenroeserl/wp/kontakt/"
+        ],
+        "vorverkauf": [
+          "https://www.fam-greif.de/Alpenroeserl/wp/kartenvorverkauf/",
+          "https://www.fam-greif.de/Alpenroeserl/wp/kontakt/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass ihr Karten telefonisch und per Online-Anfrage reserviert und bezahlt wird an der Abendkasse. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Dramatischer Club Alpenröserl, mail@alpenroeserl.de.\n- Einstieg: Kartenvorverkauf per Telefon zu festen Zeiten oder Online-Anfrage, 15 € Erwachsene, nicht abgeholte Karten werden berechnet.\n- Frage: Wie viele Reservierungen verfallen, und wie viel Arbeit macht der Telefondienst?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

@@ -1,0 +1,59 @@
+{
+  "verein": {
+    "name": "Münchner Marionettentheater",
+    "land": "BY",
+    "liga": "kultur-muc-privattheater",
+    "liga_name": "Privattheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.muema-theater.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "München Ticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "muenchner_marionettentheater",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Ticketbuchung Online: Karten Shop“ über München Ticket; daneben telefonische Reservierung (Abholung bis 7 Tage vorher) und Vorverkaufskasse, dort nur Barzahlung. Erwachsene 16 €, Kinder 12 €.",
+    "quellen": [
+      "https://www.muema-theater.de/karten-shop/",
+      "https://www.muema-theater.de/tickets-und-preise/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.muema-theater.de/karten-shop/",
+      "https://www.muema-theater.de/tickets-und-preise/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Kasse nur bar: Teil-Lücke.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.muema-theater.de/karten-shop/",
+      "https://www.muema-theater.de/tickets-und-preise/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.muema-theater.de/karten-shop/",
+          "https://www.muema-theater.de/tickets-und-preise/"
+        ],
+        "instagram": [
+          "https://www.muema-theater.de/karten-shop/",
+          "https://www.muema-theater.de/tickets-und-preise/"
+        ]
+      }
+    }
+  }
+}

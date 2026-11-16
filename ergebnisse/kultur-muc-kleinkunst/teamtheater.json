@@ -1,0 +1,66 @@
+{
+  "verein": {
+    "name": "Teamtheater",
+    "land": "BY",
+    "liga": "kultur-muc-kleinkunst",
+    "liga_name": "Kleinkunstbühnen München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "http://www.teamtheater.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": false,
+    "ticketpreis_eur": 28,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Theater",
+      "kontakt": "tocktock@teamtheater.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseite: Reservierung über ein Online-Formular (JotForm), Preise Normal 28 €, ermäßigt 15 €; einzelne Salon-Veranstaltungen „Reservierungen unter: tocktock@teamtheater.de“. Kein Bezahl-Shop verlinkt.",
+    "quellen": [
+      "http://www.teamtheater.de/tickets.html",
+      "http://www.teamtheater.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "http://www.teamtheater.de/tickets.html",
+      "http://www.teamtheater.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": " Einzelne Abende (Jugendclub, Vorträge) mit freiem Eintritt, die Theaterabende kosten 28 €.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "http://www.teamtheater.de/tickets.html",
+      "http://www.teamtheater.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "http://www.teamtheater.de/tickets.html"
+        ],
+        "vorverkauf": [
+          "http://www.teamtheater.de/tickets.html",
+          "http://www.teamtheater.de/"
+        ],
+        "ansprechperson": [
+          "http://www.teamtheater.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass man bei euch Karten über ein Formular reserviert, 28 € normal. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Teamtheater, Reservierungen tocktock@teamtheater.de.\n- Einstieg: Reservierungsformular, 28 € / 15 €.\n- Frage: Wird bei euch vorab bezahlt oder erst an der Abendkasse?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

@@ -1,0 +1,66 @@
+{
+  "verein": {
+    "name": "Kleines Theater im Pförtnerhaus",
+    "land": "BY",
+    "liga": "kultur-muc-privattheater",
+    "liga_name": "Privattheater München",
+    "sport": "Kultur",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.kasperlbuehne.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": 10,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Theater",
+      "kontakt": "info@kasperlbuehne.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Kindertheater: „gibt es keinen Kartenvorverkauf (mit Ausnahme Nikolausveranstaltungen)“; Eintrittskarten-Telefon 089/953125, Platz reservieren. Karten 10 € für Kinder und Erwachsene, Zehnerblocks an der Kasse.",
+    "quellen": [
+      "https://www.kasperlbuehne.de/",
+      "https://www.kasperlbuehne.de/karten-info"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.kasperlbuehne.de/",
+      "https://www.kasperlbuehne.de/karten-info"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.kasperlbuehne.de/",
+      "https://www.kasperlbuehne.de/karten-info"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ansprechperson": [
+          "https://www.kasperlbuehne.de/"
+        ],
+        "vorverkauf": [
+          "https://www.kasperlbuehne.de/",
+          "https://www.kasperlbuehne.de/karten-info"
+        ],
+        "ticketpreis_eur": [
+          "https://www.kasperlbuehne.de/karten-info"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gelesen, dass es bei euch keinen Kartenvorverkauf gibt, nur Reservierung am Telefon, weil Kinder schnell mal krank werden. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Wer nicht kann, gibt seine Karte zurück, und wird der Platz neu verkauft, bekommt er sein Geld zurück. Für euch kostenlos. Passt ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Kleines Theater im Pförtnerhaus, info@kasperlbuehne.de.\n- Einstieg: Kein Vorverkauf außer Nikolaus, Reservierung per Telefon, 10 € je Karte.\n- Frage: Wie viele reservierte Plätze bleiben leer, wenn Kinder krank werden?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

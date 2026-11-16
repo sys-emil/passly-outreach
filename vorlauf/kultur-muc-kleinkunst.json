@@ -1,0 +1,944 @@
+{
+  "liga": "kultur-muc-kleinkunst",
+  "stand": "2026-11-16",
+  "quelle": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+  "abrufe": 70,
+  "teams": [
+    {
+      "verband_name": "Münchner Künstlerhaus",
+      "team_id": "Künstlerhaus am Lenbachplatz",
+      "homepage": "http://www.kuenstlerhaus-muc.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/K%C3%BCnstlerhaus_am_Lenbachplatz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Münchner Künstlerhaus",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.kuenstlerhaus-muc.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@kuenstlerhaus-muc.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Wirtshaus im Schlachthof",
+      "team_id": "Schlachthof München",
+      "homepage": "http://www.im-schlachthof.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Schlachthof_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Wirtshaus im Schlachthof",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://im-schlachthof.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://im-schlachthof.de/",
+        "wie": "eingebunden auf https://im-schlachthof.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Substanz",
+      "team_id": "Substanz (München)",
+      "homepage": "http://www.substanz-club.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Substanz_(M%C3%BCnchen)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Substanz",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://substanz-club.com/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "substanz_club"
+      ],
+      "emails": [
+        "info@substanz-club.com"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Stragula",
+      "team_id": "Stragula",
+      "homepage": "http://www.stragula.org/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Stragula",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.stragula.org/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theater im Fraunhofer",
+      "team_id": "Gaststätte Fraunhofer",
+      "homepage": "http://www.fraunhofertheater.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Gastst%C3%A4tte_Fraunhofer",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Theater im Fraunhofer",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.fraunhofertheater.de/",
+        "http://www.fraunhofertheater.de/karten_",
+        "https://www.fraunhofertheater.de/karten_"
+      ],
+      "nicht_lesbar": [
+        "http://www.fraunhofertheater.de/Platzhalter%20f%C3%BCr%20Ticketlink (HTTP 404)"
+      ],
+      "funde": {
+        "von_hand": {
+          "url": "http://www.fraunhofertheater.de/",
+          "stelle": "wsletter Impressum Links Team Liebe Freund:innen des Fraunhofer! Tischreservierungen fürs Wirtshaus bitte NUR noch über die Mail: reservierung@fraunh"
+        },
+        "nur_abendkasse": {
+          "url": "http://www.fraunhofertheater.de/karten_",
+          "stelle": "Zu den Bürozeiten haben wir keinen Kartenverkauf! Karten bekommen Sie nur gegen Barzahlung an der Abendkasse und nur für die jeweilige Veranstaltung an diesem Tag. Theater Verans"
+        },
+        "abendkasse": {
+          "url": "http://www.fraunhofertheater.de/karten_",
+          "stelle": "keinen Kartenverkauf! Karten bekommen Sie nur gegen Barzahlung an der Abendkasse und nur für die jeweilige Veranstaltung an diesem Tag. Theater Verans"
+        },
+        "bar": {
+          "url": "http://www.fraunhofertheater.de/karten_",
+          "stelle": "ozeiten haben wir keinen Kartenverkauf! Karten bekommen Sie nur gegen Barzahlung an der Abendkasse und nur für die jeweilige Veranstaltung an diesem T"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "reservierung@fraunhoferwirtshaus.de",
+        "info@fraunhofertheater.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Teamtheater",
+      "team_id": "Teamtheater",
+      "homepage": "http://www.teamtheater.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Teamtheater",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Teamtheater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.teamtheater.de/",
+        "http://www.teamtheater.de/tickets.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "http://www.teamtheater.de/",
+          "stelle": "mationen SALON DIE MIRAGE SHOW Travestiekünstler aus ganz Deutschland Reservierungen über Eventim TERMINE: 27. November – Fr – 20 Uhr 28. November –"
+        },
+        "eintritt_frei": {
+          "url": "http://www.teamtheater.de/",
+          "stelle": "tion: Prof. Dr. Michael von Brück TERMINE: 24. November - Di - 19 Uhr Eintritt frei Mehr Informationen SALON DIE MIRAGE SHOW Travestiekünstler aus ganz D"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "tocktock@teamtheater.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kristelli",
+      "team_id": "Kristelli",
+      "homepage": "http://krist-live.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kristelli",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://krist-live.de/",
+        "https://krist-live.de/tickets"
+      ],
+      "nicht_lesbar": [
+        "https://krist-live.de/$%7Besc(url)%7D (HTTP 404)"
+      ],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://krist-live.de/",
+          "stelle": "sen? Termine & Neuigkeiten direkt ins Postfach — vor dem öffentlichen Vorverkauf. Zum Newsletter Alexander Krist Theater München – Magie live & hautna"
+        },
+        "abendkasse": {
+          "url": "https://krist-live.de/tickets",
+          "stelle": "— King of Cards dauert 120 Minuten und hat eine Pause. Karten an der Abendkasse gibt es nur, solange eine Vorstellung nicht ausverkauft ist — der Onl"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 29,
+          "url": "https://krist-live.de/",
+          "stelle": "tickets ab 29 €"
+        },
+        {
+          "eur": 29,
+          "url": "https://krist-live.de/",
+          "stelle": "tickets ab 29 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "theater ... und so fort",
+      "team_id": "theater ... und so fort",
+      "homepage": "http://www.undsofort.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/theater_..._und_so_fort",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "theater ... und so fort",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.undsofort.de/",
+        "https://www.undsofort.de/spielplan",
+        "https://www.undsofort.de/kartenbestellung/von-wegen-weihnachten,7366",
+        "https://www.undsofort.de/kartenbestellung/meine-weste-weiss,7324",
+        "https://www.undsofort.de/kartenbestellung/unsinn-macht-sinn,7237"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.undsofort.de/",
+          "stelle": "tsche Zeitung Alle Jahre wieder! Tickets sichern! 20.12.2026 So 15:00 Reservieren Conny Krause & Heiko Dietz Von wegen Weihnachten Eine grenzüberschr"
+        },
+        "abendkasse": {
+          "url": "https://www.undsofort.de/kartenbestellung/von-wegen-weihnachten,7366",
+          "stelle": "eider rückwirkend in Rechnung stellen. (dass da Menschenmassen an der Abendkasse auftauchen, die unbedingt ein Tiicket ergattern wollen, ist eine Utop"
+        },
+        "vorverkauf": {
+          "url": "https://www.undsofort.de/kartenbestellung/von-wegen-weihnachten,7366",
+          "stelle": "ieren je nach Produktion. Sonstige Ermäßigungen werden nicht gewährt. Vorverkauf Für die Zauberer sowie Dr. Döblingers Kasperltheater gilt der Vorverk"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Vereinsheim",
+      "team_id": "Vereinsheim",
+      "homepage": "http://www.vereinsheim.net/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Vereinsheim",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vereinsheim.net/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Rationaltheater",
+      "team_id": "Rationaltheater",
+      "homepage": "http://www.rationaltheater.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Rationaltheater",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Rationaltheater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://rationaltheater.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Lustspielhaus",
+      "team_id": "Lustspielhaus",
+      "homepage": "http://www.lustspielhaus.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Lustspielhaus",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.lustspielhaus.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.lustspielhaus.de/",
+          "stelle": "sanschrift: Münchner Lustspielhaus Occamstrasse 8 80802 München Kartenvorverkauf und Büro: Haimhauserstrasse 16a Mo, Mi, Fr 14:00 – 18:00 Uhr Kartente"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.lustspielhaus.de/",
+        "wie": "eingebunden auf https://www.lustspielhaus.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Münchner Lach- und Schießgesellschaft",
+      "team_id": "Münchner Lach- und Schießgesellschaft",
+      "homepage": "http://www.lachundschiess.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/M%C3%BCnchner_Lach-_und_Schie%C3%9Fgesellschaft",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Münchner Lach- und Schießgesellschaft",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.lachundschiess.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.lachundschiess.de/",
+          "stelle": "achundschiess veranstaltungs- gmbh Ursulastraße 9 80802 München Kartenvorverkauf Haimhauserstraße 16a 80802 München Mo, Mi, Fr 14:00 – 18:00 Uhr Karte"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TamS",
+      "team_id": "TamS",
+      "homepage": "http://www.tamstheater.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TamS",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "TamS",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tamstheater.de/",
+        "https://tamstheater.de/karten"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://tamstheater.de/karten",
+          "stelle": "89 34 58 90 oder per E-Mail reservieren und am Vorstellungstag an der Abendkasse abholen. Bitte beachten Sie, dass bei uns nur Barzahlung möglich ist"
+        },
+        "von_hand": {
+          "url": "https://tamstheater.de/karten",
+          "stelle": "en Archiv Presse Grenzgänger Festival Seite wählen Spielplan Karten & Reservierung Reservierung Tickets Lach- und Schießgesellschaft Tickets für die"
+        },
+        "bar": {
+          "url": "https://tamstheater.de/karten",
+          "stelle": "llungstag an der Abendkasse abholen. Bitte beachten Sie, dass bei uns nur Barzahlung möglich ist (keine Kredit- oder ec-Karten). Außerdem können Si"
+        }
+      },
+      "instagram": [
+        "tamstheater"
+      ],
+      "emails": [
+        "tams@tamstheater.de",
+        "info@lachundschiess.de"
+      ],
+      "preise": [
+        {
+          "eur": 30,
+          "url": "https://tamstheater.de/karten",
+          "stelle": "eintrittspreise 30 €"
+        },
+        {
+          "eur": 10,
+          "url": "https://tamstheater.de/karten",
+          "stelle": "ticket 10 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Heppel & Ettlich",
+      "team_id": "Heppel & Ettlich",
+      "homepage": "http://www.heppel-ettlich.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Heppel_%26_Ettlich",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Heppel & Ettlich",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://heppel-ettlich.de/",
+        "https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/duo-stiehler-lucaciu-munchen-E74ESER",
+        "https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/the-blissful-bob-munchen-EO35P00",
+        "https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/lyhre-dead-concept-munchen-EJHLJRG",
+        "https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/the-blissful-bob-party-munchen-ESEH395"
+      ],
+      "nicht_lesbar": [
+        "https://heppel-ettlich.de/wp-content/themes/Heppel%20Theme/openstage.php (HTTP 404)"
+      ],
+      "funde": {},
+      "instagram": [
+        "heppel.ettlich",
+        "thenonessentials.ev",
+        "loveyourartist"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 38.5,
+          "url": "https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/duo-stiehler-lucaciu-munchen-E74ESER",
+          "stelle": "tickets für 38,50 €"
+        },
+        {
+          "eur": 38.5,
+          "url": "https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/duo-stiehler-lucaciu-munchen-E74ESER",
+          "stelle": "tickets für 38,50 €"
+        },
+        {
+          "eur": 16.5,
+          "url": "https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/lyhre-dead-concept-munchen-EJHLJRG",
+          "stelle": "tickets ab 16,50 €"
+        },
+        {
+          "eur": 16.5,
+          "url": "https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/lyhre-dead-concept-munchen-EJHLJRG",
+          "stelle": "tickets ab 16,50 €"
+        },
+        {
+          "eur": 13.2,
+          "url": "https://loveyourartist.com/de/profiles/heppel-and-ettlich-BMBZJE/events/the-blissful-bob-party-munchen-ESEH395",
+          "stelle": "tickets ab 13,20 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://heppel-ettlich.de/",
+        "wie": "eingebunden auf https://heppel-ettlich.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Kulturhaus Milbertshofen",
+      "team_id": "Kulturhaus Milbertshofen",
+      "homepage": "http://www.kulturhaus-milbertshofen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kulturhaus_Milbertshofen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Kulturhaus Milbertshofen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://kulturhaus-milbertshofen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@kulturhaus-milbertshofen.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Wirtshaus am Hart",
+      "team_id": "Wirtshaus am Hart",
+      "homepage": "http://www.theater-platzl.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Wirtshaus_am_Hart",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Wirtshaus am Hart",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.theater-platzl.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Stemmerhof",
+      "team_id": "Stemmerhof",
+      "homepage": "http://www.ars-musica-muenchen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Stemmerhof",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Stemmerhof",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ars-musica-muenchen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.ars-musica-muenchen.de/",
+          "stelle": "es Mitglied werden Satzung Team Spenden Geschichte Programm Übersicht Vorverkauf Archiv HYGIENE Kontakt Schreiben Sie uns Newsletter Impressum Datensc"
+        }
+      },
+      "instagram": [
+        "arsmusica_muenchen"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Wirtshaus zum Isartal",
+      "team_id": "Wirtshaus zum Isartal",
+      "homepage": "https://www.wirtshaus-zum-isartal.de/theater-buehne-konzert-show.html",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Wirtshaus zum Isartal",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.wirtshaus-zum-isartal.de/theater-buehne-konzert-show.html",
+        "https://www.wirtshaus-zum-isartal.de/gutscheine-tickets-eintrittskarte-geschenk.html",
+        "https://www.wirtshaus-zum-isartal.de/karten-speisekarte-getraenkekarte.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.wirtshaus-zum-isartal.de/theater-buehne-konzert-show.html",
+          "stelle": "Wirtshaus Räume und Saal Internetzugang / WLAN Gutscheine und Tickets Reservierung Unser Team Gästebuch Anfahrt Theater Das Theater Die Bühne Veranst"
+        },
+        "nur_abendkasse": {
+          "url": "https://www.wirtshaus-zum-isartal.de/gutscheine-tickets-eintrittskarte-geschenk.html",
+          "stelle": "ür unsere zahlreichen Veranstaltungen und Shows erhalten Sie momentan nur an der Abendkasse hier bei uns im Wirtshaus zum Isartal. Falls Sie noch Fragen zu unser"
+        },
+        "abendkasse": {
+          "url": "https://www.wirtshaus-zum-isartal.de/gutscheine-tickets-eintrittskarte-geschenk.html",
+          "stelle": "ahlreichen Veranstaltungen und Shows erhalten Sie momentan nur an der Abendkasse hier bei uns im Wirtshaus zum Isartal. Falls Sie noch Fragen zu unser"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Haderner Mpore bei Mehlfelds (Restaurant & Kulturbühne)",
+      "team_id": "Haderner Mpore bei Mehlfelds (Restaurant & Kulturbühne)",
+      "homepage": "http://haderner-mpore.de/dahoam/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Haderner Mpore bei Mehlfelds (Restaurant & Kulturbühne)",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://haderner-mpore.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "bar": {
+          "url": "https://haderner-mpore.de/",
+          "stelle": "und ein Treueprogramm mit fünf Stufen, das zusätzliche Freispiele und Bargeld-Prämien freischaltet. Wer regelmäßig spielt, sollte den Newsletter ch"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Giesinger Bahnhof",
+      "team_id": "Giesinger Bahnhof",
+      "homepage": "http://www.giesinger-bahnhof.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Giesinger_Bahnhof",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Giesinger Bahnhof",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://giesinger-bahnhof.de/",
+        "https://giesinger-bahnhof.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://giesinger-bahnhof.de/",
+          "stelle": "hnhof.de 089 69 38 79 - 30 089 69 38 79 - 32 Kartenanfragen (Gruppen) reservierung@giesinger-bahnhof.de Gleiswirtschaft 089 69 38 79 - 33 gleiswirtsc"
+        }
+      },
+      "instagram": [
+        "kulturzentrumgiesing"
+      ],
+      "emails": [
+        "info@giesinger-bahnhof.de",
+        "reservierung@giesinger-bahnhof.de",
+        "gleiswirtschaft@gmx.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "pretix",
+        "beleg": "https://giesinger-bahnhof.de/tickets/",
+        "wie": "eingebunden auf https://giesinger-bahnhof.de/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Theater Drehleier",
+      "team_id": "Theater Drehleier",
+      "homepage": "http://www.theater-drehleier.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Theater_Drehleier",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Theater Drehleier",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.theater-drehleier.de/",
+        "http://www.theater-drehleier.de/preise",
+        "http://www.theater-drehleier.de/programm/event/20261125_die_3_zuagroastn",
+        "http://www.theater-drehleier.de/programm/event/20261202_gwen__stan__der_alltag_schlaegt_zurueck__wir_brauchen_eine_therapie",
+        "http://www.theater-drehleier.de/programm/event/20261205_wild_west_girls",
+        "http://www.theater-drehleier.de/programm/event/20261219_wild_as_her"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "http://www.theater-drehleier.de/",
+          "stelle": "orb &middot; AGB Ihr Warenkorb ist noch gültig. Einen Moment bitte... Reservierung 089 - 48 27 42 an den Veranstaltungstagen von 14:30 bis 17:30 Uhr"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@theater-drehleier.de"
+      ],
+      "preise": [
+        {
+          "eur": 25,
+          "url": "http://www.theater-drehleier.de/programm/event/20261125_die_3_zuagroastn",
+          "stelle": "normal | 25.00 €"
+        },
+        {
+          "eur": 22,
+          "url": "http://www.theater-drehleier.de/programm/event/20261202_gwen__stan__der_alltag_schlaegt_zurueck__wir_brauchen_eine_therapie",
+          "stelle": "normal | 22.00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Friedensbühne Song Parnass",
+      "team_id": "Friedensbühne Song Parnass",
+      "homepage": "http://www.rudi-vietz.de/songparnass.htm",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Friedensbühne Song Parnass",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.rudi-vietz.de/songparnass.htm (ENOTFOUND)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kulturhaus Ramersdorf-Perlach",
+      "team_id": "Kulturhaus Ramersdorf-Perlach",
+      "homepage": "http://www.kulturbunt-neuperlach.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kulturhaus Ramersdorf-Perlach",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.kulturbunt-neuperlach.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "KRIST & MÜNCH Table Magic Theater",
+      "team_id": "Krist & Münch",
+      "homepage": "http://www.magic-theater.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Krist_%26_M%C3%BCnch",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "KRIST & MÜNCH Table Magic Theater",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://krist-live.de/",
+        "https://krist-live.de/tickets"
+      ],
+      "nicht_lesbar": [
+        "https://krist-live.de/$%7Besc(url)%7D (HTTP 404)"
+      ],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://krist-live.de/",
+          "stelle": "sen? Termine & Neuigkeiten direkt ins Postfach — vor dem öffentlichen Vorverkauf. Zum Newsletter Alexander Krist Theater München – Magie live & hautna"
+        },
+        "abendkasse": {
+          "url": "https://krist-live.de/tickets",
+          "stelle": "— King of Cards dauert 120 Minuten und hat eine Pause. Karten an der Abendkasse gibt es nur, solange eine Vorstellung nicht ausverkauft ist — der Onl"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 29,
+          "url": "https://krist-live.de/",
+          "stelle": "tickets ab 29 €"
+        },
+        {
+          "eur": 29,
+          "url": "https://krist-live.de/",
+          "stelle": "tickets ab 29 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kleines Spiel",
+      "team_id": "Kleines Spiel",
+      "homepage": "https://www.kleinesspiel.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kleines_Spiel",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Kleinkunstb%C3%BChnen_in_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Kleines Spiel",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.kleinesspiel.de/",
+        "https://www.kleinesspiel.de/alterhut/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.kleinesspiel.de/",
+          "stelle": "947 frei. Es gibt keine Eintrittskarten – und daher auch keinen Kartenvorverkauf. Doch auch wenn das Ensemble seit je her alles nur aus Freude am Spie"
+        },
+        "eintritt_frei": {
+          "url": "https://www.kleinesspiel.de/",
+          "stelle": "no maten a mis hijos – 请不要杀我的孩子) (…Spenden erbeten…) \"> >> MEHR DAZU Eintritt frei! (…Spenden erbeten…) Der Eintritt zu unseren Vorstellungen ist seit d"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": true
+    }
+  ]
+}
