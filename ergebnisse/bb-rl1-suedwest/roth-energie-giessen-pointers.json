@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "ROTH Energie Gießen Pointers",
+    "land": null,
+    "liga": "bb-rl1-suedwest",
+    "liga_name": "1. Regionalliga Südwest (Basketball, Herren)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.giessen-pointers.de",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Osthalle Gießen",
+    "kapazitaet": null,
+    "instagram": "giessenpointers",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite zum Heimspiel gegen LICH Basketball (Osthalle Gießen): „TICKETS AN DER ABENDKASSE - OK!“ Kein Vorverkauf und kein Shop verlinkt.",
+    "quellen": [
+      "https://www.giessen-pointers.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.giessen-pointers.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Regionalliga mit Hessenderby gegen Lich.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.giessen-pointers.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.giessen-pointers.de/"
+        ],
+        "vorverkauf": [
+          "https://www.giessen-pointers.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab auf eurer Startseite „Tickets an der Abendkasse“ fürs Derby gegen Lich gesehen. Einen Vorverkauf hab ich nicht gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Die Abendkasse bleibt. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Gießen Pointers über die Kontaktseite.\n- Einstieg: Heimspiele in der Osthalle, Tickets laut Startseite an der Abendkasse.\n- Frage: Wie voll wird es bei Derbys, und zahlen die Leute an der Kasse bar?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

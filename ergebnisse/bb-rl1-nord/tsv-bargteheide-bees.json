@@ -1,0 +1,47 @@
+{
+  "verein": {
+    "name": "TSV Bargteheide BEES",
+    "land": null,
+    "liga": "bb-rl1-nord",
+    "liga_name": "1. Regionalliga Nord (Basketball, Herren)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://tsv-bargteheide.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von TSV Bargteheide BEES nennen weder Eintrittspreise noch einen Ticketweg für die 1. Regionalliga.",
+    "quellen": [
+      "https://tsv-bargteheide.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. Homepage geraten, Titel bestätigt den Verein.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://tsv-bargteheide.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://tsv-bargteheide.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

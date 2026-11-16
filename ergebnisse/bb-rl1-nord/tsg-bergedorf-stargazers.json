@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "TSG Bergedorf Stargazers",
+    "ort": "Hamburg",
+    "land": "HH",
+    "liga": "bb-rl1-nord",
+    "liga_name": "1. Regionalliga Nord (Basketball, Herren)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.tsg-bergedorf.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tsgbergedorf1860",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von TSG Bergedorf Stargazers nennen weder Eintrittspreise noch einen Ticketweg für die 1. Regionalliga.",
+    "quellen": [
+      "https://www.tsg-bergedorf.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.tsg-bergedorf.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tsg-bergedorf.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.tsg-bergedorf.de/"
+        ]
+      }
+    }
+  }
+}

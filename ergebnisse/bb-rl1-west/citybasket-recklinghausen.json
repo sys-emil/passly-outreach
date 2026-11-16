@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "Citybasket Recklinghausen",
+    "land": null,
+    "liga": "bb-rl1-west",
+    "liga_name": "1. Regionalliga West (Basketball, Herren)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "http://www.citybasket.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": 5,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "info@citybasket.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseite nennt Preise (Erwachsene 5,00 €, ermäßigt 3,00 €), aber keinen Vorverkauf und keinen Shop.",
+    "quellen": [
+      "https://citybasket.de/tickets/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://citybasket.de/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://citybasket.de/tickets/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://citybasket.de/tickets/"
+        ],
+        "ansprechperson": [
+          "https://citybasket.de/tickets/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab eure Ticketseite gesehen, 5 € für Erwachsene, 3 € ermäßigt. Einen Vorverkauf hab ich nicht gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Citybasket Recklinghausen, info@citybasket.de.\n- Einstieg: Eintritt 5 € (ermäßigt 3 €), kein Verkaufsweg genannt.\n- Frage: Wie läuft die Kasse bei euren Heimspielen, und wer macht das?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

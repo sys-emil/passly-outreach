@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "MTV/BG Wolfenbüttel",
+    "ort": "Wolfenbüttel",
+    "land": "NI",
+    "liga": "bb-rl1-nord",
+    "liga_name": "1. Regionalliga Nord (Basketball, Herren)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.mtv-wolfenbuettel.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "clubity (Dauerkarten)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Seite „Dauerkarten Saison 26/27“ bindet ein clubity-Angebot ein.",
+    "quellen": [
+      "https://www.mtv-wolfenbuettel.de/de/sportangebote/breitensport/basketball/dauerkarten-saison-2627/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.mtv-wolfenbuettel.de/de/sportangebote/breitensport/basketball/dauerkarten-saison-2627/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "clubity ist eine Vereinsverwaltung mit Buchung, kein reiner Ticketanbieter.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.mtv-wolfenbuettel.de/de/sportangebote/breitensport/basketball/dauerkarten-saison-2627/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.mtv-wolfenbuettel.de/de/sportangebote/breitensport/basketball/dauerkarten-saison-2627/"
+        ]
+      }
+    }
+  }
+}

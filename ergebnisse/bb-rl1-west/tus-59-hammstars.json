@@ -1,0 +1,50 @@
+{
+  "verein": {
+    "name": "TuS 59 HammStars",
+    "land": null,
+    "liga": "bb-rl1-west",
+    "liga_name": "1. Regionalliga West (Basketball, Herren)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.tus59hamm.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tus59hamm",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von TuS 59 HammStars nennen weder Eintrittspreise noch einen Ticketweg für die 1. Regionalliga.",
+    "quellen": [
+      "https://www.tus59hamm.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.tus59hamm.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. Homepage geraten, Titel bestätigt den Verein.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tus59hamm.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.tus59hamm.de/"
+        ]
+      }
+    }
+  }
+}

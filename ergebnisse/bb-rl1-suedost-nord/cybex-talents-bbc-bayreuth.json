@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "CYBEX Talents BBC Bayreuth",
+    "land": null,
+    "liga": "bb-rl1-suedost-nord",
+    "liga_name": "1. Regionalliga Südost Nord (Basketball, Herren)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.bayreuth-basketball.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix (Profiverein Bayreuth)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "bayreuth.basketball",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseiten des Bayreuther Profivereins mit Reservix.",
+    "quellen": [
+      "https://www.bayreuth-basketball.de/tickets/tagesticket"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.bayreuth-basketball.de/tickets/tagesticket"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Nachwuchsteam des ProB-Vereins; eigene Heimspiele nicht geprüft. Homepage geraten, Titel bestätigt den Verein.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.bayreuth-basketball.de/tickets/tagesticket"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.bayreuth-basketball.de/tickets/tagesticket"
+        ],
+        "instagram": [
+          "https://www.bayreuth-basketball.de/tickets/tagesticket"
+        ]
+      }
+    }
+  }
+}

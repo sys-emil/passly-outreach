@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "BSV Münsterland Baskets Wulfen",
+    "land": null,
+    "liga": "bb-rl1-west",
+    "liga_name": "1. Regionalliga West (Basketball, Herren)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "http://www.bsv-wulfen.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Vereinsticket (eingebunden auf http://www.bsv-wulfen.de/tickets/: http://www.bsv-wulfen.de/tickets/).",
+    "quellen": [
+      "http://www.bsv-wulfen.de/tickets/",
+      "https://www.basketball-bund.net/static/#/liga/54569"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "http://www.bsv-wulfen.de/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.basketball-bund.net/static/#/liga/54569"
+    ],
+    "notiz": "Ohne Modell geklärt. DBB-Name „BSV Münsterland Baskets Wulfen“. Mehrere Instagram-Konten verlinkt: bsvmuensterlandbasketswulfen, bsvwulfen. Gelesen: http://www.bsv-wulfen.de/, http://www.bsv-wulfen.de/tickets/, http://www.bsv-wulfen.de/tickets/saisonkarten/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "http://www.bsv-wulfen.de/tickets/",
+      "https://www.basketball-bund.net/static/#/liga/54569"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "http://www.bsv-wulfen.de/tickets/"
+        ]
+      }
+    }
+  }
+}

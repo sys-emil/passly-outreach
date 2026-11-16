@@ -1,0 +1,50 @@
+{
+  "verein": {
+    "name": "hapa Ansbach",
+    "land": null,
+    "liga": "bb-rl1-suedost-sued",
+    "liga_name": "1. Regionalliga Südost Süd (Basketball, Herren)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://piranhas-ansbach.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verlinkt events.vereinsticket.de/piranhas-ansbach/herren.",
+    "quellen": [
+      "https://piranhas-ansbach.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://piranhas-ansbach.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Homepage geraten, Titel bestätigt den Verein.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://piranhas-ansbach.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://piranhas-ansbach.de/"
+        ]
+      }
+    }
+  }
+}

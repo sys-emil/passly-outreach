@@ -721,6 +721,36 @@
       "sport": "Eishockey",
       "quelle": { "typ": "wikipedia", "seite": "Eishockey-Regionalliga_2026/27", "staffel": "Regionalliga West", "format": "liste" },
       "vereine": []
+    },
+    "bb-rl1-nord": {
+      "name": "1. Regionalliga Nord (Basketball, Herren)",
+      "sport": "Basketball",
+      "quelle": { "typ": "dbb", "ligaId": 54819 },
+      "vereine": []
+    },
+    "bb-rl1-west": {
+      "name": "1. Regionalliga West (Basketball, Herren)",
+      "sport": "Basketball",
+      "quelle": { "typ": "dbb", "ligaId": 54569 },
+      "vereine": []
+    },
+    "bb-rl1-suedwest": {
+      "name": "1. Regionalliga Südwest (Basketball, Herren)",
+      "sport": "Basketball",
+      "quelle": { "typ": "dbb", "ligaId": 53088 },
+      "vereine": []
+    },
+    "bb-rl1-suedost-nord": {
+      "name": "1. Regionalliga Südost Nord (Basketball, Herren)",
+      "sport": "Basketball",
+      "quelle": { "typ": "dbb", "ligaId": 52515 },
+      "vereine": []
+    },
+    "bb-rl1-suedost-sued": {
+      "name": "1. Regionalliga Südost Süd (Basketball, Herren)",
+      "sport": "Basketball",
+      "quelle": { "typ": "dbb", "ligaId": 52514 },
+      "vereine": []
     }
   }
 }

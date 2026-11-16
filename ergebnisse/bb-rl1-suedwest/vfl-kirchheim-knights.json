@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "VfL Kirchheim Knights",
+    "ort": "Kirchheim unter Teck",
+    "land": "BW",
+    "liga": "bb-rl1-suedwest",
+    "liga_name": "1. Regionalliga Südwest (Basketball, Herren)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "http://www.kirchheim-knights.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "vivenu",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "kreisbau.knights",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseite mit vivenu-Ticketshop; Restkarten an der Abendkasse ab 1 Stunde vor Spielbeginn.",
+    "quellen": [
+      "https://kirchheim-knights.de/tickets"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://kirchheim-knights.de/tickets"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorlauf hatte „manuell“ vermutet (Kartenvorverkauf in der Geschäftsstelle); verkauft aber online.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://kirchheim-knights.de/tickets"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://kirchheim-knights.de/tickets"
+        ],
+        "instagram": [
+          "https://kirchheim-knights.de/tickets"
+        ]
+      }
+    }
+  }
+}

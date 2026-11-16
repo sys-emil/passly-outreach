@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "RSV Eintracht 1949",
+    "ort": "Stahnsdorf",
+    "land": "BB",
+    "liga": "bb-rl1-nord",
+    "liga_name": "1. Regionalliga Nord (Basketball, Herren)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "http://www.rsv-basketball.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://rsv-basketball.de/service/tickets/: https://rsv-basketball.de/service/tickets/).",
+    "quellen": [
+      "https://rsv-basketball.de/service/tickets/",
+      "https://www.basketball-bund.net/static/#/liga/54819"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://rsv-basketball.de/service/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.basketball-bund.net/static/#/liga/54819"
+    ],
+    "notiz": "Ohne Modell geklärt. DBB-Name „RSV Eintracht 1949“. Gelesen: https://rsv-basketball.de/, https://rsv-basketball.de/service/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://rsv-basketball.de/service/tickets/",
+      "https://www.basketball-bund.net/static/#/liga/54819"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://rsv-basketball.de/service/tickets/"
+        ]
+      }
+    }
+  }
+}

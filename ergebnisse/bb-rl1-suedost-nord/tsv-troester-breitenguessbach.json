@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "TSV Tröster Breitengüßbach",
+    "ort": "Breitengüßbach",
+    "land": "BY",
+    "liga": "bb-rl1-suedost-nord",
+    "liga_name": "1. Regionalliga Südost Nord (Basketball, Herren)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "http://www.tsvbreitenguessbach.de/basketball/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tsvbreitenguessbach",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Vereinsticket (eingebunden auf https://www.tsvbreitenguessbach.de/basketball/: https://www.tsvbreitenguessbach.de/basketball/).",
+    "quellen": [
+      "https://www.tsvbreitenguessbach.de/basketball/",
+      "https://www.basketball-bund.net/static/#/liga/52515"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.tsvbreitenguessbach.de/basketball/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.basketball-bund.net/static/#/liga/52515"
+    ],
+    "notiz": "Ohne Modell geklärt. DBB-Name „TSV Tröster Breitengüßbach“. Gelesen: https://www.tsvbreitenguessbach.de/basketball/, https://www.tsvbreitenguessbach.de/naechstes-heimspiel-gegen-leipzig/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tsvbreitenguessbach.de/basketball/",
+      "https://www.basketball-bund.net/static/#/liga/52515"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.tsvbreitenguessbach.de/basketball/"
+        ],
+        "instagram": [
+          "https://www.tsvbreitenguessbach.de/basketball/"
+        ]
+      }
+    }
+  }
+}

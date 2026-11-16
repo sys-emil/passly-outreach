@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "BBG Herford",
+    "ort": "Herford",
+    "land": "NW",
+    "liga": "bb-rl1-west",
+    "liga_name": "1. Regionalliga West (Basketball, Herren)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://bbg-herford.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.bbg-herford.de/: https://www.bbg-herford.de/).",
+    "quellen": [
+      "https://www.bbg-herford.de/",
+      "https://www.basketball-bund.net/static/#/liga/54569"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.bbg-herford.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.basketball-bund.net/static/#/liga/54569"
+    ],
+    "notiz": "Ohne Modell geklärt. DBB-Name „BBG Herford“. Gelesen: https://www.bbg-herford.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.bbg-herford.de/",
+      "https://www.basketball-bund.net/static/#/liga/54569"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.bbg-herford.de/"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "TS Jahn München",
+    "ort": "München",
+    "land": "BY",
+    "liga": "bb-rl1-suedost-sued",
+    "liga_name": "1. Regionalliga Südost Süd (Basketball, Herren)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "http://www.tsjahn.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tsjahnmuenchen1887",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von TS Jahn München nennen weder Eintrittspreise noch einen Ticketweg für die 1. Regionalliga.",
+    "quellen": [
+      "http://www.tsjahn.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "http://www.tsjahn.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "http://www.tsjahn.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "http://www.tsjahn.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab auf eurer Seite nichts zu Eintritt oder Vorverkauf für die Basketball-Herren in der 1. Regionalliga gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: TS Jahn München über die Geschäftsstelle, nach der Basketballabteilung fragen.\n- Einstieg: Mehrspartenverein, 1. Regionalliga Südost Süd, keine Ticketangabe.\n- Frage: Nehmt ihr Eintritt bei den Heimspielen, und wie läuft das?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

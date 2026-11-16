@@ -106,6 +106,7 @@ try {
     : QUELLE.typ === '2bbl' ? await stufe0Basketball(QUELLE)
     : QUELLE.typ === 'wikipedia' ? await stufe0Wikipedia(QUELLE)
     : QUELLE.typ === 'namen' ? await stufe0Namen(QUELLE)
+    : QUELLE.typ === 'dbb' ? await stufe0Dbb(QUELLE)
     : await stufe0Vbl(QUELLE);
 } catch {
   process.exit(2);
@@ -314,6 +315,18 @@ async function wikiAufloesen(teams, api) {
 
 // Nur Vereinsnamen (z. B. Ringer-Bundesliga, Tabelle auf ringen.de): je Name die Wikipedia-Suche,
 // erster Treffer wird der Artikel. Unsicher bei Allerweltsnamen, deshalb steht die Zuordnung im Hinweis.
+// Basketball-Bund (seit 2026-11-16, 1. Regionalligen): Tabelle per REST
+// (basketball-bund.net/rest/competition/table/id/<ligaId>), nur Teamnamen; Homepages
+// danach wie beim Typ „namen“ über die Wikipedia-Suche und „homepages“ von Hand.
+async function stufe0Dbb(q) {
+  const url = `https://www.basketball-bund.net/rest/competition/table/id/${q.ligaId}`;
+  const r = await holen(url);
+  const eintraege = r.ok ? JSON.parse(r.roh).data?.tabelle?.entries ?? [] : [];
+  if (eintraege.length === 0) { console.error(`Basketball-Bund: keine Tabelle für Liga ${q.ligaId}`); throw new Error('quelle'); }
+  const namen = eintraege.filter((e) => !e.team.verzicht).map((e) => e.team.teamname.trim());
+  return stufe0Namen({ url: `https://www.basketball-bund.net/static/#/liga/${q.ligaId}`, suche: q.suche ?? 'Basketball', namen, homepages: q.homepages });
+}
+
 async function stufe0Namen(q) {
   const api = 'https://de.wikipedia.org/w/api.php?format=json&formatversion=2&';
   listeUrl = q.url;
