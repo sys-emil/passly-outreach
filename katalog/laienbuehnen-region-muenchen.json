@@ -1,0 +1,936 @@
+{
+ "stand": "2026-11-16",
+ "quelle": "Amateurtheater-Wiki der LMU (Suche „Bavaria“), Landkreis über Wikidata P131/P159; Website aus Wikidata P856 oder dem ersten externen Link der Wiki-Seite",
+ "region": "Region München ohne Stadt: LK München, Dachau, Ebersberg, Erding, Freising, Fürstenfeldbruck, Landsberg am Lech, Starnberg",
+ "eintraege": [
+  {
+   "name": "Bergkirchner Sportlerbühne",
+   "web": "http://www.sportlerbuehne-bergkirchen.de/",
+   "ort": "Bergkirchen",
+   "land": "BY",
+   "landkreis": "Landkreis Dachau",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Bergkirchner_Sportlerb%C3%BChne"
+  },
+  {
+   "name": "D' Etzahausa Theatara",
+   "web": "http://www.etzahausa-theatara.de/",
+   "ort": "Dachau",
+   "land": "BY",
+   "landkreis": "Landkreis Dachau",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/D%27_Etzahausa_Theatara"
+  },
+  {
+   "name": "Heimatbühne Obergiesing",
+   "web": "http://www.heimatbuehne-obergiesing.de/",
+   "ort": "Dachau",
+   "land": "BY",
+   "landkreis": "Landkreis Dachau",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Heimatb%C3%BChne_Obergiesing"
+  },
+  {
+   "name": "SV Niederroth Abteilung Theater",
+   "web": "http://www.sv-niederroth.de/",
+   "ort": "Markt Indersdorf",
+   "land": "BY",
+   "landkreis": "Landkreis Dachau",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/SV_Niederroth_Abteilung_Theater"
+  },
+  {
+   "name": "TSV Brett'l Eintracht Karlsfeld",
+   "web": "http://www.tsvek.de/",
+   "ort": "Karlsfeld",
+   "land": "BY",
+   "landkreis": "Landkreis Dachau",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/TSV_Brett%27l_Eintracht_Karlsfeld"
+  },
+  {
+   "name": "Theater Indersdorf",
+   "web": "https://www.theater-indersdorf.de/",
+   "ort": "Markt Indersdorf",
+   "land": "BY",
+   "landkreis": "Landkreis Dachau",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theater_Indersdorf"
+  },
+  {
+   "name": "Theater am Stadtwald Volksspielbühne des ASV Dachau",
+   "web": "http://www.asv-dachau.de/theater-events/theater",
+   "ort": "Dachau",
+   "land": "BY",
+   "landkreis": "Landkreis Dachau",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theater_am_Stadtwald_Volksspielb%C3%BChne_des_ASV_Dachau"
+  },
+  {
+   "name": "Theaterbrettl Sulzemoos",
+   "web": "http://www.theaterbrettl-sulzemoos.de/",
+   "ort": "Sulzemoos",
+   "land": "BY",
+   "landkreis": "Landkreis Dachau",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterbrettl_Sulzemoos"
+  },
+  {
+   "name": "Theaterfreunde Feldgeding",
+   "web": null,
+   "ort": "Bergkirchen",
+   "land": "BY",
+   "landkreis": "Landkreis Dachau",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterfreunde_Feldgeding"
+  },
+  {
+   "name": "Theatergruppe Haimhausen",
+   "web": "http://www.theatergruppe-haimhausen.de/",
+   "ort": "Haimhausen",
+   "land": "BY",
+   "landkreis": "Landkreis Dachau",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Haimhausen"
+  },
+  {
+   "name": "Theatergruppe Hilgertshausen",
+   "web": null,
+   "ort": "Hilgertshausen-Tandern",
+   "land": "BY",
+   "landkreis": "Landkreis Dachau",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Hilgertshausen"
+  },
+  {
+   "name": "Theatergruppe SC-Inhauser Moos",
+   "web": "http://www.inhauser-moos.de/",
+   "ort": "Haimhausen",
+   "land": "BY",
+   "landkreis": "Landkreis Dachau",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_SC-Inhauser_Moos"
+  },
+  {
+   "name": "Volksbühne Dachau",
+   "web": "http://www.volksbuehne-dachau.de/",
+   "ort": "Karlsfeld",
+   "land": "BY",
+   "landkreis": "Landkreis Dachau",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksb%C3%BChne_Dachau"
+  },
+  {
+   "name": "Alles Möglich(e) Theater",
+   "web": null,
+   "ort": "Baldham",
+   "land": "BY",
+   "landkreis": "Landkreis Ebersberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Alles_M%C3%B6glich%28e%29_Theater"
+  },
+  {
+   "name": "Anzinger Theaterverein",
+   "web": "http://www.theaterverein-anzing.de/",
+   "ort": "Anzing",
+   "land": "BY",
+   "landkreis": "Landkreis Ebersberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Anzinger_Theaterverein"
+  },
+  {
+   "name": "Brettlbühne Vaterstetten",
+   "web": "http://www.brettlbuehne-vaterstetten.de/",
+   "ort": "Baldham",
+   "land": "BY",
+   "landkreis": "Landkreis Ebersberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Brettlb%C3%BChne_Vaterstetten"
+  },
+  {
+   "name": "Grenztheater Ludwigs Erben",
+   "web": "https://ludwigserben.wordpress.com/",
+   "ort": "Grafing bei München",
+   "land": "BY",
+   "landkreis": "Landkreis Ebersberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Grenztheater_Ludwigs_Erben"
+  },
+  {
+   "name": "Kleines Münchner Theater",
+   "web": "http://www.kleines-muenchner-theater.de/",
+   "ort": "Zorneding",
+   "land": "BY",
+   "landkreis": "Landkreis Ebersberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kleines_M%C3%BCnchner_Theater"
+  },
+  {
+   "name": "Pleaninga Theaterbagasch",
+   "web": "http://www.pleaninga-theaterbagasch.de/",
+   "ort": "Pliening",
+   "land": "BY",
+   "landkreis": "Landkreis Ebersberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Pleaninga_Theaterbagasch"
+  },
+  {
+   "name": "Theaterfreunde Forstinning",
+   "web": "http://www.theaterfreunde-forstinning.de/",
+   "ort": "Forstinning",
+   "land": "BY",
+   "landkreis": "Landkreis Ebersberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterfreunde_Forstinning"
+  },
+  {
+   "name": "Theaterverein Hohenlinden",
+   "web": null,
+   "ort": "Hohenlinden",
+   "land": "BY",
+   "landkreis": "Landkreis Ebersberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Hohenlinden"
+  },
+  {
+   "name": "Die Haager Bühne",
+   "web": "http://www.haager-buehne.de/",
+   "ort": "Sankt Wolfgang",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Die_Haager_B%C3%BChne"
+  },
+  {
+   "name": "FC-Langengeisling 1920 Theaterabteilung",
+   "web": "http://www.fc-langengeisling.de/",
+   "ort": "Erding",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/FC-Langengeisling_1920_Theaterabteilung"
+  },
+  {
+   "name": "Kulturverein Neuching Neichinger Schupfatheater",
+   "web": "http://www.kulturverein-neuching.de/",
+   "ort": "Neuching",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kulturverein_Neuching_Neichinger_Schupfatheater"
+  },
+  {
+   "name": "Kunstfalle",
+   "web": "http://www.kunstfalle-ev.de/",
+   "ort": "Lengdorf",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kunstfalle"
+  },
+  {
+   "name": "Theatergruppe Bockhorn",
+   "web": null,
+   "ort": "Bockhorn",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Bockhorn"
+  },
+  {
+   "name": "Theatergruppe Hofkirchen",
+   "web": "http://www.theatergruppe-hofkirchen.de/",
+   "ort": "Taufkirchen (Vils)",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Hofkirchen"
+  },
+  {
+   "name": "Theatergruppe des Trachtenvereins Almrausch Wasentegernbach",
+   "web": "http://www.trachtenverein-wasentegernbach.de/",
+   "ort": "Wasentegernbach",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_des_Trachtenvereins_Almrausch_Wasentegernbach"
+  },
+  {
+   "name": "Theaterverein Buch am Buchrain",
+   "web": "http://www.theaterverein-buch-am-buchrain.de/",
+   "ort": "Buch am Buchrain",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Buch_am_Buchrain"
+  },
+  {
+   "name": "Theaterverein Forstern",
+   "web": "http://www.theaterverein-forstern.de/",
+   "ort": "Pastetten",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Forstern"
+  },
+  {
+   "name": "Theaterverein Isen 1983",
+   "web": "http://www.tv-isen.de/",
+   "ort": "Isen",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Isen_1983"
+  },
+  {
+   "name": "Theaterverein Langenpreising",
+   "web": "http://www.tvlgpr.de/",
+   "ort": "Langenpreising",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Langenpreising"
+  },
+  {
+   "name": "Theaterverein Lengdorf",
+   "web": "http://www.theaterverein-lengdorf.de/",
+   "ort": "Lengdorf",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Lengdorf"
+  },
+  {
+   "name": "Theaterverein Pastetten",
+   "web": "http://www.theaterverein-pastetten.de/",
+   "ort": "Pastetten",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Pastetten"
+  },
+  {
+   "name": "Theaterverein Taufkirchen-Vils",
+   "web": null,
+   "ort": "Dorfen",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Taufkirchen-Vils"
+  },
+  {
+   "name": "Volksbühne Eichenried",
+   "web": null,
+   "ort": "Moosinning",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksb%C3%BChne_Eichenried"
+  },
+  {
+   "name": "Volksspielgruppe Altenerding",
+   "web": "http://www.volkspielgruppe.de/",
+   "ort": "Erding",
+   "land": "BY",
+   "landkreis": "Landkreis Erding",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksspielgruppe_Altenerding"
+  },
+  {
+   "name": "Bühne Moosburg",
+   "web": "http://www.buehne-moosburg.de/",
+   "ort": "Moosburg an der Isar",
+   "land": "BY",
+   "landkreis": "Landkreis Freising",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/B%C3%BChne_Moosburg"
+  },
+  {
+   "name": "Dorfbühne Günzenhausen",
+   "web": null,
+   "ort": "Eching",
+   "land": "BY",
+   "landkreis": "Landkreis Freising",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Dorfb%C3%BChne_G%C3%BCnzenhausen"
+  },
+  {
+   "name": "Freisinger Stadtbär GbR",
+   "web": "http://www.freisinger-stadtbaer.de/",
+   "ort": "Allershausen",
+   "land": "BY",
+   "landkreis": "Landkreis Freising",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Freisinger_Stadtb%C3%A4r_GbR"
+  },
+  {
+   "name": "Hallertauer Spielgruppe Nandlstadt",
+   "web": "http://www.theater-nandlstadt.de/",
+   "ort": "Nandlstadt",
+   "land": "BY",
+   "landkreis": "Landkreis Freising",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Hallertauer_Spielgruppe_Nandlstadt"
+  },
+  {
+   "name": "InTeam",
+   "web": null,
+   "ort": "Freising",
+   "land": "BY",
+   "landkreis": "Landkreis Freising",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/InTeam"
+  },
+  {
+   "name": "Kolpingsfamilie Au in der Hallertau",
+   "web": "http://www.kolping-au.de/",
+   "ort": "Au in der Hallertau",
+   "land": "BY",
+   "landkreis": "Landkreis Freising",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kolpingsfamilie_Au_in_der_Hallertau"
+  },
+  {
+   "name": "Laienbühne Freising",
+   "web": "http://www.laienbuehne-freising.de/",
+   "ort": "Freising",
+   "land": "BY",
+   "landkreis": "Landkreis Freising",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienb%C3%BChne_Freising"
+  },
+  {
+   "name": "Laienspielgruppe Kranzberg",
+   "web": "http://www.theater-kranzberg.de/",
+   "ort": "Kranzberg",
+   "land": "BY",
+   "landkreis": "Landkreis Freising",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienspielgruppe_Kranzberg"
+  },
+  {
+   "name": "Laienspielgruppe Langenbach",
+   "web": "http://www.laienspielgruppe-langenbach.de/",
+   "ort": "Langenbach",
+   "land": "BY",
+   "landkreis": "Landkreis Freising",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienspielgruppe_Langenbach"
+  },
+  {
+   "name": "Laientheater Allershausen",
+   "web": "http://www.laientheater-allershausen.de/",
+   "ort": "Freising",
+   "land": "BY",
+   "landkreis": "Landkreis Freising",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laientheater_Allershausen"
+  },
+  {
+   "name": "S'Zollinger Theater",
+   "web": "http://www.zollinger-theater.de/",
+   "ort": "Zolling",
+   "land": "BY",
+   "landkreis": "Landkreis Freising",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/S%27Zollinger_Theater"
+  },
+  {
+   "name": "Theaterfreunde Tüntenhausen",
+   "web": "http://www.tuentenhausen.de/",
+   "ort": "Tüntenhausen",
+   "land": "BY",
+   "landkreis": "Landkreis Freising",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterfreunde_T%C3%BCntenhausen"
+  },
+  {
+   "name": "Theaterfreunde Zamgspuit",
+   "web": null,
+   "ort": "Nandlstadt",
+   "land": "BY",
+   "landkreis": "Landkreis Freising",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterfreunde_Zamgspuit"
+  },
+  {
+   "name": "Theatergruppe Priel",
+   "web": "http://www.theatergruppe-priel.de/",
+   "ort": "Mauern",
+   "land": "BY",
+   "landkreis": "Landkreis Freising",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Priel"
+  },
+  {
+   "name": "Theaterverein Kirchdorf a. d. Amper",
+   "web": "http://www.theater-kirchdorf.com/",
+   "ort": "Kirchdorf an der Amper",
+   "land": "BY",
+   "landkreis": "Landkreis Freising",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Kirchdorf_a._d._Amper"
+  },
+  {
+   "name": "Bayerische Volksbühne VHS-OLM Aschheim",
+   "web": "http://www.bayerischevolksbuehne.de/",
+   "ort": "Olching",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Bayerische_Volksb%C3%BChne_VHS-OLM_Aschheim"
+  },
+  {
+   "name": "D'Henaberger Bühne",
+   "web": "http://www.henaberger-buehne.de/",
+   "ort": "Althegnenberg",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/D%27Henaberger_B%C3%BChne"
+  },
+  {
+   "name": "Duringfelder Theatergruppe Türkenfeld",
+   "web": null,
+   "ort": "Türkenfeld",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Duringfelder_Theatergruppe_T%C3%BCrkenfeld"
+  },
+  {
+   "name": "Freundeskreis Germeringer Bürger",
+   "web": "http://www.germeringer-rossstall.de/",
+   "ort": "Germering",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Freundeskreis_Germeringer_B%C3%BCrger"
+  },
+  {
+   "name": "Historienspiel Fürstenfeld",
+   "web": "http://www.historienspiel-fuerstenfeld.de/",
+   "ort": "Fürstenfeldbruck",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Historienspiel_F%C3%BCrstenfeld"
+  },
+  {
+   "name": "Hörbacher Montagsbrettl",
+   "web": "http://www.montagsbrettl.de/",
+   "ort": "Althegnenberg",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/H%C3%B6rbacher_Montagsbrettl"
+  },
+  {
+   "name": "Kolpingsfamilie Eichenau",
+   "web": null,
+   "ort": "Eichenau",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kolpingsfamilie_Eichenau"
+  },
+  {
+   "name": "Kolpingsfamilie Olching",
+   "web": "http://www.kolping-olching.de/",
+   "ort": "Olching",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kolpingsfamilie_Olching"
+  },
+  {
+   "name": "Kultur- und Theaterverein Alling",
+   "web": "http://www.ktv-alling.de/",
+   "ort": "Alling",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kultur-_und_Theaterverein_Alling"
+  },
+  {
+   "name": "Laienbühne St. Max Geschäftsstelle",
+   "web": "http://www.sankt-max.de/",
+   "ort": "Gröbenzell",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienb%C3%BChne_St._Max_Gesch%C3%A4ftsstelle"
+  },
+  {
+   "name": "Lichtbühne München",
+   "web": "http://www.lichtbuehne.de/",
+   "ort": "Puchheim",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Lichtb%C3%BChne_M%C3%BCnchen"
+  },
+  {
+   "name": "Neue Bühne Bruck",
+   "web": "http://www.buehne-bruck.de/",
+   "ort": "Fürstenfeldbruck",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Neue_B%C3%BChne_Bruck"
+  },
+  {
+   "name": "Rassoburg-Theater Grafrath",
+   "web": "http://www.rassoburgtheater.de/",
+   "ort": "Kottgeisering",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Rassoburg-Theater_Grafrath"
+  },
+  {
+   "name": "Resistenz Theater Germering",
+   "web": "http://www.resistenztheater.de/",
+   "ort": "Germering",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Resistenz_Theater_Germering"
+  },
+  {
+   "name": "S Brucker Brett'l",
+   "web": "http://www.bruckerbrettl.de/",
+   "ort": "Fürstenfeldbruck",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/S_Brucker_Brett%27l"
+  },
+  {
+   "name": "StadlTheater Hattenhofen",
+   "web": "http://www.stadltheater-hattenhofen.de/",
+   "ort": "Hattenhofen",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/StadlTheater_Hattenhofen"
+  },
+  {
+   "name": "Theater TiG Theater in Gröbenzell",
+   "web": "http://www.theater-tig.de/",
+   "ort": "Gröbenzell",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theater_TiG_Theater_in_Gr%C3%B6benzell"
+  },
+  {
+   "name": "Theatergemeinschaft Mammendorf",
+   "web": "http://www.theater-mammendorf.de/",
+   "ort": "Adelshofen",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergemeinschaft_Mammendorf"
+  },
+  {
+   "name": "Theatergruppe Moorenweis",
+   "web": null,
+   "ort": "Moorenweis",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Moorenweis"
+  },
+  {
+   "name": "Theatergruppe Überacker",
+   "web": "https://theater-ueberacker.de/",
+   "ort": "Landsberied",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_%C3%9Cberacker"
+  },
+  {
+   "name": "Theaterverein Puchheim-Ort",
+   "web": "http://www.theater-puchheim.de/",
+   "ort": "Puchheim",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Puchheim-Ort"
+  },
+  {
+   "name": "Theaterverein Schöngeising",
+   "web": "https://www.xn--theatervereinschngeising-0oc.de/",
+   "ort": "Schöngeising",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Sch%C3%B6ngeising"
+  },
+  {
+   "name": "Volksbühne Olching",
+   "web": "http://www.volksbuehne-olching.de/",
+   "ort": "Olching",
+   "land": "BY",
+   "landkreis": "Landkreis Fürstenfeldbruck",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksb%C3%BChne_Olching"
+  },
+  {
+   "name": "Dettenschwanger Quellgeister",
+   "web": "http://www.quellgeister-online.de/",
+   "ort": "Dießen am Ammersee",
+   "land": "BY",
+   "landkreis": "Landkreis Landsberg am Lech",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Dettenschwanger_Quellgeister"
+  },
+  {
+   "name": "Landsberger bühne",
+   "web": "http://www.%20landsberger-buehne.de/",
+   "ort": "Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln",
+   "land": "BY",
+   "landkreis": "Landkreis Landsberg am Lech",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Landsberger_b%C3%BChne"
+  },
+  {
+   "name": "Lechroaner Theater-Brettl",
+   "web": null,
+   "ort": "Hofstetten",
+   "land": "BY",
+   "landkreis": "Landkreis Landsberg am Lech",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Lechroaner_Theater-Brettl"
+  },
+  {
+   "name": "Puppenspiel Am Schnürl",
+   "web": "http://www.amschnuerl.de/",
+   "ort": "Kaufering",
+   "land": "BY",
+   "landkreis": "Landkreis Landsberg am Lech",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Puppenspiel_Am_Schn%C3%BCrl"
+  },
+  {
+   "name": "Theatergruppe Kaufering",
+   "web": "https://www.theatergruppe-kaufering.de/",
+   "ort": "Kaufering",
+   "land": "BY",
+   "landkreis": "Landkreis Landsberg am Lech",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Kaufering"
+  },
+  {
+   "name": "Theatergruppe Pürgen",
+   "web": null,
+   "ort": "Pürgen",
+   "land": "BY",
+   "landkreis": "Landkreis Landsberg am Lech",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_P%C3%BCrgen"
+  },
+  {
+   "name": "Theatergruppe Rott-Lech",
+   "web": null,
+   "ort": "Rott",
+   "land": "BY",
+   "landkreis": "Landkreis Landsberg am Lech",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Rott-Lech"
+  },
+  {
+   "name": "Theaterverein Eching",
+   "web": null,
+   "ort": "Eching am Ammersee",
+   "land": "BY",
+   "landkreis": "Landkreis Landsberg am Lech",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Eching"
+  },
+  {
+   "name": "Theaterverein Unterdiessen",
+   "web": "http://www.theater-unterdiessen.de/",
+   "ort": "Unterdießen",
+   "land": "BY",
+   "landkreis": "Landkreis Landsberg am Lech",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Unterdiessen"
+  },
+  {
+   "name": "Vfl Denklingen 1864 Theatergruppe",
+   "web": "http://www.vfl-denklingen.de/",
+   "ort": "Denklingen",
+   "land": "BY",
+   "landkreis": "Landkreis Landsberg am Lech",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Vfl_Denklingen_1864_Theatergruppe"
+  },
+  {
+   "name": "Aschheimer Bauerntheater",
+   "web": "https://www.aschheimer-bauerntheater.de",
+   "ort": "Aschheim",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Aschheimer_Bauerntheater"
+  },
+  {
+   "name": "Bauerntheater Ismaning",
+   "web": "http://www.bauerntheater-ismaning.de/",
+   "ort": "Ismaning",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Bauerntheater_Ismaning"
+  },
+  {
+   "name": "Feldkirchner Theaterverein",
+   "web": "http://www.theater-feldkirchen.de/",
+   "ort": "Haar",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Feldkirchner_Theaterverein"
+  },
+  {
+   "name": "G'fildner Bühne Lohhof",
+   "web": "http://www.gfildner-buehne.de/",
+   "ort": "Unterschleißheim",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/G%27fildner_B%C3%BChne_Lohhof"
+  },
+  {
+   "name": "Garchinger Bauernbühne",
+   "web": "http://www.garchinger-bauernbuehne.de/",
+   "ort": "Garching bei München",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Garchinger_Bauernb%C3%BChne"
+  },
+  {
+   "name": "Gronsdorfer Komödienbrettl",
+   "web": "http://www.komoedienbrettl.de/",
+   "ort": "Haar",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Gronsdorfer_Kom%C3%B6dienbrettl"
+  },
+  {
+   "name": "Grünwalder Laienspieler",
+   "web": null,
+   "ort": "Grünwald",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Gr%C3%BCnwalder_Laienspieler"
+  },
+  {
+   "name": "Hachinger Kinder- u. Jugendtheater",
+   "web": null,
+   "ort": "Oberhaching",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Hachinger_Kinder-_u._Jugendtheater"
+  },
+  {
+   "name": "Harthauser Dorftheater",
+   "web": "http://www.dorftheater.de/",
+   "ort": "Grasbrunn",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Harthauser_Dorftheater"
+  },
+  {
+   "name": "Kulturbixn",
+   "web": "https://www.kulturbixn.de/",
+   "ort": "Ismaning",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kulturbixn"
+  },
+  {
+   "name": "Laienspielgruppe Badersfeld",
+   "web": "http://www.laienspielgruppe-badersfeld.de/",
+   "ort": "Oberschleißheim",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienspielgruppe_Badersfeld"
+  },
+  {
+   "name": "Lochhamer Laien-Bauern-Bühne",
+   "web": "http://www.llbb.de/",
+   "ort": "Gräfelfing",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Lochhamer_Laien-Bauern-B%C3%BChne"
+  },
+  {
+   "name": "MEMO (Musicalensemble München-Ost)",
+   "web": "http://www.memo-ev.de/",
+   "ort": "Haar",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/MEMO_%28Musicalensemble_M%C3%BCnchen-Ost%29"
+  },
+  {
+   "name": "Putzbrunner Sportverein Theaterabteilung",
+   "web": "http://www.theatergruppe-putzbrunn.de/",
+   "ort": "München",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Putzbrunner_Sportverein_Theaterabteilung"
+  },
+  {
+   "name": "SüdSpiel",
+   "web": "http://www.suedspiel.de/",
+   "ort": "Neubiberg",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/S%C3%BCdSpiel"
+  },
+  {
+   "name": "Theater PUR",
+   "web": "http://www.theater-pur.de/",
+   "ort": "Pullach im Isartal",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theater_PUR"
+  },
+  {
+   "name": "Theatergruppe Siemens München",
+   "web": "http://www.theater-ensemble-tgsm.de/",
+   "ort": "Neubiberg",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Siemens_M%C3%BCnchen"
+  },
+  {
+   "name": "Theaterstadel im Verein Frohsinn Freising",
+   "web": "http://www.frohsinn-freising.de/theater/main.ht",
+   "ort": "Unterschleißheim",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterstadel_im_Verein_Frohsinn_Freising"
+  },
+  {
+   "name": "Zeitkind",
+   "web": "http://www.zeitkind-ev.de/",
+   "ort": "Garching bei München",
+   "land": "BY",
+   "landkreis": "Landkreis München",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Zeitkind"
+  },
+  {
+   "name": "Ammerseer Bauerntheater Herrsching",
+   "web": "http://www.ammerseer-theaterverein.de/",
+   "ort": "Herrsching am Ammersee",
+   "land": "BY",
+   "landkreis": "Landkreis Starnberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Ammerseer_Bauerntheater_Herrsching"
+  },
+  {
+   "name": "Aufkirchner Dorfbühne",
+   "web": "http://www.xn--aufkirchnerdorfbhne-lbc.de/",
+   "ort": "Berg",
+   "land": "BY",
+   "landkreis": "Landkreis Starnberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Aufkirchner_Dorfb%C3%BChne"
+  },
+  {
+   "name": "D´Gmoagaukler z´Inning",
+   "web": "http://www.gmoagaukler.de/",
+   "ort": "Inning am Ammersee",
+   "land": "BY",
+   "landkreis": "Landkreis Starnberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/D%C2%B4Gmoagaukler_z%C2%B4Inning"
+  },
+  {
+   "name": "Heimatbühne Starnberg",
+   "web": "http://www.heimatbuehne-starnberg.de/",
+   "ort": "Starnberg",
+   "land": "BY",
+   "landkreis": "Landkreis Starnberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Heimatb%C3%BChne_Starnberg"
+  },
+  {
+   "name": "Heimatbühne Tutzing",
+   "web": "http://www.xn--heimatbhne-tutzing-s6b.de/",
+   "ort": "Tutzing",
+   "land": "BY",
+   "landkreis": "Landkreis Starnberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Heimatb%C3%BChne_Tutzing"
+  },
+  {
+   "name": "Institut für Jugendarbeit Gauting",
+   "web": "https://institutgauting.de/",
+   "ort": "Gauting",
+   "land": "BY",
+   "landkreis": "Landkreis Starnberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Institut_f%C3%BCr_Jugendarbeit_Gauting"
+  },
+  {
+   "name": "Kolpingbühne Starnberg",
+   "web": "http://www.kolpingbuehne.de/",
+   "ort": "Starnberg",
+   "land": "BY",
+   "landkreis": "Landkreis Starnberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kolpingb%C3%BChne_Starnberg"
+  },
+  {
+   "name": "Kolpingfamilie Starnberg \"Kasbrettl\"",
+   "web": "http://www.kasbrettl.de/",
+   "ort": "Starnberg",
+   "land": "BY",
+   "landkreis": "Landkreis Starnberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kolpingfamilie_Starnberg_%22Kasbrettl%22"
+  },
+  {
+   "name": "MGV d´Riedberger Hochstadt",
+   "web": "http://www.driedberger.de/",
+   "ort": "Weßling",
+   "land": "BY",
+   "landkreis": "Landkreis Starnberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/MGV_d%C2%B4Riedberger_Hochstadt"
+  },
+  {
+   "name": "Theaterfreunde Machtlfing",
+   "web": "http://www.theaterfreunde-machtlfing.de/",
+   "ort": "Machtlfing",
+   "land": "BY",
+   "landkreis": "Landkreis Starnberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterfreunde_Machtlfing"
+  },
+  {
+   "name": "Theatergruppe des SV Söcking",
+   "web": "http://www.sv-soecking.de/theater",
+   "ort": "Söcking",
+   "land": "BY",
+   "landkreis": "Landkreis Starnberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_des_SV_S%C3%B6cking"
+  },
+  {
+   "name": "Theatergruppe im Musik- und Kulturverein Traubing",
+   "web": "http://www.theater-traubing.de/",
+   "ort": "Traubing",
+   "land": "BY",
+   "landkreis": "Landkreis Starnberg",
+   "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_im_Musik-_und_Kulturverein_Traubing"
+  }
+ ],
+ "ohne": "Ohne Dubletten zur Münchner Amateurtheater-Liste (vereine.json kultur-muc-amateurtheater)"
+}

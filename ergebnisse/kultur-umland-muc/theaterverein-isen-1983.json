@@ -1,0 +1,56 @@
+{
+  "verein": {
+    "name": "Theaterverein Isen 1983",
+    "ort": "Isen",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.tv-isen.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "„2026 läuft der Katenvorverkauf bei servus Kinder in Isen“",
+    "quellen": [
+      "https://theaterverein-isen.de/",
+      "https://theaterverein-isen.de/2026/10/29/28-11-2026-auffuehrung-kikerikiste/",
+      "https://theaterverein-isen.de/2026/10/29/29-11-2026-auffuehrung-kikerikiste/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://theaterverein-isen.de/",
+      "https://theaterverein-isen.de/2026/10/29/28-11-2026-auffuehrung-kikerikiste/",
+      "https://theaterverein-isen.de/2026/10/29/29-11-2026-auffuehrung-kikerikiste/"
+    ],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://theaterverein-isen.de/",
+      "https://theaterverein-isen.de/2026/10/29/28-11-2026-auffuehrung-kikerikiste/",
+      "https://theaterverein-isen.de/2026/10/29/29-11-2026-auffuehrung-kikerikiste/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "vorverkauf": []
+      },
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

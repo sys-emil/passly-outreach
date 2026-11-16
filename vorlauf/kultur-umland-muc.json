@@ -1,0 +1,3741 @@
+{
+  "liga": "kultur-umland-muc",
+  "stand": "2026-11-16",
+  "quelle": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/",
+  "abrufe": 139,
+  "teams": [
+    {
+      "verband_name": "ArtikultTheater",
+      "team_id": "ArtikultTheater",
+      "homepage": "http://www.artikulttheater.de/",
+      "ticketlink": null,
+      "ort": "Dachau",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/ArtikultTheater",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/ArtikultTheater",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "ArtikultTheater",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.artikulttheater.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "artikulttheater"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Bergkirchner Sportlerbühne",
+      "team_id": "Bergkirchner Sportlerbühne",
+      "homepage": "http://www.sportlerbuehne-bergkirchen.de/",
+      "ticketlink": null,
+      "ort": "Bergkirchen",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Bergkirchner_Sportlerb%C3%BChne",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Bergkirchner_Sportlerb%C3%BChne",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Bergkirchner Sportlerbühne",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sportlerbuehne-bergkirchen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.sportlerbuehne-bergkirchen.de/",
+          "stelle": "ereitungen für einen neuen 3-Akter: „Gürteltiere sind sexy“ Der Kartenvorverkauf startet am Dienstag, 01. September 2026 bei der Avia Tankstelle in Be"
+        },
+        "von_hand": {
+          "url": "https://www.sportlerbuehne-bergkirchen.de/",
+          "stelle": ", Schatz“ Der Kartenvorverkauf startet am Montag, 01. September 2025. Tickets erhalten Sie: per E-Mail unter [email protected] oder direkt an der Avia Tankstelle in Bergkir"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "D' Etzahausa Theatara",
+      "team_id": "D' Etzahausa Theatara",
+      "homepage": "http://www.etzahausa-theatara.de/",
+      "ticketlink": null,
+      "ort": "Dachau",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/D%27_Etzahausa_Theatara",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/D%27_Etzahausa_Theatara",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "D' Etzahausa Theatara",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.etzahausa-theatara.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Heimatbühne Obergiesing",
+      "team_id": "Heimatbühne Obergiesing",
+      "homepage": "http://www.heimatbuehne-obergiesing.de/",
+      "ticketlink": null,
+      "ort": "Dachau",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Heimatb%C3%BChne_Obergiesing",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Heimatb%C3%BChne_Obergiesing",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Heimatbühne Obergiesing",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.heimatbuehne-obergiesing.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Niederroth Abteilung Theater",
+      "team_id": "SV Niederroth Abteilung Theater",
+      "homepage": "http://www.sv-niederroth.de/",
+      "ticketlink": null,
+      "ort": "Markt Indersdorf",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/SV_Niederroth_Abteilung_Theater",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/SV_Niederroth_Abteilung_Theater",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "SV Niederroth Abteilung Theater",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sv-niederroth.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "admin@svniederroth.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV Brett'l Eintracht Karlsfeld",
+      "team_id": "TSV Brett'l Eintracht Karlsfeld",
+      "homepage": "http://www.tsvek.de/",
+      "ticketlink": null,
+      "ort": "Karlsfeld",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/TSV_Brett%27l_Eintracht_Karlsfeld",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/TSV_Brett%27l_Eintracht_Karlsfeld",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "TSV Brett'l Eintracht Karlsfeld",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsvek.de/",
+        "https://www.tsvek.de/sportangebot/tsv-brettl/kartenvorverkauf-tsv-brettl.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.tsvek.de/",
+          "stelle": "ber uns TSV Brettl News Ansprechpartner Trainingszeiten Termine Kartenvorverkauf Sponsoren Links Bilder-Archiv Wir über uns Chronik Wir spielten TSV B"
+        }
+      },
+      "instagram": [
+        "tsv.eintracht.karlsfeld"
+      ],
+      "emails": [
+        "support@eventim-light.com"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.tsvek.de/sportangebot/tsv-brettl/kartenvorverkauf-tsv-brettl.html",
+        "wie": "eingebunden auf https://www.tsvek.de/sportangebot/tsv-brettl/kartenvorverkauf-tsv-brettl.html"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Theater Indersdorf",
+      "team_id": "Theater Indersdorf",
+      "homepage": "https://www.theater-indersdorf.de/",
+      "ticketlink": null,
+      "ort": "Markt Indersdorf",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theater_Indersdorf",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theater_Indersdorf",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theater Indersdorf",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.theater-indersdorf.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theater am Stadtwald Volksspielbühne des ASV Dachau",
+      "team_id": "Theater am Stadtwald Volksspielbühne des ASV Dachau",
+      "homepage": "http://www.asv-dachau.de/theater-events/theater",
+      "ticketlink": null,
+      "ort": "Dachau",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theater_am_Stadtwald_Volksspielb%C3%BChne_des_ASV_Dachau",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theater_am_Stadtwald_Volksspielb%C3%BChne_des_ASV_Dachau",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theater am Stadtwald Volksspielbühne des ASV Dachau",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.asv-dachau.de/theater-events/theater"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@asv-dachau.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterbrettl Sulzemoos",
+      "team_id": "Theaterbrettl Sulzemoos",
+      "homepage": "http://www.theaterbrettl-sulzemoos.de/",
+      "ticketlink": null,
+      "ort": "Sulzemoos",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterbrettl_Sulzemoos",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterbrettl_Sulzemoos",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterbrettl Sulzemoos",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://theaterbrettl-sulzemoos.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://theaterbrettl-sulzemoos.de/",
+          "stelle": "eht direkt im Browser, es wird kein Dienst Dritter eingebunden. Kartenvorverkauf Samstag, 17. Oktober 13:00 bis 14:00 Uhr · Mehrzweckhalle Sulzemoos a"
+        },
+        "von_hand": {
+          "url": "https://theaterbrettl-sulzemoos.de/",
+          "stelle": "einen Platz für's Theater aus. Ein Tipp: wer die Tischnummer aus der Reservierung eingibt, sieht gleich, wo er sitzt. 32 Tische, 256 Plätze Tischnum"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@theaterbrettl-sulzemoos.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterfreunde Feldgeding",
+      "team_id": "Theaterfreunde Feldgeding",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Bergkirchen",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterfreunde_Feldgeding",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterfreunde_Feldgeding",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterfreunde Feldgeding",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe Haimhausen",
+      "team_id": "Theatergruppe Haimhausen",
+      "homepage": "http://www.theatergruppe-haimhausen.de/",
+      "ticketlink": null,
+      "ort": "Haimhausen",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Haimhausen",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Haimhausen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe Haimhausen",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.theatergruppe-haimhausen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe Hilgertshausen",
+      "team_id": "Theatergruppe Hilgertshausen",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Hilgertshausen-Tandern",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Hilgertshausen",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Hilgertshausen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe Hilgertshausen",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe SC-Inhauser Moos",
+      "team_id": "Theatergruppe SC-Inhauser Moos",
+      "homepage": "http://www.inhauser-moos.de/",
+      "ticketlink": null,
+      "ort": "Haimhausen",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_SC-Inhauser_Moos",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_SC-Inhauser_Moos",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe SC-Inhauser Moos",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://inhausermoos.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Volksbühne Dachau",
+      "team_id": "Volksbühne Dachau",
+      "homepage": "http://www.volksbuehne-dachau.de/",
+      "ticketlink": null,
+      "ort": "Karlsfeld",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksb%C3%BChne_Dachau",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksb%C3%BChne_Dachau",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Volksbühne Dachau",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.volksbuehne-dachau.de/",
+        "https://www.volksbuehne-dachau.de/karten",
+        "https://www.volksbuehne-dachau.de/kartenvorverkauf"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.volksbuehne-dachau.de/",
+          "stelle": "rat reicht. Wer auf Nummer sicher gehen möchte, kann diese auch gerne vorbestellen . Außerdem halten wir eine kleine Auswahl an Snacks (Schokoriegel,"
+        },
+        "abendkasse": {
+          "url": "https://www.volksbuehne-dachau.de/karten",
+          "stelle": "g-Thoma-Haus (1. Stock) in Dachau Hier geht es zum Saalplan Einlass & Abendkasse Jeweils eine Stunde vor Aufführungsbeginn Kartenvorverkauf Der offizi"
+        },
+        "vorverkauf": {
+          "url": "https://www.volksbuehne-dachau.de/karten",
+          "stelle": "Einlass & Abendkasse Jeweils eine Stunde vor Aufführungsbeginn Kartenvorverkauf Der offizielle Kartenvorverkauf beginnt ca. 6 Wochen vor der Premiere"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "mail@volksbuehne-dachau.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Alles Möglich(e) Theater",
+      "team_id": "Alles Möglich(e) Theater",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Baldham",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Alles_M%C3%B6glich%28e%29_Theater",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Alles_M%C3%B6glich%28e%29_Theater",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Alles Möglich(e) Theater",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Anzinger Theaterverein",
+      "team_id": "Anzinger Theaterverein",
+      "homepage": "http://www.theaterverein-anzing.de/",
+      "ticketlink": null,
+      "ort": "Anzing",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Anzinger_Theaterverein",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Anzinger_Theaterverein",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Anzinger Theaterverein",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "http://theaterverein-anzing.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "theaterverein_anzing"
+      ],
+      "emails": [
+        "info@theaterverein-anzing.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Brettlbühne Vaterstetten",
+      "team_id": "Brettlbühne Vaterstetten",
+      "homepage": "http://www.brettlbuehne-vaterstetten.de/",
+      "ticketlink": null,
+      "ort": "Baldham",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Brettlb%C3%BChne_Vaterstetten",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Brettlb%C3%BChne_Vaterstetten",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Brettlbühne Vaterstetten",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://brettlbuehne-vaterstetten.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "kontakt@brettlbuehne-vaterstetten.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Grenztheater Ludwigs Erben",
+      "team_id": "Grenztheater Ludwigs Erben",
+      "homepage": "https://ludwigserben.wordpress.com/",
+      "ticketlink": null,
+      "ort": "Grafing bei München",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Grenztheater_Ludwigs_Erben",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Grenztheater_Ludwigs_Erben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Grenztheater Ludwigs Erben",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://ludwigserben.wordpress.com/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kleines Münchner Theater",
+      "team_id": "Kleines Münchner Theater",
+      "homepage": "http://www.kleines-muenchner-theater.de/",
+      "ticketlink": null,
+      "ort": "Zorneding",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kleines_M%C3%BCnchner_Theater",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kleines_M%C3%BCnchner_Theater",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kleines Münchner Theater",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.kleines-muenchner-theater.de/",
+        "https://www.kleines-muenchner-theater.de/kartenvorverkauf/",
+        "https://www.kleines-muenchner-theater.de/kartenvorverkauf/preise-und-anfahrt/",
+        "https://www.kleines-muenchner-theater.de/kartenvorverkauf/ihr-theaterabend/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.kleines-muenchner-theater.de/",
+          "stelle": "glieder Gastspieler Vorstandschaft Theaterstücke & Spieltermine Kartenvorverkauf Preise und Anfahrt Ihr Theaterabend Fotogalerie Vergangene Stücke Lie"
+        },
+        "abendkasse": {
+          "url": "https://www.kleines-muenchner-theater.de/kartenvorverkauf/",
+          "stelle": "0 - 18:00 Uhr Tel.: (089) 3006740 Alternativ können Sie Karten an der Abendkasse erwerben. Wichtiger Hinweis Bitte holen Sie Ihre bestellten Karten am"
+        },
+        "von_hand": {
+          "url": "https://www.kleines-muenchner-theater.de/kartenvorverkauf/ihr-theaterabend/",
+          "stelle": "ihnachts-G´schichten Kontakt Kleines Münchner Theater Die Karten sind reserviert? Jetzt liegt es bei Ihnen, Sie können den Abend nach Ihren Vorstellu"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "kleines-muenchner-theater@gmx.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Pleaninga Theaterbagasch",
+      "team_id": "Pleaninga Theaterbagasch",
+      "homepage": "http://www.pleaninga-theaterbagasch.de/",
+      "ticketlink": null,
+      "ort": "Pliening",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Pleaninga_Theaterbagasch",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Pleaninga_Theaterbagasch",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Pleaninga Theaterbagasch",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://theaterbagasch.de/"
+      ],
+      "nicht_lesbar": [
+        "https://theaterbagasch.de/eintrittskarten/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "gruebl.andreas@web.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterfreunde Forstinning",
+      "team_id": "Theaterfreunde Forstinning",
+      "homepage": "http://www.theaterfreunde-forstinning.de/",
+      "ticketlink": null,
+      "ort": "Forstinning",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterfreunde_Forstinning",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterfreunde_Forstinning",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterfreunde Forstinning",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.theaterfreunde-forstinning.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterverein Hohenlinden",
+      "team_id": "Theaterverein Hohenlinden",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Hohenlinden",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Hohenlinden",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Hohenlinden",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterverein Hohenlinden",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Die Haager Bühne",
+      "team_id": "Die Haager Bühne",
+      "homepage": "http://www.haager-buehne.de/",
+      "ticketlink": null,
+      "ort": "Sankt Wolfgang",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Die_Haager_B%C3%BChne",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Die_Haager_B%C3%BChne",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Die Haager Bühne",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.haager-buehne.de/ (CERT_HAS_EXPIRED)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC-Langengeisling 1920 Theaterabteilung",
+      "team_id": "FC-Langengeisling 1920 Theaterabteilung",
+      "homepage": "http://www.fc-langengeisling.de/",
+      "ticketlink": null,
+      "ort": "Erding",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/FC-Langengeisling_1920_Theaterabteilung",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/FC-Langengeisling_1920_Theaterabteilung",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "FC-Langengeisling 1920 Theaterabteilung",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://fc-langengeisling.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fclangengeisling"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kulturverein Neuching Neichinger Schupfatheater",
+      "team_id": "Kulturverein Neuching Neichinger Schupfatheater",
+      "homepage": "http://www.kulturverein-neuching.de/",
+      "ticketlink": null,
+      "ort": "Neuching",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kulturverein_Neuching_Neichinger_Schupfatheater",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kulturverein_Neuching_Neichinger_Schupfatheater",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kulturverein Neuching Neichinger Schupfatheater",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://kulturverein-neuching.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "neichinger_schupfatheater"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kunstfalle",
+      "team_id": "Kunstfalle",
+      "homepage": "http://www.kunstfalle-ev.de/",
+      "ticketlink": null,
+      "ort": "Lengdorf",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kunstfalle",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kunstfalle",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kunstfalle",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.kunstfalle-ev.de/ (ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe Bockhorn",
+      "team_id": "Theatergruppe Bockhorn",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Bockhorn",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Bockhorn",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Bockhorn",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe Bockhorn",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe Hofkirchen",
+      "team_id": "Theatergruppe Hofkirchen",
+      "homepage": "http://www.theatergruppe-hofkirchen.de/",
+      "ticketlink": null,
+      "ort": "Taufkirchen (Vils)",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Hofkirchen",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Hofkirchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe Hofkirchen",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://theatergruppehofkirchen.godaddysites.com/",
+        "https://theatergruppehofkirchen.godaddysites.com/tickets-krimidinner-2026"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://theatergruppehofkirchen.godaddysites.com/",
+          "stelle": "k Theater 2027 Kinder-Weihnachtstheater Kinder- & Jugendtheater Kartenvorverkauf Aufführungsbedingungen Der Verein Anfahrt Auch interessant Archiv Arc"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "filler@godaddy.com"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventfrog",
+        "beleg": "https://theatergruppehofkirchen.godaddysites.com/tickets-krimidinner-2026",
+        "wie": "eingebunden auf https://theatergruppehofkirchen.godaddysites.com/tickets-krimidinner-2026"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Theatergruppe des Trachtenvereins Almrausch Wasentegernbach",
+      "team_id": "Theatergruppe des Trachtenvereins Almrausch Wasentegernbach",
+      "homepage": "http://www.trachtenverein-wasentegernbach.de/",
+      "ticketlink": null,
+      "ort": "Wasentegernbach",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_des_Trachtenvereins_Almrausch_Wasentegernbach",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_des_Trachtenvereins_Almrausch_Wasentegernbach",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe des Trachtenvereins Almrausch Wasentegernbach",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.trachtenverein-wasentegernbach.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterverein Buch am Buchrain",
+      "team_id": "Theaterverein Buch am Buchrain",
+      "homepage": "http://www.theaterverein-buch-am-buchrain.de/",
+      "ticketlink": null,
+      "ort": "Buch am Buchrain",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Buch_am_Buchrain",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Buch_am_Buchrain",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterverein Buch am Buchrain",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.theaterverein-buch-am-buchrain.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterverein Forstern",
+      "team_id": "Theaterverein Forstern",
+      "homepage": "http://www.theaterverein-forstern.de/",
+      "ticketlink": null,
+      "ort": "Pastetten",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Forstern",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Forstern",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterverein Forstern",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.theaterverein-forstern.de/ (HTTP 500)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterverein Isen 1983",
+      "team_id": "Theaterverein Isen 1983",
+      "homepage": "http://www.tv-isen.de/",
+      "ticketlink": null,
+      "ort": "Isen",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Isen_1983",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Isen_1983",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterverein Isen 1983",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://theaterverein-isen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://theaterverein-isen.de/",
+          "stelle": "ser aktuelles Stück auf der Bühne: Seit dem 29.10.2026 läuft der Katenvorverkauf bei servus Kinder in Isen. Sie sind interessiert am Theater und könne"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterverein Langenpreising",
+      "team_id": "Theaterverein Langenpreising",
+      "homepage": "http://www.tvlgpr.de/",
+      "ticketlink": null,
+      "ort": "Langenpreising",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Langenpreising",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Langenpreising",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterverein Langenpreising",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.tvlgpr.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "http://www.tvlgpr.de/",
+          "stelle": "in Der Verein Der Vorstand Unser Theater Mitglied werden Aufführungen Vorverkauf Theaterverein Langenpreising Theater seit 1920 Aktuelles Nikolausdien"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "nikolaus@tvlgpr.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterverein Lengdorf",
+      "team_id": "Theaterverein Lengdorf",
+      "homepage": "http://www.theaterverein-lengdorf.de/",
+      "ticketlink": null,
+      "ort": "Lengdorf",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Lengdorf",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Lengdorf",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterverein Lengdorf",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.theaterverein-lengdorf.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterverein Pastetten",
+      "team_id": "Theaterverein Pastetten",
+      "homepage": "http://www.theaterverein-pastetten.de/",
+      "ticketlink": null,
+      "ort": "Pastetten",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Pastetten",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Pastetten",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterverein Pastetten",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.theaterverein-pastetten.de/ (ECONNREFUSED)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterverein Taufkirchen-Vils",
+      "team_id": "Theaterverein Taufkirchen-Vils",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Dorfen",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Taufkirchen-Vils",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Taufkirchen-Vils",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterverein Taufkirchen-Vils",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Volksbühne Eichenried",
+      "team_id": "Volksbühne Eichenried",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Moosinning",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksb%C3%BChne_Eichenried",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksb%C3%BChne_Eichenried",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Volksbühne Eichenried",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Volksspielgruppe Altenerding",
+      "team_id": "Volksspielgruppe Altenerding",
+      "homepage": "http://www.volkspielgruppe.de/",
+      "ticketlink": null,
+      "ort": "Erding",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksspielgruppe_Altenerding",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksspielgruppe_Altenerding",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Volksspielgruppe Altenerding",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.volkspielgruppe.de/ (ENOTFOUND)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Bühne Moosburg",
+      "team_id": "Bühne Moosburg",
+      "homepage": "http://www.buehne-moosburg.de/",
+      "ticketlink": null,
+      "ort": "Moosburg an der Isar",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/B%C3%BChne_Moosburg",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/B%C3%BChne_Moosburg",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Bühne Moosburg",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://buehne-moosburg.de/",
+        "https://buehne-moosburg.de/tickets.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://buehne-moosburg.de/",
+          "stelle": "27 - 12.03. und 13.03.2027 Infos zum Inhalt erfolgen demnächst. Kartenvorverkauf : ab 01.12.2026 Sektion Junge Bühne Der Autor des neuen Stücks, Hanne"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Dorfbühne Günzenhausen",
+      "team_id": "Dorfbühne Günzenhausen",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Eching",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Dorfb%C3%BChne_G%C3%BCnzenhausen",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Dorfb%C3%BChne_G%C3%BCnzenhausen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Dorfbühne Günzenhausen",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Freisinger Stadtbär GbR",
+      "team_id": "Freisinger Stadtbär GbR",
+      "homepage": "http://www.freisinger-stadtbaer.de/",
+      "ticketlink": null,
+      "ort": "Allershausen",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Freisinger_Stadtb%C3%A4r_GbR",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Freisinger_Stadtb%C3%A4r_GbR",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Freisinger Stadtbär GbR",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.freisinger-stadtbaer.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "freisingerstadtbaer"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Hallertauer Spielgruppe Nandlstadt",
+      "team_id": "Hallertauer Spielgruppe Nandlstadt",
+      "homepage": "http://www.theater-nandlstadt.de/",
+      "ticketlink": null,
+      "ort": "Nandlstadt",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Hallertauer_Spielgruppe_Nandlstadt",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Hallertauer_Spielgruppe_Nandlstadt",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Hallertauer Spielgruppe Nandlstadt",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.theater-nandlstadt.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "InTeam",
+      "team_id": "InTeam",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Freising",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/InTeam",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/InTeam",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "InTeam",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kolpingsfamilie Au in der Hallertau",
+      "team_id": "Kolpingsfamilie Au in der Hallertau",
+      "homepage": "http://www.kolping-au.de/",
+      "ticketlink": null,
+      "ort": "Au in der Hallertau",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kolpingsfamilie_Au_in_der_Hallertau",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kolpingsfamilie_Au_in_der_Hallertau",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kolpingsfamilie Au in der Hallertau",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.kolping-au.de/",
+        "https://www.kolping-au.de/termine-und-preise.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "kolping_au"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Laienbühne Freising",
+      "team_id": "Laienbühne Freising",
+      "homepage": "http://www.laienbuehne-freising.de/",
+      "ticketlink": null,
+      "ort": "Freising",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienb%C3%BChne_Freising",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienb%C3%BChne_Freising",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Laienbühne Freising",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.laienbuehne-freising.de/",
+        "https://www.laienbuehne-freising.de/termine-and-tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "laienbuehne_freising_e.v"
+      ],
+      "emails": [
+        "email@example.com",
+        "info@laienbuehne-freising.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.laienbuehne-freising.de/termine-and-tickets/",
+        "wie": "eingebunden auf https://www.laienbuehne-freising.de/termine-and-tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Laienspielgruppe Kranzberg",
+      "team_id": "Laienspielgruppe Kranzberg",
+      "homepage": "http://www.theater-kranzberg.de/",
+      "ticketlink": null,
+      "ort": "Kranzberg",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienspielgruppe_Kranzberg",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienspielgruppe_Kranzberg",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Laienspielgruppe Kranzberg",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.theater-kranzberg.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Laienspielgruppe Langenbach",
+      "team_id": "Laienspielgruppe Langenbach",
+      "homepage": "http://www.laienspielgruppe-langenbach.de/",
+      "ticketlink": null,
+      "ort": "Langenbach",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienspielgruppe_Langenbach",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienspielgruppe_Langenbach",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Laienspielgruppe Langenbach",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.laienspielgruppe-langenbach.de/",
+        "https://www.laienspielgruppe-langenbach.de/kartenvorverkauf",
+        "https://laienspielgruppe-langenbach.de/kartenvorverkauf",
+        "https://www.laienspielgruppe-langenbach.de/produkt/karl-may-co-in-hintersloh-07-11/",
+        "https://www.laienspielgruppe-langenbach.de/produkt/karl-may-co-in-hintersloh-08-11/",
+        "https://www.laienspielgruppe-langenbach.de/produkt/karl-may-co-in-hintersloh-13-11/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.laienspielgruppe-langenbach.de/",
+          "stelle": "Shop . Laienspielgruppe Langenbach Schauspiel mit Leidenschaft Kartenvorverkauf Laienspielgruppe Langenbach Schauspiel mit Leidenschaft Kartenvorverk"
+        }
+      },
+      "instagram": [
+        "laienspielgruppe_langenbach"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://www.laienspielgruppe-langenbach.de/produkt/karl-may-co-in-hintersloh-07-11/",
+          "stelle": "eintritt: 15,00€"
+        },
+        {
+          "eur": 15,
+          "url": "https://www.laienspielgruppe-langenbach.de/produkt/karl-may-co-in-hintersloh-08-11/",
+          "stelle": "eintritt: 15,00€"
+        },
+        {
+          "eur": 15,
+          "url": "https://www.laienspielgruppe-langenbach.de/produkt/karl-may-co-in-hintersloh-13-11/",
+          "stelle": "eintritt: 15,00€"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Laientheater Allershausen",
+      "team_id": "Laientheater Allershausen",
+      "homepage": "http://www.laientheater-allershausen.de/",
+      "ticketlink": null,
+      "ort": "Freising",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laientheater_Allershausen",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laientheater_Allershausen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Laientheater Allershausen",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.laientheater-allershausen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.laientheater-allershausen.de/",
+          "stelle": "tenzaun Traue keinem Opa Vorstand Termine Chronik Kontakt Home Karten-vorverkauf Sobald das neue Frühjahrsstück 2027 bekannt ist, können hier oder unt"
+        },
+        "von_hand": {
+          "url": "https://www.laientheater-allershausen.de/",
+          "stelle": "ist, können hier oder unter der Rubrik \"Aktuelles Stück\" Platzkarten reserviert werden. Mach mit! Hast du Interesse mitzuwirken? Du wolltest schon i"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Milbertshofener Bühne München",
+      "team_id": "Milbertshofener Bühne München",
+      "homepage": "http://www.milbertshofener-buehne.de/",
+      "ticketlink": null,
+      "ort": "Neufahrn bei Freising",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Milbertshofener_B%C3%BChne_M%C3%BCnchen",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Milbertshofener_B%C3%BChne_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Milbertshofener Bühne München",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.milbertshofener-buehne.de/",
+        "https://www.milbertshofener-buehne.de/?page_id=41",
+        "https://www.milbertshofener-buehne.de/?p=3518",
+        "https://www.milbertshofener-buehne.de/?p=3512"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "http://www.milbertshofener-buehne.de/",
+          "stelle": "tz Ticket Update 27. Oktober 2026 27. Oktober 2026 webadmin Der Kartenvorverkauf ist in vollem Gange! Drei unserer 6 Vorstellungen sind bereits ausver"
+        },
+        "von_hand": {
+          "url": "http://www.milbertshofener-buehne.de/",
+          "stelle": "rungen Unser Theaterstück im Spätherbst 2026 Galerie Newsletter Kartenreservierung Über uns Das sind wir Mitglieder Rückblick Wir in der Presse Unser"
+        },
+        "abendkasse": {
+          "url": "https://www.milbertshofener-buehne.de/?page_id=41",
+          "stelle": "Vorbestellte Karten sollten bitte bis 30 min. vor Spielbeginn an der Abendkasse abgeholt werden. Sollten Sie verhindert sein, bitten wir Sie, uns rec"
+        },
+        "bar": {
+          "url": "https://www.milbertshofener-buehne.de/?page_id=41",
+          "stelle": "dass sowohl der Kartenschalter als auch die Bewirtung ausschließlich Barzahlungen akzeptieren können. Aktuelles Ticket Update Kartenvorverkauf starte"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "S'Zollinger Theater",
+      "team_id": "S'Zollinger Theater",
+      "homepage": "http://www.zollinger-theater.de/",
+      "ticketlink": null,
+      "ort": "Zolling",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/S%27Zollinger_Theater",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/S%27Zollinger_Theater",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "S'Zollinger Theater",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.zollinger-theater.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterfreunde Tüntenhausen",
+      "team_id": "Theaterfreunde Tüntenhausen",
+      "homepage": "http://www.tuentenhausen.de/",
+      "ticketlink": null,
+      "ort": "Tüntenhausen",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterfreunde_T%C3%BCntenhausen",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterfreunde_T%C3%BCntenhausen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterfreunde Tüntenhausen",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fruits.co/de/domain/tuentenhausen.de"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "hello@fruits.co"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterfreunde Zamgspuit",
+      "team_id": "Theaterfreunde Zamgspuit",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Nandlstadt",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterfreunde_Zamgspuit",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterfreunde_Zamgspuit",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterfreunde Zamgspuit",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe Priel",
+      "team_id": "Theatergruppe Priel",
+      "homepage": "http://www.theatergruppe-priel.de/",
+      "ticketlink": null,
+      "ort": "Mauern",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Priel",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Priel",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe Priel",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.theatergruppe-priel.de/ (ENOTFOUND)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterverein Kirchdorf a. d. Amper",
+      "team_id": "Theaterverein Kirchdorf a. d. Amper",
+      "homepage": "http://www.theater-kirchdorf.com/",
+      "ticketlink": null,
+      "ort": "Kirchdorf an der Amper",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Kirchdorf_a._d._Amper",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Kirchdorf_a._d._Amper",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterverein Kirchdorf a. d. Amper",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.theater-kirchdorf.com/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Bayerische Volksbühne VHS-OLM Aschheim",
+      "team_id": "Bayerische Volksbühne VHS-OLM Aschheim",
+      "homepage": "http://www.bayerischevolksbuehne.de/",
+      "ticketlink": null,
+      "ort": "Olching",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Bayerische_Volksb%C3%BChne_VHS-OLM_Aschheim",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Bayerische_Volksb%C3%BChne_VHS-OLM_Aschheim",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Bayerische Volksbühne VHS-OLM Aschheim",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bayerischevolksbuehne.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "D'Henaberger Bühne",
+      "team_id": "D'Henaberger Bühne",
+      "homepage": "http://www.henaberger-buehne.de/",
+      "ticketlink": null,
+      "ort": "Althegnenberg",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/D%27Henaberger_B%C3%BChne",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/D%27Henaberger_B%C3%BChne",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "D'Henaberger Bühne",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://henaberger-buehne.de/",
+        "https://henaberger-buehne.de/termine/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Duringfelder Theatergruppe Türkenfeld",
+      "team_id": "Duringfelder Theatergruppe Türkenfeld",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Türkenfeld",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Duringfelder_Theatergruppe_T%C3%BCrkenfeld",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Duringfelder_Theatergruppe_T%C3%BCrkenfeld",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Duringfelder Theatergruppe Türkenfeld",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Freundeskreis Germeringer Bürger",
+      "team_id": "Freundeskreis Germeringer Bürger",
+      "homepage": "http://www.germeringer-rossstall.de/",
+      "ticketlink": null,
+      "ort": "Germering",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Freundeskreis_Germeringer_B%C3%BCrger",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Freundeskreis_Germeringer_B%C3%BCrger",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Freundeskreis Germeringer Bürger",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://germeringer-rossstall.de/",
+        "https://germeringer-rossstall.de/kartenbestellung/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://germeringer-rossstall.de/",
+          "stelle": "cina Maisach Alle aktuellen Termine, Infos zum Ensemble und den Kartenvorverkauf findet ihr wie gewohnt hier auf unserer Webseite. Wir freuen uns dara"
+        },
+        "eintritt_frei": {
+          "url": "https://germeringer-rossstall.de/",
+          "stelle": "fekte Ort für einen entspannten Sonntag mit kulturellem Glanz. ☕️ Der Eintritt ist frei – aber die Plätze sind heiß begehrt. Früh da sein lohnt sich! Kommend"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@germeringer-rossstall.de"
+      ],
+      "preise": [
+        {
+          "eur": 21,
+          "url": "https://germeringer-rossstall.de/",
+          "stelle": "eintritt: 21€"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Historienspiel Fürstenfeld",
+      "team_id": "Historienspiel Fürstenfeld",
+      "homepage": "http://www.historienspiel-fuerstenfeld.de/",
+      "ticketlink": null,
+      "ort": "Fürstenfeldbruck",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Historienspiel_F%C3%BCrstenfeld",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Historienspiel_F%C3%BCrstenfeld",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Historienspiel Fürstenfeld",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.historienspiel-fuerstenfeld.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Hörbacher Montagsbrettl",
+      "team_id": "Hörbacher Montagsbrettl",
+      "homepage": "http://www.montagsbrettl.de/",
+      "ticketlink": null,
+      "ort": "Althegnenberg",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/H%C3%B6rbacher_Montagsbrettl",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/H%C3%B6rbacher_Montagsbrettl",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Hörbacher Montagsbrettl",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.montagsbrettl.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kolpingsfamilie Eichenau",
+      "team_id": "Kolpingsfamilie Eichenau",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Eichenau",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kolpingsfamilie_Eichenau",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kolpingsfamilie_Eichenau",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kolpingsfamilie Eichenau",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kolpingsfamilie Olching",
+      "team_id": "Kolpingsfamilie Olching",
+      "homepage": "http://www.kolping-olching.de/",
+      "ticketlink": null,
+      "ort": "Olching",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kolpingsfamilie_Olching",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kolpingsfamilie_Olching",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kolpingsfamilie Olching",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://vor-ort.kolping.de/kolpingsfamilie-olching/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kultur- und Theaterverein Alling",
+      "team_id": "Kultur- und Theaterverein Alling",
+      "homepage": "http://www.ktv-alling.de/",
+      "ticketlink": null,
+      "ort": "Alling",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kultur-_und_Theaterverein_Alling",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kultur-_und_Theaterverein_Alling",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kultur- und Theaterverein Alling",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.ktv-alling.de/",
+        "http://www.ktv-alling.de/Tickets-Online/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "http://www.ktv-alling.de/",
+          "stelle": "d am 22. November 2026 um 11:00 Uhr im Bürgerhaus Alling erleben. Der Vorverkauf beginnt am 26. Oktober 2026 ab 00:00 Uhr. Karten gibt es online hier"
+        },
+        "abendkasse": {
+          "url": "http://www.ktv-alling.de/Tickets-Online/",
+          "stelle": "sslich per Überweisung Bei kurzfristiger Bestellung, Bezahlung an der Tageskasse. Beachten Sie bitte unsere Datenschutzerklärung \"Wie Puck Weihnachten"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 6,
+          "url": "http://www.ktv-alling.de/Tickets-Online/",
+          "stelle": "eintritt: kinder 6,00 euro"
+        }
+      ],
+      "anbieter": {
+        "name": "ticketleo",
+        "beleg": "http://www.ktv-alling.de/Tickets-Online/",
+        "wie": "eingebunden auf http://www.ktv-alling.de/Tickets-Online/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Laienbühne St. Max Geschäftsstelle",
+      "team_id": "Laienbühne St. Max Geschäftsstelle",
+      "homepage": "http://www.sankt-max.de/",
+      "ticketlink": null,
+      "ort": "Gröbenzell",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienb%C3%BChne_St._Max_Gesch%C3%A4ftsstelle",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienb%C3%BChne_St._Max_Gesch%C3%A4ftsstelle",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Laienbühne St. Max Geschäftsstelle",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sankt-max.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Lichtbühne München",
+      "team_id": "Lichtbühne München",
+      "homepage": "http://www.lichtbuehne.de/",
+      "ticketlink": null,
+      "ort": "Puchheim",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Lichtb%C3%BChne_M%C3%BCnchen",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Lichtb%C3%BChne_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Lichtbühne München",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.lichtbuehne.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Neue Bühne Bruck",
+      "team_id": "Neue Bühne Bruck",
+      "homepage": "http://www.buehne-bruck.de/",
+      "ticketlink": null,
+      "ort": "Fürstenfeldbruck",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Neue_B%C3%BChne_Bruck",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Neue_B%C3%BChne_Bruck",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Neue Bühne Bruck",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://buehne-bruck.de/",
+        "https://buehne-bruck.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://buehne-bruck.de/",
+          "stelle": "r die Neue Bühne Bruck? Hier online zum Ausdrucken oder direkt an der Abendkasse. Besucht uns auch auf Facebook und Instagram – und natürlich vor alle"
+        },
+        "nur_abendkasse": {
+          "url": "https://buehne-bruck.de/tickets/",
+          "stelle": "nstaltung Theatergutscheine Impro-Bonuskarte Die Impro-Bonuskarte ist ausschließlich an der Abendkasse erhältlich und jeweils für eine Theatersaison gültig. Der Besuch eine"
+        },
+        "von_hand": {
+          "url": "https://buehne-bruck.de/tickets/",
+          "stelle": "ation An der NBB herrscht freie Platzwahl. Es ist grundsätzlich keine Reservierung bestimmter Plätze möglich. Einlass ca. 30 Minuten vor Beginn der V"
+        }
+      },
+      "instagram": [
+        "neuebuehnebruck"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "pretix",
+        "beleg": "https://buehne-bruck.de/",
+        "wie": "eingebunden auf https://buehne-bruck.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Rassoburg-Theater Grafrath",
+      "team_id": "Rassoburg-Theater Grafrath",
+      "homepage": "http://www.rassoburgtheater.de/",
+      "ticketlink": null,
+      "ort": "Kottgeisering",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Rassoburg-Theater_Grafrath",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Rassoburg-Theater_Grafrath",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Rassoburg-Theater Grafrath",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.rassoburgtheater.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.rassoburgtheater.de/",
+          "stelle": "6 Altersempfehlung ab 14 Jahre Der Verkauf erfolgt dann direkt an der Abendkasse. Bitte beachten Sie, dass reservierte Tickets bis spätestens 30 Minut"
+        },
+        "von_hand": {
+          "url": "https://www.rassoburgtheater.de/",
+          "stelle": "rzlich willkommen! Kontakt: Rassoburgtheater@gmx.de --- Tickets Gerne reservieren wir Tickets für Sie. Bitte reservieren Sie per E-Mail an: Rassoburg"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "lucia.graf@gmx.de",
+        "rassoburgtheater@gmx.de",
+        "Rassoburgtheater@gmx.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Resistenz Theater Germering",
+      "team_id": "Resistenz Theater Germering",
+      "homepage": "http://www.resistenztheater.de/",
+      "ticketlink": null,
+      "ort": "Germering",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Resistenz_Theater_Germering",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Resistenz_Theater_Germering",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Resistenz Theater Germering",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.resistenztheater.de/ (HTTP 403)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "S Brucker Brett'l",
+      "team_id": "S Brucker Brett'l",
+      "homepage": "http://www.bruckerbrettl.de/",
+      "ticketlink": null,
+      "ort": "Fürstenfeldbruck",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/S_Brucker_Brett%27l",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/S_Brucker_Brett%27l",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "S Brucker Brett'l",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.bruckerbrettl.de/",
+        "http://www.bruckerbrettl.de/?Kartenverkauf"
+      ],
+      "nicht_lesbar": [
+        "http://www.bruckerbrettl.de/?Kartenverkauf&print (leer, lädt per JavaScript)"
+      ],
+      "funde": {
+        "abendkasse": {
+          "url": "http://www.bruckerbrettl.de/",
+          "stelle": "uf Erwachsene › Karten gibt es hier › Karten erhalten Sie auch an der Abendkasse . Diese öffnet jeweils 90 Minuten vor Aufführungsbeginn . › Preis pro"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "ticketleo",
+        "beleg": "http://www.bruckerbrettl.de/",
+        "wie": "eingebunden auf http://www.bruckerbrettl.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "StadlTheater Hattenhofen",
+      "team_id": "StadlTheater Hattenhofen",
+      "homepage": "http://www.stadltheater-hattenhofen.de/",
+      "ticketlink": null,
+      "ort": "Hattenhofen",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/StadlTheater_Hattenhofen",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/StadlTheater_Hattenhofen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "StadlTheater Hattenhofen",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://stadltheater-hattenhofen.de/",
+        "https://stadltheater-hattenhofen.de/termine-und-karten/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theater TiG Theater in Gröbenzell",
+      "team_id": "Theater TiG Theater in Gröbenzell",
+      "homepage": "http://www.theater-tig.de/",
+      "ticketlink": null,
+      "ort": "Gröbenzell",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theater_TiG_Theater_in_Gr%C3%B6benzell",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theater_TiG_Theater_in_Gr%C3%B6benzell",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theater TiG Theater in Gröbenzell",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.theater-tig.de/",
+        "https://www.theater-tig.de/reserve.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.theater-tig.de/reserve.html",
+          "stelle": "Theater TiG Kartenreservierung Navigation überspringen Hauptnavigation &Uuml;ber uns Programm Ins"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 8,
+          "url": "https://www.theater-tig.de/reserve.html",
+          "stelle": "tickets ein ticket kostet 8 €"
+        }
+      ],
+      "anbieter": {
+        "name": "yesticket",
+        "beleg": "https://www.theater-tig.de/reserve.html",
+        "wie": "eingebunden auf https://www.theater-tig.de/reserve.html"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Theatergemeinschaft Mammendorf",
+      "team_id": "Theatergemeinschaft Mammendorf",
+      "homepage": "http://www.theater-mammendorf.de/",
+      "ticketlink": null,
+      "ort": "Adelshofen",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergemeinschaft_Mammendorf",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergemeinschaft_Mammendorf",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergemeinschaft Mammendorf",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://theater-mammendorf.de/",
+        "https://theater-mammendorf.de/karten/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://theater-mammendorf.de/karten/",
+        "wie": "eingebunden auf https://theater-mammendorf.de/karten/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Theatergruppe Moorenweis",
+      "team_id": "Theatergruppe Moorenweis",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Moorenweis",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Moorenweis",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Moorenweis",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe Moorenweis",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe Überacker",
+      "team_id": "Theatergruppe Überacker",
+      "homepage": "https://theater-ueberacker.de/",
+      "ticketlink": null,
+      "ort": "Landsberied",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_%C3%9Cberacker",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_%C3%9Cberacker",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe Überacker",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://theater-ueberacker.de/",
+        "https://theater-ueberacker.de/eintrittskarten/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://theater-ueberacker.de/eintrittskarten/",
+          "stelle": "9:00 29. März, 19:00 Details Kartenverkauf Vor Ort Online Telefonisch Abendkasse Details Jugendtheater Noch ist keine Märchenzeit. Da der Eintritt für"
+        },
+        "von_hand": {
+          "url": "https://theater-ueberacker.de/eintrittskarten/",
+          "stelle": "ntritt für unser fabelhaftes Herbststück kostenlos ist und keine Platzreservierung benötigt wird, laden wir Dich herzlich ein vorbei zu schauen. Sear"
+        }
+      },
+      "instagram": [
+        "theatergruppe_ueberacker"
+      ],
+      "emails": [
+        "info@theater-ueberacker.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterverein Puchheim-Ort",
+      "team_id": "Theaterverein Puchheim-Ort",
+      "homepage": "http://www.theater-puchheim.de/",
+      "ticketlink": null,
+      "ort": "Puchheim",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Puchheim-Ort",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Puchheim-Ort",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterverein Puchheim-Ort",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.theater-puchheim.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterverein Schöngeising",
+      "team_id": "Theaterverein Schöngeising",
+      "homepage": "https://www.xn--theatervereinschngeising-0oc.de/",
+      "ticketlink": null,
+      "ort": "Schöngeising",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Sch%C3%B6ngeising",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Sch%C3%B6ngeising",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterverein Schöngeising",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.xn--theatervereinschngeising-0oc.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Volksbühne Olching",
+      "team_id": "Volksbühne Olching",
+      "homepage": "http://www.volksbuehne-olching.de/",
+      "ticketlink": null,
+      "ort": "Olching",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksb%C3%BChne_Olching",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksb%C3%BChne_Olching",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Volksbühne Olching",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.volksbuehne-olching.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "Volksbuehne-olching@web.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "pretix",
+        "beleg": "https://www.volksbuehne-olching.de/",
+        "wie": "eingebunden auf https://www.volksbuehne-olching.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Dettenschwanger Quellgeister",
+      "team_id": "Dettenschwanger Quellgeister",
+      "homepage": "http://www.quellgeister-online.de/",
+      "ticketlink": null,
+      "ort": "Dießen am Ammersee",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Dettenschwanger_Quellgeister",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Dettenschwanger_Quellgeister",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Dettenschwanger Quellgeister",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.quellgeister-online.de/ (HTTP 403)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Landsberger bühne",
+      "team_id": "Landsberger bühne",
+      "homepage": "http://www.%20landsberger-buehne.de/",
+      "ticketlink": null,
+      "ort": "Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Landsberger_b%C3%BChne",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Landsberger_b%C3%BChne",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Landsberger bühne",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.%20landsberger-buehne.de/ (ERR_INVALID_URL)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Lechroaner Theater-Brettl",
+      "team_id": "Lechroaner Theater-Brettl",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Hofstetten",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Lechroaner_Theater-Brettl",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Lechroaner_Theater-Brettl",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Lechroaner Theater-Brettl",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Puppenspiel Am Schnürl",
+      "team_id": "Puppenspiel Am Schnürl",
+      "homepage": "http://www.amschnuerl.de/",
+      "ticketlink": null,
+      "ort": "Kaufering",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Puppenspiel_Am_Schn%C3%BCrl",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Puppenspiel_Am_Schn%C3%BCrl",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Puppenspiel Am Schnürl",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.amschnuerl.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe Kaufering",
+      "team_id": "Theatergruppe Kaufering",
+      "homepage": "https://www.theatergruppe-kaufering.de/",
+      "ticketlink": null,
+      "ort": "Kaufering",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Kaufering",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Kaufering",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe Kaufering",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.theatergruppe-kaufering.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "theatergruppe_kaufering"
+      ],
+      "emails": [
+        "info@theatergruppe-kaufering.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe Pürgen",
+      "team_id": "Theatergruppe Pürgen",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Pürgen",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_P%C3%BCrgen",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_P%C3%BCrgen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe Pürgen",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe Rott-Lech",
+      "team_id": "Theatergruppe Rott-Lech",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Rott",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Rott-Lech",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Rott-Lech",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe Rott-Lech",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterverein Eching",
+      "team_id": "Theaterverein Eching",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Eching am Ammersee",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Eching",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Eching",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterverein Eching",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterverein Unterdiessen",
+      "team_id": "Theaterverein Unterdiessen",
+      "homepage": "http://www.theater-unterdiessen.de/",
+      "ticketlink": null,
+      "ort": "Unterdießen",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Unterdiessen",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterverein_Unterdiessen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterverein Unterdiessen",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://theater-unterdiessen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://theater-unterdiessen.de/",
+          "stelle": ": (Mo. &#8211; Do. von 18:00 Uhr bis 19:30 Uhr) 08243 / 9608209 Email vorverkauf@theater-unterdiessen.de oder direkt: zur Reservierung in der MZH 8694"
+        },
+        "von_hand": {
+          "url": "https://theater-unterdiessen.de/",
+          "stelle": "elte Stücke Theater 2026 &#8211; Da Haftlmacher von Peter Landstorfer Reservierung: Telefon : (Mo. &#8211; Do. von 18:00 Uhr bis 19:30 Uhr) 08243 / 9"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "vorverkauf@theater-unterdiessen.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "ticketleo",
+        "beleg": "https://theater-unterdiessen.de/",
+        "wie": "eingebunden auf https://theater-unterdiessen.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Vfl Denklingen 1864 Theatergruppe",
+      "team_id": "Vfl Denklingen 1864 Theatergruppe",
+      "homepage": "http://www.vfl-denklingen.de/",
+      "ticketlink": null,
+      "ort": "Denklingen",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Vfl_Denklingen_1864_Theatergruppe",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Vfl_Denklingen_1864_Theatergruppe",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Vfl Denklingen 1864 Theatergruppe",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vfl-denklingen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Aschheimer Bauerntheater",
+      "team_id": "Aschheimer Bauerntheater",
+      "homepage": "https://www.aschheimer-bauerntheater.de",
+      "ticketlink": null,
+      "ort": "Aschheim",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Aschheimer_Bauerntheater",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Aschheimer_Bauerntheater",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Aschheimer Bauerntheater",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.aschheimer-bauerntheater.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.aschheimer-bauerntheater.de/",
+          "stelle": "d am spuin! Dahoam Satzung Impressum Datenschutz Wann und wo ma spuin Vorverkauf Wer ma san Des san mir! Die Vorstandschaft Kim zu uns, werd Mitglied!"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "kartenvorverkauf@aschheimer-bauerntheater.de",
+        "info@aschheimer-bauerntheater.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Bauerntheater Ismaning",
+      "team_id": "Bauerntheater Ismaning",
+      "homepage": "http://www.bauerntheater-ismaning.de/",
+      "ticketlink": null,
+      "ort": "Ismaning",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Bauerntheater_Ismaning",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Bauerntheater_Ismaning",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Bauerntheater Ismaning",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bauerntheater-ismaning.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.bauerntheater-ismaning.de/",
+          "stelle": "rtenverkauf bei Haushalswaren Benz (Dr. Schmitt-Straße 15) und an der Abendkasse. Eine gediegene Villa im Grünen mit süperbem Ausblick, die aristokrat"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "El teatro",
+      "team_id": "El teatro",
+      "homepage": "http://www.el-teatro.de/",
+      "ticketlink": null,
+      "ort": "Grünwald",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/El_teatro",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/El_teatro",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "El teatro",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.el-teatro.de/ (UNABLE_TO_VERIFY_LEAF_SIGNATURE)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Feldkirchner Theaterverein",
+      "team_id": "Feldkirchner Theaterverein",
+      "homepage": "http://www.theater-feldkirchen.de/",
+      "ticketlink": null,
+      "ort": "Haar",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Feldkirchner_Theaterverein",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Feldkirchner_Theaterverein",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Feldkirchner Theaterverein",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.theater-feldkirchen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "http://www.theater-feldkirchen.de/",
+          "stelle": "isch, beim Getränke Haußmann oder (sofern dann noch verfügbar) an der Abendkasse. Für die Vorstellungen im Kleinen Theater Haar bestellen Sie Eintritt"
+        },
+        "von_hand": {
+          "url": "http://www.theater-feldkirchen.de/",
+          "stelle": "Feldkirchen sind bereits weitgehend ausverkauft. Daher haben wir die Reservierung über unsere Homepage bereits eingestellt. Restkarten verkaufen wir"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "G'fildner Bühne Lohhof",
+      "team_id": "G'fildner Bühne Lohhof",
+      "homepage": "http://www.gfildner-buehne.de/",
+      "ticketlink": null,
+      "ort": "Unterschleißheim",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/G%27fildner_B%C3%BChne_Lohhof",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/G%27fildner_B%C3%BChne_Lohhof",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "G'fildner Bühne Lohhof",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.gfildner-buehne.de/hauptseite/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Garchinger Bauernbühne",
+      "team_id": "Garchinger Bauernbühne",
+      "homepage": "http://www.garchinger-bauernbuehne.de/",
+      "ticketlink": null,
+      "ort": "Garching bei München",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Garchinger_Bauernb%C3%BChne",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Garchinger_Bauernb%C3%BChne",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Garchinger Bauernbühne",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.garchinger-bauernbuehne.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@garchinger-bauernbuehne.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Gronsdorfer Komödienbrettl",
+      "team_id": "Gronsdorfer Komödienbrettl",
+      "homepage": "http://www.komoedienbrettl.de/",
+      "ticketlink": null,
+      "ort": "Haar",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Gronsdorfer_Kom%C3%B6dienbrettl",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Gronsdorfer_Kom%C3%B6dienbrettl",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Gronsdorfer Komödienbrettl",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.komoedienbrettl.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Grünwalder Laienspieler",
+      "team_id": "Grünwalder Laienspieler",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Grünwald",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Gr%C3%BCnwalder_Laienspieler",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Gr%C3%BCnwalder_Laienspieler",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Grünwalder Laienspieler",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Hachinger Kinder- u. Jugendtheater",
+      "team_id": "Hachinger Kinder- u. Jugendtheater",
+      "homepage": null,
+      "ticketlink": null,
+      "ort": "Oberhaching",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Hachinger_Kinder-_u._Jugendtheater",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Hachinger_Kinder-_u._Jugendtheater",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Hachinger Kinder- u. Jugendtheater",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Harthauser Dorftheater",
+      "team_id": "Harthauser Dorftheater",
+      "homepage": "http://www.dorftheater.de/",
+      "ticketlink": null,
+      "ort": "Grasbrunn",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Harthauser_Dorftheater",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Harthauser_Dorftheater",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Harthauser Dorftheater",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.dorftheater.de/",
+        "https://www.dorftheater.de/Karten/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.dorftheater.de/Karten/",
+          "stelle": "Registrierung. - Abholung und Bezahlung (bar oder bargeldlos) an der Abendkasse. - Möchten Sie mehr als 10 Karten reservieren nutzen Sie den telefoni"
+        },
+        "vorverkauf": {
+          "url": "https://www.dorftheater.de/Karten/",
+          "stelle": "chten Sie mehr als 10 Karten reservieren nutzen Sie den telefonischen Vorverkauf oder splitten Sie Ihre Online-Buchung. Zum Start des Vorverkaufes wir"
+        },
+        "von_hand": {
+          "url": "https://www.dorftheater.de/Karten/",
+          "stelle": "Reservierung Navigation loading... Toggle navigation MenÃ¼ Harthauser Dorftheat"
+        },
+        "bar": {
+          "url": "https://www.dorftheater.de/Karten/",
+          "stelle": "quem und jetzt ohne Registrierung. - Abholung und Bezahlung (bar oder bargeldlos) an der Abendkasse. - Möchten Sie mehr als 10 Karten reservieren n"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "kontakt@dorftheater.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "ticketleo",
+        "beleg": "https://www.dorftheater.de/",
+        "wie": "eingebunden auf https://www.dorftheater.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Kulturbixn",
+      "team_id": "Kulturbixn",
+      "homepage": "https://www.kulturbixn.de/",
+      "ticketlink": null,
+      "ort": "Ismaning",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kulturbixn",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kulturbixn",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kulturbixn",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.kulturbixn.de/ (HTTP 503)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Laienspielgruppe Badersfeld",
+      "team_id": "Laienspielgruppe Badersfeld",
+      "homepage": "http://www.laienspielgruppe-badersfeld.de/",
+      "ticketlink": null,
+      "ort": "Oberschleißheim",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienspielgruppe_Badersfeld",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienspielgruppe_Badersfeld",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Laienspielgruppe Badersfeld",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://laienspielgruppe-badersfeld.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Lochhamer Laien-Bauern-Bühne",
+      "team_id": "Lochhamer Laien-Bauern-Bühne",
+      "homepage": "http://www.llbb.de/",
+      "ticketlink": null,
+      "ort": "Gräfelfing",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Lochhamer_Laien-Bauern-B%C3%BChne",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Lochhamer_Laien-Bauern-B%C3%BChne",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Lochhamer Laien-Bauern-Bühne",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://llbb.de/",
+        "https://llbb.de/eintrittskarten.php",
+        "https://llbb.de/karten-theater.php"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://llbb.de/",
+          "stelle": "0 Uhr Samstag 21.11.2026 19.30 Uhr Sonntag 22.11.2026 15.30 Uhr Kartenvorverkauf unter der Rubrik Eintrittskarten oder telefonisch unter 089/87 57 96"
+        },
+        "von_hand": {
+          "url": "https://llbb.de/",
+          "stelle": "trittskarten oder telefonisch unter 089/87 57 96 06 Direkt zur Karten-Reservierungsseite (hier tippen) 🎭 Werden Sie Teil unseres Vereins! Sie haben"
+        },
+        "abendkasse": {
+          "url": "https://llbb.de/karten-theater.php",
+          "stelle": "ie Karten werden auf den angegeben Namen reserviert und können an der Abendkasse bezahlt und abgeholt werden. Eintrittspreis 13,00 Euro Saalplan Theat"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@LLBB.de"
+      ],
+      "preise": [
+        {
+          "eur": 13,
+          "url": "https://llbb.de/karten-theater.php",
+          "stelle": "eintrittspreis 13,00 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "MEMO (Musicalensemble München-Ost)",
+      "team_id": "MEMO (Musicalensemble München-Ost)",
+      "homepage": "http://www.memo-ev.de/",
+      "ticketlink": null,
+      "ort": "Haar",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/MEMO_%28Musicalensemble_M%C3%BCnchen-Ost%29",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/MEMO_%28Musicalensemble_M%C3%BCnchen-Ost%29",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "MEMO (Musicalensemble München-Ost)",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.memo-ev.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Münchner Volkssängerbühne Geschäftsstelle",
+      "team_id": "Münchner Volkssängerbühne Geschäftsstelle",
+      "homepage": "http://www.mvb-ev.de/",
+      "ticketlink": null,
+      "ort": "Haar",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/M%C3%BCnchner_Volkss%C3%A4ngerb%C3%BChne_Gesch%C3%A4ftsstelle",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/M%C3%BCnchner_Volkss%C3%A4ngerb%C3%BChne_Gesch%C3%A4ftsstelle",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Münchner Volkssängerbühne Geschäftsstelle",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://mvb-ev.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://mvb-ev.de/",
+          "stelle": "m Parkhaus ist kostenlos – das kostenlose Ausfahrticket gibt’s an der Abendkasse (Aufführungen Kleines Theater Haar). Karten gibt’s hier auf der Seite"
+        },
+        "vorverkauf": {
+          "url": "https://mvb-ev.de/",
+          "stelle": "mehr. Zum aktuellen Stück → Foto: Andreas und Simon Timm Unser Kartenvorverkauf startet am 1. November um 8 Uhr für „Champagner zum Frühstück“ · Prem"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@mvb-ev.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Putzbrunner Sportverein Theaterabteilung",
+      "team_id": "Putzbrunner Sportverein Theaterabteilung",
+      "homepage": "http://www.theatergruppe-putzbrunn.de/",
+      "ticketlink": null,
+      "ort": "München",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Putzbrunner_Sportverein_Theaterabteilung",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Putzbrunner_Sportverein_Theaterabteilung",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Putzbrunner Sportverein Theaterabteilung",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.theatergruppe-putzbrunn.de/ (ENOTFOUND)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SüdSpiel",
+      "team_id": "SüdSpiel",
+      "homepage": "http://www.suedspiel.de/",
+      "ticketlink": null,
+      "ort": "Neubiberg",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/S%C3%BCdSpiel",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/S%C3%BCdSpiel",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "SüdSpiel",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://suedspiel.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "kontakt@suedspiel.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theater PUR",
+      "team_id": "Theater PUR",
+      "homepage": "http://www.theater-pur.de/",
+      "ticketlink": null,
+      "ort": "Pullach im Isartal",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theater_PUR",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theater_PUR",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theater PUR",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.theater-pur.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe Siemens München",
+      "team_id": "Theatergruppe Siemens München",
+      "homepage": "http://www.theater-ensemble-tgsm.de/",
+      "ticketlink": null,
+      "ort": "Neubiberg",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Siemens_M%C3%BCnchen",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Siemens_M%C3%BCnchen",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe Siemens München",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tgsm.de/",
+        "https://www.tgsm.de/karten-reservieren"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.tgsm.de/karten-reservieren",
+          "stelle": "Karten reservieren Home Theater 2027-39Stufen 2026-Sushi 2025-ToedlichesGlasRotwein 20"
+        }
+      },
+      "instagram": [
+        "theater_tgsm"
+      ],
+      "emails": [
+        "vorstand@tgsm.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "yesticket",
+        "beleg": "https://www.tgsm.de/karten-reservieren",
+        "wie": "eingebunden auf https://www.tgsm.de/karten-reservieren"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Theaterstadel im Verein Frohsinn Freising",
+      "team_id": "Theaterstadel im Verein Frohsinn Freising",
+      "homepage": "http://www.frohsinn-freising.de/theater/main.ht",
+      "ticketlink": null,
+      "ort": "Unterschleißheim",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterstadel_im_Verein_Frohsinn_Freising",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterstadel_im_Verein_Frohsinn_Freising",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterstadel im Verein Frohsinn Freising",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.frohsinn-freising.de/theater/main.ht (HTTP 404)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Zeitkind",
+      "team_id": "Zeitkind",
+      "homepage": "http://www.zeitkind-ev.de/",
+      "ticketlink": null,
+      "ort": "Garching bei München",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Zeitkind",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Zeitkind",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Zeitkind",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.zeitkind-ev.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Ammerseer Bauerntheater Herrsching",
+      "team_id": "Ammerseer Bauerntheater Herrsching",
+      "homepage": "http://www.ammerseer-theaterverein.de/",
+      "ticketlink": null,
+      "ort": "Herrsching am Ammersee",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Ammerseer_Bauerntheater_Herrsching",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Ammerseer_Bauerntheater_Herrsching",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Ammerseer Bauerntheater Herrsching",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://ammerseer-theaterverein.de/",
+        "https://ammerseer-theaterverein.de/karten-vorverkauf/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://ammerseer-theaterverein.de/",
+          "stelle": "seer-theaterverein.de . Wir freuen uns auf Ihre Teilnahme! Neu: Kartenvorverkauf jetzt auch online! --> 'monthly' ) ); ?> --> --> Ammerseer Bauernthea"
+        },
+        "bar": {
+          "url": "https://ammerseer-theaterverein.de/karten-vorverkauf/",
+          "stelle": "des Bahnhofsgebäudes verkauft. Aus abrechnungstechnischen Gründen ist nur Barzahlung möglich! Oktober 2025 – April 2026 Montag bis Freitag: 10:00 b"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@ammerseer-theaterverein.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Aufkirchner Dorfbühne",
+      "team_id": "Aufkirchner Dorfbühne",
+      "homepage": "http://www.xn--aufkirchnerdorfbhne-lbc.de/",
+      "ticketlink": null,
+      "ort": "Berg",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Aufkirchner_Dorfb%C3%BChne",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Aufkirchner_Dorfb%C3%BChne",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Aufkirchner Dorfbühne",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.aufkirchnerdorfbuehne.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.aufkirchnerdorfbuehne.de/",
+          "stelle": "uigkeiten Spielzeiten Historie Theaterstücke Geschichte Kontakt Kartenvorverkauf Wichtige Seiten About Actors Events Contact Ticket FAQ Kontakt (900)"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@aufkirchnerdorfbuehne.de",
+        "randai@domain.com"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "D´Gmoagaukler z´Inning",
+      "team_id": "D´Gmoagaukler z´Inning",
+      "homepage": "http://www.gmoagaukler.de/",
+      "ticketlink": null,
+      "ort": "Inning am Ammersee",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/D%C2%B4Gmoagaukler_z%C2%B4Inning",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/D%C2%B4Gmoagaukler_z%C2%B4Inning",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "D´Gmoagaukler z´Inning",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.gmoagaukler.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.gmoagaukler.de/",
+          "stelle": ", Daniel Großkopf, Gabriel Sturm, Olaf Möller, Christine Mennle Kartenvorverkauf: Tickets gibt's hier online oder Wochentags 9:00 bis 16:00 Uhr bei fo"
+        },
+        "von_hand": {
+          "url": "https://www.gmoagaukler.de/",
+          "stelle": "e: Einlass ab 18:00 Uhr, Beginn der Aufführung: 19:30 Uhr, KEINE PLATZRESERVIERUNG 28.02.2026 Premiere ausverkauft 13.03.2026 Abendvorstellung ausver"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 10,
+          "url": "https://www.gmoagaukler.de/",
+          "stelle": "eintritt: 10 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Heimatbühne Starnberg",
+      "team_id": "Heimatbühne Starnberg",
+      "homepage": "http://www.heimatbuehne-starnberg.de/",
+      "ticketlink": null,
+      "ort": "Starnberg",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Heimatb%C3%BChne_Starnberg",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Heimatb%C3%BChne_Starnberg",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Heimatbühne Starnberg",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.trachtenverein-starnberg.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Heimatbühne Tutzing",
+      "team_id": "Heimatbühne Tutzing",
+      "homepage": "http://www.xn--heimatbhne-tutzing-s6b.de/",
+      "ticketlink": null,
+      "ort": "Tutzing",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Heimatb%C3%BChne_Tutzing",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Heimatb%C3%BChne_Tutzing",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Heimatbühne Tutzing",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.heimatbuehne-tutzing.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Institut für Jugendarbeit Gauting",
+      "team_id": "Institut für Jugendarbeit Gauting",
+      "homepage": "https://institutgauting.de/",
+      "ticketlink": null,
+      "ort": "Gauting",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Institut_f%C3%BCr_Jugendarbeit_Gauting",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Institut_f%C3%BCr_Jugendarbeit_Gauting",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Institut für Jugendarbeit Gauting",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://institutgauting.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://institutgauting.de/",
+          "stelle": "Start - Institut für Jugendarbeit Gauting Newsletter Reservierung Seminare buchen Öffnet in einem neuen Tab Programm Seminarangebot"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kolpingbühne Starnberg",
+      "team_id": "Kolpingbühne Starnberg",
+      "homepage": "http://www.kolpingbuehne.de/",
+      "ticketlink": null,
+      "ort": "Starnberg",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kolpingb%C3%BChne_Starnberg",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kolpingb%C3%BChne_Starnberg",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kolpingbühne Starnberg",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.kolpingbuehne.de/",
+        "https://www.kolpingbuehne.de/start-der-kartenreservierung-fuer-das-dschungelbuch/"
+      ],
+      "nicht_lesbar": [
+        "https://www.kolpingbuehne.de/kartenvorverkauf/index.php (leer, lädt per JavaScript)",
+        "https://www.kolpingbuehne.de/kartenvorverkauf/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.kolpingbuehne.de/",
+          "stelle": "0 Uhr Samstag 07.11.2026 20:00 Uhr Sonntag 08.11.2026 15:00 Uhr Kartenvorverkauf Zur Onlinebestellung geht es hier https://www.kolpingbuehne.de/karten"
+        },
+        "von_hand": {
+          "url": "https://www.kolpingbuehne.de/",
+          "stelle": "pingbühne! Starnberger Merkur lobt unsere Jugendbühne Start der Kartenreservierung für das Dschungelbuch Herzlichen Dank und gesegnete Weihnachten! „"
+        }
+      },
+      "instagram": [
+        "kolpingbuehne_starnberg"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kolpingfamilie Starnberg \"Kasbrettl\"",
+      "team_id": "Kolpingfamilie Starnberg \"Kasbrettl\"",
+      "homepage": "http://www.kasbrettl.de/",
+      "ticketlink": null,
+      "ort": "Starnberg",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kolpingfamilie_Starnberg_%22Kasbrettl%22",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kolpingfamilie_Starnberg_%22Kasbrettl%22",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Kolpingfamilie Starnberg \"Kasbrettl\"",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.kasbrettl.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "MGV d´Riedberger Hochstadt",
+      "team_id": "MGV d´Riedberger Hochstadt",
+      "homepage": "http://www.driedberger.de/",
+      "ticketlink": null,
+      "ort": "Weßling",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/MGV_d%C2%B4Riedberger_Hochstadt",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/MGV_d%C2%B4Riedberger_Hochstadt",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "MGV d´Riedberger Hochstadt",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.driedberger.de/",
+        "http://www.driedberger.de/Theater/Kartenreservierung/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "http://www.driedberger.de/",
+          "stelle": "les Unser Verein Vorstand Chöre Theater Anfahrt Aktuelles Stück Kartenreservierung Chronik Termine Presse Gästebuch Impressum MGV D' Riedberger Hochs"
+        },
+        "vorverkauf": {
+          "url": "http://www.driedberger.de/Theater/Kartenreservierung/",
+          "stelle": "sum MGV D' Riedberger Hochstadt e.V. Chorgesang und Theater Der Kartenvorverkauf startet immer zwei Monate vor der Premiere. Details geben wir hier zu"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "MGV-d.Riedberger@gmx.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theaterfreunde Machtlfing",
+      "team_id": "Theaterfreunde Machtlfing",
+      "homepage": "http://www.theaterfreunde-machtlfing.de/",
+      "ticketlink": null,
+      "ort": "Machtlfing",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterfreunde_Machtlfing",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theaterfreunde_Machtlfing",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theaterfreunde Machtlfing",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.theaterfreunde-machtlfing.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.theaterfreunde-machtlfing.de/",
+          "stelle": "i der VR-Bank Andechs überweisen: IBAN: DE33 7009 3200 0000 9054 37 • Abendkasse: vor den jeweiligen Aufführungen an der Abendkasse Karten jetzt buche"
+        },
+        "vorverkauf": {
+          "url": "https://www.theaterfreunde-machtlfing.de/",
+          "stelle": "e pro Tisch Kategorie A (Tisch 01-08) Kategorie B (Tisch 09-15) Kartenvorverkauf Ab Sonntag, den 11.10.2026 um 8:00 Uhr können Theaterkarten online re"
+        },
+        "von_hand": {
+          "url": "https://www.theaterfreunde-machtlfing.de/",
+          "stelle": "uf Ab Sonntag, den 11.10.2026 um 8:00 Uhr können Theaterkarten online reserviert und gekauft werden: • online Vorverkauf: direkt auf den Link klicken"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 14,
+          "url": "https://www.theaterfreunde-machtlfing.de/",
+          "stelle": "erwachsene 14,00 €"
+        },
+        {
+          "eur": 12,
+          "url": "https://www.theaterfreunde-machtlfing.de/",
+          "stelle": "erwachsene 12,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "ticketleo",
+        "beleg": "https://www.theaterfreunde-machtlfing.de/",
+        "wie": "eingebunden auf https://www.theaterfreunde-machtlfing.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Theatergruppe des SV Söcking",
+      "team_id": "Theatergruppe des SV Söcking",
+      "homepage": "http://www.sv-soecking.de/theater",
+      "ticketlink": null,
+      "ort": "Söcking",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_des_SV_S%C3%B6cking",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_des_SV_S%C3%B6cking",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe des SV Söcking",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [
+        "https://sv-soecking.de/theater/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Theatergruppe im Musik- und Kulturverein Traubing",
+      "team_id": "Theatergruppe im Musik- und Kulturverein Traubing",
+      "homepage": "http://www.theater-traubing.de/",
+      "ticketlink": null,
+      "ort": "Traubing",
+      "land": "BY",
+      "land_fest": true,
+      "verband_team_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_im_Musik-_und_Kulturverein_Traubing",
+      "verband_kontakt_url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_im_Musik-_und_Kulturverein_Traubing",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verein": "Theatergruppe im Musik- und Kulturverein Traubing",
+      "land_aus_plz": false,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.theater-traubing.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    }
+  ]
+}

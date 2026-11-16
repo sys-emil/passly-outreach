@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Volksbühne Olching",
+    "ort": "Olching",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.volksbuehne-olching.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "pretix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über pretix (eingebunden auf https://www.volksbuehne-olching.de/: https://www.volksbuehne-olching.de/).",
+    "quellen": [
+      "https://www.volksbuehne-olching.de/",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksb%C3%BChne_Olching"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.volksbuehne-olching.de/",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksb%C3%BChne_Olching"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. DATEI-Name „Volksbühne Olching“. Gelesen: https://www.volksbuehne-olching.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.volksbuehne-olching.de/",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksb%C3%BChne_Olching"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.volksbuehne-olching.de/",
+          "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Volksb%C3%BChne_Olching"
+        ]
+      }
+    }
+  }
+}

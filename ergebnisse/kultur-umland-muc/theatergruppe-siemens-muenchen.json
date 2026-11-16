@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "Theatergruppe Siemens München",
+    "ort": "Neubiberg",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.theater-ensemble-tgsm.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "yesticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "theater_tgsm",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über yesticket (eingebunden auf https://www.tgsm.de/karten-reservieren: https://www.tgsm.de/karten-reservieren).",
+    "quellen": [
+      "https://www.tgsm.de/karten-reservieren",
+      "https://www.tgsm.de/",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Siemens_M%C3%BCnchen"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.tgsm.de/karten-reservieren",
+      "https://www.tgsm.de/",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Siemens_M%C3%BCnchen"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. DATEI-Name „Theatergruppe Siemens München“. Gelesen: https://www.tgsm.de/, https://www.tgsm.de/karten-reservieren.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tgsm.de/karten-reservieren",
+      "https://www.tgsm.de/",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Siemens_M%C3%BCnchen"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.tgsm.de/karten-reservieren"
+        ],
+        "instagram": [
+          "https://www.tgsm.de/karten-reservieren",
+          "https://www.tgsm.de/",
+          "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Siemens_M%C3%BCnchen"
+        ]
+      }
+    }
+  }
+}

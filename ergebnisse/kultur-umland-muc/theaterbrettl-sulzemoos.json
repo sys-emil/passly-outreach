@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "Theaterbrettl Sulzemoos",
+    "ort": "Sulzemoos",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.theaterbrettl-sulzemoos.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "theaterbrettl.sulzemoos",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "info@theaterbrettl-sulzemoos.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Ein Tipp: wer die Tischnummer aus der Reservierung eingibt, sieht gleich, wo er sitzt“ „Bei der Reservierung am besten die Tischnummer gleich mit angeben“ „Je nach Kartenvorverkauf sind nicht immer alle Tische aufgebaut“",
+    "quellen": [
+      "https://theaterbrettl-sulzemoos.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://theaterbrettl-sulzemoos.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft. Reservierung mit Tischnummer: nummerierte Tische, Passly hat keine Sitzpläne.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://theaterbrettl-sulzemoos.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://theaterbrettl-sulzemoos.de/"
+        ],
+        "ansprechperson": [
+          "https://theaterbrettl-sulzemoos.de/"
+        ],
+        "vorverkauf": [
+          "https://theaterbrettl-sulzemoos.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass man bei euch mit Tischnummer reserviert. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Theaterbrettl Sulzemoos, info@theaterbrettl-sulzemoos.de.\n- Einstieg: Reservierung mit Tischnummer. Achtung: nummerierte Tische, Passly hat keine Sitzpläne.\n- Frage: Wäre freie Platzwahl je Tischbereich für euch denkbar?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

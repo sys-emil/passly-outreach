@@ -1,0 +1,70 @@
+{
+  "verein": {
+    "name": "Lochhamer Laien-Bauern-Bühne",
+    "ort": "Gräfelfing",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.llbb.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "llbb_lochham",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "info@LLBB.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Kartenvorverkauf unter der Rubrik Eintrittskarten oder“ „telefonisch unter 089/87 57 96 06“ „Direkt zur Karten-Reservierungsseite (hier tippen)“",
+    "quellen": [
+      "https://llbb.de/",
+      "https://llbb.de/eintrittskarten.php",
+      "https://llbb.de/karten-theater.php"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://llbb.de/",
+      "https://llbb.de/eintrittskarten.php",
+      "https://llbb.de/karten-theater.php"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://llbb.de/",
+      "https://llbb.de/eintrittskarten.php",
+      "https://llbb.de/karten-theater.php"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://llbb.de/"
+        ],
+        "ansprechperson": [
+          "https://llbb.de/"
+        ],
+        "vorverkauf": [
+          "https://llbb.de/",
+          "https://llbb.de/eintrittskarten.php",
+          "https://llbb.de/karten-theater.php"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass ihr Karten über eine Reservierungsseite oder telefonisch vergebt. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Lochhamer Laien-Bauern-Bühne, info@LLBB.de.\n- Einstieg: Reservierungsseite oder Telefon.\n- Frage: Wird vorab bezahlt, und wie viele Reservierungen verfallen?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

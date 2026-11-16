@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "Aufkirchner Dorfbühne",
+    "ort": "Berg",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.xn--aufkirchnerdorfbhne-lbc.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "aufkirchner_dorfbuehne",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "info@aufkirchnerdorfbuehne.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "„1,-€ VVK-Gebühr erwerben bei „Alte Liebe“, Schatzlgasse 4, 82335 Berg“",
+    "quellen": [
+      "https://www.aufkirchnerdorfbuehne.de/",
+      "https://www.aufkirchnerdorfbuehne.de/aktuelles/termine/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.aufkirchnerdorfbuehne.de/",
+      "https://www.aufkirchnerdorfbuehne.de/aktuelles/termine/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.aufkirchnerdorfbuehne.de/",
+      "https://www.aufkirchnerdorfbuehne.de/aktuelles/termine/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.aufkirchnerdorfbuehne.de/",
+          "https://www.aufkirchnerdorfbuehne.de/aktuelles/termine/"
+        ],
+        "ansprechperson": [
+          "https://www.aufkirchnerdorfbuehne.de/",
+          "https://www.aufkirchnerdorfbuehne.de/aktuelles/termine/"
+        ],
+        "vorverkauf": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass ihr in Berg Theater spielt. Einen Online-Kartenverkauf hab ich auf eurer Seite nicht gefunden. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Aufkirchner Dorfbühne, info@aufkirchnerdorfbuehne.de.\n- Einstieg: Laienbühne in Berg, kein Online-Verkauf auf der Website.\n- Frage: Wie läuft bei euch der Kartenvorverkauf, und wer macht die Arbeit?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "Kolpingsfamilie Olching",
+    "ort": "Olching",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.kolping-olching.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von Kolpingsfamilie Olching nennen weder Eintrittspreise noch einen Kartenweg.",
+    "quellen": [
+      "https://vor-ort.kolping.de/kolpingsfamilie-olching/",
+      "https://vor-ort.kolping.de/kolpingsfamilie-olching/termine/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://vor-ort.kolping.de/kolpingsfamilie-olching/",
+      "https://vor-ort.kolping.de/kolpingsfamilie-olching/termine/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://vor-ort.kolping.de/kolpingsfamilie-olching/",
+      "https://vor-ort.kolping.de/kolpingsfamilie-olching/termine/"
+    ],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "verein": {
+    "name": "Heimatbühne Starnberg",
+    "ort": "Starnberg",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.heimatbuehne-starnberg.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "trachtenverein.starnberg",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Gerne könnt ihr auch für unsere Veranstaltungen über das Ticketformular Karten reservieren“ „de oder telefonisch unter 08151 979 84 68 (bitte auf Anrufbeantworter sprechen und du erhältst einen Rückruf) zur Verfügung“",
+    "quellen": [
+      "https://www.trachtenverein-starnberg.de/",
+      "https://www.trachtenverein-starnberg.de/termine",
+      "https://www.trachtenverein-starnberg.de/termine/veranstaltungskalender"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.trachtenverein-starnberg.de/",
+      "https://www.trachtenverein-starnberg.de/termine",
+      "https://www.trachtenverein-starnberg.de/termine/veranstaltungskalender"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.trachtenverein-starnberg.de/",
+      "https://www.trachtenverein-starnberg.de/termine",
+      "https://www.trachtenverein-starnberg.de/termine/veranstaltungskalender"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.trachtenverein-starnberg.de/",
+          "https://www.trachtenverein-starnberg.de/termine",
+          "https://www.trachtenverein-starnberg.de/termine/veranstaltungskalender"
+        ],
+        "vorverkauf": [
+          "https://www.trachtenverein-starnberg.de/termine"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass man bei euch Karten per Formular oder über den Anrufbeantworter mit Rückruf reserviert. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Heimatbühne Starnberg (Trachtenverein) über die Website.\n- Einstieg: Ticketformular oder Anrufbeantworter mit Rückruf.\n- Frage: Wer ruft zurück, und wie viele Reservierungen sind das pro Stück?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

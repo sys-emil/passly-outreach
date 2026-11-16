@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Theater TiG Theater in Gröbenzell",
+    "ort": "Gröbenzell",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.theater-tig.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "yesticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über yesticket (eingebunden auf https://www.theater-tig.de/reserve.html: https://www.theater-tig.de/reserve.html).",
+    "quellen": [
+      "https://www.theater-tig.de/reserve.html",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theater_TiG_Theater_in_Gr%C3%B6benzell"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.theater-tig.de/reserve.html"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theater_TiG_Theater_in_Gr%C3%B6benzell"
+    ],
+    "notiz": "Ohne Modell geklärt. DATEI-Name „Theater TiG Theater in Gröbenzell“. Gelesen: https://www.theater-tig.de/, https://www.theater-tig.de/reserve.html.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.theater-tig.de/reserve.html",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theater_TiG_Theater_in_Gr%C3%B6benzell"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.theater-tig.de/reserve.html"
+        ]
+      }
+    }
+  }
+}

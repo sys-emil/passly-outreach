@@ -937,6 +937,16 @@
         }
       },
       "vereine": []
+    },
+    "kultur-umland-muc": {
+      "name": "Laienbühnen Region München",
+      "sport": "Kultur",
+      "quelle": {
+        "typ": "datei",
+        "datei": "katalog/laienbuehnen-region-muenchen.json",
+        "url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/"
+      },
+      "vereine": []
     }
   }
 }

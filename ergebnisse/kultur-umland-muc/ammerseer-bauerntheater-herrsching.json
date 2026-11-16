@@ -1,0 +1,60 @@
+{
+  "verein": {
+    "name": "Ammerseer Bauerntheater Herrsching",
+    "ort": "Herrsching am Ammersee",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.ammerseer-theaterverein.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Online-Vorverkauf (Anbieter nicht erkannt)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "info@ammerseer-theaterverein.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Neu: Kartenvorverkauf jetzt auch online“; daneben Vorverkauf vor Ort, Barzahlung.",
+    "quellen": [
+      "https://ammerseer-theaterverein.de/",
+      "https://ammerseer-theaterverein.de/karten-vorverkauf/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://ammerseer-theaterverein.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://ammerseer-theaterverein.de/karten-vorverkauf/"
+    ],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft. Nur Barzahlung.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://ammerseer-theaterverein.de/",
+      "https://ammerseer-theaterverein.de/karten-vorverkauf/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ansprechperson": [
+          "https://ammerseer-theaterverein.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

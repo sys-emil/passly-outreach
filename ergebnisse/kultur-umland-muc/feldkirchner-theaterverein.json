@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "Feldkirchner Theaterverein",
+    "ort": "Haar",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.theater-feldkirchen.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Daher haben wir die Reservierung über unsere Homepage bereits eingestellt“ „Restkarten verkaufen wir nur noch telefonisch, beim Getränke Haußmann oder (sofern dann noch verfügbar) an der Abendkasse“ „Für die Vorstellungen im Kleinen Theater Haar bestellen Sie Eintrittskarten bitte über www“",
+    "quellen": [
+      "http://www.theater-feldkirchen.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "http://www.theater-feldkirchen.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "http://www.theater-feldkirchen.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "vorverkauf": [
+          "http://www.theater-feldkirchen.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass ihr Restkarten nur noch telefonisch, im Getränkemarkt oder an der Abendkasse verkauft. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Feldkirchner Theaterverein über die Website.\n- Einstieg: Restkarten telefonisch, beim Getränkehändler oder an der Abendkasse, Online-Reservierung eingestellt.\n- Frage: Warum habt ihr die Reservierung über die Homepage eingestellt?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

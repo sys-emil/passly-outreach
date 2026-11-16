@@ -1,0 +1,57 @@
+{
+  "verein": {
+    "name": "Laienspielgruppe Langenbach",
+    "ort": "Langenbach",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.laienspielgruppe-langenbach.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "laienspielgruppe_langenbach",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Kartenvorverkauf - Laienspielgruppe Langenbach e“",
+    "quellen": [
+      "https://www.laienspielgruppe-langenbach.de/",
+      "https://www.laienspielgruppe-langenbach.de/kartenvorverkauf"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.laienspielgruppe-langenbach.de/",
+      "https://www.laienspielgruppe-langenbach.de/kartenvorverkauf"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.laienspielgruppe-langenbach.de/",
+      "https://www.laienspielgruppe-langenbach.de/kartenvorverkauf"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.laienspielgruppe-langenbach.de/",
+          "https://www.laienspielgruppe-langenbach.de/kartenvorverkauf"
+        ],
+        "vorverkauf": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass ihr in Langenbach Theater spielt. Einen Online-Kartenverkauf hab ich auf eurer Seite nicht gefunden. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Laienspielgruppe Langenbach über Instagram.\n- Einstieg: Laienbühne in Langenbach, kein Online-Verkauf auf der Website.\n- Frage: Wie läuft bei euch der Kartenvorverkauf, und wer macht die Arbeit?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Lichtbühne München",
+    "ort": "Puchheim",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.lichtbuehne.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "München Ticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website bindet München Ticket ein. „Reservierungen: 0176-45103621 und unter www“ „Reservierungen: 0176-45103621 und unter ichwillhin@lichtbuehne“ „Reservierungen: 089-82929079 und unter www“",
+    "quellen": [
+      "http://www.lichtbuehne.de/",
+      "http://www.lichtbuehne.de/auffuehrungen.html"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "http://www.lichtbuehne.de/auffuehrungen.html"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "http://www.lichtbuehne.de/"
+    ],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "http://www.lichtbuehne.de/",
+      "http://www.lichtbuehne.de/auffuehrungen.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "http://www.lichtbuehne.de/auffuehrungen.html"
+        ]
+      }
+    }
+  }
+}

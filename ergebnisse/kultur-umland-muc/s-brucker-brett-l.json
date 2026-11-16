@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "S Brucker Brett'l",
+    "ort": "Fürstenfeldbruck",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.bruckerbrettl.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ticketleo",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über ticketleo (eingebunden auf http://www.bruckerbrettl.de/: http://www.bruckerbrettl.de/).",
+    "quellen": [
+      "http://www.bruckerbrettl.de/",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/S_Brucker_Brett%27l"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "http://www.bruckerbrettl.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/S_Brucker_Brett%27l"
+    ],
+    "notiz": "Ohne Modell geklärt. DATEI-Name „S Brucker Brett'l“. Gelesen: http://www.bruckerbrettl.de/, http://www.bruckerbrettl.de/?Kartenverkauf.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "http://www.bruckerbrettl.de/",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/S_Brucker_Brett%27l"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "http://www.bruckerbrettl.de/"
+        ]
+      }
+    }
+  }
+}

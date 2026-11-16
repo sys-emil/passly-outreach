@@ -1,0 +1,63 @@
+{
+  "verein": {
+    "name": "Laientheater Allershausen",
+    "ort": "Freising",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.laientheater-allershausen.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "info@laientheater-allershausen.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Sobald das neue Frühjahrsstück 2027 bekannt ist, können hier oder unter der Rubrik \"Aktuelles Stück\" Platzkarten reserviert werden“",
+    "quellen": [
+      "https://www.laientheater-allershausen.de/",
+      "https://www.laientheater-allershausen.de/termine/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.laientheater-allershausen.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.laientheater-allershausen.de/termine/"
+    ],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.laientheater-allershausen.de/",
+      "https://www.laientheater-allershausen.de/termine/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ansprechperson": [
+          "https://www.laientheater-allershausen.de/"
+        ],
+        "vorverkauf": [
+          "https://www.laientheater-allershausen.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass man bei euch Platzkarten über die Website reserviert. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Laientheater Allershausen, info@laientheater-allershausen.de.\n- Einstieg: Platzkarten-Reservierung auf der Website.\n- Frage: Gibt es feste Plätze, und zahlt man vorab oder an der Kasse?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

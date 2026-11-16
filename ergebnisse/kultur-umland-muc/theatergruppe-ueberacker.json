@@ -1,0 +1,67 @@
+{
+  "verein": {
+    "name": "Theatergruppe Überacker",
+    "ort": "Landsberied",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "https://theater-ueberacker.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "theatergruppe_ueberacker",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "info@theater-ueberacker.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Eintrittskarten | Theatergruppe Überacker e“ „Da der Eintritt für unser fabelhaftes Herbststück kostenlos ist und keine Platzreservierung benötigt wird, laden wir Dich herzlich ein vorbei zu schauen“",
+    "quellen": [
+      "https://theater-ueberacker.de/",
+      "https://theater-ueberacker.de/eintrittskarten/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://theater-ueberacker.de/",
+      "https://theater-ueberacker.de/eintrittskarten/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://theater-ueberacker.de/",
+      "https://theater-ueberacker.de/eintrittskarten/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://theater-ueberacker.de/",
+          "https://theater-ueberacker.de/eintrittskarten/"
+        ],
+        "ansprechperson": [
+          "https://theater-ueberacker.de/",
+          "https://theater-ueberacker.de/eintrittskarten/"
+        ],
+        "vorverkauf": [
+          "https://theater-ueberacker.de/eintrittskarten/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass ihr Karten telefonisch und an der Abendkasse verkauft. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Theatergruppe Überacker, info@theater-ueberacker.de.\n- Einstieg: Kartenverkauf telefonisch und an der Abendkasse.\n- Frage: Wer macht den Telefondienst, und wie viel Zeit kostet das?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

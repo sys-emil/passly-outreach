@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "Bergkirchner Sportlerbühne",
+    "ort": "Bergkirchen",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.sportlerbuehne-bergkirchen.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Die Sportlerbühne Bergkirchen startet wieder in die Vorbereitungen für einen neuen 3-Akter: „Gürteltiere sind sexy“ Der Kartenvorverkauf startet am Dienstag, 01“ „Die Sportlerbühne Bergkirchen präsentiert ihren neuen 3-Akter: „Sie spielen unser Lied, Schatz“ Der Kartenvorverkauf startet am Montag, 01“ „Tickets erhalten Sie: per E-Mail unter [email protected] oder direkt an der Avia Tankstelle in Bergkirchen“",
+    "quellen": [
+      "https://www.sportlerbuehne-bergkirchen.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.sportlerbuehne-bergkirchen.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.sportlerbuehne-bergkirchen.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "vorverkauf": [
+          "https://www.sportlerbuehne-bergkirchen.de/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass man eure Karten per E-Mail oder an der Tankstelle in Bergkirchen bekommt. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Sportlerbühne Bergkirchen über die Website.\n- Einstieg: Karten per E-Mail oder an der Avia Tankstelle.\n- Frage: Wie rechnet ihr mit der Tankstelle ab, und wie viele Mails kommen?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

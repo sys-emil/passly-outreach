@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "Theater am Stadtwald Volksspielbühne des ASV Dachau",
+    "ort": "Dachau",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.asv-dachau.de/theater-events/theater",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von Theater am Stadtwald Volksspielbühne des ASV Dachau nennen weder Eintrittspreise noch einen Kartenweg.",
+    "quellen": [
+      "https://www.asv-dachau.de/theater-events/theater",
+      "https://www.asv-dachau.de/theater-events/theater/erwachsene/auffuehrung-herbst-2024",
+      "https://www.asv-dachau.de/theater-events/theater/kinder-und-jugendbuehne/auffuehrung-winter-2024"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.asv-dachau.de/theater-events/theater",
+      "https://www.asv-dachau.de/theater-events/theater/erwachsene/auffuehrung-herbst-2024",
+      "https://www.asv-dachau.de/theater-events/theater/kinder-und-jugendbuehne/auffuehrung-winter-2024"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.asv-dachau.de/theater-events/theater",
+      "https://www.asv-dachau.de/theater-events/theater/erwachsene/auffuehrung-herbst-2024",
+      "https://www.asv-dachau.de/theater-events/theater/kinder-und-jugendbuehne/auffuehrung-winter-2024"
+    ],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

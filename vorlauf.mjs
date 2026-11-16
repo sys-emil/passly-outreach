@@ -114,6 +114,7 @@ try {
     : QUELLE.typ === 'namen' ? await stufe0Namen(QUELLE)
     : QUELLE.typ === 'dbb' ? await stufe0Dbb(QUELLE)
     : QUELLE.typ === 'wikiliste' ? await stufe0WikiListe(QUELLE)
+    : QUELLE.typ === 'datei' ? await stufe0Datei(QUELLE)
     : await stufe0Vbl(QUELLE);
 } catch {
   process.exit(2);
@@ -387,6 +388,16 @@ async function stufe0WikiListe(q) {
   return teams;
 }
 
+// Teamliste aus einer Datei im Repo (seit 2026-11-16, Laienbühnen Umland): [{name, web, ort,
+// land, quelle}], zusammengestellt aus mehreren Quellen; „quelle“ je Eintrag belegt die Herkunft.
+async function stufe0Datei(q) {
+  const liste = JSON.parse(await fs.readFile(path.join(HERE, q.datei), 'utf8'));
+  listeUrl = q.url ?? q.datei;
+  return liste.eintraege.map((e) => ({ verband_name: e.name, team_id: e.name, homepage: e.web ?? null, ticketlink: null,
+    ort: e.ort ?? null, land: e.land ?? null, land_fest: !!e.land,
+    verband_team_url: e.quelle ?? listeUrl, verband_kontakt_url: e.quelle ?? listeUrl, verband_kontakte: [], verband_emails: [] }));
+}
+
 async function stufe0Namen(q) {
   const api = 'https://de.wikipedia.org/w/api.php?format=json&formatversion=2&';
   listeUrl = q.url;
@@ -460,7 +471,7 @@ const FUELL = new Set(['volleys', 'volley', 'volleyball', 'tv', 'sv', 'sc', 'tsv
 const woerter = (s) => s.toLowerCase().replace(/[^a-zäöüß0-9]+/g, ' ').split(' ').filter((w) => w.length > 1 && !FUELL.has(w));
 // Ligen ohne Vereinsliste in vereine.json übernehmen die Teams der Quelle; Land aus der PLZ.
 if (liga.vereine.length === 0) {
-  for (const t of teams) { t.verein = t.verband_name; t.land = landAusPlz(t.plz); t.land_aus_plz = true; }
+  for (const t of teams) { t.verein = t.verband_name; t.land = t.land ?? landAusPlz(t.plz); t.land_aus_plz = !t.land_fest; }
 }
 const offen = new Set(liga.vereine.filter((v) => !v.pilot).map((v) => v.name));
 const pilot = liga.vereine.filter((v) => v.pilot).map((v) => v.name);

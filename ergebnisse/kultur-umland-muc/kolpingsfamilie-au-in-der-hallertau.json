@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Kolpingsfamilie Au in der Hallertau",
+    "ort": "Au in der Hallertau",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.kolping-au.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "kolping_au",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von Kolpingsfamilie Au in der Hallertau nennen weder Eintrittspreise noch einen Kartenweg.",
+    "quellen": [
+      "https://www.kolping-au.de/",
+      "https://www.kolping-au.de/termine-und-preise.html"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.kolping-au.de/",
+      "https://www.kolping-au.de/termine-und-preise.html"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.kolping-au.de/",
+      "https://www.kolping-au.de/termine-und-preise.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.kolping-au.de/",
+          "https://www.kolping-au.de/termine-und-preise.html"
+        ]
+      }
+    }
+  }
+}

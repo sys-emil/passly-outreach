@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Theatergruppe Hofkirchen",
+    "ort": "Taufkirchen (Vils)",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.theatergruppe-hofkirchen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventfrog",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventfrog (eingebunden auf https://theatergruppehofkirchen.godaddysites.com/tickets-krimidinner-2026: https://theatergruppehofkirchen.godaddysites.com/tickets-krimidinner-2026).",
+    "quellen": [
+      "https://theatergruppehofkirchen.godaddysites.com/tickets-krimidinner-2026",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Hofkirchen"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://theatergruppehofkirchen.godaddysites.com/tickets-krimidinner-2026"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Hofkirchen"
+    ],
+    "notiz": "Ohne Modell geklärt. DATEI-Name „Theatergruppe Hofkirchen“. Gelesen: https://theatergruppehofkirchen.godaddysites.com/, https://theatergruppehofkirchen.godaddysites.com/tickets-krimidinner-2026.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://theatergruppehofkirchen.godaddysites.com/tickets-krimidinner-2026",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Theatergruppe_Hofkirchen"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://theatergruppehofkirchen.godaddysites.com/tickets-krimidinner-2026"
+        ]
+      }
+    }
+  }
+}

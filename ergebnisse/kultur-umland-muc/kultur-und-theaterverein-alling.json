@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Kultur- und Theaterverein Alling",
+    "ort": "Alling",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.ktv-alling.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ticketleo",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über ticketleo (eingebunden auf http://www.ktv-alling.de/Tickets-Online/: http://www.ktv-alling.de/Tickets-Online/).",
+    "quellen": [
+      "http://www.ktv-alling.de/Tickets-Online/",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kultur-_und_Theaterverein_Alling"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "http://www.ktv-alling.de/Tickets-Online/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kultur-_und_Theaterverein_Alling"
+    ],
+    "notiz": "Ohne Modell geklärt. DATEI-Name „Kultur- und Theaterverein Alling“. Gelesen: http://www.ktv-alling.de/, http://www.ktv-alling.de/Tickets-Online/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "http://www.ktv-alling.de/Tickets-Online/",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Kultur-_und_Theaterverein_Alling"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "http://www.ktv-alling.de/Tickets-Online/"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "TSV Brett'l Eintracht Karlsfeld",
+    "ort": "Karlsfeld",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.tsvek.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tsv.eintracht.karlsfeld",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.tsvek.de/sportangebot/tsv-brettl/kartenvorverkauf-tsv-brettl.html: https://www.tsvek.de/sportangebot/tsv-brettl/kartenvorverkauf-tsv-brettl.html).",
+    "quellen": [
+      "https://www.tsvek.de/sportangebot/tsv-brettl/kartenvorverkauf-tsv-brettl.html",
+      "https://www.tsvek.de/",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/TSV_Brett%27l_Eintracht_Karlsfeld"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.tsvek.de/sportangebot/tsv-brettl/kartenvorverkauf-tsv-brettl.html",
+      "https://www.tsvek.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/TSV_Brett%27l_Eintracht_Karlsfeld"
+    ],
+    "notiz": "Ohne Modell geklärt. DATEI-Name „TSV Brett'l Eintracht Karlsfeld“. Gelesen: https://www.tsvek.de/, https://www.tsvek.de/sportangebot/tsv-brettl/kartenvorverkauf-tsv-brettl.html.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tsvek.de/sportangebot/tsv-brettl/kartenvorverkauf-tsv-brettl.html",
+      "https://www.tsvek.de/",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/TSV_Brett%27l_Eintracht_Karlsfeld"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.tsvek.de/sportangebot/tsv-brettl/kartenvorverkauf-tsv-brettl.html"
+        ],
+        "instagram": [
+          "https://www.tsvek.de/sportangebot/tsv-brettl/kartenvorverkauf-tsv-brettl.html",
+          "https://www.tsvek.de/"
+        ]
+      }
+    }
+  }
+}

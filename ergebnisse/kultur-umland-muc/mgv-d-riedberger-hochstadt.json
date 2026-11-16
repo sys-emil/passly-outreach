@@ -1,0 +1,69 @@
+{
+  "verein": {
+    "name": "MGV d´Riedberger Hochstadt",
+    "ort": "Weßling",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.driedberger.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "MGV-d.Riedberger@gmx.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Der Kartenvorverkauf startet immer zwei Monate vor der Premiere“",
+    "quellen": [
+      "http://www.driedberger.de/",
+      "http://www.driedberger.de/Theater/Kartenreservierung/",
+      "http://www.driedberger.de/Termine/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "http://www.driedberger.de/",
+      "http://www.driedberger.de/Theater/Kartenreservierung/",
+      "http://www.driedberger.de/Termine/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "http://www.driedberger.de/",
+      "http://www.driedberger.de/Theater/Kartenreservierung/",
+      "http://www.driedberger.de/Termine/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ansprechperson": [
+          "http://www.driedberger.de/",
+          "http://www.driedberger.de/Theater/Kartenreservierung/",
+          "http://www.driedberger.de/Termine/"
+        ],
+        "vorverkauf": [
+          "http://www.driedberger.de/",
+          "http://www.driedberger.de/Theater/Kartenreservierung/",
+          "http://www.driedberger.de/Termine/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass ihr eure Karten über eine Kartenreservierung vergebt, immer zwei Monate vor der Premiere. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: MGV D’Riedberger Hochstadt, MGV-d.Riedberger@gmx.de.\n- Einstieg: Kartenreservierung, Vorverkauf zwei Monate vor der Premiere.\n- Frage: Wie läuft die Reservierung, und wie wird bezahlt?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}

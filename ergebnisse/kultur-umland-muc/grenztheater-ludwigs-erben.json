@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Grenztheater Ludwigs Erben",
+    "ort": "Grafing bei München",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "https://ludwigserben.wordpress.com/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ticket-regional",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website bindet ticket-regional ein. „Wir haben heute überall versucht, Karten zu bekommen, es funktioniert weder der Vorverkauf, noch die Online-Variante“",
+    "quellen": [
+      "https://ludwigserben.wordpress.com/",
+      "https://ludwigserben.wordpress.com/termine-2/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://ludwigserben.wordpress.com/termine-2/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://ludwigserben.wordpress.com/"
+    ],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://ludwigserben.wordpress.com/",
+      "https://ludwigserben.wordpress.com/termine-2/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://ludwigserben.wordpress.com/termine-2/"
+        ]
+      }
+    }
+  }
+}

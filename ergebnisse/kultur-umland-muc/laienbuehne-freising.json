@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "Laienbühne Freising",
+    "ort": "Freising",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.laienbuehne-freising.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "laienbuehne_freising_e.v",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.laienbuehne-freising.de/termine-and-tickets/: https://www.laienbuehne-freising.de/termine-and-tickets/).",
+    "quellen": [
+      "https://www.laienbuehne-freising.de/termine-and-tickets/",
+      "https://www.laienbuehne-freising.de/",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienb%C3%BChne_Freising"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.laienbuehne-freising.de/termine-and-tickets/",
+      "https://www.laienbuehne-freising.de/",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienb%C3%BChne_Freising"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. DATEI-Name „Laienbühne Freising“. Gelesen: https://www.laienbuehne-freising.de/, https://www.laienbuehne-freising.de/termine-and-tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.laienbuehne-freising.de/termine-and-tickets/",
+      "https://www.laienbuehne-freising.de/",
+      "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienb%C3%BChne_Freising"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.laienbuehne-freising.de/termine-and-tickets/"
+        ],
+        "instagram": [
+          "https://www.laienbuehne-freising.de/termine-and-tickets/",
+          "https://www.laienbuehne-freising.de/",
+          "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/index.php/Laienb%C3%BChne_Freising"
+        ]
+      }
+    }
+  }
+}

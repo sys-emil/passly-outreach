@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "Kunstfalle",
+    "ort": "Lengdorf",
+    "land": "BY",
+    "liga": "kultur-umland-muc",
+    "liga_name": "Laienbühnen Region München",
+    "sport": "Kultur"
+  },
+  "ergebnis": {
+    "website": "http://www.kunstfalle-ev.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "kunstfalle",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "vorstand@kunstfalle-ev.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Wir informieren Sie über neue Stücke, Aufführungstermine und den Vorverkaufsstart“ „Der Vorverkauf hat begonnen | Kunstfalle e“ „Heute hat der Vorverkauf dafür begonnen und bis dahin durften ja wir noch nichts darüber verraten“",
+    "quellen": [
+      "https://kunstfalle-ev.de/",
+      "https://kunstfalle-ev.de/2026/08/14/der-vorverkauf-hat-begonnen/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://kunstfalle-ev.de/",
+      "https://kunstfalle-ev.de/2026/08/14/der-vorverkauf-hat-begonnen/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Laienbühne, Region München. Automatisch vorsortiert (Belegsätze von der Website), von Hand geprüft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://kunstfalle-ev.de/",
+      "https://kunstfalle-ev.de/2026/08/14/der-vorverkauf-hat-begonnen/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://kunstfalle-ev.de/",
+          "https://kunstfalle-ev.de/2026/08/14/der-vorverkauf-hat-begonnen/"
+        ],
+        "ansprechperson": [
+          "https://kunstfalle-ev.de/",
+          "https://kunstfalle-ev.de/2026/08/14/der-vorverkauf-hat-begonnen/"
+        ],
+        "vorverkauf": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHallo, ich hab gesehen, dass ihr in Lengdorf Theater spielt. Einen Online-Kartenverkauf hab ich auf eurer Seite nicht gefunden. Ich baue Passly, einen Online-Kartenverkauf für kleine Bühnen und Vereine: Gäste kaufen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und die Abendkasse für Barverkauf läuft im selben System. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Kunstfalle, vorstand@kunstfalle-ev.de.\n- Einstieg: Laienbühne in Lengdorf, kein Online-Verkauf auf der Website.\n- Frage: Wie läuft bei euch der Kartenvorverkauf, und wer macht die Arbeit?\n- Vorab klären: freie Platzwahl oder nummerierte Plätze? Passly hat keine Sitzpläne.\n- Angebot: Nächste Vorstellung kostenlos als Testlauf einrichten, Reservierungen fallen weg, weil die Gäste vorab zahlen, Auszahlung nach der Vorstellung aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de schicken, Testlauf vorschlagen."
+}
