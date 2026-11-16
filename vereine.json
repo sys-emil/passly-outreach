@@ -883,6 +883,60 @@
         }
       },
       "vereine": []
+    },
+    "club-muc": {
+      "name": "Clubs München (klein und neu)",
+      "sport": "Club",
+      "quelle": {
+        "typ": "namen",
+        "url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+        "suche": "Club München",
+        "namen": [
+          "Bahnwärter Thiel",
+          "Das Labor",
+          "DNA Club",
+          "Harry Klein",
+          "Import Export",
+          "lieberscholli",
+          "Lucky Who",
+          "Milla",
+          "Palais Club",
+          "Pimpernel",
+          "Printhouse",
+          "Rote Sonne",
+          "Strom",
+          "Sweet Club",
+          "Yellow Submarine",
+          "Star Club",
+          "Helene",
+          "Goldener Reiter",
+          "Roody",
+          "Charlie"
+        ],
+        "homepages": {
+          "Bahnwärter Thiel": "https://www.bahnwaerterthiel.de/",
+          "Das Labor": "https://www.daslabor.com/",
+          "DNA Club": "https://www.dna-club.de/",
+          "Harry Klein": "https://harrykleinclub.de/",
+          "Import Export": "https://import-export.cc/",
+          "lieberscholli": "https://lieberscholli.de/",
+          "Lucky Who": "https://luckywho.de/",
+          "Milla": "https://milla-club.de/",
+          "Palais Club": "https://palaisclub.de/",
+          "Pimpernel": "https://pimpernel.de/",
+          "Printhouse": "https://www.printhouse.de/",
+          "Rote Sonne": "https://www.rote-sonne.com/",
+          "Strom": "https://strom-muc.de/",
+          "Sweet Club": "https://www.sweetclub.de/",
+          "Yellow Submarine": "https://www.yellowsubmarine.de/",
+          "Star Club": "https://www.starclubmunich.de/",
+          "Helene": "https://helene-liebt-dich.de/",
+          "Goldener Reiter": "https://www.instagram.com/goldener.reiter/",
+          "Roody": "https://www.instagram.com/roody.giesing/",
+          "Charlie": "https://www.instagram.com/charlie.munich/"
+        }
+      },
+      "vereine": []
     }
   }
 }

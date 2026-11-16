@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "Roody",
+    "land": "BY",
+    "liga": "club-muc",
+    "liga_name": "Clubs München (klein und neu)",
+    "sport": "Club",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.instagram.com/roody.giesing/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tanzcafé und Bar am Candidplatz (seit Januar 2024), keine eigene Website; Konzerte laut Veranstaltungsportalen oft bei freiem Eintritt. Ticketweg offen.",
+    "quellen": [],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Neu (2024), Haus wird ab 2028 umgebaut. Eher Bar mit Konzerten.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {}
+    }
+  }
+}

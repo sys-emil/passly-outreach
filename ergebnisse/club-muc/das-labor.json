@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "Das Labor",
+    "land": "BY",
+    "liga": "club-muc",
+    "liga_name": "Clubs München (klein und neu)",
+    "sport": "Club",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.daslabor.com/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Resident Advisor / Eventbrite",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite bindet Resident-Advisor- und Eventbrite-Events ein.",
+    "quellen": [
+      "https://www.daslabor.com/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.daslabor.com/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.daslabor.com/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.daslabor.com/"
+        ]
+      }
+    }
+  }
+}

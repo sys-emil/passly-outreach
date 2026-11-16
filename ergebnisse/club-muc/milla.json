@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "Milla",
+    "land": "BY",
+    "liga": "club-muc",
+    "liga_name": "Clubs München (klein und neu)",
+    "sport": "Club",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://milla-club.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "rausgegangen.de",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fandom.night",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über rausgegangen.de (eingebunden auf https://milla-club.de/: https://milla-club.de/).",
+    "quellen": [
+      "https://milla-club.de/",
+      "https://www.muenchen.de/veranstaltungen/nachtleben"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://milla-club.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.muenchen.de/veranstaltungen/nachtleben"
+    ],
+    "notiz": "Ohne Modell geklärt. Verband-Name „Milla“. Gelesen: https://milla-club.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://milla-club.de/",
+      "https://www.muenchen.de/veranstaltungen/nachtleben"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://milla-club.de/"
+        ],
+        "instagram": [
+          "https://milla-club.de/"
+        ]
+      }
+    }
+  }
+}

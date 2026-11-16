@@ -1,0 +1,41 @@
+{
+  "verein": {
+    "name": "Printhouse",
+    "land": "BY",
+    "liga": "club-muc",
+    "liga_name": "Clubs München (klein und neu)",
+    "sport": "Club",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.printhouse.de/",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "printhouse.de liefert eine leere Seite; ob sie zum neuen Club in Moosach (Eröffnung 05.09.2026, Zwischennutzung) gehört, ist offen.",
+    "quellen": [],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Neuer Club laut in-muenchen.de, Website nicht bestätigt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {}
+    }
+  }
+}

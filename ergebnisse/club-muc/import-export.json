@@ -1,0 +1,48 @@
+{
+  "verein": {
+    "name": "Import Export",
+    "land": "BY",
+    "liga": "club-muc",
+    "liga_name": "Clubs München (klein und neu)",
+    "sport": "Club",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://import-export.cc/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seite von Import Export nennt weder Eintritt noch einen Ticketweg.",
+    "quellen": [
+      "https://import-export.cc/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Club, Ticketweg nicht belegt. Kulturort im Kreativquartier.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://import-export.cc/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://import-export.cc/"
+    ],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

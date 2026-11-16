@@ -1,0 +1,59 @@
+{
+  "verein": {
+    "name": "Sweet Club",
+    "land": "BY",
+    "liga": "club-muc",
+    "liga_name": "Clubs München (klein und neu)",
+    "sport": "Club",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.sweetclub.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigene App / Shop (Tickets und Lounges)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "sweetclubmunich",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "„Kaufe Tickets, reserviere eine exklusive Lounge“ über die eigene App; Lounges ab 210 € mit Mindestverzehr online buchbar.",
+    "quellen": [
+      "https://www.sweetclub.de/",
+      "https://www.sweetclub.de/lounges"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.sweetclub.de/",
+      "https://www.sweetclub.de/lounges"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Gehört zur Gruppe des Praterdome Wien, kein kleiner Club.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.sweetclub.de/",
+      "https://www.sweetclub.de/lounges"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.sweetclub.de/",
+          "https://www.sweetclub.de/lounges"
+        ],
+        "instagram": [
+          "https://www.sweetclub.de/",
+          "https://www.sweetclub.de/lounges"
+        ]
+      }
+    }
+  }
+}

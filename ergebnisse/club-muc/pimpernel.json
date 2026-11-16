@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "Pimpernel",
+    "land": "BY",
+    "liga": "club-muc",
+    "liga_name": "Clubs München (klein und neu)",
+    "sport": "Club",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://pimpernel.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Resident Advisor",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Resident Advisor (eingebunden auf https://pimpernel.de/de/home/: https://pimpernel.de/de/home/).",
+    "quellen": [
+      "https://pimpernel.de/de/home/",
+      "https://www.muenchen.de/veranstaltungen/nachtleben"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://pimpernel.de/de/home/",
+      "https://www.muenchen.de/veranstaltungen/nachtleben"
+    ],
+    "notiz": "Ohne Modell geklärt. Verband-Name „Pimpernel“. Mehrere Instagram-Konten verlinkt: pimpernel_1970, pimpernel_official. Gelesen: https://pimpernel.de/de/home/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://pimpernel.de/de/home/",
+      "https://www.muenchen.de/veranstaltungen/nachtleben"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": []
+      },
+      "sicherheit_vorher": "hoch"
+    }
+  }
+}

@@ -1,0 +1,691 @@
+{
+  "liga": "club-muc",
+  "stand": "2026-11-16",
+  "quelle": "https://www.muenchen.de/veranstaltungen/nachtleben",
+  "abrufe": 84,
+  "teams": [
+    {
+      "verband_name": "Bahnwärter Thiel",
+      "team_id": "Bahnwärter Thiel (Club)",
+      "homepage": "https://www.bahnwaerterthiel.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Bahnw%C3%A4rter_Thiel_(Club)",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "Wikipedia-Artikel per Suche: Bahnwärter Thiel (Club)",
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Bahnwärter Thiel",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bahnwaerterthiel.de/",
+        "https://www.bahnwaerterthiel.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.bahnwaerterthiel.de/",
+          "stelle": "oren-2025\"&gt;Webshop der Süddeutschen Zeitung &lt;/a&gt; oder an der Abendkasse im Münchner Volkstheater (so lange der Vorrat reicht). Weitere Inform"
+        },
+        "vorverkauf": {
+          "url": "https://www.bahnwaerterthiel.de/",
+          "stelle": "wärter Thiel / München] Wanda Wild [Bahnwärter Thiel / München] ab 9€ Vorverkauf , 20€ Kasse Aus der Idee des Bahnwärter Thiels ist eine feste Institu"
+        },
+        "eintritt_frei": {
+          "url": "https://www.bahnwaerterthiel.de/",
+          "stelle": "23.12.202 6 * * Öffnungszeiten * Mo-Fr, 17-22 Uhr Sa-So, 13-22 Uhr * Eintritt frei * Alle Infos Archiv Freitag 16.10.2026 – 22-16 Uhr 11 Jahre Bahnwärte"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@bahnwaerterthiel.de",
+        "info@tack-events.com",
+        "munichslam@planetslam.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "pretix",
+        "beleg": "https://www.bahnwaerterthiel.de/",
+        "wie": "eingebunden auf https://www.bahnwaerterthiel.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Das Labor",
+      "team_id": "Das Labor",
+      "homepage": "https://www.daslabor.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "Das Labor",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.daslabor.com/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "DNA Club",
+      "team_id": "DNA Club",
+      "homepage": "https://www.dna-club.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "DNA Club",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.dna-club.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "ticket.io",
+        "beleg": "https://www.dna-club.de/",
+        "wie": "eingebunden auf https://www.dna-club.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Harry Klein",
+      "team_id": "Harry Klein (Club)",
+      "homepage": "https://harrykleinclub.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Harry_Klein_(Club)",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "Wikipedia-Artikel per Suche: Harry Klein (Club)",
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Harry Klein",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://harrykleinclub.de/",
+        "https://harrykleinclub.de/tickets/",
+        "https://harrykleinclub.de/blog/letzte-tickets-fuer-oliver-koletzki-konzert/",
+        "https://harrykleinclub.de/blog/re-act-tickets-vergriffen-aftershow-geplant/",
+        "https://harrykleinclub.de/blog/tickets-forecast/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://harrykleinclub.de/",
+          "stelle": ": 20.11.2025 05:00 Kosten : Im VVK Social Ticket € 4, Fair Price € 8. Abendkasse € 4 bis 24.00 Uhr, danach € 8. Diversity Mitglieder bezahlen € 2 Adre"
+        },
+        "vorverkauf": {
+          "url": "https://harrykleinclub.de/tickets/",
+          "stelle": "ver Dollar | Oliver Schories | Party Hard Ton | Silvester | Tickets | Vorverkauf be prepared! Tickets für S i l v e s t e r und andere D a t e s, find"
+        },
+        "von_hand": {
+          "url": "https://harrykleinclub.de/blog/re-act-tickets-vergriffen-aftershow-geplant/",
+          "stelle": "igen und danach das Tanzbein schwingen kann. Bitte beachte, dass eine Reservierung oder Kartenhinterlegung leider nicht möglich ist. Wir wünschen gan"
+        }
+      },
+      "instagram": [
+        "harrykleinclub",
+        "houseof_lolo",
+        "stilvortalent",
+        "leonhalller",
+        "louisemp",
+        "martina.eu",
+        "marlene.proximal",
+        "janisha.jones",
+        "pastaparisa"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "ticket.io",
+        "beleg": "https://harrykleinclub.de/",
+        "wie": "eingebunden auf https://harrykleinclub.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Import Export",
+      "team_id": "Import Export",
+      "homepage": "https://import-export.cc/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "Import Export",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://import-export.cc/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "lieberscholli",
+      "team_id": "lieberscholli",
+      "homepage": "https://lieberscholli.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "lieberscholli",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://lieberscholli.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@lieberscholli.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "ticket.io",
+        "beleg": "https://lieberscholli.de/",
+        "wie": "eingebunden auf https://lieberscholli.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Lucky Who",
+      "team_id": "Lucky Who",
+      "homepage": "https://luckywho.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "Lucky Who",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://luckywho.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Milla",
+      "team_id": "Milla",
+      "homepage": "https://milla-club.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "Milla",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://milla-club.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://milla-club.de/",
+          "stelle": "tion wählen kannst: * 15€ (Sozialer Preis) – im Vorverkauf und an der Abendkasse erhältlich * 20€ (Normaler Preis) – im Vorverkauf und an der Abendkas"
+        },
+        "vorverkauf": {
+          "url": "https://milla-club.de/",
+          "stelle": "len finanziellen Situation wählen kannst: * 15€ (Sozialer Preis) – im Vorverkauf und an der Abendkasse erhältlich * 20€ (Normaler Preis) – im Vorverka"
+        }
+      },
+      "instagram": [
+        "fandom.night"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "rausgegangen.de",
+        "beleg": "https://milla-club.de/",
+        "wie": "eingebunden auf https://milla-club.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Palais Club",
+      "team_id": "Palais Club",
+      "homepage": "https://palaisclub.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "Palais Club",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://palaisclub.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "eintritt_frei": {
+          "url": "https://palaisclub.de/",
+          "stelle": "N Jeden Freitag, Samstag und vor Feiertagen 21:00 – 24:00h PALAIS BAR Eintritt frei 00:00 – 11:00h PALAIS CLUB Eintritt 15€ bar Zum Programm PALAIS Fotos"
+        }
+      },
+      "instagram": [
+        "palaisclub_"
+      ],
+      "emails": [
+        "privateparty@palaisclub.de"
+      ],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://palaisclub.de/",
+          "stelle": "eintritt 15€"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Pimpernel",
+      "team_id": "Pimpernel (Club)",
+      "homepage": "https://pimpernel.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Pimpernel_(Club)",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Pimpernel",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://pimpernel.de/de/home/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "pimpernel_1970",
+        "pimpernel_official"
+      ],
+      "emails": [
+        "events@pimpernel.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Resident Advisor",
+        "beleg": "https://pimpernel.de/de/home/",
+        "wie": "eingebunden auf https://pimpernel.de/de/home/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Printhouse",
+      "team_id": "Printhouse",
+      "homepage": "https://www.printhouse.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "Printhouse",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.printhouse.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Rote Sonne",
+      "team_id": "Rote Sonne (Club)",
+      "homepage": "https://www.rote-sonne.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Rote_Sonne_(Club)",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "Wikipedia-Artikel per Suche: Rote Sonne (Club)",
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Rote Sonne",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.rote-sonne.com/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "clubrotesonne"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "ticket.io",
+        "beleg": "https://www.rote-sonne.com/",
+        "wie": "eingebunden auf https://www.rote-sonne.com/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Strom",
+      "team_id": "Strom",
+      "homepage": "https://strom-muc.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "Strom",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://strom-muc.de/"
+      ],
+      "nicht_lesbar": [
+        "https://strom-muc.de/VERSCHOBEN%20AUF%2028.05.27 (HTTP 404)"
+      ],
+      "funde": {
+        "nur_abendkasse": {
+          "url": "https://strom-muc.de/",
+          "stelle": "n 19 / Nov GURRIERS KONZERT Tickets kaufen 20 / Nov GRÖSSENWAHN PARTY Nur Abendkasse 24 / Nov CHINCHILLA KONZERT Tickets kaufen 26 / Nov RE6CE KONZERT Tic"
+        },
+        "abendkasse": {
+          "url": "https://strom-muc.de/",
+          "stelle": "/ Nov GURRIERS KONZERT Tickets kaufen 20 / Nov GRÖSSENWAHN PARTY Nur Abendkasse 24 / Nov CHINCHILLA KONZERT Tickets kaufen 26 / Nov RE6CE KONZERT Tic"
+        }
+      },
+      "instagram": [
+        "strom.munich"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://strom-muc.de/",
+        "wie": "eingebunden auf https://strom-muc.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Sweet Club",
+      "team_id": "Sweet Club",
+      "homepage": "https://www.sweetclub.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "Sweet Club",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sweetclub.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.sweetclub.de/",
+          "stelle": ", Early-Bird Tickets und Special-Aktionen. Alles dabei Kaufe Tickets, reserviere eine exklusive Lounge und checke direkt ins Sweetclub ein. Impressio"
+        }
+      },
+      "instagram": [
+        "sweetclubmunich"
+      ],
+      "emails": [
+        "info@sweet-club.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Yellow Submarine",
+      "team_id": "Yellow Submarine (Club)",
+      "homepage": "https://www.yellowsubmarine.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Yellow_Submarine_(Club)",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Yellow Submarine",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.yellowsubmarine.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Star Club",
+      "team_id": "Star-Club",
+      "homepage": "https://www.starclubmunich.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Star-Club",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Star Club",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.starclubmunich.de/ (ENOTFOUND)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Helene",
+      "team_id": "Helene Bockhorst",
+      "homepage": "https://helene-liebt-dich.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Helene_Bockhorst",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "Wikipedia-Artikel per Suche: Helene Bockhorst",
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Helene",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://heleneliebtdich.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://heleneliebtdich.de/",
+          "stelle": "er geht&#8217;s zur HELENE DISCO Hier geht&#8217;s zur SPRIZZERIA Für Reservierung ab 8 Personen schreibt uns gerne eine E-Mail an: reservierung@spri"
+        }
+      },
+      "instagram": [
+        "heleneliebtdich"
+      ],
+      "emails": [
+        "reservierung@sprizzeria089.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "vivenu",
+        "beleg": "https://heleneliebtdich.de/",
+        "wie": "eingebunden auf https://heleneliebtdich.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Goldener Reiter",
+      "team_id": "Goldener Reiter",
+      "homepage": "https://www.instagram.com/goldener.reiter/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "Goldener Reiter",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.instagram.com/goldener.reiter/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Roody",
+      "team_id": "Roody",
+      "homepage": "https://www.instagram.com/roody.giesing/",
+      "ticketlink": null,
+      "verband_team_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "kein Wikipedia-Artikel gefunden",
+      "verein": "Roody",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.instagram.com/roody.giesing/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Charlie",
+      "team_id": "Charlie Watts",
+      "homepage": "https://www.instagram.com/charlie.munich/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Charlie_Watts",
+      "verband_kontakt_url": "https://www.muenchen.de/veranstaltungen/nachtleben",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Charlie",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.instagram.com/charlie.munich/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    }
+  ]
+}

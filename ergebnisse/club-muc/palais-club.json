@@ -1,0 +1,56 @@
+{
+  "verein": {
+    "name": "Palais Club",
+    "land": "BY",
+    "liga": "club-muc",
+    "liga_name": "Clubs München (klein und neu)",
+    "sport": "Club",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://palaisclub.de/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": true,
+    "ticketpreis_eur": 15,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "palaisclub_",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite: Freitag, Samstag und vor Feiertagen 21–24 Uhr „PALAIS BAR Eintritt frei“, 0–11 Uhr „PALAIS CLUB Eintritt 15€ bar“. Kein Vorverkauf verlinkt.",
+    "quellen": [
+      "https://palaisclub.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://palaisclub.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Eintritt nur bar an der Tür. Private Partys über privateparty@palaisclub.de.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://palaisclub.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://palaisclub.de/"
+        ],
+        "instagram": [
+          "https://palaisclub.de/"
+        ],
+        "vorverkauf": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass der Eintritt bei euch 15 € bar an der Tür ist und es keinen Vorverkauf gibt. Ich baue Passly, einen Online-Ticketverkauf für kleine Clubs und Veranstalter: Link in die Bio, Gäste zahlen vorab per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt, und Barverkauf an der Tür läuft im selben System. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: Palais Club per Instagram-DM (palaisclub_) oder privateparty@palaisclub.de.\n- Einstieg: Bar bis Mitternacht frei, danach Club 15 € nur bar, kein Vorverkauf.\n- Frage: Wie lang wird die Schlange um Mitternacht, und wollt ihr bei Specials vorher wissen, wie viele kommen?\n- Angebot: Nächste Clubnacht kostenlos als Testlauf, Early-Bird-Kontingent online, Tür bleibt bar, Gästeliste über 100-%-Codes.\n- Abschluss: Link zu getpassly.de/clubs schicken, Testlauf vorschlagen."
+}

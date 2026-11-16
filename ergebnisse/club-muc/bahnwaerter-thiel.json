@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Bahnwärter Thiel",
+    "land": "BY",
+    "liga": "club-muc",
+    "liga_name": "Clubs München (klein und neu)",
+    "sport": "Club",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://www.bahnwaerterthiel.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "pretix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über pretix (eingebunden auf https://www.bahnwaerterthiel.de/: https://www.bahnwaerterthiel.de/).",
+    "quellen": [
+      "https://www.bahnwaerterthiel.de/",
+      "https://www.muenchen.de/veranstaltungen/nachtleben"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.bahnwaerterthiel.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.muenchen.de/veranstaltungen/nachtleben"
+    ],
+    "notiz": "Ohne Modell geklärt. Verband-Name „Bahnwärter Thiel“. Gelesen: https://www.bahnwaerterthiel.de/, https://www.bahnwaerterthiel.de/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.bahnwaerterthiel.de/",
+      "https://www.muenchen.de/veranstaltungen/nachtleben"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.bahnwaerterthiel.de/"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "Strom",
+    "land": "BY",
+    "liga": "club-muc",
+    "liga_name": "Clubs München (klein und neu)",
+    "sport": "Club",
+    "ort": "München"
+  },
+  "ergebnis": {
+    "website": "https://strom-muc.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "strom.munich",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (eingebunden auf https://strom-muc.de/: https://strom-muc.de/).",
+    "quellen": [
+      "https://strom-muc.de/",
+      "https://www.muenchen.de/veranstaltungen/nachtleben"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://strom-muc.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.muenchen.de/veranstaltungen/nachtleben"
+    ],
+    "notiz": "Ohne Modell geklärt. Verband-Name „Strom“. Gelesen: https://strom-muc.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://strom-muc.de/",
+      "https://www.muenchen.de/veranstaltungen/nachtleben"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://strom-muc.de/"
+        ],
+        "instagram": [
+          "https://strom-muc.de/"
+        ]
+      }
+    }
+  }
+}
