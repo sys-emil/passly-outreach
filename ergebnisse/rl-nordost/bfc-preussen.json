@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "BFC Preussen",
+    "ort": "Deutschland",
+    "land": null,
+    "liga": "rl-nordost",
+    "liga_name": "Regionalliga Nordost (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.bfc-preussen-fussball.de/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": 13,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "bfc_preussen_official",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "info@bfc-preussen.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Stadion- und Ticketseite: „Tickets: Für unsere Preussenfans und unsere Gäste sind Tickets an der Tageskasse erhältlich. Preise: 13 Euro Vollzahler, 10 Euro“ ermäßigt. Kein Vorverkauf, kein Shop verlinkt.",
+    "quellen": [
+      "https://bfc-preussen.de/anreise-stadion-und-ticketinfos/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://bfc-preussen.de/anreise-stadion-und-ticketinfos/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Regionalliga Nordost mit Gästefans, nur Tageskasse.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://bfc-preussen.de/anreise-stadion-und-ticketinfos/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://bfc-preussen.de/anreise-stadion-und-ticketinfos/"
+        ],
+        "instagram": [
+          "https://bfc-preussen.de/anreise-stadion-und-ticketinfos/"
+        ],
+        "ansprechperson": [
+          "https://bfc-preussen.de/anreise-stadion-und-ticketinfos/"
+        ],
+        "vorverkauf": [
+          "https://bfc-preussen.de/anreise-stadion-und-ticketinfos/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab auf eurer Stadionseite gelesen, dass es Tickets für Heim- und Gästefans an der Tageskasse gibt, 13 € Vollzahler. Einen Vorverkauf hab ich nicht gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Die Tageskasse bleibt. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: BFC Preussen, info@bfc-preussen.de.\n- Einstieg: Regionalliga Nordost, Tickets nur an der Tageskasse, 13 € Vollzahler, 10 € ermäßigt, eigener Gästeeingang.\n- Frage: Wie läuft die Tageskasse bei Spielen mit vielen Gästefans, und zahlen die Leute bar?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "VfR Aalen",
+    "ort": null,
+    "land": "BW",
+    "liga": "rl-suedwest",
+    "liga_name": "Regionalliga Südwest (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.vfr-aalen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "vfraalen1921",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.vfr-aalen.de/tickets: https://www.vfr-aalen.de/tickets).",
+    "quellen": [
+      "https://www.vfr-aalen.de/tickets",
+      "https://www.vfr-aalen.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.vfr-aalen.de/tickets",
+      "https://www.vfr-aalen.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „VfR Aalen“. Gelesen: https://www.vfr-aalen.de/, https://www.vfr-aalen.de/tickets, https://www.vfr-aalen.de/aktuelles/news/details/ticketshop-fuer-das-spiel-in-kaiserslautern.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.vfr-aalen.de/tickets",
+      "https://www.vfr-aalen.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.vfr-aalen.de/tickets"
+        ],
+        "instagram": [
+          "https://www.vfr-aalen.de/tickets",
+          "https://www.vfr-aalen.de/"
+        ]
+      }
+    }
+  }
+}

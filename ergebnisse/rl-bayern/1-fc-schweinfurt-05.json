@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "1. FC Schweinfurt 05",
+    "ort": "Schweinfurt",
+    "land": "BY",
+    "liga": "rl-bayern",
+    "liga_name": "Regionalliga Bayern (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.fcschweinfurt1905.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fcschweinfurt1905",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.fcschweinfurt1905.de/: https://www.fcschweinfurt1905.de/).",
+    "quellen": [
+      "https://www.fcschweinfurt1905.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://www.fcschweinfurt1905.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „1. FC Schweinfurt 05“. Gelesen: https://www.fcschweinfurt1905.de/, https://www.fcschweinfurt1905.de/eintrittspreise-jugend/, https://www.fcschweinfurt1905.de/auswaertstickets-fuer-1860/, https://www.fcschweinfurt1905.de/auswaertskarten-fuer-unser-spiel-beim-tsv-1860-muenchen/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fcschweinfurt1905.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.fcschweinfurt1905.de/"
+        ],
+        "instagram": [
+          "https://www.fcschweinfurt1905.de/"
+        ]
+      }
+    }
+  }
+}

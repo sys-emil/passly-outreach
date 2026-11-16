@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "VfL Bochum",
+    "ort": "Bochum",
+    "land": "NW",
+    "liga": "fbl2-frauen",
+    "liga_name": "2. Frauen-Bundesliga (Fußball)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.vfl-bochum.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (eingebunden auf https://www.vfl-bochum.de/: https://www.vfl-bochum.de/).",
+    "quellen": [
+      "https://www.vfl-bochum.de/",
+      "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 7,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.vfl-bochum.de/",
+      "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „VfL Bochum“. Gelesen: https://www.vfl-bochum.de/, https://www.vfl-bochum.de/fans/auswartsdauerkarten/, https://www.vfl-bochum.de/shop-tickets/fanshops/, https://www.vfl-bochum.de/shop-tickets/ticket-infos/, https://www.vfl-bochum.de/shop-tickets/ticket-faq/, https://www.vfl-bochum.de/shop-tickets/ticket-zweitmarkt/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.vfl-bochum.de/",
+      "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": []
+      },
+      "sicherheit_vorher": "hoch"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "SG Barockstadt Fulda-Lehnerz",
+    "land": null,
+    "liga": "rl-suedwest",
+    "liga_name": "Regionalliga Südwest (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://sg-barockstadt.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigenes Ticketing (ticketing.sg-barockstadt.de)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "sg_barockstadt",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite verlinkt ticketing.sg-barockstadt.de und Ticketinfos.",
+    "quellen": [
+      "https://sg-barockstadt.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://sg-barockstadt.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://sg-barockstadt.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://sg-barockstadt.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

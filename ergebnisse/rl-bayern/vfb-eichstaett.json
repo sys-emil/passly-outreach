@@ -1,0 +1,56 @@
+{
+  "verein": {
+    "name": "VfB Eichstätt",
+    "ort": "Eichstätt",
+    "land": "BY",
+    "liga": "rl-bayern",
+    "liga_name": "Regionalliga Bayern (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.vfb-eichstaett.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "vfbeichstaett_1920",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von VfB Eichstätt nennen weder Eintrittspreise noch einen Ticketweg für die Regionalliga Bayern.",
+    "quellen": [
+      "https://www.vfb-eichstaett.de/",
+      "https://www.vfb-eichstaett.de/spieltag"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.vfb-eichstaett.de/",
+      "https://www.vfb-eichstaett.de/spieltag"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. Menüpunkt „TICKETS“ führt auf die Startseite; seatsio im HTML stammt vermutlich aus dem Baukasten.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.vfb-eichstaett.de/",
+      "https://www.vfb-eichstaett.de/spieltag"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.vfb-eichstaett.de/",
+          "https://www.vfb-eichstaett.de/spieltag"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass euer Menüpunkt „Tickets“ noch auf die Startseite führt. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: VfB Eichstätt über die Kontaktseite.\n- Einstieg: Regionalliga Bayern, Menüpunkt „TICKETS“ ohne eigene Seite.\n- Frage: Plant ihr einen Online-Vorverkauf, oder läuft alles über die Tageskasse?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

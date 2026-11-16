@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "SV Rödinghausen",
+    "ort": "Rödinghausen",
+    "land": "NW",
+    "liga": "rl-west",
+    "liga_name": "Regionalliga West (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.svroedinghausen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "sv_roedinghausen",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.svroedinghausen.de/: https://www.svroedinghausen.de/).",
+    "quellen": [
+      "https://www.svroedinghausen.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 6,
+    "quellen_belegt": [
+      "https://www.svroedinghausen.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „SV Rödinghausen“. Gelesen: https://www.svroedinghausen.de/, https://www.svroedinghausen.de/tickets-2, https://www.svroedinghausen.de/news/detail/erstes-heimspiel-der-saison, https://www.svroedinghausen.de/news/detail/naechstes-heimspiel, https://www.svroedinghausen.de/news/detail/halbfinal-ticket-geloest.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.svroedinghausen.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.svroedinghausen.de/"
+        ],
+        "instagram": [
+          "https://www.svroedinghausen.de/"
+        ]
+      }
+    }
+  }
+}

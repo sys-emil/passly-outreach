@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "FC Erzgebirge Aue",
+    "ort": "Aue",
+    "land": "SN",
+    "liga": "rl-nordost",
+    "liga_name": "Regionalliga Nordost (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.fc-erzgebirge.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Online-Ticketshop",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fcerzgebirgeaue",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Menü „TICKETS: OnlineShop, Ticketinfos, Vorverkaufsstellen“; Ticketinfos mit Telefon und ticket@fc-erzgebirge.de.",
+    "quellen": [
+      "https://www.fc-erzgebirge.de/tickets/ticketinfos"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.fc-erzgebirge.de/tickets/ticketinfos"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fc-erzgebirge.de/tickets/ticketinfos"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.fc-erzgebirge.de/tickets/ticketinfos"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

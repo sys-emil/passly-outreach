@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "SC Wiedenbrück",
+    "ort": "Rheda-Wiedenbrück",
+    "land": "NW",
+    "liga": "rl-west",
+    "liga_name": "Regionalliga West (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.scwiedenbrueck.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Vereinsticket (eingebunden auf https://www.scwiedenbrueck.de/: https://www.scwiedenbrueck.de/).",
+    "quellen": [
+      "https://www.scwiedenbrueck.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.scwiedenbrueck.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „SC Wiedenbrück“. Gelesen: https://www.scwiedenbrueck.de/, https://www.scwiedenbrueck.de/dauerkarten, https://www.scwiedenbrueck.de/spieltagstickets.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.scwiedenbrueck.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.scwiedenbrueck.de/"
+        ]
+      }
+    }
+  }
+}

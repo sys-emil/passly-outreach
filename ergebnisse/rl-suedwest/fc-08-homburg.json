@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "FC 08 Homburg",
+    "ort": "Homburg",
+    "land": "SL",
+    "liga": "rl-suedwest",
+    "liga_name": "Regionalliga Südwest (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.fc08homburg.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "vivenu",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fc08homburg",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über vivenu (eingebunden auf https://www.fc08homburg.de/: https://www.fc08homburg.de/).",
+    "quellen": [
+      "https://www.fc08homburg.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 7,
+    "quellen_belegt": [
+      "https://www.fc08homburg.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „FC 08 Homburg“. Gelesen: https://www.fc08homburg.de/, https://www.fc08homburg.de/stadion/ticketing-allgemeine-infos/, https://www.fc08homburg.de/stadion/dauerkarten/, https://www.fc08homburg.de/stadion/tageskarten/, https://www.fc08homburg.de/stadion/heimspiele/, https://www.fc08homburg.de/business/vip-tagesticket-2/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fc08homburg.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.fc08homburg.de/"
+        ],
+        "instagram": [
+          "https://www.fc08homburg.de/"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "SV Eintracht Trier",
+    "ort": "Trier",
+    "land": "RP",
+    "liga": "rl-suedwest",
+    "liga_name": "Regionalliga Südwest (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://eintracht-trier.com/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Vereinsticket (eingebunden auf https://eintracht-trier.com/tickets/: https://eintracht-trier.com/tickets/).",
+    "quellen": [
+      "https://eintracht-trier.com/tickets/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://eintracht-trier.com/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „SV Eintracht Trier“. Gelesen: https://eintracht-trier.com/, https://eintracht-trier.com/tickets/, https://eintracht-trier.com/2026/11/11/zeitgenaue-ansetzung-19-spieltag/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://eintracht-trier.com/tickets/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://eintracht-trier.com/tickets/"
+        ]
+      }
+    }
+  }
+}

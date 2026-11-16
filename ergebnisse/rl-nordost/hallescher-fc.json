@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Hallescher FC",
+    "ort": "Halle (Saale)",
+    "land": "ST",
+    "liga": "rl-nordost",
+    "liga_name": "Regionalliga Nordost (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.hallescherfc.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://www.hallescherfc.de/: https://www.hallescherfc.de/).",
+    "quellen": [
+      "https://www.hallescherfc.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.hallescherfc.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Hallescher FC“. Gelesen: https://www.hallescherfc.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hallescherfc.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.hallescherfc.de/"
+        ]
+      }
+    }
+  }
+}

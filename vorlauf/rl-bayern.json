@@ -1,0 +1,779 @@
+{
+  "liga": "rl-bayern",
+  "stand": "2026-11-16",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+  "abrufe": 41,
+  "teams": [
+    {
+      "verband_name": "FC Memmingen",
+      "team_id": "FC Memmingen",
+      "homepage": "https://www.fc-memmingen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Memmingen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "87700",
+      "ort_qid": "Q14825",
+      "ort": "Memmingen",
+      "verein": "FC Memmingen",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fc-memmingen.de/",
+        "https://www.fc-memmingen.de/tickets/",
+        "https://www.fc-memmingen.de/zuschauerinformationen/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.fc-memmingen.de/tickets/",
+          "stelle": "w-up EINZELKARTEN Sitzplatz (Tribüne) Einzelkarte Vollzahler € 15,00 (Tageskasse), € 14,00 (online + VVK) Einzelkarte ermäßigt* € 13,00 (Tageskasse),"
+        },
+        "vorverkauf": {
+          "url": "https://www.fc-memmingen.de/tickets/",
+          "stelle": "ter info@fc-memmingen.de erhältlich bzw. buchbar, kein Verkauf an den Vorverkaufsstellen, online und an den Tageskasse Schiedsrichterkarten für kosten"
+        },
+        "von_hand": {
+          "url": "https://www.fc-memmingen.de/tickets/",
+          "stelle": "vor dem Spiel und in der Halbzeitpause Die VIP-Karte beinhaltet einen reservierten Tribünen-Sitzplatz (Kategorie 1). Das Spiel kann auch im Sitz- und"
+        },
+        "dauerkarte": {
+          "url": "https://www.fc-memmingen.de/tickets/",
+          "stelle": "den Stadionkassen und auch den Kiosken. Inhaber von Stehplatzkarten (Saisonkarten) können gegen einen Zuschlag am Spieltag, beispielsweise bei Regenwe"
+        },
+        "bar": {
+          "url": "https://www.fc-memmingen.de/tickets/",
+          "stelle": "ss für VIP-Gäste (90 Minuten vor Anpfiff). An Kasse 2 ist am Spieltag bargeldlose Zahlung möglich, ansonsten nur Barzahlung an den Stadionkassen un"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@fc-memmingen.de",
+        "info@fc-memmingen"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://www.fc-memmingen.de/tickets/",
+        "wie": "eingebunden auf https://www.fc-memmingen.de/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "TSV 1860 München",
+      "team_id": "TSV 1860 München",
+      "homepage": "https://www.tsv1860.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_1860_M%C3%BCnchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "80331",
+      "ort_qid": "Q1726",
+      "ort": "München",
+      "verein": "TSV 1860 München",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://1860muenchen.com/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV Buchbach",
+      "team_id": "TSV Buchbach",
+      "homepage": "http://www.tsv-buchbach.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Buchbach",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "84428",
+      "ort_qid": "Q531787",
+      "ort": "Buchbach",
+      "verein": "TSV Buchbach",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsv-buchbach.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "tsvbuchbach"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FV Illertissen",
+      "team_id": "FV Illertissen",
+      "homepage": "http://www.fvillertissen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FV_Illertissen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "89257",
+      "ort_qid": "Q503295",
+      "ort": "Illertissen",
+      "verein": "FV Illertissen",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.fvillertissen.de/ (ERR_TLS_CERT_ALTNAME_INVALID)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SpVgg Unterhaching",
+      "team_id": "SpVgg Unterhaching",
+      "homepage": "https://www.spvggunterhaching.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SpVgg_Unterhaching",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "82008",
+      "ort_qid": "Q264899",
+      "ort": "Unterhaching",
+      "verein": "SpVgg Unterhaching",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.spvggunterhaching.de/",
+        "https://www.spvggunterhaching.de/profisverein/infos-zum-heimspiel-gegen-den-tsv-schwaben-augsburg-2/",
+        "https://www.spvggunterhaching.de/junioren/vier-heimspiele-fuer-den-hachinger-nachwuchs-u16-reist-nach-regensburg/",
+        "https://www.spvggunterhaching.de/verein/infos-zum-heimspiel-gegen-den-vfb-eichstaett-2/",
+        "https://www.spvggunterhaching.de/verein/heimspiel-gegen-den-tsv-buchbach-wird-verlegt/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.spvggunterhaching.de/",
+          "stelle": "ber 2026 Derby-Time: Haching zu Gast bei den Löwen – exklusiver Ticketvorverkauf startet 20. Oktober 2026 Haching muss sich in Vilzing mit einem Punkt"
+        },
+        "abendkasse": {
+          "url": "https://www.spvggunterhaching.de/profisverein/infos-zum-heimspiel-gegen-den-tsv-schwaben-augsburg-2/",
+          "stelle": "toß der Partie ist um 14:00 Uhr. Stadionöffnung und Kassenbetrieb Die Tageskasse an der Osttribüne öffnet ab 12:15 Uhr. Der Einlass ins Stadion sowie"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "snec",
+        "beleg": "https://www.spvggunterhaching.de/",
+        "wie": "eingebunden auf https://www.spvggunterhaching.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SpVgg Bayreuth",
+      "team_id": "SpVgg Bayreuth",
+      "homepage": "https://www.spvgg-bayreuth.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SpVgg_Bayreuth",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "95401",
+      "ort_qid": "Q3923",
+      "ort": "Bayreuth",
+      "verein": "SpVgg Bayreuth",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://spvgg-bayreuth.de/",
+        "https://spvgg-bayreuth.de/stadion/tickets/",
+        "https://spvgg-bayreuth.de/stadion/kartenvorverkauf/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://spvgg-bayreuth.de/",
+          "stelle": "Wi Hans-Walter-Wild-Stadion Bayreuth Tickets Ticketing & Preise Kartenvorverkauf Unsere Vorverkaufsstellen Manne Unsere Stadionzeitschrift Heimtrikot"
+        },
+        "abendkasse": {
+          "url": "https://spvgg-bayreuth.de/stadion/tickets/",
+          "stelle": "nen Vorverkaufsstellen in Bayreuth und der Region. Vorverkaufsstellen Tageskasse Tickets gibt es zudem an der Tageskasse vor dem Heimspiel. Mehr entde"
+        },
+        "dauerkarte": {
+          "url": "https://spvgg-bayreuth.de/stadion/tickets/",
+          "stelle": "nd ggfs. bei Vorverkaufsstellen können zusätzliche Gebühren anfallen. Dauerkarte 2026/27 18 Heimspiele. 1 Platz. 1 Saison Oldschdod. 170 € Stehplatz V"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 72,
+          "url": "https://spvgg-bayreuth.de/",
+          "stelle": "erwachsene 72,00 €"
+        },
+        {
+          "eur": 72,
+          "url": "https://spvgg-bayreuth.de/stadion/tickets/",
+          "stelle": "erwachsene 72,00 €"
+        },
+        {
+          "eur": 72,
+          "url": "https://spvgg-bayreuth.de/stadion/kartenvorverkauf/",
+          "stelle": "erwachsene 72,00 €"
+        },
+        {
+          "eur": 72,
+          "url": "https://spvgg-bayreuth.de/stadion/kartenvorverkauf/",
+          "stelle": "erwachsene 72,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://spvgg-bayreuth.de/",
+        "wie": "eingebunden auf https://spvgg-bayreuth.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "1. FC Nürnberg II",
+      "team_id": "1. FC Nürnberg#Zweite Mannschaft",
+      "homepage": "https://www.fcn.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_N%C3%BCrnberg%23Zweite_Mannschaft",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "90402",
+      "ort_qid": "Q2090",
+      "ort": "Nürnberg",
+      "verein": "1. FC Nürnberg II",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC Augsburg II",
+      "team_id": "FC Augsburg#Zweite Mannschaft",
+      "homepage": "https://fcaugsburg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Augsburg%23Zweite_Mannschaft",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "86150",
+      "ort_qid": "Q2749",
+      "ort": "Augsburg",
+      "verein": "FC Augsburg II",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "TSV Schwaben Augsburg",
+      "team_id": "TSV Schwaben Augsburg",
+      "homepage": "http://www.tsv-schwaben-augsburg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Schwaben_Augsburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "86150",
+      "ort_qid": "Q2749",
+      "ort": "Augsburg",
+      "verein": "TSV Schwaben Augsburg",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.tsv-schwaben-augsburg.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Bayern München II",
+      "team_id": "FC Bayern München#Die Bayern-Amateure",
+      "homepage": "https://fcbayern.com",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Bayern_M%C3%BCnchen%23Die_Bayern-Amateure",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "80331",
+      "ort_qid": "Q1726",
+      "ort": "München",
+      "verein": "FC Bayern München II",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VfB Eichstätt",
+      "team_id": "VfB Eichstätt",
+      "homepage": "https://www.vfb-eichstaett.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfB_Eichst%C3%A4tt",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "85072",
+      "ort_qid": "Q252772",
+      "ort": "Eichstätt",
+      "verein": "VfB Eichstätt",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vfb-eichstaett.de/",
+        "https://www.vfb-eichstaett.de/spieltag"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "vfbeichstaett_1920"
+      ],
+      "emails": [
+        "sponsoring@vfb-eichstaett.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Wacker Burghausen",
+      "team_id": "Wacker Burghausen",
+      "homepage": "https://www.wacker1930.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Wacker_Burghausen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "84489",
+      "ort_qid": "Q262669",
+      "ort": "Burghausen",
+      "verein": "Wacker Burghausen",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.wacker1930.de/",
+        "https://www.wacker1930.de/heimspiel-gegen-den-fv-illertissen-3/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.wacker1930.de/heimspiel-gegen-den-fv-illertissen-3/",
+          "stelle": "imspiel/channel/shop/index ) als auch ab Stadionöffnung an den beiden Tageskassen (2,- Euro Tageskassenzuschlag) erhältlich. Tickets können vor Ort au"
+        }
+      },
+      "instagram": [
+        "wacker1930"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://www.wacker1930.de/",
+        "wie": "eingebunden auf https://www.wacker1930.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SC Eltersdorf",
+      "team_id": "SC Eltersdorf",
+      "homepage": "http://www.sceltersdorf.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Eltersdorf",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "91052",
+      "ort_qid": "Q3126",
+      "ort": "Erlangen",
+      "verein": "SC Eltersdorf",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://sceltersdorf.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "sceltersdorf"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "DJK Vilzing",
+      "team_id": "DJK Vilzing",
+      "homepage": "https://www.djk-vilzing.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/DJK_Vilzing",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "93413",
+      "ort_qid": "Q257859",
+      "ort": "Cham",
+      "verein": "DJK Vilzing",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.djk-vilzing.de/",
+        "https://www.djk-vilzing.de/Tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "nur_abendkasse": {
+          "url": "https://www.djk-vilzing.de/Tickets",
+          "stelle": "mspiele im Manfred-Zollner-Stadion könnt Ihr seit geraumer Zeit nicht nur an der Tageskasse erwerben, die Tickets gibt´s auch bequem vorab im Online Shop. Zum On"
+        },
+        "abendkasse": {
+          "url": "https://www.djk-vilzing.de/Tickets",
+          "stelle": "Manfred-Zollner-Stadion könnt Ihr seit geraumer Zeit nicht nur an der Tageskasse erwerben, die Tickets gibt´s auch bequem vorab im Online Shop. Zum On"
+        },
+        "vorverkauf": {
+          "url": "https://www.djk-vilzing.de/Tickets",
+          "stelle": "uereinlass, dort befindet sich der Eingang für Aktive und Mitarbeiter Vorverkaufsstellen Eine Übersicht unserer lokalen Vorverkaufsstellen für Tickets"
+        },
+        "von_hand": {
+          "url": "https://www.djk-vilzing.de/Tickets",
+          "stelle": "einslokal (P1) ist kein Zuschauerparkplatz mehr, diese Parkfläche ist reserviert für Aktive, Funktionäre und Mitarbeiter; der Sonderparkplatz S (hint"
+        },
+        "dauerkarte": {
+          "url": "https://www.djk-vilzing.de/Tickets",
+          "stelle": "Stehplätze. Ggf. gesonderte Anweisungen am Spieltag sind zu beachten. Saisonkarten (Regionalliga): Sitzplatz Vollzahler 210,- EUR Sitzplatz ermäßigt 18"
+        }
+      },
+      "instagram": [
+        "djkvilzing"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Etix",
+        "beleg": "https://www.djk-vilzing.de/",
+        "wie": "eingebunden auf https://www.djk-vilzing.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "1. FC Schweinfurt 05",
+      "team_id": "1. FC Schweinfurt 05",
+      "homepage": "https://www.fcschweinfurt1905.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_Schweinfurt_05",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "97421",
+      "ort_qid": "Q4126",
+      "ort": "Schweinfurt",
+      "verein": "1. FC Schweinfurt 05",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fcschweinfurt1905.de/",
+        "https://www.fcschweinfurt1905.de/eintrittspreise-jugend/",
+        "https://www.fcschweinfurt1905.de/auswaertstickets-fuer-1860/",
+        "https://www.fcschweinfurt1905.de/auswaertskarten-fuer-unser-spiel-beim-tsv-1860-muenchen/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "nur_abendkasse": {
+          "url": "https://www.fcschweinfurt1905.de/",
+          "stelle": "lass Gästeblock: 13:00 Uhr Gästeparkplatz P1 (Siehe Seite 2) Tickets: Nur an der Tageskasse (nur Barzahlung) 9. November 2026 Schnüdel-Wochenfahrplan 09.-15.11.2"
+        },
+        "abendkasse": {
+          "url": "https://www.fcschweinfurt1905.de/",
+          "stelle": "lock: 13:00 Uhr Gästeparkplatz P1 (Siehe Seite 2) Tickets: Nur an der Tageskasse (nur Barzahlung) 9. November 2026 Schnüdel-Wochenfahrplan 09.-15.11.2"
+        },
+        "vorverkauf": {
+          "url": "https://www.fcschweinfurt1905.de/",
+          "stelle": "Spiel beim TSV 1860 München Ab Dienstag, den 03.11.2026, startet der Vorverkauf für unser Auswärtsspiel beim TSV 1860 München am Freitag, den 27.11.2"
+        },
+        "bar": {
+          "url": "https://www.fcschweinfurt1905.de/",
+          "stelle": "Uhr Gästeparkplatz P1 (Siehe Seite 2) Tickets: Nur an der Tageskasse (nur Barzahlung) 9. November 2026 Schnüdel-Wochenfahrplan 09.-15.11.2026: Am S"
+        }
+      },
+      "instagram": [
+        "fcschweinfurt1905"
+      ],
+      "emails": [
+        "info@fcschweinfurt1905.de",
+        "jugendleitung@fcschweinfurt05.de"
+      ],
+      "preise": [
+        {
+          "eur": 17,
+          "url": "https://www.fcschweinfurt1905.de/auswaertskarten-fuer-unser-spiel-beim-tsv-1860-muenchen/",
+          "stelle": "vollzahler): 17,00 €"
+        },
+        {
+          "eur": 35,
+          "url": "https://www.fcschweinfurt1905.de/auswaertskarten-fuer-unser-spiel-beim-tsv-1860-muenchen/",
+          "stelle": "vollzahler): 35,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.fcschweinfurt1905.de/",
+        "wie": "eingebunden auf https://www.fcschweinfurt1905.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SpVgg Ansbach 09",
+      "team_id": "SpVgg Ansbach 09",
+      "homepage": "http://www.spvgg-ansbach.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SpVgg_Ansbach_09",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "91522",
+      "ort_qid": "Q14859",
+      "ort": "Ansbach",
+      "verein": "SpVgg Ansbach 09",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.spvgg-ansbach.de/",
+        "https://events.vereinsticket.de/spvgg-ansbach",
+        "https://www.spvgg-ansbach.de/stadion/ticketing/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://events.vereinsticket.de/spvgg-ansbach",
+          "stelle": "nur einem Login: Alle Tickets immer griffbereit Einzeltickets deiner Dauerkarte ansehen & teilen Schnellerer Kauf - ohne Daten neu einzugeben Tickets"
+        }
+      },
+      "instagram": [
+        "spvggansbach",
+        "vereinsticket"
+      ],
+      "emails": [
+        "denise.kapp@spvgg-ansbach.de",
+        "support@vereinsticket.de"
+      ],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://www.spvgg-ansbach.de/stadion/ticketing/",
+          "stelle": "erwachsene 15 euro"
+        }
+      ],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://www.spvgg-ansbach.de/",
+        "wie": "eingebunden auf https://www.spvgg-ansbach.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "TSV Aubstadt",
+      "team_id": "TSV Aubstadt",
+      "homepage": "https://www.tsv-aubstadt.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Aubstadt",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "TSV Aubstadt",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsv-aubstadt.de/",
+        "https://www.tsv-aubstadt.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.tsv-aubstadt.de/tickets/",
+          "stelle": "dem Schoß einer Begleitperson sitzen, benötigen kein eigenes Ticket. Tageskasse Regionalliga Bayern Art Preis Regulärer Eintritt 12,00 € Ermäßigter E"
+        },
+        "vorverkauf": {
+          "url": "https://www.tsv-aubstadt.de/tickets/",
+          "stelle": "** inkl. 1,00 € Ververkaufs- und Bearbeitungsgebühr **** inkl. 6,00 € Vorverkaufs- und Bearbeitungsgebühr Hinweis: Kinder bis einschließlich 13 Jahre"
+        },
+        "dauerkarte": {
+          "url": "https://www.tsv-aubstadt.de/tickets/",
+          "stelle": "tt 13,00 €*** Ermäßigter Eintritt* 11,00 €*** Jugendliche** 9,00 €*** Dauerkarte Vollzahler Mitglied 174,00 €**** Dauerkarte Vollzahler Nichtmitglied"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "ticketing@tsv-aubstadt.de"
+      ],
+      "preise": [
+        {
+          "eur": 13,
+          "url": "https://www.tsv-aubstadt.de/tickets/",
+          "stelle": "eintritt 13,00 €"
+        },
+        {
+          "eur": 11,
+          "url": "https://www.tsv-aubstadt.de/tickets/",
+          "stelle": "eintritt* 11,00 €"
+        },
+        {
+          "eur": 12,
+          "url": "https://www.tsv-aubstadt.de/tickets/",
+          "stelle": "eintritt 12,00 €"
+        },
+        {
+          "eur": 10,
+          "url": "https://www.tsv-aubstadt.de/tickets/",
+          "stelle": "eintritt* 10,00 €"
+        },
+        {
+          "eur": 7,
+          "url": "https://www.tsv-aubstadt.de/tickets/",
+          "stelle": "eintritt 7,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://www.tsv-aubstadt.de/tickets/",
+        "wie": "eingebunden auf https://www.tsv-aubstadt.de/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SpVgg Greuther Fürth II",
+      "team_id": "SpVgg Greuther Fürth#Zweite Mannschaft",
+      "homepage": "https://www.sgf1903.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SpVgg_Greuther_F%C3%BCrth%23Zweite_Mannschaft",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "90762",
+      "ort_qid": "Q3075",
+      "ort": "Fürth",
+      "verein": "SpVgg Greuther Fürth II",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "TSV Landsberg",
+      "team_id": "TSV Landsberg",
+      "homepage": "https://www.tsv-landsberg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Landsberg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "86899",
+      "ort_qid": "Q494299",
+      "ort": "Landsberg am Lech",
+      "verein": "TSV Landsberg",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsv-landsberg.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        ""
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "1. FFC Turbine Potsdam",
+    "ort": "Potsdam",
+    "land": "BB",
+    "liga": "fbl2-frauen",
+    "liga_name": "2. Frauen-Bundesliga (Fußball)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.ffc-turbine.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "turbinepotsdam",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.turbine-potsdam.de/: https://www.turbine-potsdam.de/).",
+    "quellen": [
+      "https://www.turbine-potsdam.de/",
+      "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://www.turbine-potsdam.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „1. FFC Turbine Potsdam“. Gelesen: https://www.turbine-potsdam.de/, https://www.turbine-potsdam.de/bundesliga/tickets/, https://www.turbine-potsdam.de/2026/11/13/neues-stadionheft-zum-heimspiel-gegen-den-sc-sand-jetzt-online/, https://www.turbine-potsdam.de/2026/10/23/neues-stadionheft-zum-heimspiel-gegen-den-sv-meppen-jetzt-online/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.turbine-potsdam.de/",
+      "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.turbine-potsdam.de/"
+        ],
+        "instagram": [
+          "https://www.turbine-potsdam.de/"
+        ]
+      }
+    }
+  }
+}

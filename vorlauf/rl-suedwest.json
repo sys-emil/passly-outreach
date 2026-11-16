@@ -1,0 +1,821 @@
+{
+  "liga": "rl-suedwest",
+  "stand": "2026-11-16",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+  "abrufe": 59,
+  "teams": [
+    {
+      "verband_name": "SGV Heilbronn-Freiberg",
+      "team_id": "SGV Heilbronn-Freiberg",
+      "homepage": "https://www.sgv-freiberg-fussball.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SGV_Heilbronn-Freiberg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "71691",
+      "ort_qid": "Q61840",
+      "ort": "Freiberg am Neckar",
+      "verein": "SGV Heilbronn-Freiberg",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sgv-freiberg-fussball.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "eintritt_frei": {
+          "url": "https://www.sgv-freiberg-fussball.de/",
+          "stelle": "packendem Heimspiel gegen Trier Team News - 15.11.2026 Weiterlesen... Freier Eintritt beim letzten SGV-Heimspiel 2026 Team News - 14.11.2026 Weiterlesen..."
+        },
+        "dauerkarte": {
+          "url": "https://www.sgv-freiberg-fussball.de/",
+          "stelle": "Verein | SGV Heilbronn-Freiberg SGV Heilbronn-Freiberg Aktuelles SGV-Dauerkarte SGV.tv SGV-Stadionmagazin Livestream Social Media Business News Anspr"
+        }
+      },
+      "instagram": [
+        "sgv_heilbronn.freiberg"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.sgv-freiberg-fussball.de/",
+        "wie": "eingebunden auf https://www.sgv-freiberg-fussball.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VfR Mannheim",
+      "team_id": "VfR Mannheim",
+      "homepage": "https://vfr-mannheim.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfR_Mannheim",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "68159",
+      "ort_qid": "Q2119",
+      "ort": "Mannheim",
+      "verein": "VfR Mannheim",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://vfr-mannheim.de/",
+        "https://vfr-mannheim.de/dauerkartenbestellung/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://vfr-mannheim.de/",
+          "stelle": "2026 Tanis Cup PROBAU Cup 125 Jahre VfR Sepp-Herberger-Awards Service Dauerkartenbestellung Downloads Stadionmagazin Newsletter Akkreditierung Probetr"
+        }
+      },
+      "instagram": [
+        "vfrmannheim1896"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "VfR Aalen",
+      "team_id": "VfR Aalen",
+      "homepage": "https://www.vfr-aalen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfR_Aalen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "73430",
+      "ort_qid": "Q3951",
+      "ort": null,
+      "verein": "VfR Aalen",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vfr-aalen.de/",
+        "https://www.vfr-aalen.de/tickets",
+        "https://www.vfr-aalen.de/aktuelles/news/details/ticketshop-fuer-das-spiel-in-kaiserslautern"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.vfr-aalen.de/",
+          "stelle": "eis 21,- € STEHPLATZ GAST TAGESKARTE Normalpreis 13,- € SITZPLATZ SÜD DAUERKARTE Normalpreis 400,- € SITZPLATZ NORD DAUERKARTE Normalpreis 281,- € STE"
+        },
+        "vorverkauf": {
+          "url": "https://www.vfr-aalen.de/tickets",
+          "stelle": "igungsnachweise sind dem Ordnungsdienst am Stadioneingang vorzulegen. Vorverkaufsstellen Vorverkaufsstellen Aalen Geschäftsstelle des VfR Aalen (Stadi"
+        },
+        "eintritt_frei": {
+          "url": "https://www.vfr-aalen.de/tickets",
+          "stelle": "tenverlängerung 2026/2027 Ermässigungskriterien Ermässigungskriterien Freier Eintritt: Kinder von 0 bis einschließlich 5 Jahren (kein Sitzplatzanspruch) Ki"
+        },
+        "abendkasse": {
+          "url": "https://www.vfr-aalen.de/aktuelles/news/details/ticketshop-fuer-das-spiel-in-kaiserslautern",
+          "stelle": "chtige Information für alle VfR Fans: Es wird in Kaiserslautern KEINE Tageskasse geben. Tickets könnt ihr ausschließlich im Voraus im Ticketshop unter"
+        },
+        "bar": {
+          "url": "https://www.vfr-aalen.de/aktuelles/news/details/ticketshop-fuer-das-spiel-in-kaiserslautern",
+          "stelle": "rslautern-U21-vs.-VfR-Aalen/GD0427 Außerdem kann im Stadion NICHT mit Bargeld bezahlt werden. Zahlung nur per Giro-/Debit-/Kreditkarte oder Apple-/"
+        }
+      },
+      "instagram": [
+        "vfraalen1921"
+      ],
+      "emails": [
+        "info@vfr-aalen.de",
+        "fanshop@vfr-aalen.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.vfr-aalen.de/tickets",
+        "wie": "eingebunden auf https://www.vfr-aalen.de/tickets"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Kickers Offenbach",
+      "team_id": "Kickers Offenbach",
+      "homepage": "http://www.ofc.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kickers_Offenbach",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "63065",
+      "ort_qid": "Q3042",
+      "ort": "Offenbach am Main",
+      "verein": "Kickers Offenbach",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://ofc.de/",
+        "https://ofc.de/tickets/tageskarten/",
+        "https://ofc.de/mannschaften/spieltag-tabelle/",
+        "https://ofc.de/tickets/dauerkarten/",
+        "https://ofc.de/tickets/vip-tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://ofc.de/",
+          "stelle": "erer Kickers in der Übersicht Tickets Ticketinformationen Tageskarten Dauerkarten VIP-Tickets AGB Plutos Stadion am Bieberer Berg Dauerkarte 26/27 Hie"
+        },
+        "von_hand": {
+          "url": "https://ofc.de/tickets/tageskarten/",
+          "stelle": "Kasse 4 unseres Stadions. Tickets online bestellen! Hier geht es zum Ticketshop Tickets per Telefon bestellen! Unsere Tickethotline: 01803 019010 Tickets im Fanshop am S"
+        },
+        "abendkasse": {
+          "url": "https://ofc.de/tickets/dauerkarten/",
+          "stelle": "e Liga &#8211; Heimspiele bis zum 30.06.2027 Keine Wartezeiten an den Tageskassen Ermäßigung für Mitglieder, Rentner, Jugendliche (14 &#8211; 17 Jahre"
+        }
+      },
+      "instagram": [
+        "ofc_offiziell"
+      ],
+      "emails": [
+        "tickets@ofc.de",
+        "business@ofc.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Stuttgarter Kickers",
+      "team_id": "Stuttgarter Kickers",
+      "homepage": "http://www.stuttgarter-kickers.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Stuttgarter_Kickers",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "70173",
+      "ort_qid": "Q1022",
+      "ort": "Stuttgart",
+      "verein": "Stuttgarter Kickers",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.stuttgarter-kickers.de/",
+        "https://www.stuttgarter-kickers.de/spieltag",
+        "https://www.stuttgarter-kickers.de/aktuelles/fanshop-ticket-infos/eintrittspreise",
+        "https://www.stuttgarter-kickers.de/aktuelles/fanshop-ticket-infos/dauerkarten",
+        "https://www.stuttgarter-kickers.de/aktuelles/fanshop-ticket-infos/business-vip-tickets",
+        "https://www.stuttgarter-kickers.de/aktuelles/fanshop-ticket-infos/stadionplan-infos"
+      ],
+      "nicht_lesbar": [
+        "https://www.stuttgarter-kickers.de/aktuelles/fanshop-ticket-infos/oeffnungszeiten (leer, lädt per JavaScript)"
+      ],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.stuttgarter-kickers.de/",
+          "stelle": "ieltagsseite Fanshop- und Ticket-Infos Öffnungszeiten Eintrittspreise Dauerkarten Business- / VIP-Tickets Stadionplan und Infos Tickets Auswärtsspiele"
+        },
+        "abendkasse": {
+          "url": "https://www.stuttgarter-kickers.de/aktuelles/fanshop-ticket-infos/eintrittspreise",
+          "stelle": "kers-Fanshop im ADM-Sportpark (Bar, EC oder Kreditkarten) oder an den Tageskassen am Stadion (ab ca. 120 Minuten vor Spielbeginn, Bar, EC oder Kreditk"
+        },
+        "vorverkauf": {
+          "url": "https://www.stuttgarter-kickers.de/aktuelles/fanshop-ticket-infos/eintrittspreise",
+          "stelle": "LSW, kein Rabatt bei Pokalspielen); * Sponsoren & Partner erhalten im Vorverkauf über den Kickers-Fanshop / Ticketshop den Sponsoren-Preis, wenn der F"
+        },
+        "von_hand": {
+          "url": "https://www.stuttgarter-kickers.de/aktuelles/fanshop-ticket-infos/dauerkarten",
+          "stelle": "ngeschrieben und erhielten am Montag, 22. Juni 2026 eine automatische Reservierungs-Bestätigung per E-Mail von unserem Partner vivenu (Absender der E"
+        },
+        "nur_abendkasse": {
+          "url": "https://www.stuttgarter-kickers.de/aktuelles/fanshop-ticket-infos/stadionplan-infos",
+          "stelle": "erfolgt ab ca. 120 Minuten vor Spielbeginn. An allen Tageskassen kann nur in Bar bezahlt werden (kein Tageskassenaufschlag), an der Servicekasse zusätzlich mit EC-Karte / Kreditkarte"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "tickets@stuttgarter-kickers.de",
+        "info@rauschenberger-gastro.de",
+        "nb@rauschenberger-catering.de",
+        "info@rauschenberger-catering.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Eintracht Trier",
+      "team_id": "Eintracht Trier",
+      "homepage": "https://eintracht-trier.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Eintracht_Trier",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "54290",
+      "ort_qid": "Q3138",
+      "ort": "Trier",
+      "verein": "SV Eintracht Trier",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://eintracht-trier.com/",
+        "https://eintracht-trier.com/tickets/",
+        "https://eintracht-trier.com/2026/11/11/zeitgenaue-ansetzung-19-spieltag/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "info@eintracht-trier.com"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://eintracht-trier.com/tickets/",
+        "wie": "eingebunden auf https://eintracht-trier.com/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC 08 Homburg",
+      "team_id": "FC 08 Homburg",
+      "homepage": "https://www.fc08homburg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_08_Homburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "66424",
+      "ort_qid": "Q7040",
+      "ort": "Homburg",
+      "verein": "FC 08 Homburg",
+      "land": "SL",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fc08homburg.de/",
+        "https://www.fc08homburg.de/stadion/ticketing-allgemeine-infos/",
+        "https://www.fc08homburg.de/stadion/dauerkarten/",
+        "https://www.fc08homburg.de/stadion/tageskarten/",
+        "https://www.fc08homburg.de/stadion/heimspiele/",
+        "https://www.fc08homburg.de/business/vip-tagesticket-2/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.fc08homburg.de/",
+          "stelle": "omburg Stadionplan Anfahrt Stadionklause Ticketing – Allgemeine Infos Saisonkarten Tageskarten Heimspiele Stadioncatering Stadionmagazin Gästefans BUSI"
+        },
+        "abendkasse": {
+          "url": "https://www.fc08homburg.de/stadion/ticketing-allgemeine-infos/",
+          "stelle": "en Vorverkauf im Fanshop auf der Geschäftsstelle oder den Onlineshop. Tageskassen Insofern die Heimspiele nicht ausverkauft sind, öffnen an den Spielt"
+        },
+        "vorverkauf": {
+          "url": "https://www.fc08homburg.de/stadion/ticketing-allgemeine-infos/",
+          "stelle": "er Waldstadion, sowie weitere allgemeine Informationen zum Ticketing. Vorverkaufsstellen Tickets für die Heimspiele des FC 08 Homburg können entweder"
+        }
+      },
+      "instagram": [
+        "fc08homburg"
+      ],
+      "emails": [
+        "tickets@fc08homburg.de",
+        "j.schneider@fc08homburg.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "vivenu",
+        "beleg": "https://www.fc08homburg.de/",
+        "wie": "eingebunden auf https://www.fc08homburg.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SC Freiburg II",
+      "team_id": "SC Freiburg II",
+      "homepage": "https://www.scfreiburg.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Freiburg_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "79098",
+      "ort_qid": "Q2833",
+      "ort": "Freiburg im Breisgau",
+      "verein": "SC Freiburg II",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "TSV Steinbach Haiger",
+      "team_id": "TSV Steinbach Haiger",
+      "homepage": "https://tsv-steinbach.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Steinbach_Haiger",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "35708",
+      "ort_qid": "Q516448",
+      "ort": "Haiger",
+      "verein": "TSV Steinbach Haiger",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tsv-steinbach.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "tsvsteinbachhaiger"
+      ],
+      "emails": [
+        "info@tsv-steinbach.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://tsv-steinbach.de/",
+        "wie": "eingebunden auf https://tsv-steinbach.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SV Sandhausen",
+      "team_id": "SV Sandhausen",
+      "homepage": "https://www.svs1916.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Sandhausen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "69207",
+      "ort_qid": "Q22960",
+      "ort": "Sandhausen",
+      "verein": "SV Sandhausen",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.svs1916.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "svs_1916"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "KSV Hessen Kassel",
+      "team_id": "KSV Hessen Kassel",
+      "homepage": "http://www.ksv-hessen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/KSV_Hessen_Kassel",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "34117",
+      "ort_qid": "Q2865",
+      "ort": "Kassel",
+      "verein": "KSV Hessen Kassel",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ksvhessen.de/",
+        "https://www.ksvhessen.de/tickets/",
+        "https://tickets.ksv-hessen.de/produkte",
+        "https://www.ksvhessen.de/tickets/vorverkaufsstellen/",
+        "https://www.ksvhessen.de/tickets/preise/",
+        "https://www.ksvhessen.de/tickets/vip-tageskarten/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.ksvhessen.de/",
+          "stelle": "ullestadt Forum Schiedsrichter Herzblut Tickets Tickets online kaufen Vorverkaufsstellen Preise VIP-Tageskarten Dauerkarten Informationen für Gästefan"
+        },
+        "dauerkarte": {
+          "url": "https://www.ksvhessen.de/",
+          "stelle": "ckets Tickets online kaufen Vorverkaufsstellen Preise VIP-Tageskarten Dauerkarten Informationen für Gästefans Akkreditierungen Auestadion Stadionordnu"
+        },
+        "von_hand": {
+          "url": "https://tickets.ksv-hessen.de/produkte",
+          "stelle": "27 Februar - 2027 März - 2027 Der Warenkorb ist noch Minuten exklusiv reserviert. Bestellung jetzt abschließen 08.11.26-15.05.27 Saison 2026/2027 - D"
+        },
+        "nur_abendkasse": {
+          "url": "https://www.ksvhessen.de/tickets/preise/",
+          "stelle": "r 0 bis 5 Jahre 0,00 € (Schoßkarten für Kinder 0 bis 5 Jahren gibt es nur an der Tageskasse, im FanPoint oder auf der KSV-Geschäftsstelle) VIP-Karten mit Sitzpla"
+        },
+        "abendkasse": {
+          "url": "https://www.ksvhessen.de/tickets/preise/",
+          "stelle": "ahre 0,00 € (Schoßkarten für Kinder 0 bis 5 Jahren gibt es nur an der Tageskasse, im FanPoint oder auf der KSV-Geschäftsstelle) VIP-Karten mit Sitzpla"
+        }
+      },
+      "instagram": [
+        "ksv_hessen_kassel_offiziell"
+      ],
+      "emails": [
+        "info@ksv-hessen.de",
+        "info@fanpoint24.de",
+        "info@sport-matejcek.de"
+      ],
+      "preise": [
+        {
+          "eur": 25,
+          "url": "https://www.ksvhessen.de/tickets/preise/",
+          "stelle": "tageskarte 25,00 €"
+        },
+        {
+          "eur": 23,
+          "url": "https://www.ksvhessen.de/tickets/preise/",
+          "stelle": "tageskarte ermäßigt 23,00 €"
+        },
+        {
+          "eur": 15,
+          "url": "https://www.ksvhessen.de/tickets/preise/",
+          "stelle": "tageskarte 15,00 €"
+        },
+        {
+          "eur": 13,
+          "url": "https://www.ksvhessen.de/tickets/preise/",
+          "stelle": "tageskarte ermäßigt 13,00 €"
+        },
+        {
+          "eur": 15,
+          "url": "https://www.ksvhessen.de/tickets/preise/",
+          "stelle": "tageskarte 15,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "TicketToaster",
+        "beleg": "https://tickets.ksv-hessen.de/produkte",
+        "wie": "eingebunden auf https://tickets.ksv-hessen.de/produkte"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC-Astoria Walldorf",
+      "team_id": "FC-Astoria Walldorf",
+      "homepage": "http://www.fc-astoria-walldorf.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC-Astoria_Walldorf",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "69190",
+      "ort_qid": "Q22872",
+      "ort": "Walldorf",
+      "verein": "FC-Astoria Walldorf",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.fc-astoria-walldorf.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Eintracht Frankfurt II",
+      "team_id": "Eintracht Frankfurt II",
+      "homepage": "https://www.eintracht.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Eintracht_Frankfurt_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "60308",
+      "ort_qid": "Q1794",
+      "ort": "Frankfurt am Main",
+      "verein": "Eintracht Frankfurt II",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FSV Frankfurt",
+      "team_id": "FSV Frankfurt",
+      "homepage": "https://www.fsv-frankfurt.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FSV_Frankfurt",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "60308",
+      "ort_qid": "Q1794",
+      "ort": "Frankfurt am Main",
+      "verein": "FSV Frankfurt",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fsv-frankfurt.de/",
+        "https://www.fsv-frankfurt.de/tickets/tickets-allgemein/",
+        "https://www.fsv-frankfurt.de/tickets/gaestekarten/",
+        "https://www.reservix.de/tickets-fsv-frankfurt/t4574",
+        "https://www.fsv-frankfurt.de/tickets/dauerkarten/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.fsv-frankfurt.de/",
+          "stelle": "ketshop Tickets Allgemein Informationen für unsere Gäste Einzelkarten Dauerkarten Ticket Gutscheine Akkreditierung Gästekarten Ticket FAQ BBBank Arena"
+        },
+        "abendkasse": {
+          "url": "https://www.fsv-frankfurt.de/tickets/tickets-allgemein/",
+          "stelle": "em nach Hause schicken oder drucken diese selbst zu Hause aus. An der Tageskasse wird ein Aufschlag von 3,00 € Ticket berechnet. Nutzen Sie den Vorver"
+        },
+        "vorverkauf": {
+          "url": "https://www.fsv-frankfurt.de/tickets/tickets-allgemein/",
+          "stelle": "skasse wird ein Aufschlag von 3,00 € Ticket berechnet. Nutzen Sie den Vorverkauf, da hier kein Preisaufschlag berechnet wird. Ermäßigungen: Ermäßigung"
+        },
+        "von_hand": {
+          "url": "https://www.fsv-frankfurt.de/tickets/tickets-allgemein/",
+          "stelle": "t viele Vorzüge zu einem unschlagbaren Preis: 10 VIP-Tageskarten* Ein reservierter Parkplatz in Stadionnähe Namensnennung auf den FSV-Supporter-Board"
+        },
+        "bar": {
+          "url": "https://www.fsv-frankfurt.de/tickets/tickets-allgemein/",
+          "stelle": "13:30 – 18:00 Uhr Fr.: 10:00 – 12:30 Uhr & 13:30 – 18:00 Uhr (Es sind Barzahlung oder EC-Kartenzahlung möglich) Ticket Shop von AD Ticket ADticket Sho"
+        }
+      },
+      "instagram": [
+        "fsvfrankfurt1899",
+        "reservix.de"
+      ],
+      "emails": [
+        "ticketing@fsv-frankfurt.de"
+      ],
+      "preise": [
+        {
+          "eur": 12,
+          "url": "https://www.reservix.de/tickets-fsv-frankfurt/t4574",
+          "stelle": "tickets ab 12,00 €"
+        },
+        {
+          "eur": 12,
+          "url": "https://www.reservix.de/tickets-fsv-frankfurt/t4574",
+          "stelle": "tickets ab 12,00 €"
+        },
+        {
+          "eur": 12,
+          "url": "https://www.reservix.de/tickets-fsv-frankfurt/t4574",
+          "stelle": "tickets ab 12,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.fsv-frankfurt.de/",
+        "wie": "eingebunden auf https://www.fsv-frankfurt.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "1. FSV Mainz 05 II",
+      "team_id": "1. FSV Mainz 05 II",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FSV_Mainz_05_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "1. FSV Mainz 05 II",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SG Barockstadt Fulda-Lehnerz",
+      "team_id": "SG Barockstadt Fulda-Lehnerz",
+      "homepage": "https://sg-barockstadt.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SG_Barockstadt_Fulda-Lehnerz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "SG Barockstadt Fulda-Lehnerz",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://sg-barockstadt.de/",
+        "https://sg-barockstadt.de/ticketinfos/"
+      ],
+      "nicht_lesbar": [
+        "https://sg-barockstadt.de/tickets-heimspiele (HTTP 404)"
+      ],
+      "funde": {
+        "abendkasse": {
+          "url": "https://sg-barockstadt.de/ticketinfos/",
+          "stelle": "le der SG Barockstadt werden gesonderte Informationen veröffentlicht. Tageskasse Sofern das Heimspiel nicht ausverkauft ist, öffnen am Spieltag die Ta"
+        },
+        "vorverkauf": {
+          "url": "https://sg-barockstadt.de/ticketinfos/",
+          "stelle": "Ticketshop #Heimat, Herz und Leidenschaft --> Follow us: Ticketinfos Vorverkauf Tickets für die Heimspiele der SG Barockstadt in der Regionalliga Süd"
+        },
+        "dauerkarte": {
+          "url": "https://sg-barockstadt.de/ticketinfos/",
+          "stelle": "stadt in der Regionalliga Südwest können entweder zu Saisonbeginn als Dauerkarte oder im Laufe der Saison als Tageskarte für die jeweiligen Spiele erw"
+        }
+      },
+      "instagram": [
+        "sg_barockstadt"
+      ],
+      "emails": [
+        "tickets@sg-barockstadt.de",
+        "handicap@sg-barockstadt.de"
+      ],
+      "preise": [
+        {
+          "eur": 18,
+          "url": "https://sg-barockstadt.de/ticketinfos/",
+          "stelle": "vollzahler: 18 €"
+        },
+        {
+          "eur": 12,
+          "url": "https://sg-barockstadt.de/ticketinfos/",
+          "stelle": "vollzahler: 12 €"
+        },
+        {
+          "eur": 10,
+          "url": "https://sg-barockstadt.de/ticketinfos/",
+          "stelle": "vollzahler: 10 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SSV Ulm 1846",
+      "team_id": "SSV Ulm 1846",
+      "homepage": "https://www.ssvulm1846-fussball.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SSV_Ulm_1846",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "89081",
+      "ort_qid": "Q3012",
+      "ort": "Ulm",
+      "verein": "SSV Ulm 1846",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ssvulm1846-fussball.de/",
+        "https://www.ssvulm1846-fussball.de/tickets/",
+        "https://www.ssvulm1846-fussball.de/fans/opti-heimspiel/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.ssvulm1846-fussball.de/",
+          "stelle": "Spieltag 🕖 14.00 Uhr 🏟️ SIBRE-Sportzentrum Haarwasen in Haiger 🎟️ Tageskasse geöffnet 🎥 Leagues.football/spatzen ... Mehr Weniger Foto SSV Ulm 18"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@ssvulm1846-fussball.de",
+        "ticketing@ssvulm1846-fussball.de",
+        "shop@ssvulm1846-fussball.de",
+        "info@ssvulm-fussball.de",
+        "ticketing@ssvulm-fussball.de",
+        "shop@ssvulm-fussball.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "1. FC Kaiserslautern II",
+      "team_id": "1. FC Kaiserslautern II",
+      "homepage": "https://fck.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_Kaiserslautern_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "67655",
+      "ort_qid": "Q3758",
+      "ort": "Kaiserslautern",
+      "verein": "1. FC Kaiserslautern II",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    }
+  ]
+}

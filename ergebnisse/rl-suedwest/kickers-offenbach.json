@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "Kickers Offenbach",
+    "ort": "Offenbach am Main",
+    "land": "HE",
+    "liga": "rl-suedwest",
+    "liga_name": "Regionalliga Südwest (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.ofc.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketverkauf (Tages- und Dauerkarten, Ticket-AGB)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "ofc_offiziell",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Seiten /tickets/tageskarten, /tickets/dauerkarten, Ticket-AGB.",
+    "quellen": [
+      "https://ofc.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://ofc.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Profiklub.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://ofc.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://ofc.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

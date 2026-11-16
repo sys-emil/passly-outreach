@@ -1,0 +1,66 @@
+{
+  "verein": {
+    "name": "FSV 63 Luckenwalde",
+    "ort": "Luckenwalde",
+    "land": "BB",
+    "liga": "rl-nordost",
+    "liga_name": "Regionalliga Nordost (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fsv63-luckenwalde.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "vivenu",
+    "eintritt_frei": null,
+    "ticketpreis_eur": 15,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fsv63luckenwalde",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über vivenu (eingebunden auf https://fsv63-luckenwalde.de/eintrittspreise/: https://fsv63-luckenwalde.de/eintrittspreise/).",
+    "quellen": [
+      "https://fsv63-luckenwalde.de/eintrittspreise/",
+      "https://fsv63-luckenwalde.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://fsv63-luckenwalde.de/eintrittspreise/",
+      "https://fsv63-luckenwalde.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „FSV 63 Luckenwalde“. Gelesen: https://fsv63-luckenwalde.de/, https://fsv63-luckenwalde.de/eintrittspreise/, https://fsv63-luckenwalde.de/stadion/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://fsv63-luckenwalde.de/eintrittspreise/",
+      "https://fsv63-luckenwalde.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://fsv63-luckenwalde.de/eintrittspreise/"
+        ],
+        "anbieter": [
+          "https://fsv63-luckenwalde.de/eintrittspreise/",
+          "https://fsv63-luckenwalde.de/"
+        ],
+        "instagram": [
+          "https://fsv63-luckenwalde.de/eintrittspreise/",
+          "https://fsv63-luckenwalde.de/"
+        ]
+      }
+    }
+  }
+}

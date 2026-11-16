@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "Bonner SC",
+    "ort": "Bonn",
+    "land": "NW",
+    "liga": "rl-west",
+    "liga_name": "Regionalliga West (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.bonner-sc.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Shop (fans.bonner-sc.de/tickets)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "bonner__sc",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite verlinkt fans.bonner-sc.de/tickets mit Einzelspielen.",
+    "quellen": [
+      "https://www.bonner-sc.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.bonner-sc.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.bonner-sc.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.bonner-sc.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

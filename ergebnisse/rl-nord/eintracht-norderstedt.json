@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "Eintracht Norderstedt",
+    "ort": "Norderstedt",
+    "land": "HH",
+    "liga": "rl-nord",
+    "liga_name": "Regionalliga Nord (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.eintrachtnorderstedt.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "snapticket",
+    "eintritt_frei": true,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fceintrachtnorderstedt",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseite verlinkt shop.snapticket.de/seller/eintracht-norderstedt-p2yy; „Tickets sind online bis Spielbeginn erhältlich“. Dauerkarten über shop.eintrachtnorderstedt.de oder die Geschäftsstelle.",
+    "quellen": [
+      "https://www.eintrachtnorderstedt.de/tickets"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.eintrachtnorderstedt.de/tickets"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorlauf hatte „Eintritt frei“ vermutet, falsch.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.eintrachtnorderstedt.de/tickets"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.eintrachtnorderstedt.de/tickets"
+        ],
+        "instagram": [
+          "https://www.eintrachtnorderstedt.de/tickets"
+        ]
+      }
+    }
+  }
+}

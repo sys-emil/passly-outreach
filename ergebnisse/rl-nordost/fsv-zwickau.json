@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "FSV Zwickau",
+    "ort": "Zwickau",
+    "land": "SN",
+    "liga": "rl-nordost",
+    "liga_name": "Regionalliga Nordost (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.fsv-zwickau.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigenes Ticketing (ticketing.fsv-zwickau.de)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fsv.zwickau",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite verlinkt ticketing.fsv-zwickau.de mit Ticket-Banner.",
+    "quellen": [
+      "https://fsv-zwickau.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://fsv-zwickau.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://fsv-zwickau.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://fsv-zwickau.de/"
+        ],
+        "instagram": [
+          "https://fsv-zwickau.de/"
+        ]
+      }
+    }
+  }
+}

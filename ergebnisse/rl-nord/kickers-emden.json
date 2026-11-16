@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "Kickers Emden",
+    "ort": "Emden",
+    "land": "NI",
+    "liga": "rl-nord",
+    "liga_name": "Regionalliga Nord (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.kickers.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Etix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "bsvkickersemden",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Etix (eingebunden auf https://www.kickers.de/: https://www.kickers.de/).",
+    "quellen": [
+      "https://www.kickers.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.kickers.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Kickers Emden“. Gelesen: https://www.kickers.de/, https://www.kickers.de/verein/spieltaginfos.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.kickers.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.kickers.de/"
+        ],
+        "instagram": [
+          "https://www.kickers.de/"
+        ]
+      }
+    }
+  }
+}

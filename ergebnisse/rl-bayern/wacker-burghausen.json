@@ -1,0 +1,56 @@
+{
+  "verein": {
+    "name": "Wacker Burghausen",
+    "ort": "Burghausen",
+    "land": "BY",
+    "liga": "rl-bayern",
+    "liga_name": "Regionalliga Bayern (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.wacker1930.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "wacker1930",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (eingebunden auf https://www.wacker1930.de/: https://www.wacker1930.de/).",
+    "quellen": [
+      "https://www.wacker1930.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.wacker1930.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Wacker Burghausen“. Gelesen: https://www.wacker1930.de/, https://www.wacker1930.de/heimspiel-gegen-den-fv-illertissen-3/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.wacker1930.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.wacker1930.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "SpVgg Unterhaching",
+    "ort": "Unterhaching",
+    "land": "BY",
+    "liga": "rl-bayern",
+    "liga_name": "Regionalliga Bayern (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.spvggunterhaching.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "snec",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über snec (eingebunden auf https://www.spvggunterhaching.de/: https://www.spvggunterhaching.de/).",
+    "quellen": [
+      "https://www.spvggunterhaching.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 6,
+    "quellen_belegt": [
+      "https://www.spvggunterhaching.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „SpVgg Unterhaching“. Gelesen: https://www.spvggunterhaching.de/, https://www.spvggunterhaching.de/profisverein/infos-zum-heimspiel-gegen-den-tsv-schwaben-augsburg-2/, https://www.spvggunterhaching.de/junioren/vier-heimspiele-fuer-den-hachinger-nachwuchs-u16-reist-nach-regensburg/, https://www.spvggunterhaching.de/verein/infos-zum-heimspiel-gegen-den-vfb-eichstaett-2/, https://www.spvggunterhaching.de/verein/heimspiel-gegen-den-tsv-buchbach-wird-verlegt/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.spvggunterhaching.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.spvggunterhaching.de/"
+        ]
+      }
+    }
+  }
+}

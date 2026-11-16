@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "FC Ingolstadt 04",
+    "ort": "Bayern",
+    "land": null,
+    "liga": "fbl2-frauen",
+    "liga_name": "2. Frauen-Bundesliga (Fußball)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fcingolstadt.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Ticket-Onlineshop des FC Ingolstadt",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "dieschanzer",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Heimspielinfos: „Neben dem Ticket-Onlineshop und den beiden Fanshops“ gibt es Karten am Spieltag. Gilt für den Gesamtverein; ob Frauenspiele im Shop sind, nicht geprüft.",
+    "quellen": [
+      "https://www.fcingolstadt.de/heimspielinfos/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.fcingolstadt.de/heimspielinfos/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Profiklub, Frauen laufen über dessen Ticketing.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fcingolstadt.de/heimspielinfos/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.fcingolstadt.de/heimspielinfos/"
+        ],
+        "instagram": [
+          "https://www.fcingolstadt.de/heimspielinfos/"
+        ]
+      }
+    }
+  }
+}

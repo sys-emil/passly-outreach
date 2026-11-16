@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "FC Carl Zeiss Jena",
+    "ort": "Jena",
+    "land": "TH",
+    "liga": "fbl2-frauen",
+    "liga_name": "2. Frauen-Bundesliga (Fußball)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.fc-carlzeiss-jena.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ticket-onlineshop.com (FC Carl Zeiss Jena)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fccarlzeissjena_official",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Ticketseite des Vereins verlinkt ticket-onlineshop.com für Einzelkarten und VIP. Gilt für den Gesamtverein; Frauen-Unterseite aus Wikidata liefert 404.",
+    "quellen": [
+      "https://www.fc-carlzeiss-jena.de/fans/tickets.html"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.fc-carlzeiss-jena.de/fans/tickets.html"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Profiklub.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fc-carlzeiss-jena.de/fans/tickets.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.fc-carlzeiss-jena.de/fans/tickets.html"
+        ],
+        "instagram": [
+          "https://www.fc-carlzeiss-jena.de/fans/tickets.html"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "VfB Oldenburg",
+    "ort": "Oldenburg",
+    "land": "NI",
+    "liga": "rl-nord",
+    "liga_name": "Regionalliga Nord (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://vfb-oldenburg.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "vfb_oldenburg",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.vfb-oldenburg.de/ticketing: https://www.vfb-oldenburg.de/ticketing).",
+    "quellen": [
+      "https://www.vfb-oldenburg.de/ticketing",
+      "https://www.vfb-oldenburg.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://www.vfb-oldenburg.de/ticketing",
+      "https://www.vfb-oldenburg.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „VfB Oldenburg“. Gelesen: https://www.vfb-oldenburg.de/, https://www.vfb-oldenburg.de/ticketing, https://www.vfb-oldenburg.de/eismann-youngstars-heimspielcamps, https://www.vfb-oldenburg.de/auswaertstickets.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.vfb-oldenburg.de/ticketing",
+      "https://www.vfb-oldenburg.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.vfb-oldenburg.de/ticketing"
+        ],
+        "instagram": [
+          "https://www.vfb-oldenburg.de/ticketing",
+          "https://www.vfb-oldenburg.de/"
+        ]
+      }
+    }
+  }
+}

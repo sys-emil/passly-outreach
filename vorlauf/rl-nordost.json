@@ -1,0 +1,798 @@
+{
+  "liga": "rl-nordost",
+  "stand": "2026-11-16",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+  "abrufe": 64,
+  "teams": [
+    {
+      "verband_name": "FC Rot-Weiß Erfurt",
+      "team_id": "FC Rot-Weiß Erfurt",
+      "homepage": "https://www.rot-weiss-erfurt.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Rot-Wei%C3%9F_Erfurt",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "99084",
+      "ort_qid": "Q1729",
+      "ort": "Erfurt",
+      "verein": "FC Rot-Weiß Erfurt",
+      "land": "TH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.rot-weiss-erfurt.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Chemnitzer FC",
+      "team_id": "Chemnitzer FC",
+      "homepage": "https://www.chemnitzerfc.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Chemnitzer_FC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "09001",
+      "ort_qid": "Q2795",
+      "ort": "Chemnitz",
+      "verein": "Chemnitzer FC",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.chemnitzerfc.de/cfc/home",
+        "https://www.chemnitzerfc.de/cfc/ticket/ticket-informationen",
+        "https://www.chemnitzerfc.de/cfc/ticket/cfc-spieltagscamps",
+        "https://www.chemnitzerfc.de/cfc/ticket/faq-ticketing",
+        "https://www.chemnitzerfc.de/cfc/ticket/vorverkaufsstellen"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.chemnitzerfc.de/cfc/home",
+          "stelle": "n Ticketshop Kids4Free CFC-Spieltagscamps Stadiontouren FAQ Ticketing Vorverkaufsstellen Die neue Mitgliederkampagne Über 3.000 Clubmitglieder: Nächst"
+        },
+        "nur_abendkasse": {
+          "url": "https://www.chemnitzerfc.de/cfc/ticket/ticket-informationen",
+          "stelle": "e\". Es gilt zu beachten, dass eine platzgenaue Buchung der Sitzplätze ausschließlich im Vorverkauf möglich ist, an der Tageskasse erfolgt eine \"Bestplatzbuchung\". Südtribüne - Block 6A, 6B & 6C - übe"
+        },
+        "abendkasse": {
+          "url": "https://www.chemnitzerfc.de/cfc/ticket/ticket-informationen",
+          "stelle": "Saison die Tickets im Vorverkauf preisgünstiger angeboten als an der Tageskasse. Alle im Vorverkauf erworbenen Tageskarten werden somit 2,-€ günstige"
+        },
+        "dauerkarte": {
+          "url": "https://www.chemnitzerfc.de/cfc/ticket/ticket-informationen",
+          "stelle": "m Stadion ab sofort per Mail an haeder@chemnitzerfc.de wenden. In den Dauerkarten für Schwerbehinderte und Rollstuhlfahrer ist eine Parkberechtigung f"
+        },
+        "von_hand": {
+          "url": "https://www.chemnitzerfc.de/cfc/ticket/cfc-spieltagscamps",
+          "stelle": "g bekanntgegeben, damit ausreichend Zeit für die Buchung bleibt. Vorabreservierungen für noch nicht veröffentlichte Spieltagscamps sind nicht möglich"
+        },
+        "bar": {
+          "url": "https://www.chemnitzerfc.de/cfc/ticket/faq-ticketing",
+          "stelle": "ezahlt werden. In den sonstigen Vorverkaufsstellen ist ausschließlich Barzahlung möglich. Die Zahlungskonditionen in den Vorverkaufsstellen sind: EC-K"
+        }
+      },
+      "instagram": [
+        "chemnitzerfc"
+      ],
+      "emails": [
+        "haeder@chemnitzerfc.de"
+      ],
+      "preise": [
+        {
+          "eur": 5,
+          "url": "https://www.chemnitzerfc.de/cfc/ticket/faq-ticketing",
+          "stelle": "tickets jedoch gegen eine gebühr von 5,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://www.chemnitzerfc.de/cfc/home",
+        "wie": "eingebunden auf https://www.chemnitzerfc.de/cfc/home"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "BFC Dynamo",
+      "team_id": "BFC Dynamo",
+      "homepage": "https://www.bfc.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/BFC_Dynamo",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "10115",
+      "ort_qid": "Q64",
+      "ort": "Berlin",
+      "verein": "BFC Dynamo",
+      "land": "BE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bfc.com/",
+        "https://www.bfc.com/club1966_tagesticket.php",
+        "https://www.bfc.com/club1966_aftermatch.php",
+        "https://www.bfc.com/vip_players_lounge_tagesticket.php",
+        "https://www.bfc.com/socialmedia_partner.php",
+        "https://www.bfc.com/tickets_rl.php"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.bfc.com/",
+          "stelle": "bei diesem Topspiel der Regionalliga Nordost lange Wartezeiten an der Abendkasse ersparen möchte ... lesen &#8594; Nachwuchszentrum: U19 kann Aufstieg"
+        },
+        "vorverkauf": {
+          "url": "https://www.bfc.com/",
+          "stelle": "Kurt Brüggemann feiert 100. Geburtstag (14-11-2026) ... | Heimspiel: Vorverkauf für die Partie gegen den Halleschen FC startet heute (14-11-2026) ..."
+        },
+        "von_hand": {
+          "url": "https://www.bfc.com/club1966_tagesticket.php",
+          "stelle": "nungen. Deine Vorteile im VIP-CLUB 1966: ✓ Freie Sitzplatzwahl (außer reservierte Plätze) auf der teilüberdachten Haupttribüne ✓ Zutritt ab 1,5 Stund"
+        },
+        "eintritt_frei": {
+          "url": "https://www.bfc.com/vip_players_lounge_tagesticket.php",
+          "stelle": "affee (außer Spirituosen) bis mind. 15 Min. nach Abpfiff des Spiels • freier Eintritt in den VIP-Club1966 ab 15 Min. nach Abpfiff des Spiels, inklusive all"
+        }
+      },
+      "instagram": [
+        "bfcdynamo_official"
+      ],
+      "emails": [
+        "polte@bfc.com"
+      ],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://www.bfc.com/club1966_tagesticket.php",
+          "stelle": "ticket) 15,00 €"
+        },
+        {
+          "eur": 15,
+          "url": "https://www.bfc.com/vip_players_lounge_tagesticket.php",
+          "stelle": "vollzahlers) • vip-parkplatz: 15,00 €"
+        },
+        {
+          "eur": 15,
+          "url": "https://www.bfc.com/vip_players_lounge_tagesticket.php",
+          "stelle": "ticket) 15,00 €"
+        },
+        {
+          "eur": 0,
+          "url": "https://www.bfc.com/tickets_rl.php",
+          "stelle": "eintritt: 0,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Hallescher FC",
+      "team_id": "Hallescher FC",
+      "homepage": "https://www.hallescherfc.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Hallescher_FC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "06108",
+      "ort_qid": "Q2814",
+      "ort": "Halle (Saale)",
+      "verein": "Hallescher FC",
+      "land": "ST",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.hallescherfc.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.hallescherfc.de/",
+          "stelle": "statt Fußballschuhe hieß es am Samstag für unseren HFC.... 05.11.2026 Vorverkauf BFC Dynamo und SV Fortuna Magdeburg Vorverkauf für das Auswärtsspiel"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://www.hallescherfc.de/",
+        "wie": "eingebunden auf https://www.hallescherfc.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VSG Altglienicke",
+      "team_id": "VSG Altglienicke",
+      "homepage": "http://www.vsg-altglienicke.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VSG_Altglienicke",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "10115",
+      "ort_qid": "Q64",
+      "ort": "Berlin",
+      "verein": "VSG Altglienicke",
+      "land": "BE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.vsg-altglienicke.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Erzgebirge Aue",
+      "team_id": "FC Erzgebirge Aue",
+      "homepage": "https://www.fc-erzgebirge.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Erzgebirge_Aue",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "08280",
+      "ort_qid": "Q57948",
+      "ort": "Aue",
+      "verein": "FC Erzgebirge Aue",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fc-erzgebirge.de/",
+        "https://www.fc-erzgebirge.de/tickets/ticketinfos",
+        "https://www.fc-erzgebirge.de/saison/spieltage",
+        "https://www.fc-erzgebirge.de/tickets/vorverkaufsstellen"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.fc-erzgebirge.de/",
+          "stelle": "efans Grüße auf der Videowand KidsClub TICKETS OnlineShop Ticketinfos Vorverkaufsstellen Stadionführungen FANSHOP Regionalliga Nordost 2026/2027 - 17."
+        },
+        "von_hand": {
+          "url": "https://www.fc-erzgebirge.de/tickets/ticketinfos",
+          "stelle": "Soziales Jahr Fans mit Handicap Fans mit Handicap richten bitte ihre Ticketanfragen an Mail . Weitere Infos findet ihr auf der Seite unseres Team-Barrierefrei ."
+        },
+        "dauerkarte": {
+          "url": "https://www.fc-erzgebirge.de/tickets/ticketinfos",
+          "stelle": "33030 E-Mail ticket@fc-erzgebirge.de Blockplan eins-Erzgebirgsstadion Dauerkarten Tagespreise Ermäßigung Kinder 0-5 Jahre freier Eintritt, aber keinen"
+        }
+      },
+      "instagram": [
+        "fcerzgebirgeaue"
+      ],
+      "emails": [
+        "ticket@fc-erzgebirge.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Carl Zeiss Jena",
+      "team_id": "FC Carl Zeiss Jena",
+      "homepage": "https://www.fc-carlzeiss-jena.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Carl_Zeiss_Jena",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "07751",
+      "ort_qid": "Q3150",
+      "ort": "Jena",
+      "verein": "FC Carl Zeiss Jena",
+      "land": "TH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fc-carlzeiss-jena.de/",
+        "https://www.fc-carlzeiss-jena.de/fans/tickets.html",
+        "https://www.fc-carlzeiss-jena.de/mannschaften/1-mannschaft/spieltage-tabelle.html",
+        "https://www.fc-carlzeiss-jena.de/mannschaften/1-frauenmannschaft/google-pixel-frauen-bundesliga.html",
+        "https://www.fc-carlzeiss-jena.de/mannschaften/junioren/u19-a-junioren/spieltage-tabelle.html",
+        "https://www.fc-carlzeiss-jena.de/mannschaften/junioren/u17-b1-junioren/spieltage-tabelle.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.fc-carlzeiss-jena.de/fans/tickets.html",
+          "stelle": "zentrum sowie im Onlineshop bzw. der Telefonhotline. Beim Kauf an der Tageskasse verstehen sich die Preise zzgl. eines Tageskassenaufschlags von 2 € ."
+        },
+        "vorverkauf": {
+          "url": "https://www.fc-carlzeiss-jena.de/fans/tickets.html",
+          "stelle": "Begleitperson freien Eintritt. Diese Regelung gilt nur für den Kartenvorverkauf im Ticketcenter im Stadion. Rollstuhlfahrer Der Eintritt für Rollstuh"
+        },
+        "von_hand": {
+          "url": "https://www.fc-carlzeiss-jena.de/fans/tickets.html",
+          "stelle": "öglich, solange Ihr angebotenes Ticket für das Einzelspiel noch nicht reserviert bzw. verkauft wurde. Sobald es zu einem erfolgreichen Verkauf gekomm"
+        },
+        "eintritt_frei": {
+          "url": "https://www.fc-carlzeiss-jena.de/fans/tickets.html",
+          "stelle": "ickets Ticketpreise in der Saison 2026/2027 Dauerkarten Männer (inkl. freier Eintritt für U19) Vollzahler erm./Mitglied Kind Stehplatz Nordtribüne, Blöcke"
+        },
+        "dauerkarte": {
+          "url": "https://www.fc-carlzeiss-jena.de/fans/tickets.html",
+          "stelle": "lsFussball MITGLIEDER: 0 Tickets Ticketpreise in der Saison 2026/2027 Dauerkarten Männer (inkl. freier Eintritt für U19) Vollzahler erm./Mitglied Kind"
+        }
+      },
+      "instagram": [
+        "fccarlzeissjena_official"
+      ],
+      "emails": [
+        "ticketing@elf5.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://www.fc-carlzeiss-jena.de/",
+        "wie": "eingebunden auf https://www.fc-carlzeiss-jena.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Greifswalder FC",
+      "team_id": "Greifswalder FC",
+      "homepage": "https://greifswalder-fc.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Greifswalder_FC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "17487",
+      "ort_qid": "Q4098",
+      "ort": "Greifswald",
+      "verein": "Greifswalder FC",
+      "land": "MV",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://greifswalder-fc.de/",
+        "https://greifswalder-fc.de/profis/spieltag.html",
+        "https://greifswalder-fc.de/unser-gfc/stadion-tickets.html"
+      ],
+      "nicht_lesbar": [
+        "https://greifswalder-fc.de/profis/unser-gfc/stadion-tickets.html (HTTP 404)"
+      ],
+      "funde": {
+        "abendkasse": {
+          "url": "https://greifswalder-fc.de/unser-gfc/stadion-tickets.html",
+          "stelle": "€ Stehplatz ermäßigt** – 8 € Stehplatz Kids*** - 5 € Eintrittspreise Tageskasse: Sitzplatz – 18 € Sitzplatz ermäßigt** – 16 € Sitzplatz Kids*** - 9 €"
+        },
+        "vorverkauf": {
+          "url": "https://greifswalder-fc.de/unser-gfc/stadion-tickets.html",
+          "stelle": "Jahren, die nicht aktive Mitglieder beim Greifswalder FC sind Unsere Vorverkaufsstellen: Autocenter Grimmen, An den Bäckerwiesen 8, 17489 Greifswald"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "1. FC Lokomotive Leipzig",
+      "team_id": "1. FC Lokomotive Leipzig",
+      "homepage": "https://www.lok-leipzig.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_Lokomotive_Leipzig",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "04003",
+      "ort_qid": "Q2079",
+      "ort": "Leipzig",
+      "verein": "1. FC Lokomotive Leipzig",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://lok-leipzig.com/",
+        "https://lok-leipzig.com/tickets/dauerkarten",
+        "https://lok-leipzig.com/tickets/tageskarten",
+        "https://lok-leipzig.com/tickets/vorverkauf",
+        "https://lok-leipzig.com/news/detail/letztes-heimspiel-2026-im-verkauf"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://lok-leipzig.com/",
+          "stelle": "tensportangebot des 1. FC Lok Leipzig Tickets Dauerkarten Tageskarten Vorverkauf Profis Lok-Fahrplan Regionalliga Nordost Spieler Trainer und Funktion"
+        },
+        "dauerkarte": {
+          "url": "https://lok-leipzig.com/",
+          "stelle": "ort Das vielfältige Breitensportangebot des 1. FC Lok Leipzig Tickets Dauerkarten Tageskarten Vorverkauf Profis Lok-Fahrplan Regionalliga Nordost Spie"
+        },
+        "von_hand": {
+          "url": "https://lok-leipzig.com/tickets/dauerkarten",
+          "stelle": "erdauerkarten haben grundsätzlich keine Fahrtberechtigung im ÖPNV. G) Reservierung: Wenn du in der Saison 2025/26 Inhaber einer Dauerkarte warst, ist"
+        },
+        "abendkasse": {
+          "url": "https://lok-leipzig.com/news/detail/letztes-heimspiel-2026-im-verkauf",
+          "stelle": "se (2 Euro günstiger als der normale Vorverkauf, 4 Euro günstiger als Tageskasse). Kontakt Impressum Datenschutz Projekt Liga 3 Fanshop Fahrkarten VIP"
+        }
+      },
+      "instagram": [
+        "1fclokleipzig"
+      ],
+      "emails": [
+        "fahrkarte@lok-leipzig.com"
+      ],
+      "preise": [
+        {
+          "eur": 4,
+          "url": "https://lok-leipzig.com/news/detail/letztes-heimspiel-2026-im-verkauf",
+          "stelle": "normale vorverkauf, 4 euro"
+        }
+      ],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://lok-leipzig.com/",
+        "wie": "eingebunden auf https://lok-leipzig.com/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "1. FC Magdeburg II",
+      "team_id": "1. FC Magdeburg#Zweite Mannschaft",
+      "homepage": "https://1.fc-magdeburg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_Magdeburg%23Zweite_Mannschaft",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "39104",
+      "ort_qid": "Q1733",
+      "ort": "Magdeburg",
+      "verein": "1. FC Magdeburg II",
+      "land": "ST",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FSV Zwickau",
+      "team_id": "FSV Zwickau",
+      "homepage": "https://www.fsv-zwickau.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FSV_Zwickau",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "08001",
+      "ort_qid": "Q3778",
+      "ort": "Zwickau",
+      "verein": "FSV Zwickau",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fsv-zwickau.de/",
+        "https://fsv-zwickau.de/1-mannschaft-2026-27/fsv-zwickau-1-fc-lok-leipzig-12-02-16-spieltag/",
+        "https://fsv-zwickau.de/uncategorized/fsv-tv-ausblick-auf-das-heimspiel-gegen-den-1-fc-lok-leipzig/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fsv.zwickau"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Babelsberg 03",
+      "team_id": "SV Babelsberg 03",
+      "homepage": "https://babelsberg03.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Babelsberg_03",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "14467",
+      "ort_qid": "Q1711",
+      "ort": "Potsdam",
+      "verein": "SV Babelsberg 03",
+      "land": "BB",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.babelsberg03.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.babelsberg03.de/",
+          "stelle": ". FC Magdeburg Spiel-Infos Feiere 50 Jahre Karli mit uns – mit deiner Dauerkarte! Die Dauerkarten für die Saison 2026/2027 sind ab sofort erhältlich."
+        }
+      },
+      "instagram": [
+        "babelsberg03"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://www.babelsberg03.de/",
+        "wie": "eingebunden auf https://www.babelsberg03.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "BFC Preussen",
+      "team_id": "BFC Preussen",
+      "homepage": "http://www.bfc-preussen-fussball.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/BFC_Preussen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q183",
+      "ort": "Deutschland",
+      "verein": "BFC Preussen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://bfc-preussen.de/",
+        "https://bfc-preussen.de/anreise-stadion-und-ticketinfos/",
+        "https://bfc-preussen.de/erstes-heimspiel-der-saison-26-27/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://bfc-preussen.de/anreise-stadion-und-ticketinfos/",
+          "stelle": "Tickets: Für unsere Preussenfans und unsere Gäste sind Tickets an der Tageskasse erhältlich. Preise: 13 Euro Vollzahler, 10 Euro ermäßigt**, 18 € – Üb"
+        }
+      },
+      "instagram": [
+        "bfc_preussen_official"
+      ],
+      "emails": [
+        "info@bfc-preussen.de"
+      ],
+      "preise": [
+        {
+          "eur": 10,
+          "url": "https://bfc-preussen.de/anreise-stadion-und-ticketinfos/",
+          "stelle": "vollzahler, 10 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "BSG Chemie Leipzig",
+      "team_id": "BSG Chemie Leipzig (1997)",
+      "homepage": "http://www.chemie-leipzig.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/BSG_Chemie_Leipzig_(1997)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "04003",
+      "ort_qid": "Q2079",
+      "ort": "Leipzig",
+      "verein": "BSG Chemie Leipzig",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.chemie-leipzig.de/",
+        "https://www.chemie-leipzig.de/fanshop-tickets/eintrittspreise/",
+        "https://www.chemie-leipzig.de/fanshop-tickets/rueckrunden-dauerkarte-saison-2026-27/",
+        "https://www.chemie-leipzig.de/fanshop-tickets/fanshop-im-aks/",
+        "https://www.chemie-leipzig.de/2026/11/09/spieltag-19-und-20-fix-terminiert/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.chemie-leipzig.de/",
+          "stelle": "Fanshop Online-Ticketshop Ticket-Infos Tageskarten 2026/27 Rückrunden-Dauerkarte Saison 2026/27 Fanshop im AKS MISSION VIERTELFINALEINZUG: CHEMIE IM P"
+        }
+      },
+      "instagram": [
+        "bsg_chemie_leipzig"
+      ],
+      "emails": [
+        "karten@chemie-leipzig.de"
+      ],
+      "preise": [
+        {
+          "eur": 0.5,
+          "url": "https://www.chemie-leipzig.de/fanshop-tickets/eintrittspreise/",
+          "stelle": "eintrittsgeld von 0,50 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Etix",
+        "beleg": "https://www.chemie-leipzig.de/",
+        "wie": "eingebunden auf https://www.chemie-leipzig.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Hertha BSC II",
+      "team_id": "Hertha BSC#Hertha BSC II",
+      "homepage": "https://www.herthabsc.com",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Hertha_BSC%23Hertha_BSC_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "10115",
+      "ort_qid": "Q64",
+      "ort": "Berlin",
+      "verein": "Hertha BSC II",
+      "land": "BE",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SV Tasmania Berlin",
+      "team_id": "SV Tasmania Berlin",
+      "homepage": "http://www.tasmania-berlin.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Tasmania_Berlin",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q183",
+      "ort": "Deutschland",
+      "verein": "SV Tasmania Berlin",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fussball.de/verein/tasmania-berlin-berlin/-/id/00ES8GNCAC00006DVV0AG08LVUPGND5I",
+        "https://www.fussball.de/spieltagsuebersicht/bundesliga-deutschland-bundesliga-herren-saison2627-deutschland/-/staffel/031BFREJC800001BVS5489BUVUR5FS5A-G",
+        "https://www.fussball.de/spieltagsuebersicht/2bundesliga-deutschland-2bundesliga-herren-saison2627-deutschland/-/staffel/031BG5ESP800000TVS5489BUVUR5FS5A-G",
+        "https://www.fussball.de/spieltagsuebersicht/3liga-deutschland-3liga-herren-saison2627-deutschland/-/staffel/031BH6P20G00000HVS5489BUVUR5FS5A-G",
+        "https://www.fussball.de/spieltagsuebersicht/regionalliga-nord-deutschland-regionalliga-nord-herren-saison2627-deutschland/-/staffel/030RDEI0IO000009VS5489BUVSEBP30S-G",
+        "https://www.fussball.de/spieltagsuebersicht/regionalliga-nordost-deutschland-regionalliga-nordost-herren-saison2627-deutschland/-/staffel/0316DK36HK000009VS5489BUVSBBVPEU-G"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "RSV Eintracht Stahnsdorf",
+      "team_id": "RSV Eintracht 1949",
+      "homepage": "http://www.rsv-basketball.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/RSV_Eintracht_1949",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "14532",
+      "ort_qid": "Q640426",
+      "ort": "Stahnsdorf",
+      "verein": "RSV Eintracht Stahnsdorf",
+      "land": "BB",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://rsv-basketball.de/",
+        "https://rsv-basketball.de/service/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://rsv-basketball.de/service/tickets/",
+        "wie": "eingebunden auf https://rsv-basketball.de/service/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FSV 63 Luckenwalde",
+      "team_id": "FSV 63 Luckenwalde",
+      "homepage": "http://www.fsv63-luckenwalde.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FSV_63_Luckenwalde",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "14943",
+      "ort_qid": "Q574146",
+      "ort": "Luckenwalde",
+      "verein": "FSV 63 Luckenwalde",
+      "land": "BB",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fsv63-luckenwalde.de/",
+        "https://fsv63-luckenwalde.de/eintrittspreise/",
+        "https://fsv63-luckenwalde.de/stadion/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://fsv63-luckenwalde.de/eintrittspreise/",
+          "stelle": "eimspielkarte Preise auf einen Blick Die wichtigsten Ticketkategorien Dauerkarte 215,00 € Sitzplatz Haupttribüne für Vollzahler nur online erhältlich"
+        }
+      },
+      "instagram": [
+        "fsv63luckenwalde"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://fsv63-luckenwalde.de/eintrittspreise/",
+          "stelle": "vollzahler nur online erhältlich 15,00 €"
+        },
+        {
+          "eur": 15,
+          "url": "https://fsv63-luckenwalde.de/eintrittspreise/",
+          "stelle": "vollzahler nur online erhältlich 15,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "vivenu",
+        "beleg": "https://fsv63-luckenwalde.de/eintrittspreise/",
+        "wie": "eingebunden auf https://fsv63-luckenwalde.de/eintrittspreise/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    }
+  ]
+}

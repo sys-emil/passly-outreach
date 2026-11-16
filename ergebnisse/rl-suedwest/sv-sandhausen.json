@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "SV Sandhausen",
+    "ort": "Sandhausen",
+    "land": "BW",
+    "liga": "rl-suedwest",
+    "liga_name": "Regionalliga Südwest (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.svs1916.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketshop (tickets.svs1916.de)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "svs_1916",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite verlinkt den Ticketshop tickets.svs1916.de.",
+    "quellen": [
+      "https://www.svs1916.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.svs1916.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.svs1916.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.svs1916.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

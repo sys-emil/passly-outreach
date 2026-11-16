@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "FC Carl Zeiss Jena",
+    "ort": "Jena",
+    "land": "TH",
+    "liga": "rl-nordost",
+    "liga_name": "Regionalliga Nordost (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.fc-carlzeiss-jena.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fccarlzeissjena_official",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (eingebunden auf https://www.fc-carlzeiss-jena.de/: https://www.fc-carlzeiss-jena.de/).",
+    "quellen": [
+      "https://www.fc-carlzeiss-jena.de/",
+      "https://www.fc-carlzeiss-jena.de/fans/tickets.html",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 7,
+    "quellen_belegt": [
+      "https://www.fc-carlzeiss-jena.de/",
+      "https://www.fc-carlzeiss-jena.de/fans/tickets.html"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „FC Carl Zeiss Jena“. Gelesen: https://www.fc-carlzeiss-jena.de/, https://www.fc-carlzeiss-jena.de/fans/tickets.html, https://www.fc-carlzeiss-jena.de/mannschaften/1-mannschaft/spieltage-tabelle.html, https://www.fc-carlzeiss-jena.de/mannschaften/1-frauenmannschaft/google-pixel-frauen-bundesliga.html, https://www.fc-carlzeiss-jena.de/mannschaften/junioren/u19-a-junioren/spieltage-tabelle.html, https://www.fc-carlzeiss-jena.de/mannschaften/junioren/u17-b1-junioren/spieltage-tabelle.html.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fc-carlzeiss-jena.de/",
+      "https://www.fc-carlzeiss-jena.de/fans/tickets.html",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.fc-carlzeiss-jena.de/",
+          "https://www.fc-carlzeiss-jena.de/fans/tickets.html"
+        ],
+        "anbieter": [
+          "https://www.fc-carlzeiss-jena.de/fans/tickets.html"
+        ]
+      }
+    }
+  }
+}

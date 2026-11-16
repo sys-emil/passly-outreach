@@ -1,0 +1,56 @@
+{
+  "verein": {
+    "name": "VfB 03 Hilden",
+    "ort": "Hilden",
+    "land": "NW",
+    "liga": "rl-west",
+    "liga_name": "Regionalliga West (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.vfb-hilden.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Wix Events (Ticketshop auf der Vereinsseite)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "vfb_hilden",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Vereinsseite verlinkt einen „Ticketshop“ auf vfbhilden.wixsite.com mit Wix Events.",
+    "quellen": [
+      "https://www.vfb-hilden.de/",
+      "https://vfbhilden.wixsite.com/vfb03hilden/tickets"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.vfb-hilden.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.vfb-hilden.de/",
+      "https://vfbhilden.wixsite.com/vfb03hilden/tickets"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://vfbhilden.wixsite.com/vfb03hilden/tickets"
+    ],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.vfb-hilden.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

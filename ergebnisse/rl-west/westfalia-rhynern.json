@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Westfalia Rhynern",
+    "ort": "Hamm",
+    "land": "NW",
+    "liga": "rl-west",
+    "liga_name": "Regionalliga West (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.westfalia-rhynern.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Vereinsticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Vereinsticket (eingebunden auf https://www.westfalia-rhynern.de/ticketshop: https://www.westfalia-rhynern.de/ticketshop).",
+    "quellen": [
+      "https://www.westfalia-rhynern.de/ticketshop",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://www.westfalia-rhynern.de/ticketshop"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Westfalia Rhynern“. Mehrere Instagram-Konten verlinkt: westfaliarhynern, heimspiel_1935. Gelesen: https://www.westfalia-rhynern.de/, https://www.westfalia-rhynern.de/ticketshop, https://www.westfalia-rhynern.de/stadion/tickets/ticketshop, https://www.westfalia-rhynern.de/stadion/tickets/ticketshop-auswaerts.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.westfalia-rhynern.de/ticketshop",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.westfalia-rhynern.de/ticketshop"
+        ]
+      }
+    }
+  }
+}

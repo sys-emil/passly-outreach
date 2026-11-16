@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "Bremer SV",
+    "ort": "Bremen",
+    "land": "HB",
+    "liga": "rl-nord",
+    "liga_name": "Regionalliga Nord (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.bremer-sportverein.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Ticketmaster (NWT-Partnershop)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "bremersv",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tickets „an der Tageskasse am Spieltag als auch im Online-Shop“; Online-Shop ist shops.ticketmasterpartners.com/nwt-bremer-sportverein. Stehplatz online 13 €, Tageskasse 12 €. „Ein Online-Kauf der Dauerkarten ist nicht möglich“, Dauerkartenverkauf an Terminen im Stadion.",
+    "quellen": [
+      "https://bremer-sv.de/fans/tickets"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://bremer-sv.de/fans/tickets"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Dauerkarten nur vor Ort an Terminen: Teil-Lücke.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://bremer-sv.de/fans/tickets"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://bremer-sv.de/fans/tickets"
+        ],
+        "instagram": [
+          "https://bremer-sv.de/fans/tickets"
+        ]
+      }
+    }
+  }
+}

@@ -61,6 +61,8 @@ const ANBIETER = [
   [/diginights\.com/, 'diginights'],
   [/tickets\.snec\.de/, 'snec'],
   [/comfortticket\.de/, 'ComfortTicket'],
+  [/snapticket\.de/, 'snapticket'],
+  [/tickets\.rodrigue\.de/, 'Rodrigue'],
   [/nono-events\.de/, 'nono events'],
   [/pass-consulting\.com/, 'PassShop (pass consulting)'],
   [/solingen-live\.de/, 'solingen-live.de'],

@@ -621,6 +621,60 @@
         "staffel": "Staffel Süd"
       },
       "vereine": []
+    },
+    "fbl2-frauen": {
+      "name": "2. Frauen-Bundesliga (Fußball)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "2._Frauen-Bundesliga_2026/27"
+      },
+      "vereine": []
+    },
+    "rl-nord": {
+      "name": "Regionalliga Nord (Fußball, 4. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Regionalliga_Nord_2026/27"
+      },
+      "vereine": []
+    },
+    "rl-nordost": {
+      "name": "Regionalliga Nordost (Fußball, 4. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+      },
+      "vereine": []
+    },
+    "rl-west": {
+      "name": "Regionalliga West (Fußball, 4. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Regionalliga_West_2026/27"
+      },
+      "vereine": []
+    },
+    "rl-suedwest": {
+      "name": "Regionalliga Südwest (Fußball, 4. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+      },
+      "vereine": []
+    },
+    "rl-bayern": {
+      "name": "Regionalliga Bayern (Fußball, 4. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+      },
+      "vereine": []
     }
   }
 }

@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "FSV Frankfurt",
+    "ort": "Frankfurt am Main",
+    "land": "HE",
+    "liga": "rl-suedwest",
+    "liga_name": "Regionalliga Südwest (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.fsv-frankfurt.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.fsv-frankfurt.de/: https://www.fsv-frankfurt.de/).",
+    "quellen": [
+      "https://www.fsv-frankfurt.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 6,
+    "quellen_belegt": [
+      "https://www.fsv-frankfurt.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „FSV Frankfurt“. Mehrere Instagram-Konten verlinkt: fsvfrankfurt1899, reservix.de. Gelesen: https://www.fsv-frankfurt.de/, https://www.fsv-frankfurt.de/tickets/tickets-allgemein/, https://www.fsv-frankfurt.de/tickets/gaestekarten/, https://www.reservix.de/tickets-fsv-frankfurt/t4574, https://www.fsv-frankfurt.de/tickets/dauerkarten/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fsv-frankfurt.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.fsv-frankfurt.de/"
+        ]
+      }
+    }
+  }
+}

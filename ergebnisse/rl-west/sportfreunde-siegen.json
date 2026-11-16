@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "Sportfreunde Siegen",
+    "ort": "Siegen",
+    "land": "NW",
+    "liga": "rl-west",
+    "liga_name": "Regionalliga West (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.sportfreunde-siegen.info/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "sportfreundesiegen",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.sportfreunde-siegen.de/: https://www.sportfreunde-siegen.de/).",
+    "quellen": [
+      "https://www.sportfreunde-siegen.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.sportfreunde-siegen.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Sportfreunde Siegen“. Gelesen: https://www.sportfreunde-siegen.de/, https://www.sportfreunde-siegen.de/dauerkarten, https://www.sportfreunde-siegen.de/spieltagskarten.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.sportfreunde-siegen.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.sportfreunde-siegen.de/"
+        ],
+        "instagram": [
+          "https://www.sportfreunde-siegen.de/"
+        ]
+      }
+    }
+  }
+}

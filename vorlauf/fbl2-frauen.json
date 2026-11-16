@@ -1,0 +1,533 @@
+{
+  "liga": "fbl2-frauen",
+  "stand": "2026-11-16",
+  "quelle": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27",
+  "abrufe": 35,
+  "teams": [
+    {
+      "verband_name": "FC Viktoria 1889 Berlin",
+      "team_id": "FC Viktoria 1889 Berlin (Frauenfußball)",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Viktoria_1889_Berlin_(Frauenfu%C3%9Fball)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "FC Viktoria 1889 Berlin",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SGS Essen",
+      "team_id": "SGS Essen",
+      "homepage": "https://www.sgs-essen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SGS_Essen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "45127",
+      "ort_qid": "Q2066",
+      "ort": "Essen",
+      "verein": "SGS Essen",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sgs-essen.de/",
+        "https://www.sgs-essen.de/pages/eintrittskarten",
+        "https://www.sgs-essen.de/pages/dauerkarten"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.sgs-essen.de/",
+          "stelle": "gazin Sportinternat Vereinskooperationen Kontakt Fans Fanshop Tickets Dauerkarten Mitgliedschaft Unterkunft Fanhinweise goJana Rechtliche Infos Versan"
+        },
+        "abendkasse": {
+          "url": "https://www.sgs-essen.de/pages/eintrittskarten",
+          "stelle": "Am Spieltag selbst können keine VIP-Tickets mehr gekauft werden. Die Tageskasse öffnet in der Regel 90 Minuten vor Spielbeginn. Hier gibt es nur ein"
+        },
+        "vorverkauf": {
+          "url": "https://www.sgs-essen.de/pages/eintrittskarten",
+          "stelle": "rforderlich. Im Ticket ist kein Fahrpreis für den ÖPNV enthalten. Der Vorverkauf über den Online-Shop läuft bis zum Beginn des jeweiligen Spiels. Das"
+        },
+        "von_hand": {
+          "url": "https://www.sgs-essen.de/pages/eintrittskarten",
+          "stelle": "ontingent (Restkarten, ggf. keine zusammenhängenden Plätze). Rollstuhltickets müssen vorab bis zum Montag vor dem Spieltag per E-Mail an tickets@sgs-essen.de bestellt werden (begrenzte Kapazitäten). Dabe"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "tickets@sgs-essen.de"
+      ],
+      "preise": [
+        {
+          "eur": 14,
+          "url": "https://www.sgs-essen.de/pages/eintrittskarten",
+          "stelle": "vollzahler:innen 14,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "VfL Bochum",
+      "team_id": "VfL Bochum (Frauenfußball)",
+      "homepage": "http://www.vfl-bochum.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfL_Bochum_(Frauenfu%C3%9Fball)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "44701",
+      "ort_qid": "Q2103",
+      "ort": "Bochum",
+      "verein": "VfL Bochum",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vfl-bochum.de/",
+        "https://www.vfl-bochum.de/fans/auswartsdauerkarten/",
+        "https://www.vfl-bochum.de/shop-tickets/fanshops/",
+        "https://www.vfl-bochum.de/shop-tickets/ticket-infos/",
+        "https://www.vfl-bochum.de/shop-tickets/ticket-faq/",
+        "https://www.vfl-bochum.de/shop-tickets/ticket-zweitmarkt/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.vfl-bochum.de/",
+          "stelle": "g Fangremium Fanklubs VfL -Bonuswelt Fan-Themen 1 Fan – 1 Job Auswärtsdauerkarten Anlaufstelle Verein Zurück Unser VfL Mitgliedschaft Angebote BobbiKl"
+        },
+        "von_hand": {
+          "url": "https://www.vfl-bochum.de/fans/auswartsdauerkarten/",
+          "stelle": "ärtsspiel. Die Ausgabe für die Auswärtsspiele erfolgt über print@home Tickets per E-Mail. Bei Hardtickets werden die Karten persönlich am Heimspieltag übergeb"
+        },
+        "abendkasse": {
+          "url": "https://www.vfl-bochum.de/shop-tickets/ticket-faq/",
+          "stelle": "um 1848, die Tickets über eigene Kanäle oder evtl. am Spieltag an den Tageskassen zu verkaufen. Stadionöffnungszeiten Der Einlass an Spieltagen ins Ru"
+        },
+        "vorverkauf": {
+          "url": "https://www.vfl-bochum.de/shop-tickets/ticket-faq/",
+          "stelle": "auf unserer Homepage entnommen werden. Karten für Auswärtsspiele Der Vorverkauf der Tickets für Auswärtsspiele vom VfL Bochum 1848 richtet sich nach"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "service@vfl-bochum.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://www.vfl-bochum.de/",
+        "wie": "eingebunden auf https://www.vfl-bochum.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Hertha BSC",
+      "team_id": "Hertha BSC (Frauenfußball)",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Hertha_BSC_(Frauenfu%C3%9Fball)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Hertha BSC",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Ingolstadt 04",
+      "team_id": "FC Ingolstadt 04 (Frauenfußball)",
+      "homepage": "http://www.fcingolstadt.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Ingolstadt_04_(Frauenfu%C3%9Fball)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "FC Ingolstadt 04",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fcingolstadt.de/",
+        "https://www.fcingolstadt.de/heimspielinfos/",
+        "https://www.fcingolstadt.de/vip-tagestickets/",
+        "https://www.fcingolstadt.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "bar": {
+          "url": "https://www.fcingolstadt.de/heimspielinfos/",
+          "stelle": "rk folgen. Bitte beachtet, dass die Parkgebühr für PKWs auf P1 und P2 nur bargeldlos bezahlt werden kann. Anfahrt zum Audi Sportpark als PDF-Datei"
+        },
+        "abendkasse": {
+          "url": "https://www.fcingolstadt.de/tickets/",
+          "stelle": "Verbindung mit einer Sitzplatzkarte in den beiden Fanshops und an der Tageskasse für 1 Euro. Das Zahlen an den Imbiss- und Getränke-Kiosken ist mit Kr"
+        },
+        "vorverkauf": {
+          "url": "https://www.fcingolstadt.de/tickets/",
+          "stelle": "artien der Schanzer vor Ort dabei! Tageskarten Allgemeines Dauerkarte Vorverkauf Gruppentickets und Aktionen Schwarzmarkt 1. Spieltag : 08.08.2026, 14"
+        },
+        "von_hand": {
+          "url": "https://www.fcingolstadt.de/tickets/",
+          "stelle": "se öffnet circa eineinhalb Stunden vor Spielbeginn. Das Kontingent an reservierten Karten ist begrenzt. Wo erhalte ich Tickets für Schwerbehinderte/R"
+        },
+        "dauerkarte": {
+          "url": "https://www.fcingolstadt.de/tickets/",
+          "stelle": "i bei den Partien der Schanzer vor Ort dabei! Tageskarten Allgemeines Dauerkarte Vorverkauf Gruppentickets und Aktionen Schwarzmarkt 1. Spieltag : 08."
+        }
+      },
+      "instagram": [
+        "dieschanzer"
+      ],
+      "emails": [
+        "fan@fcingolstadt.de",
+        "tb@fcingolstadt.de",
+        "ticketing@fcingolstadt.de",
+        "atgb@fcingolstadt.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Borussia Mönchengladbach",
+      "team_id": "Borussia Mönchengladbach (Frauenfußball)",
+      "homepage": "http://www.borussia.de/de/fohlen-frauen/frauen-maedchen/1-frauen.html?print=%29%3F",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Borussia_M%C3%B6nchengladbach_(Frauenfu%C3%9Fball)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "41061",
+      "ort_qid": "Q2758",
+      "ort": "Mönchengladbach",
+      "verein": "Borussia Mönchengladbach",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.borussia.de/de/fohlen-frauen/frauen-maedchen/1-frauen.html?print=%29%3F (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Meppen",
+      "team_id": "SV Meppen (Frauenfußball)",
+      "homepage": "http://www.svmeppen.de/index.php",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Meppen_(Frauenfu%C3%9Fball)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "49716",
+      "ort_qid": "Q15977",
+      "ort": "Meppen",
+      "verein": "SV Meppen",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.svmeppen.de/index.php (HTTP 400)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SG 99 Andernach",
+      "team_id": "SG 99 Andernach",
+      "homepage": "http://www.sg99andernach.net/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SG_99_Andernach",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "56626",
+      "ort_qid": "Q490058",
+      "ort": "Andernach",
+      "verein": "SG 99 Andernach",
+      "land": "RP",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.sg99andernach.net/ (ENOTFOUND)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Carl Zeiss Jena",
+      "team_id": "FC Carl Zeiss Jena (Frauenfußball)",
+      "homepage": "http://frauen.fc-carlzeiss-jena.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Carl_Zeiss_Jena_(Frauenfu%C3%9Fball)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "07751",
+      "ort_qid": "Q3150",
+      "ort": "Jena",
+      "verein": "FC Carl Zeiss Jena",
+      "land": "TH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://frauen.fc-carlzeiss-jena.de/ (HTTP 404)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Eintracht Frankfurt II",
+      "team_id": "Eintracht Frankfurt (Frauenfußball)",
+      "homepage": "http://www.eintracht-frankfurt.de/sportarten/fussball/frauenfussball/frauenfussball-news/frauen-news.html",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Eintracht_Frankfurt_(Frauenfu%C3%9Fball)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "60308",
+      "ort_qid": "Q1794",
+      "ort": "Frankfurt am Main",
+      "verein": "Eintracht Frankfurt II",
+      "land": "HE",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SC Sand",
+      "team_id": "SC Sand",
+      "homepage": "http://www.scsand-frauen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Sand",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "45127",
+      "ort_qid": "Q2066",
+      "ort": "Essen",
+      "verein": "SC Sand",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sc-sand.de/",
+        "https://www.sc-sand.de/ticketing"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.sc-sand.de/ticketing",
+          "stelle": "rkarten kosten nur jeweils die Hälfte. Dauerkarten können auch an der Tageskasse erworben werden. Bei Fragen zu Ihrer Dauerkarte wenden Sie sich bitte"
+        },
+        "vorverkauf": {
+          "url": "https://www.sc-sand.de/ticketing",
+          "stelle": "en zu Ihrer Dauerkarte wenden Sie sich bitte an: info scsand.de TICKETVORVERKAUF Der Vorverkauf erfolgt per Mail an: lukas.kelp@scsand.de WEITERE INFO"
+        },
+        "von_hand": {
+          "url": "https://www.sc-sand.de/ticketing",
+          "stelle": "i Fragen zu Ihrer Dauerkarte wenden Sie sich bitte an: info scsand.de TICKETVORVERKAUF Der Vorverkauf erfolgt per Mail an: lukas.kelp@scsand.de WEITERE INFOS ZUM TICKETING Eintrittskarten"
+        },
+        "dauerkarte": {
+          "url": "https://www.sc-sand.de/ticketing",
+          "stelle": "r Kinder und Jugendliche bis einschließlich 12 Jahre frei. PREISE FÜR DAUERKARTEN Dauerkarte (Normal): 130,00 € Dauerkarte (Ermäßigt): 110,00 € Rückru"
+        }
+      },
+      "instagram": [
+        "scsandfrauen"
+      ],
+      "emails": [
+        "lukas.kelp@scsand.de"
+      ],
+      "preise": [
+        {
+          "eur": 12,
+          "url": "https://www.sc-sand.de/ticketing",
+          "stelle": "eintrittskarte (vollzahler): 12,00 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSG 1899 Hoffenheim II",
+      "team_id": "TSG 1899 Hoffenheim (Frauenfußball)",
+      "homepage": "http://www.achtzehn99.de/frauen/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSG_1899_Hoffenheim_(Frauenfu%C3%9Fball)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "74889",
+      "ort_qid": "Q14950",
+      "ort": "Sinsheim",
+      "verein": "TSG 1899 Hoffenheim II",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "1. FFC Turbine Potsdam",
+      "team_id": "1. FFC Turbine Potsdam",
+      "homepage": "http://www.ffc-turbine.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FFC_Turbine_Potsdam",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "14467",
+      "ort_qid": "Q1711",
+      "ort": "Potsdam",
+      "verein": "1. FFC Turbine Potsdam",
+      "land": "BB",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.turbine-potsdam.de/",
+        "https://www.turbine-potsdam.de/bundesliga/tickets/",
+        "https://www.turbine-potsdam.de/2026/11/13/neues-stadionheft-zum-heimspiel-gegen-den-sc-sand-jetzt-online/",
+        "https://www.turbine-potsdam.de/2026/10/23/neues-stadionheft-zum-heimspiel-gegen-den-sv-meppen-jetzt-online/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.turbine-potsdam.de/bundesliga/tickets/",
+          "stelle": "Ticketsystem. Für die Spiele der 1. Mannschaft können die Tickets im Vorverkauf über das Internetportal reservix erworben werden. Sitzplatz-Tageskart"
+        },
+        "abendkasse": {
+          "url": "https://www.turbine-potsdam.de/2026/11/13/neues-stadionheft-zum-heimspiel-gegen-den-sc-sand-jetzt-online/",
+          "stelle": "Karl-Liebknecht-Stadion. Anstoß ist um 14:00 Uhr, die Stadiontore und Tageskassen öffnen bereits um 12:30 Uhr. Die neue Ausgabe begleitet euch mit Neu"
+        }
+      },
+      "instagram": [
+        "turbinepotsdam"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 14,
+          "url": "https://www.turbine-potsdam.de/bundesliga/tickets/",
+          "stelle": "tageskarten sitzplatz vollzahler 14,00 €"
+        },
+        {
+          "eur": 6,
+          "url": "https://www.turbine-potsdam.de/bundesliga/tickets/",
+          "stelle": "vollzahler 6 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.turbine-potsdam.de/",
+        "wie": "eingebunden auf https://www.turbine-potsdam.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "1. FC Köln II",
+      "team_id": "1. FC Köln (Frauenfußball)",
+      "homepage": "http://www.fc-koeln.de/frauen/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_K%C3%B6ln_(Frauenfu%C3%9Fball)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/2._Frauen-Bundesliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "51149",
+      "ort_qid": "Q365",
+      "ort": "Köln",
+      "verein": "1. FC Köln II",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    }
+  ]
+}

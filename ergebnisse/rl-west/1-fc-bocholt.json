@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "1. FC Bocholt",
+    "ort": "Bocholt",
+    "land": "NW",
+    "liga": "rl-west",
+    "liga_name": "Regionalliga West (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.1fcbocholt.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketshop (tickets.1fcbocholt.de)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "1fcbocholt",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite verlinkt tickets.1fcbocholt.de, Eintrittspreise-Seite und einen Ticketzweitmarkt.",
+    "quellen": [
+      "https://www.1fcbocholt.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.1fcbocholt.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.1fcbocholt.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.1fcbocholt.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

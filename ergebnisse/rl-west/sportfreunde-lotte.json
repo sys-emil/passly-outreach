@@ -1,0 +1,56 @@
+{
+  "verein": {
+    "name": "Sportfreunde Lotte",
+    "ort": "Lotte",
+    "land": "NI",
+    "liga": "rl-west",
+    "liga_name": "Regionalliga West (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://sf-lotte.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "sflotte",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (eingebunden auf https://sf-lotte.de/: https://sf-lotte.de/).",
+    "quellen": [
+      "https://sf-lotte.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://sf-lotte.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Sportfreunde Lotte“. Gelesen: https://sf-lotte.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://sf-lotte.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://sf-lotte.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

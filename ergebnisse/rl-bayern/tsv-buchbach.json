@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "TSV Buchbach",
+    "ort": "Buchbach",
+    "land": "BY",
+    "liga": "rl-bayern",
+    "liga_name": "Regionalliga Bayern (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.tsv-buchbach.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tsvbuchbach",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Seite „Onlinetickets“ bindet den Eventim-Light-Shop per iframe ein.",
+    "quellen": [
+      "https://www.tsv-buchbach.de/fussball/onlinetickets/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.tsv-buchbach.de/fussball/onlinetickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tsv-buchbach.de/fussball/onlinetickets/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.tsv-buchbach.de/fussball/onlinetickets/"
+        ],
+        "instagram": [
+          "https://www.tsv-buchbach.de/fussball/onlinetickets/"
+        ]
+      }
+    }
+  }
+}

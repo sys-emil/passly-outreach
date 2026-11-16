@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "Stuttgarter Kickers",
+    "ort": "Stuttgart",
+    "land": "BW",
+    "liga": "rl-suedwest",
+    "liga_name": "Regionalliga Südwest (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.stuttgarter-kickers.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketshop",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "stuttgarterkickers_offiziell",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Eintrittspreise-Seite mit „Quick Links zum Ticketshop“, Stehplatz 12 €, Sitzplatz 15 €.",
+    "quellen": [
+      "https://www.stuttgarter-kickers.de/aktuelles/fanshop-ticket-infos/eintrittspreise"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.stuttgarter-kickers.de/aktuelles/fanshop-ticket-infos/eintrittspreise"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.stuttgarter-kickers.de/aktuelles/fanshop-ticket-infos/eintrittspreise"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.stuttgarter-kickers.de/aktuelles/fanshop-ticket-infos/eintrittspreise"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

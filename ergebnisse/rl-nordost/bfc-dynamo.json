@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "BFC Dynamo",
+    "ort": "Berlin",
+    "land": "BE",
+    "liga": "rl-nordost",
+    "liga_name": "Regionalliga Nordost (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.bfc.com/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketshop (ticketshop.bfc.com)",
+    "eintritt_frei": true,
+    "ticketpreis_eur": 15,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "bfcdynamo_official",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite verlinkt ticketshop.bfc.com und eine Ticketseite; News: „Vorverkauf für die Partie gegen den Halleschen FC startet heute“.",
+    "quellen": [
+      "https://www.bfc.com/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.bfc.com/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorlauf hatte „Eintritt frei“ vermutet, falsch.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.bfc.com/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.bfc.com/"
+        ],
+        "ticketpreis_eur": [],
+        "anbieter": []
+      }
+    }
+  }
+}

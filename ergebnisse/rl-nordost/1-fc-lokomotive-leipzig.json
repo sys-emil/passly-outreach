@@ -1,0 +1,56 @@
+{
+  "verein": {
+    "name": "1. FC Lokomotive Leipzig",
+    "ort": "Leipzig",
+    "land": "SN",
+    "liga": "rl-nordost",
+    "liga_name": "Regionalliga Nordost (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.lok-leipzig.com/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "1fclokleipzig",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (eingebunden auf https://lok-leipzig.com/: https://lok-leipzig.com/).",
+    "quellen": [
+      "https://lok-leipzig.com/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 6,
+    "quellen_belegt": [
+      "https://lok-leipzig.com/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „1. FC Lokomotive Leipzig“. Gelesen: https://lok-leipzig.com/, https://lok-leipzig.com/tickets/dauerkarten, https://lok-leipzig.com/tickets/tageskarten, https://lok-leipzig.com/tickets/vorverkauf, https://lok-leipzig.com/news/detail/letztes-heimspiel-2026-im-verkauf.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://lok-leipzig.com/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://lok-leipzig.com/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

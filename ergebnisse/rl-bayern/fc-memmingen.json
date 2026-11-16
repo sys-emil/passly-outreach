@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "FC Memmingen",
+    "ort": "Memmingen",
+    "land": "BY",
+    "liga": "rl-bayern",
+    "liga_name": "Regionalliga Bayern (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.fc-memmingen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (eingebunden auf https://www.fc-memmingen.de/tickets/: https://www.fc-memmingen.de/tickets/).",
+    "quellen": [
+      "https://www.fc-memmingen.de/tickets/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.fc-memmingen.de/tickets/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „FC Memmingen“. Gelesen: https://www.fc-memmingen.de/, https://www.fc-memmingen.de/tickets/, https://www.fc-memmingen.de/zuschauerinformationen/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fc-memmingen.de/tickets/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": []
+      },
+      "sicherheit_vorher": "hoch"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "verein": {
+    "name": "SV Bergisch Gladbach 09",
+    "ort": "Bergisch Gladbach",
+    "land": "NW",
+    "liga": "rl-west",
+    "liga_name": "Regionalliga West (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.bergischgladbach09.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "sv09_official",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "info@bergischgladbach09.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von SV Bergisch Gladbach 09 nennen weder Eintrittspreise noch einen Ticketweg für die Regionalliga West.",
+    "quellen": [
+      "https://www.bergischgladbach09.de/",
+      "https://www.bergischgladbach09.de/category/herren/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.bergischgladbach09.de/",
+      "https://www.bergischgladbach09.de/category/herren/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.bergischgladbach09.de/",
+      "https://www.bergischgladbach09.de/category/herren/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.bergischgladbach09.de/",
+          "https://www.bergischgladbach09.de/category/herren/"
+        ],
+        "ansprechperson": [
+          "https://www.bergischgladbach09.de/",
+          "https://www.bergischgladbach09.de/category/herren/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab auf eurer Seite nichts zu Eintrittspreisen oder Vorverkauf für die Regionalliga gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: SV Bergisch Gladbach 09, info@bergischgladbach09.de.\n- Einstieg: Regionalliga West, keine Ticketangabe auf der Website.\n- Frage: Wie verkauft ihr Karten für die Heimspiele, nur an der Kasse?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

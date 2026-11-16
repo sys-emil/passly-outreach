@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "VfR Mannheim",
+    "ort": "Mannheim",
+    "land": "BW",
+    "liga": "rl-suedwest",
+    "liga_name": "Regionalliga Südwest (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://vfr-mannheim.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Rodrigue (tickets.rodrigue.de)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "vfrmannheim1896",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite verlinkt tickets.rodrigue.de und eine Dauerkartenbestellung.",
+    "quellen": [
+      "https://vfr-mannheim.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://vfr-mannheim.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://vfr-mannheim.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://vfr-mannheim.de/"
+        ],
+        "instagram": [
+          "https://vfr-mannheim.de/"
+        ]
+      }
+    }
+  }
+}

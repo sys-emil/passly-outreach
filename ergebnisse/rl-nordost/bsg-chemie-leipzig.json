@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "BSG Chemie Leipzig",
+    "ort": "Leipzig",
+    "land": "SN",
+    "liga": "rl-nordost",
+    "liga_name": "Regionalliga Nordost (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.chemie-leipzig.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Etix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "bsg_chemie_leipzig",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Etix (eingebunden auf https://www.chemie-leipzig.de/: https://www.chemie-leipzig.de/).",
+    "quellen": [
+      "https://www.chemie-leipzig.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 6,
+    "quellen_belegt": [
+      "https://www.chemie-leipzig.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „BSG Chemie Leipzig“. Gelesen: https://www.chemie-leipzig.de/, https://www.chemie-leipzig.de/fanshop-tickets/eintrittspreise/, https://www.chemie-leipzig.de/fanshop-tickets/rueckrunden-dauerkarte-saison-2026-27/, https://www.chemie-leipzig.de/fanshop-tickets/fanshop-im-aks/, https://www.chemie-leipzig.de/2026/11/09/spieltag-19-und-20-fix-terminiert/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.chemie-leipzig.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.chemie-leipzig.de/"
+        ],
+        "instagram": [
+          "https://www.chemie-leipzig.de/"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,742 @@
+{
+  "liga": "rl-west",
+  "stand": "2026-11-16",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+  "abrufe": 44,
+  "teams": [
+    {
+      "verband_name": "Rot-Weiß Oberhausen",
+      "team_id": "Rot-Weiß Oberhausen",
+      "homepage": "https://www.rwo1904.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Rot-Wei%C3%9F_Oberhausen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "46001",
+      "ort_qid": "Q2838",
+      "ort": "Oberhausen",
+      "verein": "Rot-Weiß Oberhausen",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.rwo1904.de/",
+        "https://www.rwo1904.de/stadion/tickets/tageskarten",
+        "https://www.rwo1904.de/stadion/tickets/dauerkarten",
+        "https://www.rwo1904.de/stadion/tickets/gruppenbestellungen",
+        "https://www.rwo1904.de/stadion/tickets/vorverkauf",
+        "https://www.rwo1904.de/stadion/spieltags-crew"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.rwo1904.de/",
+          "stelle": "dnung Stadionplan Tickets Tageskarten Dauerkarten Gruppenbestellungen Vorverkauf Anreise Parkplätze Presse Akkreditierungen Interviews Medieninformati"
+        },
+        "dauerkarte": {
+          "url": "https://www.rwo1904.de/",
+          "stelle": "on Stadion Niederrhein Stadionordnung Stadionplan Tickets Tageskarten Dauerkarten Gruppenbestellungen Vorverkauf Anreise Parkplätze Presse Akkreditier"
+        },
+        "abendkasse": {
+          "url": "https://www.rwo1904.de/stadion/tickets/tageskarten",
+          "stelle": "itzplatz - Gast) Vollzahler 25 EUR Ermäßigt 21 EUR Kind 11 EUR An den Tageskassen wird ein Aufschlag in Höhe von 2 EUR auf alle Tickets erhoben. Hinwe"
+        }
+      },
+      "instagram": [
+        "rwo1904"
+      ],
+      "emails": [
+        "nachweise@rwo-online.de",
+        "groth@rwo-online.de",
+        "shop@rwo-online.de",
+        "tourist-info@oberhausen.de",
+        "info@ebertbad.de",
+        "ratzlaff@rwo-online.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Borussia Dortmund II",
+      "team_id": "Borussia Dortmund II",
+      "homepage": "https://www.bvb.de/de/de/mannschaften/fussball/u23.html",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Borussia_Dortmund_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "44135",
+      "ort_qid": "Q1295",
+      "ort": "Dortmund",
+      "verein": "Borussia Dortmund II",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Borussia Mönchengladbach II",
+      "team_id": "Borussia Mönchengladbach#Borussia Mönchengladbach II (U23)",
+      "homepage": "https://www.borussia.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Borussia_M%C3%B6nchengladbach%23Borussia_M%C3%B6nchengladbach_II_(U23)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "41061",
+      "ort_qid": "Q2758",
+      "ort": "Mönchengladbach",
+      "verein": "Borussia Mönchengladbach II",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC Gütersloh",
+      "team_id": "FC Gütersloh (2000)",
+      "homepage": "http://www.fcg2000.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_G%C3%BCtersloh_(2000)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "33330",
+      "ort_qid": "Q3771",
+      "ort": "Gütersloh",
+      "verein": "FC Gütersloh",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://ts.domainname.de/fcg2000.de"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Sportfreunde Siegen",
+      "team_id": "Sportfreunde Siegen",
+      "homepage": "http://www.sportfreunde-siegen.info/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Sportfreunde_Siegen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "57001",
+      "ort_qid": "Q3167",
+      "ort": "Siegen",
+      "verein": "Sportfreunde Siegen",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sportfreunde-siegen.de/",
+        "https://www.sportfreunde-siegen.de/dauerkarten",
+        "https://www.sportfreunde-siegen.de/spieltagskarten"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.sportfreunde-siegen.de/",
+          "stelle": "& Play 89+1 Shop Shop Onlineshop Standorte Tickets Tickets Ticketshop Dauerkarten Spieltagskarten Facebook Instagram TikTok YouTube LinkedIn Sportfreu"
+        },
+        "vorverkauf": {
+          "url": "https://www.sportfreunde-siegen.de/dauerkarten",
+          "stelle": "org. Künftig wird es auch an verschiedenen Stellen in der Stadt einen Vorverkauf geben. Dauerkarten bieten mit einem deutlichen und im Vergleich zur V"
+        },
+        "abendkasse": {
+          "url": "https://www.sportfreunde-siegen.de/spieltagskarten",
+          "stelle": "ienkarte (neu!) 2 Erwachsene, bis zu 2 Kinder 30€ 2€ Aufschlag an der Tageskasse An der Waldkasse auf dem P1-Parkplatz werden ausschließlich Stehplatz"
+        },
+        "von_hand": {
+          "url": "https://www.sportfreunde-siegen.de/spieltagskarten",
+          "stelle": "usgegeben Im Rahmen von Partnerverträgen besteht die Möglichkeit, VIP-Tickets für Kinder via E-Mail zuzubuchen K I · Sitzplatz Innenblock K II · Sitzplatz Außenblock K I"
+        }
+      },
+      "instagram": [
+        "sportfreundesiegen"
+      ],
+      "emails": [
+        "tickets@sportfreunde-siegen.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.sportfreunde-siegen.de/",
+        "wie": "eingebunden auf https://www.sportfreunde-siegen.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Bonner SC",
+      "team_id": "Bonner SC",
+      "homepage": "https://www.bonner-sc.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Bonner_SC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "53111",
+      "ort_qid": "Q586",
+      "ort": "Bonn",
+      "verein": "Bonner SC",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bonner-sc.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "bonner__sc"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "1. FC Köln II",
+      "team_id": "1. FC Köln II",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_K%C3%B6ln_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "1. FC Köln II",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Westfalia Rhynern",
+      "team_id": "Westfalia Rhynern",
+      "homepage": "http://www.westfalia-rhynern.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Westfalia_Rhynern",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "59001",
+      "ort_qid": "Q2880",
+      "ort": "Hamm",
+      "verein": "Westfalia Rhynern",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.westfalia-rhynern.de/",
+        "https://www.westfalia-rhynern.de/ticketshop",
+        "https://www.westfalia-rhynern.de/stadion/tickets/ticketshop",
+        "https://www.westfalia-rhynern.de/stadion/tickets/ticketshop-auswaerts"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "westfaliarhynern",
+        "heimspiel_1935"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://www.westfalia-rhynern.de/ticketshop",
+        "wie": "eingebunden auf https://www.westfalia-rhynern.de/ticketshop"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "1. FC Bocholt",
+      "team_id": "1. FC Bocholt",
+      "homepage": "https://www.1fcbocholt.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_Bocholt",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "46361",
+      "ort_qid": "Q3917",
+      "ort": "Bocholt",
+      "verein": "1. FC Bocholt",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.1fcbocholt.de/",
+        "https://www.1fcbocholt.de/stadion/praemium-park-am-huenting/eintrittspreise-tickets",
+        "https://www.1fcbocholt.de/stadion/praemium-park-am-huenting/ticketzweitmarkt",
+        "https://www.1fcbocholt.de/nachrichten/profis/26573/spiel-gedreht-fcb-lost-halbfinal-ticket"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.1fcbocholt.de/stadion/praemium-park-am-huenting/eintrittspreise-tickets",
+          "stelle": "on kostenlos Rollstuhlfahrer (unter GdB 100): 9 EUR Bei Käufen an der Tageskasse fällt pro Ticket eine Zusatzgebühr von 2 EUR an. Ausgenommen sind Kin"
+        },
+        "vorverkauf": {
+          "url": "https://www.1fcbocholt.de/stadion/praemium-park-am-huenting/eintrittspreise-tickets",
+          "stelle": "icketinformationen in der Saison 2026/27 Dauerkartenverkauf Regulärer Vorverkauf Ab dem 1. Juli gelten im regulären Vorverkauf folgende Preise: Allian"
+        },
+        "von_hand": {
+          "url": "https://www.1fcbocholt.de/stadion/praemium-park-am-huenting/eintrittspreise-tickets",
+          "stelle": "gelegentlich auf unserer Website. VIP-Tickets Solltest du an VIP-Dauerkarten oder auch VIP-Tageskarten interessiert sein, melde dich gerne per Mail bei Paul Remmel: paul.remmel@all-about-sports.de VIP-Tageskartenpreis"
+        },
+        "dauerkarte": {
+          "url": "https://www.1fcbocholt.de/stadion/praemium-park-am-huenting/eintrittspreise-tickets",
+          "stelle": "Kontakt Eintrittspreise und Ticketinformationen in der Saison 2026/27 Dauerkartenverkauf Regulärer Vorverkauf Ab dem 1. Juli gelten im regulären Vorve"
+        }
+      },
+      "instagram": [
+        "1fcbocholt"
+      ],
+      "emails": [
+        "paul.remmel@all-about-sports.de",
+        "tickets@1fcbocholt.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SC Paderborn 07 II",
+      "team_id": "SC Paderborn 07#Weitere Mannschaften",
+      "homepage": "https://www.scp07.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Paderborn_07%23Weitere_Mannschaften",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "33098",
+      "ort_qid": "Q2971",
+      "ort": "Paderborn",
+      "verein": "SC Paderborn 07 II",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC Schalke 04 II",
+      "team_id": "FC Schalke 04#Amateurmannschaft",
+      "homepage": "https://schalke04.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Schalke_04%23Amateurmannschaft",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "45801",
+      "ort_qid": "Q2765",
+      "ort": "Gelsenkirchen",
+      "verein": "FC Schalke 04 II",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VfB 03 Hilden",
+      "team_id": "VfB 03 Hilden",
+      "homepage": "http://www.vfb-hilden.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfB_03_Hilden",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "40721",
+      "ort_qid": "Q4094",
+      "ort": "Hilden",
+      "verein": "VfB 03 Hilden",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vfb-hilden.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "vfb_hilden"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "VfL Bochum II",
+      "team_id": "VfL Bochum#Zweite Mannschaft",
+      "homepage": "https://www.vfl-bochum.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfL_Bochum%23Zweite_Mannschaft",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "44701",
+      "ort_qid": "Q2103",
+      "ort": "Bochum",
+      "verein": "VfL Bochum II",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SV Bergisch Gladbach 09",
+      "team_id": "SV Bergisch Gladbach 09",
+      "homepage": "http://www.bergischgladbach09.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Bergisch_Gladbach_09",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "51427",
+      "ort_qid": "Q3117",
+      "ort": "Bergisch Gladbach",
+      "verein": "SV Bergisch Gladbach 09",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bergischgladbach09.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "sv09_official"
+      ],
+      "emails": [
+        "frauen@bergischgladbach09.de",
+        "info@bergischgladbach09.de",
+        "presse@bergischgladbach09.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Rödinghausen",
+      "team_id": "SV Rödinghausen",
+      "homepage": "https://www.svroedinghausen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_R%C3%B6dinghausen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "32289",
+      "ort_qid": "Q53913",
+      "ort": "Rödinghausen",
+      "verein": "SV Rödinghausen",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.svroedinghausen.de/",
+        "https://www.svroedinghausen.de/tickets-2",
+        "https://www.svroedinghausen.de/news/detail/erstes-heimspiel-der-saison",
+        "https://www.svroedinghausen.de/news/detail/naechstes-heimspiel",
+        "https://www.svroedinghausen.de/news/detail/halbfinal-ticket-geloest"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.svroedinghausen.de/tickets-2",
+          "stelle": "nghausen nur noch bargeldlose Zahlung möglich. Dies gilt auch für die Tageskasse an Spieltagen. Preise Saison 26/27 Eintrittspreis Vollzahler 15,00 €"
+        },
+        "dauerkarte": {
+          "url": "https://www.svroedinghausen.de/tickets-2",
+          "stelle": "Stehplatz Gäste 13,00 € Stehplatz Gäste erm. 11,00 € VIP Auf Anfrage Dauerkarte Vollzahler 199,00 € Dauerkarte erm. 149,00 € Dauerkarte Kinder (7-13"
+        },
+        "bar": {
+          "url": "https://www.svroedinghausen.de/tickets-2",
+          "stelle": "dem 01.10.2026 ist im Ticket- & Fanshop des SV Rödinghausen nur noch bargeldlose Zahlung möglich. Dies gilt auch für die Tageskasse an Spieltagen."
+        }
+      },
+      "instagram": [
+        "sv_roedinghausen"
+      ],
+      "emails": [
+        "tickets@sv-roedinghausen.de"
+      ],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://www.svroedinghausen.de/tickets-2",
+          "stelle": "eintrittspreis vollzahler 15,00 €"
+        },
+        {
+          "eur": 11,
+          "url": "https://www.svroedinghausen.de/tickets-2",
+          "stelle": "eintrittspreis erm. 11,00 €"
+        },
+        {
+          "eur": 15,
+          "url": "https://www.svroedinghausen.de/tickets-2",
+          "stelle": "eintrittspreis vollzahler 15,00 €"
+        },
+        {
+          "eur": 11,
+          "url": "https://www.svroedinghausen.de/tickets-2",
+          "stelle": "eintrittspreis erm. 11,00 €"
+        },
+        {
+          "eur": 17,
+          "url": "https://www.svroedinghausen.de/news/detail/erstes-heimspiel-der-saison",
+          "stelle": "ticketpreise sitzplatz vollzahler - 17,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.svroedinghausen.de/",
+        "wie": "eingebunden auf https://www.svroedinghausen.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SG Wattenscheid 09",
+      "team_id": "SG Wattenscheid 09",
+      "homepage": "https://sgwattenscheid09.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SG_Wattenscheid_09",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "44701",
+      "ort_qid": "Q2103",
+      "ort": "Bochum",
+      "verein": "SG Wattenscheid 09",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sgwattenscheid09.de/",
+        "https://www.sgwattenscheid09.de/spieltag/lohrheidestadion",
+        "https://www.sgwattenscheid09.de/spieltag/ticketpreise",
+        "https://www.sgwattenscheid09.de/spieltag/pressehinweise"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.sgwattenscheid09.de/spieltag/lohrheidestadion",
+          "stelle": "ie Hollandstr. Online-Tickets zum Ticketshop Preise Preise im Stadion Vorverkaufsstellen Connys Büdchen Weststr. 110, Wattenscheid-Leithe Öffnungszeit"
+        },
+        "von_hand": {
+          "url": "https://www.sgwattenscheid09.de/spieltag/lohrheidestadion",
+          "stelle": "eidestr. zu entlasten. Der Parkplatz Ost am Stadion ist für VIP-Gäste reserviert. Der Parkplatz Nord ist bei Sicherheitsspielen für Gästefans vorgese"
+        },
+        "nur_abendkasse": {
+          "url": "https://www.sgwattenscheid09.de/spieltag/ticketpreise",
+          "stelle": "inder- und Schiedsrichtertickets. Schiedsrichtertickets Diese gibt es nur an der Tageskasse gegen Vorlage eines gültigen Schiedsrichterausweises. Sie gelten für"
+        },
+        "abendkasse": {
+          "url": "https://www.sgwattenscheid09.de/spieltag/ticketpreise",
+          "stelle": "shop, an unseren Vorverkaufsstellen oder – solange verfügbar – an der Tageskasse. Wir freuen uns auf Euch! Tickets zum Online-Ticketshop Wichtiger Hin"
+        },
+        "bar": {
+          "url": "https://www.sgwattenscheid09.de/spieltag/ticketpreise",
+          "stelle": "rem Shop. Ein Hinweis vorab: An unseren Kiosken und Grillständen wird bargeldlos mit der Henkelmann-Wertkarte bezahlt. Diese bekommt Ihr am Klaus-S"
+        }
+      },
+      "instagram": [
+        "sgwat09"
+      ],
+      "emails": [
+        "//presse@sgwattenscheid09.de",
+        "boccarius@sgwattenscheid09.de",
+        "biberich@sgwattenscheid09.de",
+        "presse@sgwattenscheid09.de"
+      ],
+      "preise": [
+        {
+          "eur": 1,
+          "url": "https://www.sgwattenscheid09.de/spieltag/ticketpreise",
+          "stelle": "tickets an der tageskasse kosten 1 €"
+        },
+        {
+          "eur": 15,
+          "url": "https://www.sgwattenscheid09.de/spieltag/ticketpreise",
+          "stelle": "vollzahler 15 €"
+        },
+        {
+          "eur": 26,
+          "url": "https://www.sgwattenscheid09.de/spieltag/ticketpreise",
+          "stelle": "vollzahler 26 €"
+        },
+        {
+          "eur": 11,
+          "url": "https://www.sgwattenscheid09.de/spieltag/ticketpreise",
+          "stelle": "vollzahler 11 €"
+        },
+        {
+          "eur": 11,
+          "url": "https://www.sgwattenscheid09.de/spieltag/ticketpreise",
+          "stelle": "vollzahler 11 €"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SC Wiedenbrück",
+      "team_id": "SC Wiedenbrück",
+      "homepage": "http://www.scwiedenbrueck.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Wiedenbr%C3%BCck",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "33378",
+      "ort_qid": "Q6896",
+      "ort": "Rheda-Wiedenbrück",
+      "verein": "SC Wiedenbrück",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.scwiedenbrueck.de/",
+        "https://www.scwiedenbrueck.de/dauerkarten",
+        "https://www.scwiedenbrueck.de/spieltagstickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.scwiedenbrueck.de/",
+          "stelle": "Verein Vorstand Geschäftsstelle Jobs Mitglied werden Tickets Tickets Dauerkarten Spieltagstickets Ticketshop Vereins-TV Stellenbörse SC Wiedenbrück -"
+        },
+        "abendkasse": {
+          "url": "https://www.scwiedenbrueck.de/spieltagstickets",
+          "stelle": "dertenausweis (ab GdB 50) Die Spieltagstickets sind online und an der Tageskasse verfügbar. Hier geht´s zum Ticketshop! Falls Sie Fragen haben oder Un"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "tickets@scwiedenbrueck.de",
+        "ticketing@scwiedenbrueck.de"
+      ],
+      "preise": [
+        {
+          "eur": 5,
+          "url": "https://www.scwiedenbrueck.de/dauerkarten",
+          "stelle": "ticket wird mit 5 €"
+        },
+        {
+          "eur": 15,
+          "url": "https://www.scwiedenbrueck.de/spieltagstickets",
+          "stelle": "tickets online- ticket haupttribüne 15 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://www.scwiedenbrueck.de/",
+        "wie": "eingebunden auf https://www.scwiedenbrueck.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Sportfreunde Lotte",
+      "team_id": "Sportfreunde Lotte",
+      "homepage": "https://sf-lotte.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Sportfreunde_Lotte",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_West_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "49504",
+      "ort_qid": "Q182018",
+      "ort": "Lotte",
+      "verein": "Sportfreunde Lotte",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://sf-lotte.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "sflotte"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://sf-lotte.de/",
+        "wie": "eingebunden auf https://sf-lotte.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    }
+  ]
+}

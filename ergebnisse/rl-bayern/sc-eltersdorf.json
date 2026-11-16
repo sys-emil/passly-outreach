@@ -1,0 +1,56 @@
+{
+  "verein": {
+    "name": "SC Eltersdorf",
+    "ort": "Erlangen",
+    "land": "BY",
+    "liga": "rl-bayern",
+    "liga_name": "Regionalliga Bayern (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.sceltersdorf.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "sceltersdorf",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von SC Eltersdorf nennen weder Eintrittspreise noch einen Ticketweg für die Regionalliga Bayern.",
+    "quellen": [
+      "https://sceltersdorf.de/",
+      "https://sceltersdorf.de/fussball/erste-mannschaft/news/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://sceltersdorf.de/",
+      "https://sceltersdorf.de/fussball/erste-mannschaft/news/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://sceltersdorf.de/",
+      "https://sceltersdorf.de/fussball/erste-mannschaft/news/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://sceltersdorf.de/",
+          "https://sceltersdorf.de/fussball/erste-mannschaft/news/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab auf eurer Seite nichts zu Eintrittspreisen oder Vorverkauf für die Regionalliga gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: SC Eltersdorf über die Kontaktseite, Abteilung Fußball.\n- Einstieg: Regionalliga Bayern, keine Ticketangabe auf der Website.\n- Frage: Wie verkauft ihr Karten für die Heimspiele, nur an der Kasse?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

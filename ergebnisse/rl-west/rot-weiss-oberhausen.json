@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "Rot-Weiß Oberhausen",
+    "ort": "Oberhausen",
+    "land": "NW",
+    "liga": "rl-west",
+    "liga_name": "Regionalliga West (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.rwo1904.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketverkauf (Tages-, Dauer-, Gruppenkarten)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "rwo1904",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Seiten Tageskarten, Dauerkarten und Gruppenbestellungen; News zu gestarteten Vorverkäufen.",
+    "quellen": [
+      "https://www.rwo1904.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.rwo1904.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.rwo1904.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.rwo1904.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

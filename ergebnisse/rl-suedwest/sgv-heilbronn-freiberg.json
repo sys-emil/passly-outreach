@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "SGV Heilbronn-Freiberg",
+    "ort": "Freiberg am Neckar",
+    "land": "BW",
+    "liga": "rl-suedwest",
+    "liga_name": "Regionalliga Südwest (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.sgv-freiberg-fussball.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "sgv_heilbronn.freiberg",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.sgv-freiberg-fussball.de/: https://www.sgv-freiberg-fussball.de/).",
+    "quellen": [
+      "https://www.sgv-freiberg-fussball.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.sgv-freiberg-fussball.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „SGV Heilbronn-Freiberg“. Gelesen: https://www.sgv-freiberg-fussball.de/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.sgv-freiberg-fussball.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_S%C3%BCdwest_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.sgv-freiberg-fussball.de/"
+        ],
+        "instagram": [
+          "https://www.sgv-freiberg-fussball.de/"
+        ]
+      }
+    }
+  }
+}

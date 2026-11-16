@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "FSV Schöningen",
+    "ort": "Schöningen",
+    "land": "NI",
+    "liga": "rl-nord",
+    "liga_name": "Regionalliga Nord (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.fsv-schoeningen.com/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.fsv-schoeningen.com/tickets: https://www.fsv-schoeningen.com/tickets).",
+    "quellen": [
+      "https://www.fsv-schoeningen.com/tickets",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.fsv-schoeningen.com/tickets"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „FSV Schöningen“. Mehrere Instagram-Konten verlinkt: fsv_schoeningen_2011, fsv_schoeningen_2.herren, fsv_schoeningen_3.herren. Gelesen: https://www.fsv-schoeningen.com/, https://www.fsv-schoeningen.com/tickets, https://www.fsv-schoeningen.com/akkreditierung-fuer-heimspiele.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fsv-schoeningen.com/tickets",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.fsv-schoeningen.com/tickets"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "RSV Eintracht Stahnsdorf",
+    "ort": "Stahnsdorf",
+    "land": "BB",
+    "liga": "rl-nordost",
+    "liga_name": "Regionalliga Nordost (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.rsv-basketball.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://rsv-basketball.de/service/tickets/: https://rsv-basketball.de/service/tickets/).",
+    "quellen": [
+      "https://rsv-basketball.de/service/tickets/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://rsv-basketball.de/service/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „RSV Eintracht Stahnsdorf“. Gelesen: https://rsv-basketball.de/, https://rsv-basketball.de/service/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://rsv-basketball.de/service/tickets/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nordost_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://rsv-basketball.de/service/tickets/"
+        ]
+      }
+    }
+  }
+}

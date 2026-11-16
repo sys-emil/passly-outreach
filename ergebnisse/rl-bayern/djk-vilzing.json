@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "DJK Vilzing",
+    "ort": "Cham",
+    "land": "BY",
+    "liga": "rl-bayern",
+    "liga_name": "Regionalliga Bayern (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.djk-vilzing.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Etix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "djkvilzing",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Etix (eingebunden auf https://www.djk-vilzing.de/: https://www.djk-vilzing.de/).",
+    "quellen": [
+      "https://www.djk-vilzing.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.djk-vilzing.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „DJK Vilzing“. Gelesen: https://www.djk-vilzing.de/, https://www.djk-vilzing.de/Tickets.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.djk-vilzing.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.djk-vilzing.de/"
+        ],
+        "instagram": [
+          "https://www.djk-vilzing.de/"
+        ]
+      }
+    }
+  }
+}

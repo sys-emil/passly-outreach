@@ -1,0 +1,688 @@
+{
+  "liga": "rl-nord",
+  "stand": "2026-11-16",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+  "abrufe": 37,
+  "teams": [
+    {
+      "verband_name": "SC Weiche Flensburg 08",
+      "team_id": "SC Weiche Flensburg 08",
+      "homepage": "http://www.etsvweiche.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Weiche_Flensburg_08",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "24937",
+      "ort_qid": "Q3798",
+      "ort": "Flensburg",
+      "verein": "SC Weiche Flensburg 08",
+      "land": "SH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fussballmanager.de/sc-weiche-flensburg-08/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Drochtersen/Assel",
+      "team_id": "SV Drochtersen/Assel",
+      "homepage": "http://www.svdrochtersenassel.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Drochtersen%2FAssel",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "21706",
+      "ort_qid": "Q505599",
+      "ort": "Drochtersen",
+      "verein": "SV Drochtersen/Assel",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.svdrochtersenassel.de (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Hannover 96 II",
+      "team_id": "Hannover 96#Zweite Mannschaft",
+      "homepage": "https://www.hannover96.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Hannover_96%23Zweite_Mannschaft",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "30159",
+      "ort_qid": "Q1715",
+      "ort": "Hannover",
+      "verein": "Hannover 96 II",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VfB Oldenburg",
+      "team_id": "VfB Oldenburg",
+      "homepage": "https://vfb-oldenburg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfB_Oldenburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "26001",
+      "ort_qid": "Q2936",
+      "ort": "Oldenburg",
+      "verein": "VfB Oldenburg",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vfb-oldenburg.de/",
+        "https://www.vfb-oldenburg.de/ticketing",
+        "https://www.vfb-oldenburg.de/eismann-youngstars-heimspielcamps",
+        "https://www.vfb-oldenburg.de/auswaertstickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.vfb-oldenburg.de/",
+          "stelle": ". Menü Startseite Profis Tickets Tickets Ticketing Leitfaden Digitale Dauerkarte Marschweg Stadion Medien/Akkreditierungen Teilnahmebedingungen Gewinn"
+        },
+        "vorverkauf": {
+          "url": "https://www.vfb-oldenburg.de/ticketing",
+          "stelle": "s Präsentiert von: Tickets 2026/2027 ZUM TICKETSHOP Saalplan: Preise: Vorverkaufsstellen 26122 Oldenburg Buchhandlung am Schloßplatz Schloßplatz 21 26"
+        }
+      },
+      "instagram": [
+        "vfb_oldenburg"
+      ],
+      "emails": [
+        "fussballschule@vfb-oldenburg.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.vfb-oldenburg.de/ticketing",
+        "wie": "eingebunden auf https://www.vfb-oldenburg.de/ticketing"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "1. FC Phönix Lübeck",
+      "team_id": "1. FC Phönix Lübeck",
+      "homepage": "http://www.fcphoenix-luebeck.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_Ph%C3%B6nix_L%C3%BCbeck",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "23552",
+      "ort_qid": "Q2843",
+      "ort": "Lübeck",
+      "verein": "1. FC Phönix Lübeck",
+      "land": "SH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.fcphoenix-luebeck.de (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FSV Schöningen",
+      "team_id": "FSV Schöningen",
+      "homepage": "https://www.fsv-schoeningen.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FSV_Sch%C3%B6ningen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "38364",
+      "ort_qid": "Q628304",
+      "ort": "Schöningen",
+      "verein": "FSV Schöningen",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fsv-schoeningen.com/",
+        "https://www.fsv-schoeningen.com/tickets",
+        "https://www.fsv-schoeningen.com/akkreditierung-fuer-heimspiele"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.fsv-schoeningen.com/tickets",
+          "stelle": "bei Leagues! Insta 1. Herren Insta 2. Herren Insta 3. Herren Tickets Vorverkauf Tickets für alle aktuell freigeschalteten Partien könnt ihr bequem üb"
+        }
+      },
+      "instagram": [
+        "fsv_schoeningen_2011",
+        "fsv_schoeningen_2.herren",
+        "fsv_schoeningen_3.herren"
+      ],
+      "emails": [
+        "presse@fsv-schoeningen.com"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.fsv-schoeningen.com/tickets",
+        "wie": "eingebunden auf https://www.fsv-schoeningen.com/tickets"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Kickers Emden",
+      "team_id": "Kickers Emden",
+      "homepage": "https://www.kickers.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kickers_Emden",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "26721",
+      "ort_qid": "Q4174",
+      "ort": "Emden",
+      "verein": "Kickers Emden",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.kickers.de/",
+        "https://www.kickers.de/verein/spieltaginfos"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.kickers.de/verein/spieltaginfos",
+          "stelle": "EUR Rabatt) unter: www.kickers-tickets.de - um großen Andrang an den Tageskassen zu vermeiden Zusätzliche Anfahrtsmöglichkeiten: Mit dem Stadtverkehr"
+        },
+        "dauerkarte": {
+          "url": "https://www.kickers.de/verein/spieltaginfos",
+          "stelle": "tz Cookies Kontakt Spieltagsinfos Stadionöffnung 90 min. vor Anpfiff ⁠Dauerkarteninhaber (nur Liga) & Ticketbesitzer können die „Fast Lane“ am Hauptei"
+        }
+      },
+      "instagram": [
+        "bsvkickersemden"
+      ],
+      "emails": [
+        "tickets@kickers.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Etix",
+        "beleg": "https://www.kickers.de/",
+        "wie": "eingebunden auf https://www.kickers.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VfB Lübeck",
+      "team_id": "VfB Lübeck",
+      "homepage": "http://www.vfb-luebeck.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfB_L%C3%BCbeck",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "23552",
+      "ort_qid": "Q2843",
+      "ort": "Lübeck",
+      "verein": "VfB Lübeck",
+      "land": "SH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://vfb-luebeck.de/",
+        "https://vfb-luebeck.de/fussball/shop/tickets/",
+        "https://vfb-luebeck.de/fussball/shop/preise/",
+        "https://vfb-luebeck.de/fussball/fans-community/heimspiel/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://vfb-luebeck.de/fussball/shop/tickets/",
+          "stelle": "etpreise Nordgetreide-Familienblock Online-Ticket-Shop Öffnungszeiten Vorverkaufstellen AGBs Fanartikel Online-Shop Öffnungszeiten Verkaufsstellen eba"
+        },
+        "dauerkarte": {
+          "url": "https://vfb-luebeck.de/fussball/shop/tickets/",
+          "stelle": "Fußball Shop Tickets Tickets Tickets moewe 2026-07-01T11:48:01+02:00 Dauerkarten & Tageskarten 26/27 &times; VIP-Tickets Vielen Dank für Ihr Interess"
+        },
+        "abendkasse": {
+          "url": "https://vfb-luebeck.de/fussball/shop/preise/",
+          "stelle": ". Die Familientickets gibt es mittlerweile auch an unserer den Tages-/Abendkasse in der Containeranlage vor der Sparkassen-TRIBÜNE. Die beste Auswahl"
+        },
+        "nur_abendkasse": {
+          "url": "https://vfb-luebeck.de/fussball/fans-community/heimspiel/",
+          "stelle": "ilienkarten für den Nordgetreide-Familienblock an. Diese Tickets sind ausschließlich im Vorverkauf und nicht am Spieltag an den Tageskassen erhältlich. Ticketcenter Unser Ticketcenter (Kassen 13 bis 22) in de"
+        },
+        "von_hand": {
+          "url": "https://vfb-luebeck.de/fussball/fans-community/heimspiel/",
+          "stelle": "Ehrengäste sowie Medienvertreter ist der Parkplatz der Gewerbeschulen reserviert. Dieser ist nur mit gesondertem Parkschein zugänglich. TICKETS Ticke"
+        },
+        "bar": {
+          "url": "https://vfb-luebeck.de/fussball/fans-community/heimspiel/",
+          "stelle": "n. An einigen Kiosken kann man mit Karte bezahlen, an anderen nur mit Bargeld. Getränke (zzgl. 1,00 Euro Pfand) Holsten 0,4l 4,50 Euro Holsten alko"
+        }
+      },
+      "instagram": [
+        "vfb_luebeck_1919"
+      ],
+      "emails": [
+        "info@vfb-luebeck.de",
+        "vip-karten@vfb-luebeck.de",
+        "theissen@vfb-luebeck.de",
+        "kaiser@vfb-luebeck.de",
+        "marion.kowal@ib.de",
+        "schiedsrichter@vfb-luebeck.de"
+      ],
+      "preise": [
+        {
+          "eur": 28.5,
+          "url": "https://vfb-luebeck.de/fussball/shop/preise/",
+          "stelle": "ticket (statt 28,50 €"
+        },
+        {
+          "eur": 10.5,
+          "url": "https://vfb-luebeck.de/fussball/fans-community/heimspiel/",
+          "stelle": "tickets kosten 10,50 euro"
+        }
+      ],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://vfb-luebeck.de/fussball/shop/tickets/",
+        "wie": "eingebunden auf https://vfb-luebeck.de/fussball/shop/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SV Atlas Delmenhorst",
+      "team_id": "SV Atlas Delmenhorst (2012)",
+      "homepage": "http://www.svatlas.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Atlas_Delmenhorst_(2012)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "27749",
+      "ort_qid": "Q3907",
+      "ort": "Delmenhorst",
+      "verein": "SV Atlas Delmenhorst",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.svatlas.de/",
+        "https://www.svatlas.de/eintrittspreise-regionalliga-nord-saison-2026-2027"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.svatlas.de/",
+          "stelle": "Moin Atlas-Familie Artikel vom 04.11.2026 · Regionalliga Zum Artikel Vorverkauf gegen Schöningen läuft Artikel vom 03.11.2026 · Regionalliga Zum Arti"
+        },
+        "dauerkarte": {
+          "url": "https://www.svatlas.de/eintrittspreise-regionalliga-nord-saison-2026-2027",
+          "stelle": "AGTICKET 12,00 € - Tagesticket normal 10,00 € - Tagesticket ermäßigt* DAUERKARTE 180,00 € - Dauerkarte normal (17 Spiele) 150,00 € - Dauerkarte ermäßi"
+        }
+      },
+      "instagram": [
+        "sv_atlas_delmenhorst_ev"
+      ],
+      "emails": [
+        "tickets@svatlas.de"
+      ],
+      "preise": [
+        {
+          "eur": 12,
+          "url": "https://www.svatlas.de/eintrittspreise-regionalliga-nord-saison-2026-2027",
+          "stelle": "ticket 12,00 €"
+        },
+        {
+          "eur": 10,
+          "url": "https://www.svatlas.de/eintrittspreise-regionalliga-nord-saison-2026-2027",
+          "stelle": "ticket normal 10,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://www.svatlas.de/",
+        "wie": "eingebunden auf https://www.svatlas.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Hamburger SV II",
+      "team_id": "Hamburger SV II",
+      "homepage": "https://www.hsv.de/uebersicht",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Hamburger_SV_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "Hamburger SV II",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Werder Bremen II",
+      "team_id": "Werder Bremen#Werder Bremen II",
+      "homepage": "https://www.werder.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Werder_Bremen%23Werder_Bremen_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "28195",
+      "ort_qid": "Q24879",
+      "ort": "Bremen",
+      "verein": "Werder Bremen II",
+      "land": "HB",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SSV Jeddeloh",
+      "team_id": "SSV Jeddeloh",
+      "homepage": "http://www.ssvjeddeloh.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SSV_Jeddeloh",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "26188",
+      "ort_qid": "Q503410",
+      "ort": "Edewecht",
+      "verein": "SSV Jeddeloh",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ssv-jeddeloh.de/",
+        "https://www.ssv-jeddeloh.de/eintrittserklaerung/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "britta.sieger@ewe.net"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "HSC Hannover",
+      "team_id": "HSC Hannover",
+      "homepage": "https://www.hsc-hannover.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HSC_Hannover",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "30159",
+      "ort_qid": "Q1715",
+      "ort": "Hannover",
+      "verein": "HSC Hannover",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.hsc-hannover.de/ (HTTP 503)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Eimsbütteler TV",
+      "team_id": "Eimsbütteler TV",
+      "homepage": "https://etv-hamburg.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Eimsb%C3%BCtteler_TV",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "Eimsbütteler TV",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.etv-hamburg.de/",
+        "https://www.etv-hamburg.de/de/services/tickets/",
+        "https://www.etv-hamburg.de/de/sportangebot/sportangebote-und-abteilungen/volleyball/2-bundesliga-nord/saison--und-spieltagshefte/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "etv.hamburg"
+      ],
+      "emails": [
+        "info.bundesstrasse@etv-hamburg.de",
+        "info.hoheluft@etv-hamburg.de",
+        "info@etv-hamburg.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://www.etv-hamburg.de/de/services/tickets/",
+        "wie": "eingebunden auf https://www.etv-hamburg.de/de/services/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SV Todesfelde",
+      "team_id": "SV Todesfelde",
+      "homepage": "https://www.svtodesfelde.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Todesfelde",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "23826",
+      "ort_qid": "Q475034",
+      "ort": "Todesfelde",
+      "verein": "SV Todesfelde",
+      "land": "SH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.svtodesfelde.de/ (HTTP 500)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Bremer SV",
+      "team_id": "Bremer SV",
+      "homepage": "https://www.bremer-sportverein.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Bremer_SV",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "28195",
+      "ort_qid": "Q24879",
+      "ort": "Bremen",
+      "verein": "Bremer SV",
+      "land": "HB",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://bremer-sv.de/",
+        "https://bremer-sv.de/fans/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://bremer-sv.de/",
+          "stelle": "müssen her Samstag, 24.10.2026 Bremen Vier Weihnachtssingen 2026: Der Vorverkauf ist gestartet Sonntag, 18.10.2026 Freitag, Flutlicht, Düsternort Donn"
+        },
+        "abendkasse": {
+          "url": "https://bremer-sv.de/fans/tickets",
+          "stelle": "n der Regionalliga Nord für die Saison 2026/2027 können sowohl an der Tageskasse am Spieltag als auch im Online-Shop erworben werden. Tageskarten Regi"
+        },
+        "dauerkarte": {
+          "url": "https://bremer-sv.de/fans/tickets",
+          "stelle": "t dem Merkzeichen B im Schwerbehindertenausweis 6 EUR + Begleitperson DAUERKARTEN Dauerkartenvorverkauf im Stadion am Panzenberg Am 13.07.2026 findet"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "geschaeftsstelle@bremer-sv.de",
+        "kontakt@bremer-sv.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC St. Pauli II",
+      "team_id": "FC St. Pauli",
+      "homepage": "https://www.fcstpauli.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_St._Pauli",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "20095",
+      "ort_qid": "Q1055",
+      "ort": "Hamburg",
+      "verein": "FC St. Pauli II",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Eintracht Norderstedt",
+      "team_id": "Eintracht Norderstedt",
+      "homepage": "http://www.eintrachtnorderstedt.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Eintracht_Norderstedt",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Regionalliga_Nord_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "22844",
+      "ort_qid": "Q3928",
+      "ort": "Norderstedt",
+      "verein": "Eintracht Norderstedt",
+      "land": "HH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.eintrachtnorderstedt.de/",
+        "https://www.eintrachtnorderstedt.de/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.eintrachtnorderstedt.de/tickets",
+          "stelle": "Preis von einem! Um diesen Vorteil zu genießen, muss lediglich an der Tageskasse die goldene VR-MeinPlus vorgezeigt werden. Weitere Informationen zu \""
+        },
+        "eintritt_frei": {
+          "url": "https://www.eintrachtnorderstedt.de/tickets",
+          "stelle": "190 Euro (ermäßigt: 160 Euro) Stehplatz: 125 Euro (ermäßigt: 95 Euro) Freier Eintritt für Kinder: Der Familiengedanke liegt uns sehr am Herzen. Damit sich"
+        },
+        "dauerkarte": {
+          "url": "https://www.eintrachtnorderstedt.de/tickets",
+          "stelle": "Die Tickets sind online bis Spielbeginn erhältlich. Eintrittspreise / Dauerkarten – Saison 2024/2025: Dauerkarten könnt ihr online bestellen ( hier en"
+        }
+      },
+      "instagram": [
+        "fceintrachtnorderstedt"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": true
+    }
+  ]
+}

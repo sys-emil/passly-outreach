@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "SGS Essen",
+    "ort": "Essen",
+    "land": "NW",
+    "liga": "fbl2-frauen",
+    "liga_name": "2. Frauen-Bundesliga (Fußball)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.sgs-essen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "LMS Sport (Ticketshop)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": 14,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "sgs_essen",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Tickets „bequem über den Ticketshop erhältlich“, Dauerkarten seit 01.06.2026 über das Portal mit Ticketing-Partner „LMS Sport“, auch als E-Ticket.",
+    "quellen": [
+      "https://www.sgs-essen.de/pages/eintrittskarten",
+      "https://www.sgs-essen.de/pages/dauerkarten"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.sgs-essen.de/pages/eintrittskarten",
+      "https://www.sgs-essen.de/pages/dauerkarten"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "443 Zuschauer beim Auswärtsspiel in Sand.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.sgs-essen.de/pages/eintrittskarten",
+      "https://www.sgs-essen.de/pages/dauerkarten"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.sgs-essen.de/pages/eintrittskarten"
+        ],
+        "anbieter": [
+          "https://www.sgs-essen.de/pages/eintrittskarten",
+          "https://www.sgs-essen.de/pages/dauerkarten"
+        ],
+        "instagram": [
+          "https://www.sgs-essen.de/pages/eintrittskarten",
+          "https://www.sgs-essen.de/pages/dauerkarten"
+        ]
+      }
+    }
+  }
+}

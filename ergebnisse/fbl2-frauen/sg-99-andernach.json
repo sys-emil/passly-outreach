@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "SG 99 Andernach",
+    "ort": "Andernach",
+    "land": "RP",
+    "liga": "fbl2-frauen",
+    "liga_name": "2. Frauen-Bundesliga (Fußball)",
+    "sport": "Fußball",
+    "website": "https://sg99-andernach.de/"
+  },
+  "ergebnis": {
+    "website": "https://sg99-andernach.de/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Seite „Ticketshop online“: „Aktuell geschlossen! Hinweis: Eintrittskarten für die Heimspiele unserer 1. Frauenmannschaft in der 2. Bundesliga gibt es an der Tageskasse.“",
+    "quellen": [
+      "https://sg99-andernach.de/frauen-juniorinnen/1-frauen/ticketshop/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://sg99-andernach.de/frauen-juniorinnen/1-frauen/ticketshop/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Hatte einen Online-Shop, der jetzt geschlossen ist: das Thema ist dem Verein bekannt. Wikidata-Adresse sg99andernach.net tot, richtige Domain geraten.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://sg99-andernach.de/frauen-juniorinnen/1-frauen/ticketshop/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "vorverkauf": [
+          "https://sg99-andernach.de/frauen-juniorinnen/1-frauen/ticketshop/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass euer Ticketshop online gerade geschlossen ist und es Karten für die 2. Bundesliga nur an der Tageskasse gibt. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für euch kostenlos. Passt ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: SG 99 Andernach über die Kontaktseite, nach der Person für die Frauen-Heimspiele fragen.\n- Einstieg: Seite „Ticketshop online“ sagt „Aktuell geschlossen“, Karten nur an der Tageskasse.\n- Frage: Warum habt ihr den Online-Shop geschlossen, und was hat daran nicht gepasst?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

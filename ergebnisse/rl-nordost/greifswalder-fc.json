@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "Greifswalder FC",
+    "ort": "Greifswald",
+    "land": "MV",
+    "liga": "rl-nordost",
+    "liga_name": "Regionalliga Nordost (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://greifswalder-fc.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "snapticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Stadion- und Ticketseite verlinkt shop.snapticket.de/seller/greifswalder-fc-86zp; Vorverkaufspreise (Stehplatz 10 €) gelten bis Donnerstag 12 Uhr, Tageskasse teurer (Stehplatz 12 €). Daneben Vorverkaufsstellen in Greifswald.",
+    "quellen": [
+      "https://greifswalder-fc.de/unser-gfc/stadion-tickets.html"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://greifswalder-fc.de/unser-gfc/stadion-tickets.html"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://greifswalder-fc.de/unser-gfc/stadion-tickets.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://greifswalder-fc.de/unser-gfc/stadion-tickets.html"
+        ]
+      }
+    }
+  }
+}

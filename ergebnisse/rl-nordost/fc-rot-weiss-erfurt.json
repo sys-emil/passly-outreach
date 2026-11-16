@@ -1,0 +1,50 @@
+{
+  "verein": {
+    "name": "FC Rot-Weiß Erfurt",
+    "ort": "Erfurt",
+    "land": "TH",
+    "liga": "rl-nordost",
+    "liga_name": "Regionalliga Nordost (Fußball, 4. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.rot-weiss-erfurt.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Shop (shop.rot-weiss-erfurt.de/tickets)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite verlinkt shop.rot-weiss-erfurt.de/tickets.",
+    "quellen": [
+      "https://www.rot-weiss-erfurt.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.rot-weiss-erfurt.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.rot-weiss-erfurt.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": []
+      },
+      "sicherheit_vorher": "hoch"
+    }
+  }
+}
