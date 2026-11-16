@@ -1,0 +1,60 @@
+{
+  "verein": {
+    "name": "FC Einheit Wernigerode",
+    "ort": "Wernigerode",
+    "land": "NI",
+    "liga": "nofv-sued",
+    "liga_name": "NOFV-Oberliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fc-einheit.de",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Mannsberg-Stadion",
+    "kapazitaet": null,
+    "instagram": "fc_einheit",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Heimspiel-Vorberichte nennen nur „Tageskasse geöffnet“ (Mannsberg-Stadion). Kein Vorverkauf und kein Shop verlinkt, Preise nicht genannt.",
+    "quellen": [
+      "https://www.fc-einheit.de/richtungsweisendes-heimspiel/",
+      "https://www.fc-einheit.de/halloween-spieltag-am-mannsberg/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.fc-einheit.de/richtungsweisendes-heimspiel/",
+      "https://www.fc-einheit.de/halloween-spieltag-am-mannsberg/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Halloween-Spieltag mit Rahmenprogramm: der Verein macht Events am Spieltag.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fc-einheit.de/richtungsweisendes-heimspiel/",
+      "https://www.fc-einheit.de/halloween-spieltag-am-mannsberg/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.fc-einheit.de/richtungsweisendes-heimspiel/",
+          "https://www.fc-einheit.de/halloween-spieltag-am-mannsberg/"
+        ],
+        "vorverkauf": [
+          "https://www.fc-einheit.de/richtungsweisendes-heimspiel/",
+          "https://www.fc-einheit.de/halloween-spieltag-am-mannsberg/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab in euren Vorberichten gelesen „Tageskasse geöffnet“, und der Halloween-Spieltag sah richtig gut aus. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Gerade für Spieltage mit Programm praktisch. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: FC Einheit Wernigerode über die Kontaktseite.\n- Einstieg: Vorberichte nennen nur die Tageskasse im Mannsberg-Stadion, Halloween-Spieltag mit Rahmenprogramm.\n- Frage: Wie läuft die Tageskasse am Mannsberg, und wie viele kommen zu solchen Spieltagen?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

@@ -1,0 +1,69 @@
+{
+  "verein": {
+    "name": "ZFC Meuselwitz",
+    "ort": "Meuselwitz",
+    "land": "SN",
+    "liga": "nofv-sued",
+    "liga_name": "NOFV-Oberliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.zfc.de/startseite.html",
+    "vorverkauf": "anbieter",
+    "anbieter": "leoticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": 4,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "zfcmeuselwitz_official",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über leoticket (eingebunden auf https://www.zfc.de/News/1238596362/1661241030/Online-Tickets: https://www.zfc.de/News/1238596362/1661241030/Online-Tickets).",
+    "quellen": [
+      "https://www.zfc.de/News/1238596362/1661241030/Online-Tickets",
+      "https://www.zfc.de/startseite.html",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "https://www.zfc.de/News/1238596362/1781597803/tickets_26_27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.zfc.de/News/1238596362/1661241030/Online-Tickets",
+      "https://www.zfc.de/startseite.html",
+      "https://www.zfc.de/News/1238596362/1781597803/tickets_26_27"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „ZFC Meuselwitz“. Gelesen: https://www.zfc.de/startseite.html, https://www.zfc.de/News/1238596362/1661241030/Online-Tickets, https://www.zfc.de/News/1238596362/1781597803/tickets_26_27.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.zfc.de/News/1238596362/1661241030/Online-Tickets",
+      "https://www.zfc.de/startseite.html",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "https://www.zfc.de/News/1238596362/1781597803/tickets_26_27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.zfc.de/News/1238596362/1661241030/Online-Tickets"
+        ],
+        "instagram": [
+          "https://www.zfc.de/News/1238596362/1661241030/Online-Tickets",
+          "https://www.zfc.de/startseite.html",
+          "https://www.zfc.de/News/1238596362/1781597803/tickets_26_27"
+        ],
+        "ticketpreis_eur": [
+          "https://www.zfc.de/News/1238596362/1781597803/tickets_26_27"
+        ]
+      }
+    }
+  }
+}

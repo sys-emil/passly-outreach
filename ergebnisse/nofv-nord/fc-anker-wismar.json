@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "FC Anker Wismar",
+    "ort": "Wismar",
+    "land": "SH",
+    "liga": "nofv-nord",
+    "liga_name": "NOFV-Oberliga Nord (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.fc-anker.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fcankerwismar",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von FC Anker Wismar nennen weder Eintrittspreise noch einen Ticketweg für die NOFV-Oberliga Nord.",
+    "quellen": [
+      "https://www.fc-anker.de/",
+      "https://www.fc-anker.de/1-herren/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.fc-anker.de/",
+      "https://www.fc-anker.de/1-herren/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fc-anker.de/",
+      "https://www.fc-anker.de/1-herren/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.fc-anker.de/",
+          "https://www.fc-anker.de/1-herren/"
+        ]
+      }
+    }
+  }
+}

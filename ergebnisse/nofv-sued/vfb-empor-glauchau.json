@@ -1,0 +1,40 @@
+{
+  "verein": {
+    "name": "VfB Empor Glauchau",
+    "land": null,
+    "liga": "nofv-sued",
+    "liga_name": "NOFV-Oberliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.vfb-empor-glauchau.de",
+    "vorverkauf": "unbekannt",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Wikidata-Adresse vfb-empor-glauchau.de steht bei einem Domainhändler zum Verkauf; die Ticketfrage ist offen.",
+    "quellen": [],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Anruf.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {}
+    }
+  }
+}

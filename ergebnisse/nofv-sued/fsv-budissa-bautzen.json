@@ -1,0 +1,65 @@
+{
+  "verein": {
+    "name": "FSV Budissa Bautzen",
+    "ort": "Bautzen",
+    "land": "SN",
+    "liga": "nofv-sued",
+    "liga_name": "NOFV-Oberliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.budissa-bautzen.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Etix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": 9,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "budissa_bautzen_official",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Etix (eingebunden auf https://www.budissa-bautzen.de/: https://www.budissa-bautzen.de/).",
+    "quellen": [
+      "https://www.budissa-bautzen.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "https://www.budissa-bautzen.de/mitglieder-und-fans/heimspiele"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.budissa-bautzen.de/",
+      "https://www.budissa-bautzen.de/mitglieder-und-fans/heimspiele"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „FSV Budissa Bautzen“. Gelesen: https://www.budissa-bautzen.de/, https://www.budissa-bautzen.de/mitglieder-und-fans/heimspiele.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.budissa-bautzen.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "https://www.budissa-bautzen.de/mitglieder-und-fans/heimspiele"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.budissa-bautzen.de/"
+        ],
+        "instagram": [
+          "https://www.budissa-bautzen.de/",
+          "https://www.budissa-bautzen.de/mitglieder-und-fans/heimspiele"
+        ],
+        "ticketpreis_eur": [
+          "https://www.budissa-bautzen.de/mitglieder-und-fans/heimspiele"
+        ]
+      }
+    }
+  }
+}

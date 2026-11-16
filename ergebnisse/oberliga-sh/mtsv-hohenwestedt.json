@@ -1,0 +1,50 @@
+{
+  "verein": {
+    "name": "MTSV Hohenwestedt",
+    "land": "SH",
+    "liga": "oberliga-sh",
+    "liga_name": "Oberliga Schleswig-Holstein (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.mtsv-fussball-hohenwestedt.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "mtsvhohenwestedtliga",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von MTSV Hohenwestedt nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga Schleswig-Holstein.",
+    "quellen": [
+      "https://www.mtsv-fussball-hohenwestedt.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.mtsv-fussball-hohenwestedt.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. Fußball-Homepage geraten (nicht in Wikidata), Titel bestätigt den Verein.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.mtsv-fussball-hohenwestedt.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.mtsv-fussball-hohenwestedt.de/"
+        ]
+      }
+    }
+  }
+}

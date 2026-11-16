@@ -592,6 +592,35 @@
         "seite": "Fu%C3%9Fball-Bremen-Liga_2026/27"
       },
       "vereine": []
+    },
+    "oberliga-sh": {
+      "name": "Oberliga Schleswig-Holstein (Fußball, 5. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Oberliga_Schleswig-Holstein_2026/27"
+      },
+      "vereine": []
+    },
+    "nofv-nord": {
+      "name": "NOFV-Oberliga Nord (Fußball, 5. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+        "staffel": "Staffel Nord"
+      },
+      "vereine": []
+    },
+    "nofv-sued": {
+      "name": "NOFV-Oberliga Süd (Fußball, 5. Liga)",
+      "sport": "Fußball",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+        "staffel": "Staffel Süd"
+      },
+      "vereine": []
     }
   }
 }

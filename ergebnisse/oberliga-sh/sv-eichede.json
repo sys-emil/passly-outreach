@@ -1,0 +1,70 @@
+{
+  "verein": {
+    "name": "SV Eichede",
+    "ort": "Steinburg (Stormarn)",
+    "land": "SH",
+    "liga": "oberliga-sh",
+    "liga_name": "Oberliga Schleswig-Holstein (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.sveichede.de/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": "Ernst-Wagener-Stadion",
+    "kapazitaet": 3000,
+    "instagram": "sveichede",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "info@sveichede.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Auf der Heimspielseite steht: „Karten gibt es an der Tageskasse – geöffnet eine Stunde vor Anstoß.“ Das Ernst-Wagener-Stadion fasst laut Verein 3.000 Zuschauer. Kein Vorverkauf, kein Shop für Tickets verlinkt.",
+    "quellen": [
+      "https://sveichede.de/pages/stadion-und-mehr",
+      "https://sveichede.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://sveichede.de/pages/stadion-und-mehr",
+      "https://sveichede.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Nur Tageskasse, Preis nicht genannt. Website ist ein Shopify-Shop (Fanartikel), Tickets aber nicht darüber.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://sveichede.de/pages/stadion-und-mehr",
+      "https://sveichede.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "kapazitaet": [
+          "https://sveichede.de/pages/stadion-und-mehr"
+        ],
+        "instagram": [
+          "https://sveichede.de/pages/stadion-und-mehr",
+          "https://sveichede.de/"
+        ],
+        "ansprechperson": [
+          "https://sveichede.de/pages/stadion-und-mehr",
+          "https://sveichede.de/"
+        ],
+        "vorverkauf": [
+          "https://sveichede.de/pages/stadion-und-mehr"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab auf eurer Heimspielseite gelesen, dass es Karten nur an der Tageskasse gibt, eine Stunde vor Anstoß. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Die Tageskasse bleibt, nur kann man auch vorher kaufen. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: SV Eichede, info@sveichede.de.\n- Einstieg: Karten nur an der Tageskasse, Ernst-Wagener-Stadion mit 3.000 Plätzen.\n- Frage: Wie voll wird es an der Kasse kurz vor Anstoß, und zahlen die Leute bar?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

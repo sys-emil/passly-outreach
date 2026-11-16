@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "Oldenburger SV",
+    "ort": "Oldenburg in Holstein",
+    "land": "SH",
+    "liga": "oberliga-sh",
+    "liga_name": "Oberliga Schleswig-Holstein (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.osv1865.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von Oldenburger SV nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga Schleswig-Holstein.",
+    "quellen": [
+      "https://www.osv1865.de/",
+      "https://www.osv1865.de/sportarten/fussball/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. Mehrspartenverein.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.osv1865.de/",
+      "https://www.osv1865.de/sportarten/fussball/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.osv1865.de/",
+      "https://www.osv1865.de/sportarten/fussball/"
+    ],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

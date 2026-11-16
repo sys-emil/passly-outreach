@@ -1,0 +1,75 @@
+{
+  "verein": {
+    "name": "VFC Plauen",
+    "ort": "Plauen",
+    "land": "SN",
+    "liga": "nofv-sued",
+    "liga_name": "NOFV-Oberliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://vfc-plauen.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": 11,
+    "halle": null,
+    "kapazitaet": 5000,
+    "instagram": "vfc_plauen",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "vfc@vfc-plauen.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Eintrittspreise (Stand 2025/26): Tageskarte Tribüne 11 €, Stehplatz 8 €; Jahreskarten 52 bis 143 €. Vogtlandstadion für 5.000 Zuschauer zugelassen. Auswärtskarten für den Sachsenpokal gab es „exklusiv“ beim Stammtisch in der Stadionklause. Online-Shop nur Fanartikel.",
+    "quellen": [
+      "https://vfc-plauen.de/eintrittspreise/",
+      "https://vfc-plauen.de/stadion-eintrittspreise/",
+      "https://vfc-plauen.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://vfc-plauen.de/eintrittspreise/",
+      "https://vfc-plauen.de/stadion-eintrittspreise/",
+      "https://vfc-plauen.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. Preisseite zeigt noch 2025/26.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://vfc-plauen.de/eintrittspreise/",
+      "https://vfc-plauen.de/stadion-eintrittspreise/",
+      "https://vfc-plauen.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://vfc-plauen.de/eintrittspreise/"
+        ],
+        "instagram": [
+          "https://vfc-plauen.de/eintrittspreise/",
+          "https://vfc-plauen.de/stadion-eintrittspreise/",
+          "https://vfc-plauen.de/"
+        ],
+        "ansprechperson": [
+          "https://vfc-plauen.de/eintrittspreise/",
+          "https://vfc-plauen.de/stadion-eintrittspreise/",
+          "https://vfc-plauen.de/"
+        ],
+        "kapazitaet": [
+          "https://vfc-plauen.de/stadion-eintrittspreise/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass ihr die Pokal-Auswärtskarten exklusiv beim Stammtisch verkauft habt. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Tageskarte, Jahreskarte und solche Sonderkontingente im selben System. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: VFC Plauen, vfc@vfc-plauen.de.\n- Einstieg: Tageskarte Tribüne 11 €, Stehplatz 8 €, Jahreskarten bis 143 €, Vogtlandstadion für 5.000 zugelassen.\n- Frage: Wie verkauft ihr Jahreskarten und Kontingente, und was davon macht die Geschäftsstelle von Hand?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

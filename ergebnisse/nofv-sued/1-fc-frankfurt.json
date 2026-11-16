@@ -1,0 +1,68 @@
+{
+  "verein": {
+    "name": "1. FC Frankfurt",
+    "ort": "Frankfurt (Oder)",
+    "land": "BB",
+    "liga": "nofv-sued",
+    "liga_name": "NOFV-Oberliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.fcfrankfurt.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": 8,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "1.fc_frankfurt",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "info@fcfrankfurt.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Für das Fußballfest am 01.08.2026 gab es Tickets „im Vorverkauf für 8 € (5 € ermäßigt)“ in lokalen Vorverkaufsstellen (Unternehmen und Gastronomie in Frankfurt (Oder)) mit „limitierter Auflage an Eintrittskarten“. Kein Online-Verkauf; für Ligaspiele keine Angabe.",
+    "quellen": [
+      "https://www.fcfrankfurt.de/post/sichere-dir-dein-ticket-ticketvorverkauf-f%C3%BCrs-fu%C3%9Fballfest-am-01-08-2026",
+      "https://www.fcfrankfurt.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.fcfrankfurt.de/post/sichere-dir-dein-ticket-ticketvorverkauf-f%C3%BCrs-fu%C3%9Fballfest-am-01-08-2026",
+      "https://www.fcfrankfurt.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Papierkarten über Vorverkaufsstellen bei Sonderspielen. „seatsio“/„eventbrite“ im HTML stammen aus dem Wix-Baukasten, kein Ticketshop verlinkt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.fcfrankfurt.de/post/sichere-dir-dein-ticket-ticketvorverkauf-f%C3%BCrs-fu%C3%9Fballfest-am-01-08-2026",
+      "https://www.fcfrankfurt.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.fcfrankfurt.de/post/sichere-dir-dein-ticket-ticketvorverkauf-f%C3%BCrs-fu%C3%9Fballfest-am-01-08-2026"
+        ],
+        "instagram": [
+          "https://www.fcfrankfurt.de/post/sichere-dir-dein-ticket-ticketvorverkauf-f%C3%BCrs-fu%C3%9Fballfest-am-01-08-2026",
+          "https://www.fcfrankfurt.de/"
+        ],
+        "ansprechperson": [
+          "https://www.fcfrankfurt.de/post/sichere-dir-dein-ticket-ticketvorverkauf-f%C3%BCrs-fu%C3%9Fballfest-am-01-08-2026",
+          "https://www.fcfrankfurt.de/"
+        ],
+        "vorverkauf": []
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab euren Beitrag zum Fußballfest am 1. August gesehen, Tickets für 8 €. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Gerade für so ein Fest und für die Ligaspiele. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: 1. FC Frankfurt (Oder), info@fcfrankfurt.de.\n- Einstieg: Fußballfest am 01.08.2026 gegen BSG Stahl Riesa, Tickets 8 € (5 € ermäßigt).\n- Frage: Wie habt ihr die Karten fürs Fußballfest verkauft, und wie läuft es bei Ligaspielen?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

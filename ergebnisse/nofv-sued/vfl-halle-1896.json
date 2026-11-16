@@ -1,0 +1,66 @@
+{
+  "verein": {
+    "name": "VfL Halle 1896",
+    "ort": "Halle (Saale)",
+    "land": "ST",
+    "liga": "nofv-sued",
+    "liga_name": "NOFV-Oberliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.vflhalle96.de/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": 10,
+    "halle": "Stadion am Zoo",
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "verein@vflhalle96.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseite: „Karten gibt es nur an der Tageskasse im Stadion – kein Vorverkauf, kein Online-Verkauf.“ Tageskarte 10,00 €, ermäßigt 7,00 €; Dauerkarte 110,00 € (ermäßigt 90,00 €), Verkauf zu Saisonbeginn bis einschließlich des dritten Heimspiels.",
+    "quellen": [
+      "https://www.vflhalle96.de/stadion-am-zoo/tickets/",
+      "https://www.vflhalle96.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.vflhalle96.de/stadion-am-zoo/tickets/",
+      "https://www.vflhalle96.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ausdrücklich kein Vorverkauf und kein Online-Verkauf; auch Dauerkarten nur vor Ort.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.vflhalle96.de/stadion-am-zoo/tickets/",
+      "https://www.vflhalle96.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.vflhalle96.de/stadion-am-zoo/tickets/"
+        ],
+        "ansprechperson": [
+          "https://www.vflhalle96.de/stadion-am-zoo/tickets/",
+          "https://www.vflhalle96.de/"
+        ],
+        "vorverkauf": [
+          "https://www.vflhalle96.de/stadion-am-zoo/tickets/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab auf eurer Ticketseite gelesen: nur Tageskasse, kein Vorverkauf, kein Online-Verkauf, auch die Dauerkarte nur bis zum dritten Heimspiel vor Ort. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Die Kasse am Stadion bleibt. Für euch kostenlos. Hättet ihr Lust auf ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: VfL Halle 1896, verein@vflhalle96.de.\n- Einstieg: Nur Tageskasse, 10 € (7 € ermäßigt), Dauerkarte 110 € nur zu Saisonbeginn.\n- Frage: Ist „kein Online-Verkauf“ eine bewusste Entscheidung, oder hat es nur noch keiner eingerichtet?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

@@ -1,0 +1,523 @@
+{
+  "liga": "nofv-nord",
+  "stand": "2026-11-16",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+  "abrufe": 36,
+  "teams": [
+    {
+      "verband_name": "BSV Eintracht Mahlsdorf",
+      "team_id": "Eintracht Mahlsdorf",
+      "homepage": "http://www.bsv-eintracht-mahlsdorf.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Eintracht_Mahlsdorf",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "10115",
+      "ort_qid": "Q64",
+      "ort": "Berlin",
+      "verein": "BSV Eintracht Mahlsdorf",
+      "land": "BE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bsv-eintracht-mahlsdorf.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "vorstand@bsv-eintracht-mahlsdorf.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Berliner AK 07",
+      "team_id": "Berliner AK 07",
+      "homepage": "http://www.bak07.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Berliner_AK_07",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "10115",
+      "ort_qid": "Q64",
+      "ort": "Berlin",
+      "verein": "Berliner AK 07",
+      "land": "BE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.bak07.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Hertha 03 Zehlendorf",
+      "team_id": "Hertha 03 Zehlendorf",
+      "homepage": "https://www.h03.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Hertha_03_Zehlendorf",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "10115",
+      "ort_qid": "Q64",
+      "ort": "Berlin",
+      "verein": "Hertha 03 Zehlendorf",
+      "land": "BE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.h03.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FSV Optik Rathenow",
+      "team_id": "FSV Optik Rathenow",
+      "homepage": "https://www.fsv-optik.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FSV_Optik_Rathenow",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "14712",
+      "ort_qid": "Q525425",
+      "ort": "Rathenow",
+      "verein": "FSV Optik Rathenow",
+      "land": "BB",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fsv-optik.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fsvoptik"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Füchse Berlin Reinickendorf",
+      "team_id": "Füchse Berlin Reinickendorf",
+      "homepage": "https://www.fuechse-berlin-reinickendorf.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/F%C3%BCchse_Berlin_Reinickendorf",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "10115",
+      "ort_qid": "Q64",
+      "ort": "Berlin",
+      "verein": "Füchse Berlin Reinickendorf",
+      "land": "BE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fuechse-berlin-reinickendorf.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fuechseberlin"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Anker Wismar",
+      "team_id": "FC Anker Wismar",
+      "homepage": "https://www.fc-anker.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Anker_Wismar",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "23966",
+      "ort_qid": "Q7030",
+      "ort": "Wismar",
+      "verein": "FC Anker Wismar",
+      "land": "SH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fc-anker.de/",
+        "https://www.fc-anker.de/bilder-vom-heimspiel-gegen-den-f-c-hansa-rostock-ii/",
+        "https://www.fc-anker.de/heimspiel-gegen-f-c-hansa-rostock-ii/",
+        "https://www.fc-anker.de/fc-anker-wismar-erstes-heimspiel-gegen-f-c-hertha-03-zehlendorf-saison-26-27/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fcankerwismar"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Siedenbollentin",
+      "team_id": "SV Siedenbollentin",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Siedenbollentin",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "17089",
+      "ort_qid": "Q53793",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Siedenbollentin",
+      "verein": "SV Siedenbollentin",
+      "land": "MV",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Sparta Lichtenberg",
+      "team_id": "SV Sparta Lichtenberg",
+      "homepage": "http://www.sv-sparta.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Sparta_Lichtenberg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q183",
+      "ort": "Deutschland",
+      "verein": "SV Sparta Lichtenberg",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.sv-sparta.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Lichtenberg 47",
+      "team_id": "SV Lichtenberg 47",
+      "homepage": "https://www.lichtenberg47.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Lichtenberg_47",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "10115",
+      "ort_qid": "Q64",
+      "ort": "Berlin",
+      "verein": "SV Lichtenberg 47",
+      "land": "BE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.lichtenberg47.de/",
+        "https://www.lichtenberg47.de/iCal/12-spieltag-nofv-oberliga-nord-lichtenberg-47-fuechse-berlin-2026-11-20-19-00.ics",
+        "https://www.lichtenberg47.de/iCal/13-spieltag-nofv-oberliga-nord-sparta-lichtenberg-lichtenberg-47-2026-11-29-13-30.ics",
+        "https://www.lichtenberg47.de/iCal/14-spieltag-nofv-oberliga-nord-lichtenberg-47-berliner-ak-2026-12-05-13-00.ics",
+        "https://www.lichtenberg47.de/iCal/15-spieltag-nofv-oberliga-nord-eintracht-mahlsdorf-lichtenberg-47-2026-12-12-13-00.ics",
+        "https://www.lichtenberg47.de/sechster-spieltag-beim-kinderfestival-der-e-juniorinnen-kalte-temperaturen-heisse-leistung/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "ticket.io",
+        "beleg": "https://www.lichtenberg47.de/",
+        "wie": "eingebunden auf https://www.lichtenberg47.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Hansa Rostock II",
+      "team_id": "Hansa Rostock#Zweite Mannschaft",
+      "homepage": "https://www.fc-hansa.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Hansa_Rostock%23Zweite_Mannschaft",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "18001",
+      "ort_qid": "Q2861",
+      "ort": "Rostock",
+      "verein": "Hansa Rostock II",
+      "land": "MV",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC Mecklenburg Schwerin",
+      "team_id": "FC Mecklenburg Schwerin",
+      "homepage": "https://fcm-schwerin.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Mecklenburg_Schwerin",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "19053",
+      "ort_qid": "Q1709",
+      "ort": "Schwerin",
+      "verein": "FC Mecklenburg Schwerin",
+      "land": "MV",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fcm-schwerin.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://fcm-schwerin.de/",
+          "stelle": "erliga in Schwerin FC Mecklenburg Schwerin vs. 1 FC Lok Stendal Jetzt Dauerkarte sichern! Ticketpreise Tageskarte: Tageskarte: 10€ VIP-Tageskarte: 49€"
+        }
+      },
+      "instagram": [
+        "fcmecklenburgschwerin"
+      ],
+      "emails": [
+        "info@fcm-schwerin.de"
+      ],
+      "preise": [
+        {
+          "eur": 10,
+          "url": "https://fcm-schwerin.de/",
+          "stelle": "ticketpreise tageskarte: tageskarte: 10€"
+        },
+        {
+          "eur": 49,
+          "url": "https://fcm-schwerin.de/",
+          "stelle": "tageskarte: 49€"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Tennis Borussia Berlin",
+      "team_id": "Tennis Borussia Berlin",
+      "homepage": "http://www.tebe.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Tennis_Borussia_Berlin",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "10115",
+      "ort_qid": "Q64",
+      "ort": "Berlin",
+      "verein": "Tennis Borussia Berlin",
+      "land": "BE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tebe.de/",
+        "https://www.tebe.de/tickets/",
+        "https://www.tebe.de/shop/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.tebe.de/tickets/",
+          "stelle": "tebe@youtube --> Tickets Tagestickets gibt’s hier digital oder an der Tageskasse – zum gleichen Preis. Zur Bestellung Zur Bestellung Ermäßigung Ermäßi"
+        },
+        "eintritt_frei": {
+          "url": "https://www.tebe.de/tickets/",
+          "stelle": "Ermäßigung. Wir bitten darum, einen gültigen Nachweis bereitzuhalten. Freier Eintritt – TeBe für Umme Junge Menschen bis 12 Jahre, aktive Spieler*innen uns"
+        },
+        "dauerkarte": {
+          "url": "https://www.tebe.de/tickets/",
+          "stelle": "Preis. Zur Bestellung Zur Bestellung Ermäßigung Ermäßigte Tages- und Dauerkarten können von Mitgliedern und Menschen mit geringem Einkommen genutzt w"
+        }
+      },
+      "instagram": [
+        "tennisborussia"
+      ],
+      "emails": [
+        "TBAF@tebe.de",
+        "shop@tebe.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SG Union Klosterfelde",
+      "team_id": "SG Union Klosterfelde",
+      "homepage": "http://www.union-klosterfelde.de/index.php",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SG_Union_Klosterfelde",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "16348",
+      "ort_qid": "Q525555",
+      "ort": "Wandlitz",
+      "verein": "SG Union Klosterfelde",
+      "land": "BB",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.union-klosterfelde.de/index.php (HTTP 404)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSG Neustrelitz",
+      "team_id": "TSG Neustrelitz",
+      "homepage": "http://www.tsg-neustrelitz.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSG_Neustrelitz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "17235",
+      "ort_qid": "Q20352",
+      "ort": "Neustrelitz",
+      "verein": "TSG Neustrelitz",
+      "land": "MV",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.tsg-neustrelitz.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "tsg_neustrelitz_official"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "1. FC Lok Stendal",
+      "team_id": "1. FC Lok Stendal",
+      "homepage": "https://www.1fc-lok-stendal.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_Lok_Stendal",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "39576",
+      "ort_qid": "Q7082",
+      "ort": "Stendal",
+      "verein": "1. FC Lok Stendal",
+      "land": "ST",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.1fc-lok-stendal.de/",
+        "https://www.1fc-lok-stendal.de/verein/neuigkeiten/erstemanner-7-spieltag-26-27"
+      ],
+      "nicht_lesbar": [
+        "https://www.1fc-lok-stendal.de/verein/neuigkeiten/erstemanner-8-spieltag-26-27 (HTTP 500)"
+      ],
+      "funde": {},
+      "instagram": [
+        "1.fc_lok_stendal",
+        "schubert_gmbh"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TuS Makkabi Berlin",
+      "team_id": "TuS Makkabi Berlin",
+      "homepage": "https://tus-makkabi.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TuS_Makkabi_Berlin",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "10115",
+      "ort_qid": "Q64",
+      "ort": "Berlin",
+      "verein": "TuS Makkabi Berlin",
+      "land": "BE",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tus-makkabi.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "tusmakkabiberlin"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    }
+  ]
+}

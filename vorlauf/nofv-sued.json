@@ -1,0 +1,660 @@
+{
+  "liga": "nofv-sued",
+  "stand": "2026-11-16",
+  "quelle": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+  "abrufe": 44,
+  "teams": [
+    {
+      "verband_name": "VfB Auerbach",
+      "team_id": "VfB Auerbach",
+      "homepage": "http://www.vfb-auerbach.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfB_Auerbach",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "08209",
+      "ort_qid": "Q46843",
+      "ort": "Auerbach/Vogtl.",
+      "verein": "VfB Auerbach",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://vfb-auerbach.de/",
+        "https://vfb-auerbach.de/verein/stadion/preise"
+      ],
+      "nicht_lesbar": [
+        "https://vfb-auerbach.de/verein/stadion/verein/stadion/preise (HTTP 404)"
+      ],
+      "funde": {},
+      "instagram": [
+        "vfbauerbach"
+      ],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 8,
+          "url": "https://vfb-auerbach.de/verein/stadion/preise",
+          "stelle": "vollzahler 8,00 €"
+        },
+        {
+          "eur": 89,
+          "url": "https://vfb-auerbach.de/verein/stadion/preise",
+          "stelle": "vollzahler 89,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Vereinsticket",
+        "beleg": "https://vfb-auerbach.de/verein/stadion/preise",
+        "wie": "eingebunden auf https://vfb-auerbach.de/verein/stadion/preise"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VfB Germania Halberstadt",
+      "team_id": "VfB Germania Halberstadt",
+      "homepage": "https://www.vfbgermaniahalberstadt.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfB_Germania_Halberstadt",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "38820",
+      "ort_qid": "Q7072",
+      "ort": "Halberstadt",
+      "verein": "VfB Germania Halberstadt",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vfbgermaniahalberstadt.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "ZFC Meuselwitz",
+      "team_id": "ZFC Meuselwitz",
+      "homepage": "https://www.zfc.de/startseite.html",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/ZFC_Meuselwitz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "04610",
+      "ort_qid": "Q518356",
+      "ort": "Meuselwitz",
+      "verein": "ZFC Meuselwitz",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.zfc.de/startseite.html",
+        "https://www.zfc.de/News/1238596362/1661241030/Online-Tickets",
+        "https://www.zfc.de/News/1238596362/1781597803/tickets_26_27"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "nur_abendkasse": {
+          "url": "https://www.zfc.de/News/1238596362/1661241030/Online-Tickets",
+          "stelle": "nn bzw. immer spätestens Freitagmittag 12:00 Uhr. Tickets sind danach ausschließlich zum Spieltag an den Tageskassen erhältlich. Wir bitten um Beachtung! ZFC Meuselwitz e.V. Geschwister"
+        },
+        "abendkasse": {
+          "url": "https://www.zfc.de/News/1238596362/1661241030/Online-Tickets",
+          "stelle": "tag 12:00 Uhr. Tickets sind danach ausschließlich zum Spieltag an den Tageskassen erhältlich. Wir bitten um Beachtung! ZFC Meuselwitz e.V. Geschwister"
+        },
+        "vorverkauf": {
+          "url": "https://www.zfc.de/News/1238596362/1661241030/Online-Tickets",
+          "stelle": "Archiv www.zfc.de -> www.zcontent.de --> Online-Ticketshop Der Online-Vorverkauf schließt automatisch 24 Stunden vor Spielbeginn bzw. immer spätestens"
+        },
+        "von_hand": {
+          "url": "https://www.zfc.de/News/1238596362/1781597803/tickets_26_27",
+          "stelle": "itzplatz Block B (Sparkassen-Tribüne) Sitzplatz Block C (Süd-Tribüne, reserviert für Ehrengäste ) 14,00 € 19,00 € Sektor GELB: Stehplatz Block L - O"
+        },
+        "dauerkarte": {
+          "url": "https://www.zfc.de/News/1238596362/1781597803/tickets_26_27",
+          "stelle": "is 14 Jahre und Mitglieder bei freier Platzwahl (außer Belegung durch Dauerkarteninhaber) in der gesamten Arena. Abweichende Preise bei einzelnen Spie"
+        }
+      },
+      "instagram": [
+        "zfcmeuselwitz_official"
+      ],
+      "emails": [
+        "gs@zfc",
+        "gs@zfc.de"
+      ],
+      "preise": [
+        {
+          "eur": 4,
+          "url": "https://www.zfc.de/News/1238596362/1781597803/tickets_26_27",
+          "stelle": "erwachsene bzw. 4 euro"
+        }
+      ],
+      "anbieter": {
+        "name": "leoticket",
+        "beleg": "https://www.zfc.de/News/1238596362/1661241030/Online-Tickets",
+        "wie": "eingebunden auf https://www.zfc.de/News/1238596362/1661241030/Online-Tickets"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VfL Halle 1896",
+      "team_id": "VfL Halle 1896",
+      "homepage": "https://www.vflhalle96.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfL_Halle_1896",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "06108",
+      "ort_qid": "Q2814",
+      "ort": "Halle (Saale)",
+      "verein": "VfL Halle 1896",
+      "land": "ST",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vflhalle96.de/",
+        "https://www.vflhalle96.de/stadion-am-zoo/tickets/",
+        "https://www.vflhalle96.de/vfl-dreht-spiel-und-holt-zweiten-saisonsieg-im-zweiten-heimspiel/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "nur_abendkasse": {
+          "url": "https://www.vflhalle96.de/stadion-am-zoo/tickets/",
+          "stelle": "alle 1896 e.V. &#183; Stadion am Zoo Tickets & Einlass Karten gibt es nur an der Tageskasse im Stadion &#8211; kein Vorverkauf, kein Online-Verkauf. Einfach vorb"
+        },
+        "abendkasse": {
+          "url": "https://www.vflhalle96.de/stadion-am-zoo/tickets/",
+          "stelle": ".V. &#183; Stadion am Zoo Tickets & Einlass Karten gibt es nur an der Tageskasse im Stadion &#8211; kein Vorverkauf, kein Online-Verkauf. Einfach vorb"
+        },
+        "vorverkauf": {
+          "url": "https://www.vflhalle96.de/stadion-am-zoo/tickets/",
+          "stelle": "Einlass Karten gibt es nur an der Tageskasse im Stadion &#8211; kein Vorverkauf, kein Online-Verkauf. Einfach vorbeikommen. Anfahrt & Parken &#8594;"
+        },
+        "dauerkarte": {
+          "url": "https://www.vflhalle96.de/stadion-am-zoo/tickets/",
+          "stelle": "d Freie Platzwahl 10,00 € Freie Platzwahl, erm&#228;&#223;igt* 7,00 € Dauerkarten Freie Platzwahl 110,00 € Freie Platzwahl, erm&#228;&#223;igt* 90,00"
+        }
+      },
+      "instagram": [
+        "vflhalle1896.official",
+        "vflhalle1896.nachwuchs",
+        "vflhalle1896"
+      ],
+      "emails": [
+        "verein@vflhalle96.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Eilenburg",
+      "team_id": "FC Eilenburg",
+      "homepage": "http://www.fceilenburg.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Eilenburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "04838",
+      "ort_qid": "Q12055",
+      "ort": "Eilenburg",
+      "verein": "FC Eilenburg",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fceilenburg.com/",
+        "https://fceilenburg.com/eintrittspreise/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://fceilenburg.com/eintrittspreise/",
+          "stelle": "10,00 Tageskarte Ermäßigt (Schwerbehinderte, Rentner, Schüler) € 8,00 Dauerkarten Dauerkarte Vollzahler (Alle Heimspiele in der Oberliga mit Parkkarte"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SC Freital",
+      "team_id": "SC Freital",
+      "homepage": "https://www.scfreital.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Freital",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "01705",
+      "ort_qid": "Q5870",
+      "ort": "Freital",
+      "verein": "SC Freital",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.scfreital.de/",
+        "https://scfreital.vibe-shop.io/de",
+        "https://scfreital.vibe-shop.io/de/tickets/OZSUX4H437LVCOVFE4TTLJZNUQ"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "sc_freital"
+      ],
+      "emails": [
+        "geschaeftsstelle@scfreital.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "vibe",
+        "beleg": "https://scfreital.vibe-shop.io/de",
+        "wie": "eingebunden auf https://scfreital.vibe-shop.io/de"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VFC Plauen",
+      "team_id": "VFC Plauen",
+      "homepage": "https://vfc-plauen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VFC_Plauen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "08523",
+      "ort_qid": "Q3952",
+      "ort": "Plauen",
+      "verein": "VFC Plauen",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://vfc-plauen.de/",
+        "https://vfc-plauen.de/stadion-eintrittspreise/",
+        "https://vfc-plauen.de/eintrittspreise/",
+        "https://vfc-plauen.de/spieltagsplakate/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://vfc-plauen.de/",
+          "stelle": "im Reichenbacher FC am 15.11. sind eingetroffen! Exklusiv beginnt der Vorverkauf am Donnerstag, 18 Uhr zum VFC-Stammtisch in der Stadionklause. Zu Gas"
+        },
+        "bar": {
+          "url": "https://vfc-plauen.de/",
+          "stelle": "11:30 Uhr * Bezahlung: Im gesamten Stadionbereich ist ausschließlich Barzahlung möglich. [&hellip;] Kleines Vogtlandderby im Achtelfinale &#8211; Fan"
+        },
+        "dauerkarte": {
+          "url": "https://vfc-plauen.de/eintrittspreise/",
+          "stelle": "ung mit einem entsprechenden Nachweis &#8211; Mitglieder erhalten die Dauerkarte gegen Vorlage ihres Mitgliederausweises &#8211; Kinder unter sechs Ja"
+        }
+      },
+      "instagram": [
+        "vfc_plauen"
+      ],
+      "emails": [
+        "vfc@vfc-plauen.de"
+      ],
+      "preise": [
+        {
+          "eur": 11,
+          "url": "https://vfc-plauen.de/eintrittspreise/",
+          "stelle": "tageskarte vollzahler tribüne a/b 11,00 euro"
+        },
+        {
+          "eur": 8,
+          "url": "https://vfc-plauen.de/eintrittspreise/",
+          "stelle": "tageskarte ermäßigt tribüne a/b* 8,00 euro"
+        },
+        {
+          "eur": 8,
+          "url": "https://vfc-plauen.de/eintrittspreise/",
+          "stelle": "tageskarte mitglied tribüne a/b* 8,00 euro"
+        },
+        {
+          "eur": 8,
+          "url": "https://vfc-plauen.de/eintrittspreise/",
+          "stelle": "tageskarte vollzahler stehplatz 8,00 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Dynamo Dresden II",
+      "team_id": "Dynamo Dresden#Zweite Mannschaft / Future Team U23",
+      "homepage": "https://www.dynamo-dresden.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Dynamo_Dresden%23Zweite_Mannschaft_%2F_Future_Team_U23",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "01067",
+      "ort_qid": "Q1731",
+      "ort": "Dresden",
+      "verein": "Dynamo Dresden II",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SSC Weißenfels",
+      "team_id": "BSG Fortschritt Weißenfels",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/BSG_Fortschritt_Wei%C3%9Fenfels",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "SSC Weißenfels",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SG Union Sandersdorf",
+      "team_id": "SG Union Sandersdorf",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SG_Union_Sandersdorf",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "06792",
+      "ort_qid": "Q2885796",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Sandersdorf-Brehna",
+      "verein": "SG Union Sandersdorf",
+      "land": "ST",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Einheit Wernigerode",
+      "team_id": "FC Einheit Wernigerode",
+      "homepage": "http://www.fc-einheit.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Einheit_Wernigerode",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "38855",
+      "ort_qid": "Q15982",
+      "ort": "Wernigerode",
+      "verein": "FC Einheit Wernigerode",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fc-einheit.de/",
+        "https://www.fc-einheit.de/richtungsweisendes-heimspiel/",
+        "https://www.fc-einheit.de/halloween-spieltag-am-mannsberg/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.fc-einheit.de/richtungsweisendes-heimspiel/",
+          "stelle": "g, 08.11.2026 Mannsberg-Stadion, Amtsfeldstraße 21, 38855 Wernigerode Tageskasse geöffnet teilen: Beitrags-Navigation letzter Beitrag Halloween-Spielt"
+        }
+      },
+      "instagram": [
+        "fc_einheit"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "VfB Krieschow",
+      "team_id": "VfB Krieschow",
+      "homepage": "http://www.vfb-krieschow.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfB_Krieschow",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "03099",
+      "ort_qid": "Q165050",
+      "ort": "Krieschow",
+      "verein": "VfB Krieschow",
+      "land": "BB",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vfb-krieschow.de/",
+        "https://www.vfb-krieschow.de/tickets"
+      ],
+      "nicht_lesbar": [
+        "https://www.vfb-krieschow.de/fussball/tickets (HTTP 404)"
+      ],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.vfb-krieschow.de/tickets",
+          "stelle": "YouTube Instagram Whatsapp Tiktok X Tickets Ticketverkauf Tickets im Vorverkauf erhaltet ihr während der Saison im Sporpark an jedem Donnerstag zwisc"
+        },
+        "dauerkarte": {
+          "url": "https://www.vfb-krieschow.de/tickets",
+          "stelle": "hier bei Eventim Ticketshop: VfB 1921 Krieschow e.V. (Tagestickets & Dauerkarten) Am Sportplatz 6 03099 Krieschow Donnerstag: 17:00 - 20:00 Uhr (auße"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 10,
+          "url": "https://www.vfb-krieschow.de/tickets",
+          "stelle": "vollzahler block a,b, c-k + tribüne 10,00 €"
+        },
+        {
+          "eur": 5,
+          "url": "https://www.vfb-krieschow.de/tickets",
+          "stelle": "tickets für testspiele 5,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://www.vfb-krieschow.de/tickets",
+        "wie": "eingebunden auf https://www.vfb-krieschow.de/tickets"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "VfB Empor Glauchau",
+      "team_id": "VfB Empor Glauchau",
+      "homepage": "http://www.vfb-empor-glauchau.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VfB_Empor_Glauchau",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "VfB Empor Glauchau",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://nicsell.com/de/domain/www.vfb-empor-glauchau.de"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "sales@nicsell.com"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FSV Budissa Bautzen",
+      "team_id": "FSV Budissa Bautzen",
+      "homepage": "http://www.budissa-bautzen.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FSV_Budissa_Bautzen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "02625",
+      "ort_qid": "Q14835",
+      "ort": "Bautzen",
+      "verein": "FSV Budissa Bautzen",
+      "land": "SN",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.budissa-bautzen.de/",
+        "https://www.budissa-bautzen.de/mitglieder-und-fans/heimspiele"
+      ],
+      "nicht_lesbar": [
+        "https://www.budissa-bautzen.de/mitglieder-und-fans/mitglieder-und-fans/heimspiele (HTTP 404)"
+      ],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.budissa-bautzen.de/",
+          "stelle": "a Bautzen Start|Saison 2026/2027 15. November 2026 Regionalcup Schön: Vorverkauf ab 18. November, 10 Uhr Auch „zwischen den Jahren“ wartet in Bautzen"
+        }
+      },
+      "instagram": [
+        "budissa_bautzen_official"
+      ],
+      "emails": [
+        "info@budissa-bautzen.de"
+      ],
+      "preise": [
+        {
+          "eur": 9,
+          "url": "https://www.budissa-bautzen.de/mitglieder-und-fans/heimspiele",
+          "stelle": "tageskarten stehplatz vollzahler i 9 euro"
+        }
+      ],
+      "anbieter": {
+        "name": "Etix",
+        "beleg": "https://www.budissa-bautzen.de/",
+        "wie": "eingebunden auf https://www.budissa-bautzen.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC Einheit Rudolstadt",
+      "team_id": "FC Einheit Rudolstadt",
+      "homepage": "http://www.einheit-rudolstadt.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Einheit_Rudolstadt",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "07407",
+      "ort_qid": "Q517107",
+      "ort": "Rudolstadt",
+      "verein": "FC Einheit Rudolstadt",
+      "land": "TH",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.einheit-rudolstadt.de/",
+        "https://www.einheit-rudolstadt.de/nachbetrachtung-i-zuschauer-im-fokus/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "einheitrudolstadt"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "1. FC Frankfurt",
+      "team_id": "1. FC Frankfurt",
+      "homepage": "http://www.fcfrankfurt.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/1._FC_Frankfurt",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "15230",
+      "ort_qid": "Q4024",
+      "ort": "Frankfurt (Oder)",
+      "verein": "1. FC Frankfurt",
+      "land": "BB",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fcfrankfurt.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.fcfrankfurt.de/",
+          "stelle": "und ihrer F 16. Juni 1 Min. Lesezeit Sichere dir dein Ticket! - Ticketvorverkauf fürs Fußballfest am 01.08.2026 Vorverkaufsbeginn ab Donnerstag, den 3"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@fcfrankfurt.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    }
+  ]
+}

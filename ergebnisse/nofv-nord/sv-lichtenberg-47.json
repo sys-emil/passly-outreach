@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "SV Lichtenberg 47",
+    "ort": "Berlin",
+    "land": "BE",
+    "liga": "nofv-nord",
+    "liga_name": "NOFV-Oberliga Nord (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.lichtenberg47.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ticket.io",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über ticket.io (eingebunden auf https://www.lichtenberg47.de/: https://www.lichtenberg47.de/).",
+    "quellen": [
+      "https://www.lichtenberg47.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 7,
+    "quellen_belegt": [
+      "https://www.lichtenberg47.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „SV Lichtenberg 47“. Gelesen: https://www.lichtenberg47.de/, https://www.lichtenberg47.de/iCal/12-spieltag-nofv-oberliga-nord-lichtenberg-47-fuechse-berlin-2026-11-20-19-00.ics, https://www.lichtenberg47.de/iCal/13-spieltag-nofv-oberliga-nord-sparta-lichtenberg-lichtenberg-47-2026-11-29-13-30.ics, https://www.lichtenberg47.de/iCal/14-spieltag-nofv-oberliga-nord-lichtenberg-47-berliner-ak-2026-12-05-13-00.ics, https://www.lichtenberg47.de/iCal/15-spieltag-nofv-oberliga-nord-eintracht-mahlsdorf-lichtenberg-47-2026-12-12-13-00.ics, https://www.lichtenberg47.de/sechster-spieltag-beim-kinderfestival-der-e-juniorinnen-kalte-temperaturen-heisse-leistung/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.lichtenberg47.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.lichtenberg47.de/"
+        ]
+      }
+    }
+  }
+}

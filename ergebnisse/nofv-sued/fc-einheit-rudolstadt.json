@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "FC Einheit Rudolstadt",
+    "ort": "Rudolstadt",
+    "land": "TH",
+    "liga": "nofv-sued",
+    "liga_name": "NOFV-Oberliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.einheit-rudolstadt.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "einheitrudolstadt",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von FC Einheit Rudolstadt nennen weder Eintrittspreise noch einen Ticketweg für die NOFV-Oberliga Süd.",
+    "quellen": [
+      "https://www.einheit-rudolstadt.de/",
+      "https://www.einheit-rudolstadt.de/nachbetrachtung-i-zuschauer-im-fokus/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.einheit-rudolstadt.de/",
+      "https://www.einheit-rudolstadt.de/nachbetrachtung-i-zuschauer-im-fokus/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. Am 14.11.2026 laut Verein mehr als 2.200 Besucher.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.einheit-rudolstadt.de/",
+      "https://www.einheit-rudolstadt.de/nachbetrachtung-i-zuschauer-im-fokus/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.einheit-rudolstadt.de/",
+          "https://www.einheit-rudolstadt.de/nachbetrachtung-i-zuschauer-im-fokus/"
+        ]
+      }
+    }
+  }
+}

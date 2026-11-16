@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "VfB Germania Halberstadt",
+    "ort": "Halberstadt",
+    "land": "NI",
+    "liga": "nofv-sued",
+    "liga_name": "NOFV-Oberliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.vfbgermaniahalberstadt.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": 10,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "vfbgermaniahalberstadtev",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketpreise: Stehplatz 10 € (ermäßigt 9 €, Mitglied 5 €), Sitzplatz 15 €; Dauerkarten je Block 120 bis 210 €, getrennt nach Stamm- und Neukunden. Verkaufsweg nicht genannt, kein Ticketshop verlinkt.",
+    "quellen": [
+      "https://www.vfbgermaniahalberstadt.de/oberligateam/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.vfbgermaniahalberstadt.de/oberligateam/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. Stamm-/Neukundenpreise bei Dauerkarten: der Verein führt eine Kundenliste.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.vfbgermaniahalberstadt.de/oberligateam/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.vfbgermaniahalberstadt.de/oberligateam/"
+        ],
+        "instagram": [
+          "https://www.vfbgermaniahalberstadt.de/oberligateam/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab eure Ticketpreise gesehen, mit eigenen Dauerkartenpreisen für Stamm- und Neukunden je Block. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Blöcke und Stammkunden-Preise lassen sich abbilden. Für euch kostenlos. Passt ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: VfB Germania Halberstadt über die Kontaktseite.\n- Einstieg: Stehplatz 10 €, Sitzplatz 15 €, Dauerkarten je Block 120 bis 210 € für Stamm- und Neukunden.\n- Frage: Wie verkauft ihr die Dauerkarten, und wie haltet ihr fest, wer Stammkunde ist?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

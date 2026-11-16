@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "BSV Eintracht Mahlsdorf",
+    "ort": "Berlin",
+    "land": "BE",
+    "liga": "nofv-nord",
+    "liga_name": "NOFV-Oberliga Nord (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.bsv-eintracht-mahlsdorf.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "eintracht_mahlsdorf_official",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von BSV Eintracht Mahlsdorf nennen weder Eintrittspreise noch einen Ticketweg für die NOFV-Oberliga Nord.",
+    "quellen": [
+      "https://www.bsv-eintracht-mahlsdorf.de/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.bsv-eintracht-mahlsdorf.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.bsv-eintracht-mahlsdorf.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.bsv-eintracht-mahlsdorf.de/"
+        ]
+      }
+    }
+  }
+}

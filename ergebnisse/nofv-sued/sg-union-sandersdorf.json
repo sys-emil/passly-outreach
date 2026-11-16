@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "SG Union Sandersdorf",
+    "ort": "Sandersdorf-Brehna",
+    "land": "ST",
+    "liga": "nofv-sued",
+    "liga_name": "NOFV-Oberliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.union-sandersdorf.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "sg_union_sandersdorf",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von SG Union Sandersdorf nennen weder Eintrittspreise noch einen Ticketweg für die NOFV-Oberliga Süd.",
+    "quellen": [
+      "https://www.union-sandersdorf.de/",
+      "https://www.union-sandersdorf.de/index.php/abteilungen/fussball"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.union-sandersdorf.de/",
+      "https://www.union-sandersdorf.de/index.php/abteilungen/fussball"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. Homepage geraten (nicht in Wikidata). „Eintritt: frei“ auf der Startseite gilt einer Vereinsveranstaltung, nicht den Ligaspielen.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.union-sandersdorf.de/",
+      "https://www.union-sandersdorf.de/index.php/abteilungen/fussball"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.union-sandersdorf.de/",
+          "https://www.union-sandersdorf.de/index.php/abteilungen/fussball"
+        ]
+      }
+    }
+  }
+}

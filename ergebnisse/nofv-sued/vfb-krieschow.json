@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "VfB Krieschow",
+    "ort": "Krieschow",
+    "land": "BB",
+    "liga": "nofv-sued",
+    "liga_name": "NOFV-Oberliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.vfb-krieschow.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": 10,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim Light (eingebunden auf https://www.vfb-krieschow.de/tickets: https://www.vfb-krieschow.de/tickets).",
+    "quellen": [
+      "https://www.vfb-krieschow.de/tickets",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.vfb-krieschow.de/tickets"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „VfB Krieschow“. Gelesen: https://www.vfb-krieschow.de/, https://www.vfb-krieschow.de/tickets.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.vfb-krieschow.de/tickets",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.vfb-krieschow.de/tickets"
+        ],
+        "anbieter": [
+          "https://www.vfb-krieschow.de/tickets"
+        ]
+      }
+    }
+  }
+}

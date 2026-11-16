@@ -1,0 +1,56 @@
+{
+  "verein": {
+    "name": "Tennis Borussia Berlin",
+    "ort": "Berlin",
+    "land": "BE",
+    "liga": "nofv-nord",
+    "liga_name": "NOFV-Oberliga Nord (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.tebe.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Vereinsshop (tebe.de/shop)",
+    "eintritt_frei": false,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "TennisBorussia",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseite: „Tagestickets gibt’s hier digital oder an der Tageskasse – zum gleichen Preis.“ Bestellung über den eigenen Shop auf tebe.de mit Warenkorb; limitierte Tickets werden per Mail bestätigt. Freier Eintritt nur für Kinder bis 12, Jugendspieler und Schiedsrichter.",
+    "quellen": [
+      "https://www.tebe.de/tickets/",
+      "https://www.tebe.de/shop/tickets/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.tebe.de/tickets/",
+      "https://www.tebe.de/shop/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Vorlauf hatte „Eintritt frei“ vermutet (Abschnitt „TeBe für Umme“); das gilt nur für Gruppen. 226 Zuschauer beim BAK laut Spielbericht.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tebe.de/tickets/",
+      "https://www.tebe.de/shop/tickets/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.tebe.de/tickets/",
+          "https://www.tebe.de/shop/tickets/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

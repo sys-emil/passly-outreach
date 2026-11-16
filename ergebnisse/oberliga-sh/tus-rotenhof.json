@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "TuS Rotenhof",
+    "ort": "Rendsburg",
+    "land": "SH",
+    "liga": "oberliga-sh",
+    "liga_name": "Oberliga Schleswig-Holstein (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.tus-rotenhof.de/startseite",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tusrotenhof_liga",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von TuS Rotenhof nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga Schleswig-Holstein.",
+    "quellen": [
+      "https://www.tus-rotenhof.de/startseite"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.tus-rotenhof.de/startseite"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. Fußballseite antwortete mit Fehler 500.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tus-rotenhof.de/startseite"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.tus-rotenhof.de/startseite"
+        ]
+      }
+    }
+  }
+}

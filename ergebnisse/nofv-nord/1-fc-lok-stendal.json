@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "1. FC Lok Stendal",
+    "ort": "Stendal",
+    "land": "ST",
+    "liga": "nofv-nord",
+    "liga_name": "NOFV-Oberliga Nord (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.1fc-lok-stendal.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "1.fc_lok_stendal",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von 1. FC Lok Stendal nennen weder Eintrittspreise noch einen Ticketweg für die NOFV-Oberliga Nord.",
+    "quellen": [
+      "https://www.1fc-lok-stendal.de/",
+      "https://www.1fc-lok-stendal.de/verein/neuigkeiten/erstemanner-7-spieltag-26-27"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.1fc-lok-stendal.de/",
+      "https://www.1fc-lok-stendal.de/verein/neuigkeiten/erstemanner-7-spieltag-26-27"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. Spielbericht 7. Spieltag: 133 Zuschauer.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.1fc-lok-stendal.de/",
+      "https://www.1fc-lok-stendal.de/verein/neuigkeiten/erstemanner-7-spieltag-26-27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.1fc-lok-stendal.de/",
+          "https://www.1fc-lok-stendal.de/verein/neuigkeiten/erstemanner-7-spieltag-26-27"
+        ]
+      }
+    }
+  }
+}

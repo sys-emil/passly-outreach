@@ -1,0 +1,70 @@
+{
+  "verein": {
+    "name": "FC Mecklenburg Schwerin",
+    "ort": "Schwerin",
+    "land": "MV",
+    "liga": "nofv-nord",
+    "liga_name": "NOFV-Oberliga Nord (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://fcm-schwerin.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": 10,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fcmecklenburgschwerin",
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Geschäftsstelle",
+      "kontakt": "info@fcm-schwerin.de"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite nennt „Ticketpreise Tageskarte: 10€, VIP-Tageskarte: 49€“ und „Über die Geschäftsstelle: Dauerkarte 1.Herren: 99€, Dauerkarte Gesamtverein: 149€, VIP-Dauerkarte: 649€“. In den News: Dauerkarte „in der Geschäftstelle per Telefon oder per Mail an info@fcm-schwerin.de“. Kein Online-Verkauf verlinkt.",
+    "quellen": [
+      "https://fcm-schwerin.de/",
+      "https://fcm-schwerin.de/herren/news/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://fcm-schwerin.de/",
+      "https://fcm-schwerin.de/herren/news/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Dauerkarten und VIP per Telefon/Mail über die Geschäftsstelle, Tageskarte vermutlich an der Kasse.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://fcm-schwerin.de/",
+      "https://fcm-schwerin.de/herren/news/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://fcm-schwerin.de/"
+        ],
+        "instagram": [
+          "https://fcm-schwerin.de/",
+          "https://fcm-schwerin.de/herren/news/"
+        ],
+        "ansprechperson": [
+          "https://fcm-schwerin.de/",
+          "https://fcm-schwerin.de/herren/news/"
+        ],
+        "vorverkauf": [
+          "https://fcm-schwerin.de/herren/news/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab gesehen, dass eure Dauerkarten und VIP-Karten über die Geschäftsstelle per Telefon oder Mail laufen. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Tageskarte, Dauerkarte und VIP im selben System. Für euch kostenlos. Passt ein kurzes Telefonat?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: FC Mecklenburg Schwerin, Geschäftsstelle, info@fcm-schwerin.de.\n- Einstieg: Tageskarte 10 €, VIP-Tageskarte 49 €, Dauerkarte 99 € über die Geschäftsstelle.\n- Frage: Wie viele Dauerkarten-Bestellungen kommen per Mail, und wie wird bezahlt?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

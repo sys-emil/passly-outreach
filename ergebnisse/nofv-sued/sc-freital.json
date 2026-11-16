@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "SC Freital",
+    "ort": "Freital",
+    "land": "SN",
+    "liga": "nofv-sued",
+    "liga_name": "NOFV-Oberliga Süd (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.scfreital.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "vibe",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "sc_freital",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über vibe (eingebunden auf https://scfreital.vibe-shop.io/de: https://scfreital.vibe-shop.io/de).",
+    "quellen": [
+      "https://scfreital.vibe-shop.io/de",
+      "https://www.scfreital.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://scfreital.vibe-shop.io/de",
+      "https://www.scfreital.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „SC Freital“. Gelesen: https://www.scfreital.de/, https://scfreital.vibe-shop.io/de, https://scfreital.vibe-shop.io/de/tickets/OZSUX4H437LVCOVFE4TTLJZNUQ.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://scfreital.vibe-shop.io/de",
+      "https://www.scfreital.de/",
+      "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Oberliga_Nordost_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://scfreital.vibe-shop.io/de"
+        ],
+        "instagram": [
+          "https://scfreital.vibe-shop.io/de",
+          "https://www.scfreital.de/"
+        ]
+      }
+    }
+  }
+}

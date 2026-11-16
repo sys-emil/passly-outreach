@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Kaltenkirchener TS",
+    "ort": "Kaltenkirchen",
+    "land": "SH",
+    "liga": "oberliga-sh",
+    "liga_name": "Oberliga Schleswig-Holstein (Fußball, 5. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.kaltenkirchener-turnerschaft.de",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "kt_1894",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von der Kaltenkirchener TS nennen weder Eintrittspreise noch einen Ticketweg für die Oberliga Schleswig-Holstein.",
+    "quellen": [
+      "https://www.kaltenkirchener-turnerschaft.de/",
+      "https://www.kaltenkirchener-turnerschaft.de/fussball/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.kaltenkirchener-turnerschaft.de/",
+      "https://www.kaltenkirchener-turnerschaft.de/fussball/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. Mehrspartenverein.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.kaltenkirchener-turnerschaft.de/",
+      "https://www.kaltenkirchener-turnerschaft.de/fussball/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.kaltenkirchener-turnerschaft.de/",
+          "https://www.kaltenkirchener-turnerschaft.de/fussball/"
+        ]
+      }
+    }
+  }
+}
