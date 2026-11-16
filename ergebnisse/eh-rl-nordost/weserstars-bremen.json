@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "Weserstars Bremen",
+    "land": null,
+    "liga": "eh-rl-nordost",
+    "liga_name": "Eishockey-Regionalliga Nordost (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://weserstars-eishockey.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "weserstars",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseite: „Tickets können online gekauft werden“, Eventim-Light-Shop eingebunden.",
+    "quellen": [
+      "https://weserstars-eishockey.de/tickets/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://weserstars-eishockey.de/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://weserstars-eishockey.de/tickets/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://weserstars-eishockey.de/tickets/"
+        ],
+        "instagram": [
+          "https://weserstars-eishockey.de/tickets/"
+        ]
+      }
+    }
+  }
+}

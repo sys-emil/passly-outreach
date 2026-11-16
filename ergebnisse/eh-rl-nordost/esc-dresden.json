@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "ESC Dresden",
+    "ort": "Dresden",
+    "land": "SN",
+    "liga": "eh-rl-nordost",
+    "liga_name": "Eishockey-Regionalliga Nordost (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.eisloewen.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Etix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "eisloewen_dd",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Etix (eingebunden auf https://www.eisloewen.de/: https://www.eisloewen.de/).",
+    "quellen": [
+      "https://www.eisloewen.de/",
+      "https://de.wikipedia.org/wiki/Eishockey-Regionalliga_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 6,
+    "quellen_belegt": [
+      "https://www.eisloewen.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Eishockey-Regionalliga_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „ESC Dresden“. Gelesen: https://www.eisloewen.de/, https://www.eisloewen.de/tickets/, https://www.eisloewen.de/dauerkarten/, https://www.eisloewen.de/sondertickets_rollstuhl_schwerbeschaedigte/, https://www.eisloewen.de/tickets/gaestefans/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.eisloewen.de/",
+      "https://de.wikipedia.org/wiki/Eishockey-Regionalliga_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.eisloewen.de/"
+        ],
+        "instagram": [
+          "https://www.eisloewen.de/"
+        ]
+      }
+    }
+  }
+}

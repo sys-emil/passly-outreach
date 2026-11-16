@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "EC Harzer Falken",
+    "land": null,
+    "liga": "eh-rl-nordost",
+    "liga_name": "Eishockey-Regionalliga Nordost (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.harzer-falken.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "leoticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "ec_harzerfalken",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite verlinkt den leoticket-Shop.",
+    "quellen": [
+      "https://www.harzer-falken.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.harzer-falken.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.harzer-falken.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.harzer-falken.de/"
+        ],
+        "instagram": [
+          "https://www.harzer-falken.de/"
+        ]
+      }
+    }
+  }
+}

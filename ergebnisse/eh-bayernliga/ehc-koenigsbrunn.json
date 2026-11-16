@@ -1,0 +1,50 @@
+{
+  "verein": {
+    "name": "EHC Königsbrunn",
+    "land": null,
+    "liga": "eh-bayernliga",
+    "liga_name": "Eishockey-Bayernliga (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.ehc-koenigsbrunn.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ditix (Einzelkarten)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Einzelkarten über ehc.ditix.shop; Dauerkarten per Bestellformular, „Wir melden uns … sobald deine Karte abholbereit ist“.",
+    "quellen": [
+      "https://www.ehc-koenigsbrunn.de/dauerkarten/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.ehc-koenigsbrunn.de/dauerkarten/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Dauerkarten per Formular und Abholung: Teil-Lücke.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.ehc-koenigsbrunn.de/dauerkarten/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.ehc-koenigsbrunn.de/dauerkarten/"
+        ]
+      }
+    }
+  }
+}

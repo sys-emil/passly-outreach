@@ -1,0 +1,49 @@
+{
+  "verein": {
+    "name": "Hamburger SV",
+    "land": null,
+    "liga": "eh-rl-nordost",
+    "liga_name": "Eishockey-Regionalliga Nordost (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.hsv.de/eishockey",
+    "vorverkauf": "anbieter",
+    "anbieter": "ticket-onlineshop.com (HSV)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Eishockeyseite verlinkt ticket-onlineshop.com/ols/hsv.",
+    "quellen": [
+      "https://www.hsv.de/eishockey"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Abteilung des HSV.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hsv.de/eishockey"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.hsv.de/eishockey"
+    ],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": []
+      },
+      "sicherheit_vorher": "hoch"
+    }
+  }
+}

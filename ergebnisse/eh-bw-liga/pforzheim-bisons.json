@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "Pforzheim Bisons",
+    "ort": "Pforzheim",
+    "land": "BW",
+    "liga": "eh-bw-liga",
+    "liga_name": "Eishockey-Baden-Württemberg-Liga (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.pforzheim-bisons.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ticket-onlineshop.com",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "1.cfrpforzheim",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Beitrag zur Saison 2022/23 bindet ticket-onlineshop.com ein; Stehplatz 10 €.",
+    "quellen": [
+      "https://www.pforzheim-bisons.de/2022/09/26/tickets-fuer-die-neue-saison-erhaeltlich-dauerkarte-wird-noch-attraktiver/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.pforzheim-bisons.de/2022/09/26/tickets-fuer-die-neue-saison-erhaeltlich-dauerkarte-wird-noch-attraktiver/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Nur alter Beleg (2022); Wikidata nannte die Fußballseite 1cfr.de.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.pforzheim-bisons.de/2022/09/26/tickets-fuer-die-neue-saison-erhaeltlich-dauerkarte-wird-noch-attraktiver/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.pforzheim-bisons.de/2022/09/26/tickets-fuer-die-neue-saison-erhaeltlich-dauerkarte-wird-noch-attraktiver/"
+        ],
+        "instagram": []
+      }
+    }
+  }
+}

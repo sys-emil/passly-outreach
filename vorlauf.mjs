@@ -62,6 +62,8 @@ const ANBIETER = [
   [/tickets\.snec\.de/, 'snec'],
   [/comfortticket\.de/, 'ComfortTicket'],
   [/snapticket\.de/, 'snapticket'],
+  [/tickethome\.at/, 'tickethome'],
+  [/\.regy\.me\//, 'regy.me'],
   [/tickets\.rodrigue\.de/, 'Rodrigue'],
   [/nono-events\.de/, 'nono events'],
   [/pass-consulting\.com/, 'PassShop (pass consulting)'],

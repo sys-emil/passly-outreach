@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "ESC Kempten",
+    "land": null,
+    "liga": "eh-bayernliga",
+    "liga_name": "Eishockey-Bayernliga (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.esc-kempten.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventbrite",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "esc.kempten",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Stadion- und Preiseseite mit „JETZT TICKET KAUFEN“, Eventbrite eingebunden; Dauerkarten vor Ort und online.",
+    "quellen": [
+      "https://www.esc-kempten.de/unser-stadion/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.esc-kempten.de/unser-stadion/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.esc-kempten.de/unser-stadion/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.esc-kempten.de/unser-stadion/"
+        ],
+        "instagram": [
+          "https://www.esc-kempten.de/unser-stadion/"
+        ]
+      }
+    }
+  }
+}

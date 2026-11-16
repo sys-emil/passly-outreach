@@ -1,0 +1,50 @@
+{
+  "verein": {
+    "name": "EV Dingolfing",
+    "ort": "Bayern",
+    "land": null,
+    "liga": "eh-bayernliga",
+    "liga_name": "Eishockey-Bayernliga (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://isarrats.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Shop (shop.isarrats.de)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseite verlinkt shop.isarrats.de für die Dauerkarte.",
+    "quellen": [
+      "https://isarrats.de/tickets-unterseiten/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://isarrats.de/tickets-unterseiten/"
+    ],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://isarrats.de/tickets-unterseiten/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": []
+      },
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

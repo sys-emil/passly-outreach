@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "Sande Jadehaie",
+    "ort": "Wilhelmshaven",
+    "land": "NI",
+    "liga": "eh-rl-nordost",
+    "liga_name": "Eishockey-Regionalliga Nordost (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://ecw-sande.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Nordsee Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "ecw_sande",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseite: „Der Online-Ticketverkauf erfolgt exklusiv über unseren Ticketpartner Nordsee Tickets.“ Vollzahler 12 € Vorverkauf, 14 € Abendkasse.",
+    "quellen": [
+      "https://ecw-sande.de/jadehaie/tickets/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://ecw-sande.de/jadehaie/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://ecw-sande.de/jadehaie/tickets/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://ecw-sande.de/jadehaie/tickets/"
+        ],
+        "instagram": [
+          "https://ecw-sande.de/jadehaie/tickets/"
+        ]
+      }
+    }
+  }
+}

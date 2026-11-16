@@ -1,0 +1,246 @@
+{
+  "liga": "eh-bw-liga",
+  "stand": "2026-11-16",
+  "quelle": "https://de.wikipedia.org/wiki/Eishockey-Regionalliga_2026/27",
+  "abrufe": 30,
+  "teams": [
+    {
+      "verband_name": "Black Eagles Reutlingen",
+      "team_id": "TSG Reutlingen",
+      "homepage": "http://www.tsg-reutlingen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSG_Reutlingen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Regionalliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Black Eagles Reutlingen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://tsg-reutlingen.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "tsgreutlingen1843"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "HEC Eisbären Heilbronn",
+      "team_id": "Heilbronner Falken#Eisbären Heilbronn",
+      "homepage": "http://www.heilbronner-falken.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Heilbronner_Falken%23Eisb%C3%A4ren_Heilbronn",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Regionalliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "HEC Eisbären Heilbronn",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.hec-falken.de/",
+        "https://www.hec-falken.de/tickets/",
+        "https://www.hec-falken.de/unser-line-up-fuer-das-heimspiel-gegen-die-hc-tigers-steht/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.hec-falken.de/tickets/",
+          "stelle": "DEN PREISEN Online Tickets ZUM ONLINE SHOP Dauerkarte ZU DEN PREISEN Vorverkauf ADRESSEN DER AUSGABESTELLEN ZEHNERKARTE ZU DEN PREISEN SPRADE TV AUSW"
+        },
+        "dauerkarte": {
+          "url": "https://www.hec-falken.de/tickets/",
+          "stelle": "N TICKETS EINZELTICKETS ZU DEN PREISEN Online Tickets ZUM ONLINE SHOP Dauerkarte ZU DEN PREISEN Vorverkauf ADRESSEN DER AUSGABESTELLEN ZEHNERKARTE ZU"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@hec-falken.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "EHC Zweibrücken",
+      "team_id": "EHC Zweibrücken",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/EHC_Zweibr%C3%BCcken",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Regionalliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "EHC Zweibrücken",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Pforzheim Bisons",
+      "team_id": "Pforzheim Bisons",
+      "homepage": "https://1cfr.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Pforzheim_Bisons",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Regionalliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "75172",
+      "ort_qid": "Q3046",
+      "ort": "Pforzheim",
+      "verein": "Pforzheim Bisons",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://1cfr.de/",
+        "https://1cfr.de/herren/erste-mannschaft/oberliga-baden-wuerttemberg-zuschauer/",
+        "https://1cfr.de/cfr-tippspiel-15-spieltag/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "1.cfrpforzheim"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Mad Dogs Mannheim",
+      "team_id": "EKU Mannheim Käfertal#Abteilung Eishockey",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/EKU_Mannheim_K%C3%A4fertal%23Abteilung_Eishockey",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Regionalliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "68159",
+      "ort_qid": "Q2119",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Mannheim",
+      "verein": "Mad Dogs Mannheim",
+      "land": "BW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Schwenninger Fire Wings",
+      "team_id": "Schwenninger Fire Wings",
+      "homepage": "http://www.wildwings.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Schwenninger_Fire_Wings",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Regionalliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Schwenninger Fire Wings",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.schwenninger-wildwings.de/",
+        "https://www.schwenninger-wildwings.de/tickets/einzeltickets/",
+        "https://www.schwenninger-wildwings.de/tickets/dauerkarten/",
+        "https://www.schwenninger-wildwings.de/tickets/hospitality/",
+        "https://www.schwenninger-wildwings.de/tickets/ticketinfos-2/"
+      ],
+      "nicht_lesbar": [
+        "https://www.schwenninger-wildwings.de/tickets/einzeltickets/--%3E%3C!-- (HTTP 404)"
+      ],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.schwenninger-wildwings.de/",
+          "stelle": "tistik Saison Spielplan Tabelle Kalender Events Tickets Einzeltickets Dauerkarte 2026|27 Online-Ticketshop VIP & Hospitality Q&A News Alle News Spielb"
+        },
+        "vorverkauf": {
+          "url": "https://www.schwenninger-wildwings.de/tickets/einzeltickets/",
+          "stelle": "schließlich über die Fanbetreuung der Gastmannschaft erhältlich sein. Vorverkaufsstellen: Tagestickets können neben den bekannten Vorverkaufsstellen,"
+        },
+        "von_hand": {
+          "url": "https://www.schwenninger-wildwings.de/tickets/einzeltickets/",
+          "stelle": "eikarte für eine Begleitperson [Tickets für Rollstuhlfahrer sowie Freikarten für Begleitpersonen sind ausschließlich vor Ort, telefonisch oder per Mail buchbar] Kontakt Impressum Datenschutzerklärung Barrierefreiheitserkl"
+        },
+        "abendkasse": {
+          "url": "https://www.schwenninger-wildwings.de/tickets/ticketinfos-2/",
+          "stelle": ", diese sind am Spieltag aber verhindert &#8211; kein Problem. An der Abendkasse kann das Ticket auch für einen Vollzahler upgetradet werden. ReSale:"
+        }
+      },
+      "instagram": [
+        "schwenningerwildwings"
+      ],
+      "emails": [
+        "tickets@wildwings.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.schwenninger-wildwings.de/",
+        "wie": "eingebunden auf https://www.schwenninger-wildwings.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "EC Eisbären Eppelheim",
+      "team_id": "EC Eisbären Eppelheim",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/EC_Eisb%C3%A4ren_Eppelheim",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Regionalliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "EC Eisbären Eppelheim",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    }
+  ]
+}

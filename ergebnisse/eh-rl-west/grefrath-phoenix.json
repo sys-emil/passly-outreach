@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "Grefrath Phoenix",
+    "land": null,
+    "liga": "eh-rl-west",
+    "liga_name": "Eishockey-Regionalliga West (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.grefrather-eg.de/",
+    "vorverkauf": "keiner",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "grefrathphoenix",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Eintrittspreise 2026/27: „Pay what you want!“ – Zuschauer bestimmen den Eintritt selbst. „Einlass-Bändchen (oder Stempel) sind nur an der Abendkasse erhältlich.“",
+    "quellen": [
+      "https://www.grefrather-eg.de/eintrittspreise/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.grefrather-eg.de/eintrittspreise/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Pay what you want: kein fester Preis, wenig Ticketgeschäft.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.grefrather-eg.de/eintrittspreise/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.grefrather-eg.de/eintrittspreise/"
+        ],
+        "vorverkauf": [
+          "https://www.grefrather-eg.de/eintrittspreise/"
+        ]
+      }
+    }
+  }
+}

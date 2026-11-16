@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "HEC Eisbären Heilbronn",
+    "land": null,
+    "liga": "eh-bw-liga",
+    "liga_name": "Eishockey-Baden-Württemberg-Liga (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.heilbronner-ec.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "vivenu",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "heilbronner_eishockey_club_e.v",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseite verlinkt hec.vivenushop.com; Abendkasse und Online-Einzelkarte.",
+    "quellen": [
+      "https://www.heilbronner-ec.de/teams/hec-eisbaeren-heilbronn/tickets"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.heilbronner-ec.de/teams/hec-eisbaeren-heilbronn/tickets"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.heilbronner-ec.de/teams/hec-eisbaeren-heilbronn/tickets"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.heilbronner-ec.de/teams/hec-eisbaeren-heilbronn/tickets"
+        ],
+        "instagram": [
+          "https://www.heilbronner-ec.de/teams/hec-eisbaeren-heilbronn/tickets"
+        ]
+      }
+    }
+  }
+}

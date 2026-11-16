@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "ERV Schweinfurt",
+    "ort": "Bayern",
+    "land": null,
+    "liga": "eh-bayernliga",
+    "liga_name": "Eishockey-Bayernliga (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.mightydogs.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "regy.me",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "mightydogsschweinfurt_official",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Eintrittspreise-Seite: „Tagestickets online bestellen, keine Wartezeiten an der Kasse“ über mightydogs.regy.me; „Keine Kartenzahlungen an der Abendkasse möglich!“",
+    "quellen": [
+      "https://www.mightydogs.de/eintrittspreise-saison-2026-2027/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.mightydogs.de/eintrittspreise-saison-2026-2027/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Abendkasse nur bar: Kartenzahlung an der Tür wäre ein Einstieg.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.mightydogs.de/eintrittspreise-saison-2026-2027/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.mightydogs.de/eintrittspreise-saison-2026-2027/"
+        ],
+        "instagram": [
+          "https://www.mightydogs.de/eintrittspreise-saison-2026-2027/"
+        ]
+      }
+    }
+  }
+}

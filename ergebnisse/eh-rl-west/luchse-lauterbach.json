@@ -1,0 +1,52 @@
+{
+  "verein": {
+    "name": "Luchse Lauterbach",
+    "land": null,
+    "liga": "eh-rl-west",
+    "liga_name": "Eishockey-Regionalliga West (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.luchse-lauterbach.de/",
+    "vorverkauf": "manuell",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Dauerkarten 2026/27 (115 €, ermäßigt 100 €) sind „bei unseren Partnern Getränke Müller und im Luchsbau zu den gewohnten Öffnungszeiten erhältlich“. Gruppen (Kirmesclubs, 8 €) melden sich per Mail an, „Die Ausgabe der Tickets beginnt ab 17:30 Uhr vor der Halle.“ Kein Online-Shop verlinkt.",
+    "quellen": [
+      "https://www.luchse-lauterbach.de/dauerkartenverkauf-ab-sofort-bei-unseren-partnern/",
+      "https://www.luchse-lauterbach.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.luchse-lauterbach.de/dauerkartenverkauf-ab-sofort-bei-unseren-partnern/",
+      "https://www.luchse-lauterbach.de/"
+    ],
+    "notiz": "Aufsteiger in die Regionalliga West; Gruppenaktionen mit Ticketausgabe vor der Halle.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.luchse-lauterbach.de/dauerkartenverkauf-ab-sofort-bei-unseren-partnern/",
+      "https://www.luchse-lauterbach.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "vorverkauf": []
+      },
+      "sicherheit_vorher": "hoch"
+    }
+  }
+}

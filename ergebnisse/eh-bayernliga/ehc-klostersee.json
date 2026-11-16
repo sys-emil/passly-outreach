@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "EHC Klostersee",
+    "ort": "Bayern",
+    "land": null,
+    "liga": "eh-bayernliga",
+    "liga_name": "Eishockey-Bayernliga (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://ehc-klostersee.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "ehcklostersee",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseite der 1. Mannschaft bindet Reservix ein.",
+    "quellen": [
+      "https://ehc-klostersee.de/mannschaft1/tickets/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://ehc-klostersee.de/mannschaft1/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://ehc-klostersee.de/mannschaft1/tickets/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://ehc-klostersee.de/mannschaft1/tickets/"
+        ],
+        "instagram": [
+          "https://ehc-klostersee.de/mannschaft1/tickets/"
+        ]
+      }
+    }
+  }
+}

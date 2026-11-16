@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "EHC Zweibrücken",
+    "land": null,
+    "liga": "eh-bw-liga",
+    "liga_name": "Eishockey-Baden-Württemberg-Liga (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.ehc-zweibruecken.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim (Einzelkarten)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "ehc_zweibruecken_hornets",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseite: „Hier klicken um zum Online Ticketshop zu kommen“ (Eventim). Dauerkarten 140 € „ausschließlich an die E-Mail-Adresse dauerkarten@ehc-zweibruecken.de“, „Nur Barzahlung möglich!“",
+    "quellen": [
+      "https://www.ehc-zweibruecken.de/tickets-ehc-zweibruecken"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.ehc-zweibruecken.de/tickets-ehc-zweibruecken"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Dauerkarten per Mail und nur bar: Teil-Lücke.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.ehc-zweibruecken.de/tickets-ehc-zweibruecken"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.ehc-zweibruecken.de/tickets-ehc-zweibruecken"
+        ],
+        "instagram": [
+          "https://www.ehc-zweibruecken.de/tickets-ehc-zweibruecken"
+        ]
+      }
+    }
+  }
+}

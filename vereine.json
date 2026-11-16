@@ -697,6 +697,30 @@
         "format": "liste"
       },
       "vereine": []
+    },
+    "eh-bayernliga": {
+      "name": "Eishockey-Bayernliga (4. Liga)",
+      "sport": "Eishockey",
+      "quelle": { "typ": "wikipedia", "seite": "Eishockey-Regionalliga_2026/27", "staffel": "Bayernliga", "format": "liste" },
+      "vereine": []
+    },
+    "eh-bw-liga": {
+      "name": "Eishockey-Baden-Württemberg-Liga (4. Liga)",
+      "sport": "Eishockey",
+      "quelle": { "typ": "wikipedia", "seite": "Eishockey-Regionalliga_2026/27", "staffel": "Baden-Württemberg-Liga", "format": "liste" },
+      "vereine": []
+    },
+    "eh-rl-nordost": {
+      "name": "Eishockey-Regionalliga Nordost (4. Liga)",
+      "sport": "Eishockey",
+      "quelle": { "typ": "wikipedia", "seite": "Eishockey-Regionalliga_2026/27", "staffel": "Regionalliga Nordost", "format": "liste" },
+      "vereine": []
+    },
+    "eh-rl-west": {
+      "name": "Eishockey-Regionalliga West (4. Liga)",
+      "sport": "Eishockey",
+      "quelle": { "typ": "wikipedia", "seite": "Eishockey-Regionalliga_2026/27", "staffel": "Regionalliga West", "format": "liste" },
+      "vereine": []
     }
   }
 }

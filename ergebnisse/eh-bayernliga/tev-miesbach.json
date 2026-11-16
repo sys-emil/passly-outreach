@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "TEV Miesbach",
+    "ort": "Bayern",
+    "land": null,
+    "liga": "eh-bayernliga",
+    "liga_name": "Eishockey-Bayernliga (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.tev-miesbach.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "tickethome.at",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tev_miesbach",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketpreise-Seite: Online-Ticket über ticket107.tickethome.at, Saisonkarte dort kaufbar.",
+    "quellen": [
+      "https://www.tev-miesbach.de/ticketpreise"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.tev-miesbach.de/ticketpreise"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.tev-miesbach.de/ticketpreise"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.tev-miesbach.de/ticketpreise"
+        ],
+        "instagram": [
+          "https://www.tev-miesbach.de/ticketpreise"
+        ]
+      }
+    }
+  }
+}

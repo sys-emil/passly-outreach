@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "ESV Burgau",
+    "ort": "Bayern",
+    "land": null,
+    "liga": "eh-bayernliga",
+    "liga_name": "Eishockey-Bayernliga (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.eisbaeren-burgau.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Wix Events",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "esv.burgau",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseite mit Wix Events („Kein Warten an der Abendkasse“); Vorverkauf zusätzlich im Schuhgeschäft Schuhe Ehmann OHG. Erwachsene 10 €, Saisonkarte 149 €.",
+    "quellen": [
+      "https://www.eisbaeren-burgau.de/tickets",
+      "https://www.eisbaeren-burgau.de/verein/eintritt"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.eisbaeren-burgau.de/verein/eintritt"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.eisbaeren-burgau.de/tickets",
+      "https://www.eisbaeren-burgau.de/verein/eintritt"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.eisbaeren-burgau.de/tickets"
+    ],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.eisbaeren-burgau.de/verein/eintritt"
+        ],
+        "instagram": [
+          "https://www.eisbaeren-burgau.de/verein/eintritt"
+        ]
+      }
+    }
+  }
+}

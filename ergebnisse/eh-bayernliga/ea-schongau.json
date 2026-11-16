@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "EA Schongau",
+    "ort": "Bayern",
+    "land": null,
+    "liga": "eh-bayernliga",
+    "liga_name": "Eishockey-Bayernliga (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.schongau-mammuts.de/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": 11,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "ea_schongau",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von EA Schongau nennen weder Eintrittspreise noch einen Ticketweg für die Bayernliga.",
+    "quellen": [
+      "https://www.schongau-mammuts.de/eisstadion/eintrittspreise/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.schongau-mammuts.de/eisstadion/eintrittspreise/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Bei Oberliga-Vereinen meist Tageskasse vor Ort, hier aber nicht belegt. Preisliste (Stand 2025/26): Erwachsene 11 €, Saisonkarte 195 €; kein Verkaufsweg genannt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.schongau-mammuts.de/eisstadion/eintrittspreise/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "ticketpreis_eur": [
+          "https://www.schongau-mammuts.de/eisstadion/eintrittspreise/"
+        ],
+        "instagram": [
+          "https://www.schongau-mammuts.de/eisstadion/eintrittspreise/"
+        ]
+      }
+    }
+  },
+  "entwurf": "**Instagram-DM**\n\nHi, ich hab eure Preisliste gesehen, 11 € für die Spiele der Ersten, Saisonkarte 195 €. Einen Vorverkauf hab ich nicht gefunden. Ich baue Passly, einen Online-Vorverkauf für Vereine: Link in die Bio, Gäste zahlen per Karte oder Apple Pay, an der Tür wird mit dem Handy gescannt. Für euch kostenlos. Hättet ihr zehn Minuten am Telefon?\n\n**Telefonleitfaden**\n\n- Anrufen oder schreiben: EA Schongau über die Kontaktseite.\n- Einstieg: Bayernliga, Erwachsene 11 €, Saisonkarte 195 €, kein Verkaufsweg auf der Seite.\n- Frage: Wie verkauft ihr die Saisonkarten, und wie läuft die Kasse am Eisstadion?\n- Angebot: Nächstes Heimspiel kostenlos als Testlauf einrichten, Tageskasse und Dauerkarte im selben System, Auszahlung nach dem Spiel aufs Vereinskonto.\n- Abschluss: Link zu getpassly.de/sportvereine schicken, Testlauf vorschlagen."
+}

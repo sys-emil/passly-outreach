@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "Schönheider Wölfe",
+    "land": null,
+    "liga": "eh-rl-nordost",
+    "liga_name": "Eishockey-Regionalliga Nordost (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.schoenheider-woelfe.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Online-Ticketshop (Vereinsseite)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "schoenheider_woelfe",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Eintrittspreise-Seite: „Die Preise im Online-Ticketshop bleiben … unverändert“, online 1 € günstiger als an der Abendkasse.",
+    "quellen": [
+      "https://www.schoenheider-woelfe.de/eintrittspreise"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.schoenheider-woelfe.de/eintrittspreise"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.schoenheider-woelfe.de/eintrittspreise"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.schoenheider-woelfe.de/eintrittspreise"
+        ],
+        "instagram": [
+          "https://www.schoenheider-woelfe.de/eintrittspreise"
+        ]
+      }
+    }
+  }
+}

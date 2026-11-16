@@ -1,0 +1,57 @@
+{
+  "verein": {
+    "name": "Schwenninger Fire Wings",
+    "land": null,
+    "liga": "eh-bw-liga",
+    "liga_name": "Eishockey-Baden-Württemberg-Liga (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "http://www.wildwings.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "schwenningerwildwings",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.schwenninger-wildwings.de/: https://www.schwenninger-wildwings.de/).",
+    "quellen": [
+      "https://www.schwenninger-wildwings.de/",
+      "https://de.wikipedia.org/wiki/Eishockey-Regionalliga_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 6,
+    "quellen_belegt": [
+      "https://www.schwenninger-wildwings.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Eishockey-Regionalliga_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Schwenninger Fire Wings“. Gelesen: https://www.schwenninger-wildwings.de/, https://www.schwenninger-wildwings.de/tickets/einzeltickets/, https://www.schwenninger-wildwings.de/tickets/dauerkarten/, https://www.schwenninger-wildwings.de/tickets/hospitality/, https://www.schwenninger-wildwings.de/tickets/ticketinfos-2/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.schwenninger-wildwings.de/",
+      "https://de.wikipedia.org/wiki/Eishockey-Regionalliga_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.schwenninger-wildwings.de/"
+        ],
+        "instagram": [
+          "https://www.schwenninger-wildwings.de/"
+        ]
+      }
+    }
+  }
+}

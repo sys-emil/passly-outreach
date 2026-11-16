@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "Crocodiles Hamburg",
+    "land": null,
+    "liga": "eh-rl-nordost",
+    "liga_name": "Eishockey-Regionalliga Nordost (4. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.crocodiles-hamburg.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ticket-onlineshop.com",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "crocodiles.hamburg_official",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite verlinkt ticket-onlineshop.com/ols/crocodiles.",
+    "quellen": [
+      "https://www.crocodiles-hamburg.de/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.crocodiles-hamburg.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.crocodiles-hamburg.de/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.crocodiles-hamburg.de/"
+        ],
+        "instagram": [
+          "https://www.crocodiles-hamburg.de/"
+        ]
+      }
+    }
+  }
+}
