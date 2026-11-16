@@ -675,6 +675,28 @@
         "seite": "Fu%C3%9Fball-Regionalliga_Bayern_2026/27"
       },
       "vereine": []
+    },
+    "eh-oberliga-nord": {
+      "name": "Eishockey-Oberliga Nord (3. Liga)",
+      "sport": "Eishockey",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Eishockey-Oberliga_2026/27",
+        "staffel": "Oberliga Nord",
+        "format": "liste"
+      },
+      "vereine": []
+    },
+    "eh-oberliga-sued": {
+      "name": "Eishockey-Oberliga Süd (3. Liga)",
+      "sport": "Eishockey",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "Eishockey-Oberliga_2026/27",
+        "staffel": "Oberliga Süd",
+        "format": "liste"
+      },
+      "vereine": []
     }
   }
 }

@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "EHC Neuwied",
+    "land": null,
+    "liga": "eh-oberliga-nord",
+    "liga_name": "Eishockey-Oberliga Nord (3. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://diebaeren2016.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketshop-Seite bindet das VBO-Tickets-Plugin ein; Tageskarten ab 15 €.",
+    "quellen": [
+      "https://diebaeren2016.de/ticketshop/",
+      "https://diebaeren2016.de/tickets/tagestickets/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://diebaeren2016.de/ticketshop/",
+      "https://diebaeren2016.de/tickets/tagestickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Homepage geraten (nicht in Wikidata).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://diebaeren2016.de/ticketshop/",
+      "https://diebaeren2016.de/tickets/tagestickets/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://diebaeren2016.de/ticketshop/",
+          "https://diebaeren2016.de/tickets/tagestickets/"
+        ]
+      }
+    }
+  }
+}

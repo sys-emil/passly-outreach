@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "Hannover Indians",
+    "land": null,
+    "liga": "eh-oberliga-nord",
+    "liga_name": "Eishockey-Oberliga Nord (3. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.hannover-indians.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "hannover.indians.",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (eingebunden auf https://www.hannover-indians.de/: https://www.hannover-indians.de/).",
+    "quellen": [
+      "https://www.hannover-indians.de/",
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://www.hannover-indians.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Hannover Indians“. Gelesen: https://www.hannover-indians.de/, https://www.hannover-indians.de/eintrittspreise/, https://www.hannover-indians.de/dauerkarten-2026-2027/, https://www.hannover-indians.de/vip-tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hannover-indians.de/",
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.hannover-indians.de/"
+        ],
+        "instagram": []
+      }
+    }
+  }
+}

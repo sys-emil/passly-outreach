@@ -1,0 +1,488 @@
+{
+  "liga": "eh-oberliga-nord",
+  "stand": "2026-11-16",
+  "quelle": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+  "abrufe": 43,
+  "teams": [
+    {
+      "verband_name": "Hannover Scorpions",
+      "team_id": "Hannover Scorpions (2013)",
+      "homepage": "https://www.hannoverscorpions.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Hannover_Scorpions_(2013)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "30159",
+      "ort_qid": "Q1715",
+      "ort": "Hannover",
+      "verein": "Hannover Scorpions",
+      "land": "NI",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.hannoverscorpions.com/ (ERR_TLS_CERT_ALTNAME_INVALID)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Tilburg Trappers",
+      "team_id": "Tilburg Trappers",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Tilburg_Trappers",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Tilburg Trappers",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "MEC Halle 04",
+      "team_id": "Eishockey in Halle",
+      "homepage": "http://saalebulls.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Eishockey_in_Halle",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "MEC Halle 04",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.saalebulls.com/",
+        "https://www.saalebulls.com/fans/kostenfreier-eintritt-kinder/",
+        "https://www.saalebulls.com/tickets/",
+        "https://www.saalebulls.com/tickets/online-ticketshop/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.saalebulls.com/",
+          "stelle": "→ Abseits des Eises 13. November 2026 🔥Kleines Restkontingent an der Abendkasse🔥 Weiterlesen → Transfer 13. November 2026 Mick Hochreither kommt von"
+        },
+        "eintritt_frei": {
+          "url": "https://www.saalebulls.com/",
+          "stelle": "Liveticker ↗ Fans ▼ Fanclubs Galerien Newsletter Programmblatt Kostenfreier Eintritt für Kinder ASM-Eventbox Saale Bulls App Downloads Kalenderdatei Sonde"
+        },
+        "dauerkarte": {
+          "url": "https://www.saalebulls.com/",
+          "stelle": "News Spielplan Kader Tabelle Geschichte Tickets & Shop Tickets kaufen Dauerkarten Fanshop Sponsoring Newsletter Bleibe auf dem Laufenden mit den neues"
+        },
+        "vorverkauf": {
+          "url": "https://www.saalebulls.com/tickets/",
+          "stelle": "cket-Informationen Mehr → Online-Ticketshop Mehr → Dauerkarten Mehr → Vorverkaufsstellen Mehr → Hospitality Pakete Mehr → Oberliga Nord - 3. deutsche"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "VBO Tickets",
+        "beleg": "https://www.saalebulls.com/tickets/online-ticketshop/",
+        "wie": "eingebunden auf https://www.saalebulls.com/tickets/online-ticketshop/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Hannover Indians",
+      "team_id": "Hannover Indians",
+      "homepage": "https://www.hannover-indians.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Hannover_Indians",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Hannover Indians",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.hannover-indians.de/",
+        "https://www.hannover-indians.de/eintrittspreise/",
+        "https://www.hannover-indians.de/dauerkarten-2026-2027/",
+        "https://www.hannover-indians.de/vip-tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.hannover-indians.de/",
+          "stelle": "eam Spielplan Tickets Spielplan Oberliga Nord TICKETS Eintrittspreise Dauerkarten 2026/2027 VIP-Tickets Business-Partner ECHte Partner VIP-Tickets Ein"
+        },
+        "abendkasse": {
+          "url": "https://www.hannover-indians.de/eintrittspreise/",
+          "stelle": "Möglichkeit diesen Weg, um den Einlass zu vereinfachen. Doch auch die Abendkasse ist an Spieltagen geöffnet. Buchung von VIP-Tickets Ob zur eigenen Nu"
+        },
+        "vorverkauf": {
+          "url": "https://www.hannover-indians.de/eintrittspreise/",
+          "stelle": "n, Auszubildende, FSJ&#8217;ler, Arbeitssuchende, Schwerbehinderte Im Vorverkauf: Alle Preise zzgl. Vorverkaufsgebühren Informationen Ticket- und Einl"
+        },
+        "von_hand": {
+          "url": "https://www.hannover-indians.de/eintrittspreise/",
+          "stelle": "ts Ob zur eigenen Nutzung oder als Geschenk: Die Buchung von VIP-Tageskarten für unseren umfangreich renovierten VIP-Zelt ist ganz einfach per E-Mail möglich: Spiel aussuchen oder als Gutschein mit Spiel nach Wahl versc"
+        }
+      },
+      "instagram": [
+        "hannover.indians."
+      ],
+      "emails": [
+        "info@hannover-indians.de",
+        "dk@hannover-indians.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://www.hannover-indians.de/",
+        "wie": "eingebunden auf https://www.hannover-indians.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Black Dragons Erfurt",
+      "team_id": "Eishockey in Erfurt",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Eishockey_in_Erfurt",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Black Dragons Erfurt",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Herner EV 2007",
+      "team_id": "Herner EV",
+      "homepage": "https://www.herner-ev.com",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Herner_EV",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Herner EV 2007",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.herner-ev.com/",
+        "https://www.herner-ev.com/tickets/",
+        "https://www.herner-ev.com/eintrittspreise/",
+        "https://www.herner-ev.com/dauerkarten/",
+        "https://www.herner-ev.com/vip-tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.herner-ev.com/",
+          "stelle": "1B Tabelle 1b Statistik 1b Hobby Tickets Eintrittspreise Dauerkarten Vorverkaufsstellen VIP-Tickets Eislaufen Anderes Kontakt/Ansprechpartner Anschri"
+        },
+        "dauerkarte": {
+          "url": "https://www.herner-ev.com/",
+          "stelle": "1b Spielplan 1B Tabelle 1b Statistik 1b Hobby Tickets Eintrittspreise Dauerkarten Vorverkaufsstellen VIP-Tickets Eislaufen Anderes Kontakt/Ansprechpar"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@hannibal-arena-herne.de",
+        "marketing@herner-ev.com"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Hammer Eisbären",
+      "team_id": "Eishockey in Hamm",
+      "homepage": "https://www.hammer-eisbaeren.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Eishockey_in_Hamm",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Hammer Eisbären",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.hammer-eisbaeren.de/",
+        "https://www.hammer-eisbaeren.de/dauerkarten/"
+      ],
+      "nicht_lesbar": [
+        "https://www.hammer-eisbaeren.de/tickets/ (HTTP 404)"
+      ],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.hammer-eisbaeren.de/",
+          "stelle": "chwuchs Saison ▼ Spielplan Tabelle Statistik Tickets ▼ Tickets kaufen Dauerkarten Sprade TV Fanshop ▼ Artikel Warenkorb Versand- und Zahlungsarten Wid"
+        },
+        "von_hand": {
+          "url": "https://www.hammer-eisbaeren.de/dauerkarten/",
+          "stelle": "8; 1100 Vorbereitung inkludiert Alle Hauptrundenspiele inkl. Sitzplatzreservierung Playoff/Playdown Vorkaufsrecht zum Hauptrundenpreis Hier Klicken H"
+        }
+      },
+      "instagram": [
+        "hammereisbaeren"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.hammer-eisbaeren.de/",
+        "wie": "eingebunden auf https://www.hammer-eisbaeren.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Icefighters Leipzig",
+      "team_id": "Eishockey in Leipzig",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Eishockey_in_Leipzig",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Icefighters Leipzig",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Füchse Duisburg",
+      "team_id": "Füchse Duisburg",
+      "homepage": "https://senioren.evd-ev.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/F%C3%BCchse_Duisburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "47279",
+      "ort_qid": "Q2100",
+      "ort": "Duisburg",
+      "verein": "Füchse Duisburg",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fuechse-duisburg.de/",
+        "https://fuechse-duisburg.de/tickets/tagestickets/",
+        "https://fuechse-duisburg.de/tickets/vip-tickets/",
+        "https://fuechse-duisburg.de/tickets/dauerkarten/",
+        "https://fuechse-duisburg.de/tickets/malocher-dauerkarten/",
+        "https://fuechse-duisburg.de/tickets/ticket-informationen/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://fuechse-duisburg.de/",
+          "stelle": "burg TICKET-SHOP News Tickets Online Tickets Tagestickets VIP Tickets Dauerkarten Malocher Dauerkarten Ticket Informationen Saison Team Spielplan Club"
+        },
+        "abendkasse": {
+          "url": "https://fuechse-duisburg.de/tickets/tagestickets/",
+          "stelle": "für den Gästebereich sind über unseren Online-Ticketshop oder an der Abendkasse erhältlich. Dein Ticket bekommst du ganz einfach rund um die Uhr in u"
+        },
+        "von_hand": {
+          "url": "https://fuechse-duisburg.de/tickets/vip-tickets/",
+          "stelle": "sburger Füchse in einer einzigartigen Atmosphäre. Ihr Ticket umfasst: Reservierter Sitzplatz: Beste Sicht auf das Spielgeschehen Zugang zur alleato B"
+        }
+      },
+      "instagram": [
+        "fuechse_duisburg_official"
+      ],
+      "emails": [
+        "info@fuechse-duisburg.de",
+        "karten@fuechse-duisburg.de",
+        "dauerkarte@fuechse-duisburg.de"
+      ],
+      "preise": [
+        {
+          "eur": 24,
+          "url": "https://fuechse-duisburg.de/tickets/tagestickets/",
+          "stelle": "vollzahler: 24,00 €"
+        },
+        {
+          "eur": 20,
+          "url": "https://fuechse-duisburg.de/tickets/tagestickets/",
+          "stelle": "vollzahler: 20,00 €"
+        },
+        {
+          "eur": 18,
+          "url": "https://fuechse-duisburg.de/tickets/tagestickets/",
+          "stelle": "vollzahler: 18,00 €"
+        },
+        {
+          "eur": 16,
+          "url": "https://fuechse-duisburg.de/tickets/tagestickets/",
+          "stelle": "vollzahler: 16,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://fuechse-duisburg.de/",
+        "wie": "eingebunden auf https://fuechse-duisburg.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Rostock Piranhas",
+      "team_id": "Rostock Piranhas",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Rostock_Piranhas",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Rostock Piranhas",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Herford Ice Dragons",
+      "team_id": "Herforder EV",
+      "homepage": "http://herforder-ev.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Herforder_EV",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "32049",
+      "ort_qid": "Q3971",
+      "ort": "Herford",
+      "verein": "Herford Ice Dragons",
+      "land": "NW",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ice-dragons.de/",
+        "https://www.ice-dragons.de/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.ice-dragons.de/",
+          "stelle": "nuten vom Bahnhof und nur 1,8 Km von der Herforder Eishalle entfernt. Reservierungen mit dem Kennwort „Ice Dragons“ an herford@~@intercityhotel.com \ud83d"
+        },
+        "abendkasse": {
+          "url": "https://www.ice-dragons.de/tickets",
+          "stelle": "y Dragons Home Tickets Eintrittskarten 2026/2027 Eintrittskarte Preis Abendkasse Preis Vorverkauf normal 16,- € 15 ,- € ermäßigt 13,- € 12 ,- € Kind ("
+        },
+        "vorverkauf": {
+          "url": "https://www.ice-dragons.de/tickets",
+          "stelle": "ckets Eintrittskarten 2026/2027 Eintrittskarte Preis Abendkasse Preis Vorverkauf normal 16,- € 15 ,- € ermäßigt 13,- € 12 ,- € Kind (7-12 Jahre) 6,- €"
+        },
+        "dauerkarte": {
+          "url": "https://www.ice-dragons.de/tickets",
+          "stelle": "chaft und/oder Ermäßigung gilt pro Mitgliedschaft/Ermäßigung für eine Dauerkarte (Mitglied werden unter www.ice-dragons.de/verein/mitglied-werden ) ."
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://www.ice-dragons.de/tickets",
+        "wie": "eingebunden auf https://www.ice-dragons.de/tickets"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "EHC Neuwied",
+      "team_id": "EHC Neuwied",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/EHC_Neuwied",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "EHC Neuwied",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    }
+  ]
+}

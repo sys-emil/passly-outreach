@@ -1,0 +1,60 @@
+{
+  "verein": {
+    "name": "SC Riessersee",
+    "ort": "Garmisch-Partenkirchen",
+    "land": "BY",
+    "liga": "eh-oberliga-sued",
+    "liga_name": "Eishockey-Oberliga Süd (3. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.scriessersee.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "scriessersee",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (eingebunden auf https://www.scriessersee.de/tickets/online-ticket-shop: https://www.scriessersee.de/tickets/online-ticket-shop).",
+    "quellen": [
+      "https://www.scriessersee.de/tickets/online-ticket-shop",
+      "https://www.scriessersee.de/",
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 7,
+    "quellen_belegt": [
+      "https://www.scriessersee.de/tickets/online-ticket-shop",
+      "https://www.scriessersee.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „SC Riessersee“. Gelesen: https://www.scriessersee.de/, https://www.scriessersee.de/tickets/online-ticket-shop, https://www.scriessersee.de/tickets/saison-dauerkarten, https://www.scriessersee.de/tickets/zehnertickets, https://www.scriessersee.de/tickets/gruppenangebote, https://www.scriessersee.de/tickets/gutscheine.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.scriessersee.de/tickets/online-ticket-shop",
+      "https://www.scriessersee.de/",
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.scriessersee.de/tickets/online-ticket-shop",
+          "https://www.scriessersee.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

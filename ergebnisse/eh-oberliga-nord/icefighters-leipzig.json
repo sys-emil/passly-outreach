@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "Icefighters Leipzig",
+    "land": null,
+    "liga": "eh-oberliga-nord",
+    "liga_name": "Eishockey-Oberliga Nord (3. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://icefighters.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ticket-onlineshop.com",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "kswicefightersleipzig",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseite verlinkt ticket-onlineshop.com/ols/icefighters; Tageskasse mit Zuschlag.",
+    "quellen": [
+      "https://icefighters.de/tickets/einzelkarten"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://icefighters.de/tickets/einzelkarten"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Homepage geraten (nicht in Wikidata).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://icefighters.de/tickets/einzelkarten"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://icefighters.de/tickets/einzelkarten"
+        ],
+        "instagram": [
+          "https://icefighters.de/tickets/einzelkarten"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "Black Dragons Erfurt",
+    "land": null,
+    "liga": "eh-oberliga-nord",
+    "liga_name": "Eishockey-Oberliga Nord (3. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.black-dragons-erfurt.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Online-Ticketshop (Vereinsseite)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tecart_black_dragons",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Menü „Zum Online-Ticketshop“; Preise-Seite: online buchen spart „Wartezeiten an der Abendkasse“, Dauerkarten „über den Onlineshop oder an der Abendkasse“.",
+    "quellen": [
+      "https://www.black-dragons-erfurt.de/de/preise-pakete__11/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.black-dragons-erfurt.de/de/preise-pakete__11/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Homepage geraten (nicht in Wikidata).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.black-dragons-erfurt.de/de/preise-pakete__11/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.black-dragons-erfurt.de/de/preise-pakete__11/"
+        ],
+        "instagram": [
+          "https://www.black-dragons-erfurt.de/de/preise-pakete__11/"
+        ]
+      }
+    }
+  }
+}

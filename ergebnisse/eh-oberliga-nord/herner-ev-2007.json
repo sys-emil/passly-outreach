@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "Herner EV 2007",
+    "land": null,
+    "liga": "eh-oberliga-nord",
+    "liga_name": "Eishockey-Oberliga Nord (3. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.herner-ev.com",
+    "vorverkauf": "anbieter",
+    "anbieter": "Ticketmaster (Partnershop)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "hev_official",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Ticketseite verlinkt shops.ticketmasterpartners.com/herner-ev; Stehplatz 16 €, Kapazität 2.400 Steh- und 1.300 Sitzplätze.",
+    "quellen": [
+      "https://www.herner-ev.com/tickets/",
+      "https://www.herner-ev.com/eintrittspreise/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.herner-ev.com/tickets/",
+      "https://www.herner-ev.com/eintrittspreise/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.herner-ev.com/tickets/",
+      "https://www.herner-ev.com/eintrittspreise/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.herner-ev.com/tickets/",
+          "https://www.herner-ev.com/eintrittspreise/"
+        ],
+        "instagram": [
+          "https://www.herner-ev.com/tickets/",
+          "https://www.herner-ev.com/eintrittspreise/"
+        ]
+      }
+    }
+  }
+}

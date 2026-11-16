@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "MEC Halle 04",
+    "land": null,
+    "liga": "eh-oberliga-nord",
+    "liga_name": "Eishockey-Oberliga Nord (3. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "http://saalebulls.com/",
+    "vorverkauf": "anbieter",
+    "anbieter": "VBO Tickets",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über VBO Tickets (eingebunden auf https://www.saalebulls.com/tickets/online-ticketshop/: https://www.saalebulls.com/tickets/online-ticketshop/).",
+    "quellen": [
+      "https://www.saalebulls.com/tickets/online-ticketshop/",
+      "https://www.saalebulls.com/",
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://www.saalebulls.com/tickets/online-ticketshop/",
+      "https://www.saalebulls.com/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „MEC Halle 04“. Gelesen: https://www.saalebulls.com/, https://www.saalebulls.com/fans/kostenfreier-eintritt-kinder/, https://www.saalebulls.com/tickets/, https://www.saalebulls.com/tickets/online-ticketshop/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.saalebulls.com/tickets/online-ticketshop/",
+      "https://www.saalebulls.com/",
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.saalebulls.com/tickets/online-ticketshop/",
+          "https://www.saalebulls.com/"
+        ]
+      }
+    }
+  }
+}

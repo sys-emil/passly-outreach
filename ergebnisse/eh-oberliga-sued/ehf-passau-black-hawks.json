@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "EHF Passau Black Hawks",
+    "ort": "Bayern",
+    "land": null,
+    "liga": "eh-oberliga-sued",
+    "liga_name": "Eishockey-Oberliga Süd (3. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://blackhawks-passau.com",
+    "vorverkauf": "anbieter",
+    "anbieter": "Etix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Etix (eingebunden auf https://blackhawks-passau.com/: https://blackhawks-passau.com/).",
+    "quellen": [
+      "https://blackhawks-passau.com/",
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://blackhawks-passau.com/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „EHF Passau Black Hawks“. Gelesen: https://blackhawks-passau.com/, https://blackhawks-passau.com/tickets/, https://blackhawks-passau.com/dauerkarten/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://blackhawks-passau.com/",
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://blackhawks-passau.com/"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "Selber Wölfe",
+    "ort": "Bayern",
+    "land": null,
+    "liga": "eh-oberliga-sued",
+    "liga_name": "Eishockey-Oberliga Süd (3. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.verselb.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "selberwoelfe_juniors",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Eintrittspreise-Seite mit „Ticket kaufen“ über Reservix; Saisonkarte per Bestellformular.",
+    "quellen": [
+      "https://verselb.de/saison2021-2022/eintrittspreise-tickets/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://verselb.de/saison2021-2022/eintrittspreise-tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Preisseite liegt unter einem alten Saisonpfad.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://verselb.de/saison2021-2022/eintrittspreise-tickets/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://verselb.de/saison2021-2022/eintrittspreise-tickets/"
+        ],
+        "instagram": [
+          "https://verselb.de/saison2021-2022/eintrittspreise-tickets/"
+        ]
+      }
+    }
+  }
+}

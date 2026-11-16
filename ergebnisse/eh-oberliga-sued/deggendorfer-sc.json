@@ -1,0 +1,56 @@
+{
+  "verein": {
+    "name": "Deggendorfer SC",
+    "ort": "Bayern",
+    "land": null,
+    "liga": "eh-oberliga-sued",
+    "liga_name": "Eishockey-Oberliga Süd (3. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.dsc-eishockey.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "deggendorfersc",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (eingebunden auf https://www.dsc-eishockey.de/: https://www.dsc-eishockey.de/).",
+    "quellen": [
+      "https://www.dsc-eishockey.de/",
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.dsc-eishockey.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Deggendorfer SC“. Gelesen: https://www.dsc-eishockey.de/, https://www.dsc-eishockey.de/tickets/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.dsc-eishockey.de/",
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.dsc-eishockey.de/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

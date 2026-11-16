@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "Tilburg Trappers",
+    "land": null,
+    "liga": "eh-oberliga-nord",
+    "liga_name": "Eishockey-Oberliga Nord (3. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.trappers.nl/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketverkauf (mobile Tickets mit Ticket- und Bestellgebühr)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "tilburgtrappers",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Saisonkarten-Seite mit Preisen „exclusief € 5,40 ticketkosten en € 1,30 orderkosten“, mobile Tickets.",
+    "quellen": [
+      "https://www.trappers.nl/tickets/seizoenkaart"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://www.trappers.nl/tickets/seizoenkaart"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Niederländischer Verein, kein Zielmarkt.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.trappers.nl/tickets/seizoenkaart"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "instagram": [
+          "https://www.trappers.nl/tickets/seizoenkaart"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

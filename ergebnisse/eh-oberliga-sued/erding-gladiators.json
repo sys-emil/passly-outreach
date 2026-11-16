@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "Erding Gladiators",
+    "ort": "Bayern",
+    "land": null,
+    "liga": "eh-oberliga-sued",
+    "liga_name": "Eishockey-Oberliga Süd (3. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://erding-gladiators.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "ed_gladiators",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Eintrittspreise-Seite verlinkt erding-gladiators.reservix.de/events.",
+    "quellen": [
+      "https://erding-gladiators.de/eintrittspreise/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [
+      "https://erding-gladiators.de/eintrittspreise/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Wikidata nannte fc-erding.de; richtige Homepage geraten.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://erding-gladiators.de/eintrittspreise/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://erding-gladiators.de/eintrittspreise/"
+        ],
+        "instagram": [
+          "https://erding-gladiators.de/eintrittspreise/"
+        ]
+      }
+    }
+  }
+}

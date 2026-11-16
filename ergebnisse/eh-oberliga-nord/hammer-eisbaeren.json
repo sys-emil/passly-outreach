@@ -1,0 +1,57 @@
+{
+  "verein": {
+    "name": "Hammer Eisbären",
+    "land": null,
+    "liga": "eh-oberliga-nord",
+    "liga_name": "Eishockey-Oberliga Nord (3. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://www.hammer-eisbaeren.de",
+    "vorverkauf": "anbieter",
+    "anbieter": "Reservix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "hammereisbaeren",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Reservix (eingebunden auf https://www.hammer-eisbaeren.de/: https://www.hammer-eisbaeren.de/).",
+    "quellen": [
+      "https://www.hammer-eisbaeren.de/",
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.hammer-eisbaeren.de/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Hammer Eisbären“. Gelesen: https://www.hammer-eisbaeren.de/, https://www.hammer-eisbaeren.de/dauerkarten/.",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hammer-eisbaeren.de/",
+      "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": [
+          "https://www.hammer-eisbaeren.de/"
+        ],
+        "instagram": [
+          "https://www.hammer-eisbaeren.de/"
+        ]
+      }
+    }
+  }
+}

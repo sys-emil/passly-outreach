@@ -1,0 +1,50 @@
+{
+  "verein": {
+    "name": "Tölzer Löwen",
+    "ort": "Bad Tölz",
+    "land": "BY",
+    "liga": "eh-oberliga-sued",
+    "liga_name": "Eishockey-Oberliga Süd (3. Liga)",
+    "sport": "Eishockey"
+  },
+  "ergebnis": {
+    "website": "https://toelzer-eissport.de/",
+    "vorverkauf": "anbieter",
+    "anbieter": "ticket-onlineshop.com",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Startseite verlinkt ticket-onlineshop.com/ols/toelz.",
+    "quellen": [
+      "https://toelzer-eissport.de/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-16",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://toelzer-eissport.de/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://toelzer-eissport.de/"
+    ],
+    "pruefung": {
+      "am": "2026-11-16",
+      "fakten": {
+        "anbieter": []
+      },
+      "sicherheit_vorher": "hoch"
+    }
+  }
+}

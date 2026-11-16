@@ -239,7 +239,11 @@ async function stufe0Wikipedia(q) {
   } else {
     wt = wt.slice(Math.max(0, wt.search(/(?:Hand|Fuß)balltabelle\/Zeile/)));
   }
-  const zeilen = [...wt.matchAll(/(?:Hand|Fuß)balltabelle\/Zeile[^\n]*?Verein= *\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g)];
+  // format: 'liste' (seit 2026-11-16, Eishockey): Teilnehmer als Aufzählung „* [[Artikel|Name]]“
+  // im Staffelabschnitt statt als Tabellenzeilen.
+  const zeilen = q.format === 'liste'
+    ? [...wt.matchAll(/(?:^|\n)[ \t]*(?:\|[ \t]*liste[ \t]*=[ \t]*)?\*[ \t]*\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g)]
+    : [...wt.matchAll(/(?:Hand|Fuß)balltabelle\/Zeile[^\n]*?Verein= *\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g)];
   const teams = zeilen.map(([, artikel, name]) => ({
     verband_name: (name ?? artikel).trim(), team_id: artikel.trim(), homepage: null, ticketlink: null,
     verband_team_url: `https://de.wikipedia.org/wiki/${encodeURIComponent(artikel.trim().replace(/ /g, '_'))}`,

@@ -1,0 +1,632 @@
+{
+  "liga": "eh-oberliga-sued",
+  "stand": "2026-11-16",
+  "quelle": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+  "abrufe": 47,
+  "teams": [
+    {
+      "verband_name": "Selber Wölfe",
+      "team_id": "VER Selb",
+      "homepage": "https://www.verselb.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/VER_Selb",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "Selber Wölfe",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://verselb.de/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "selberwoelfe_juniors"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "EV Füssen",
+      "team_id": "EV Füssen",
+      "homepage": "http://www.ev-fuessen.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/EV_F%C3%BCssen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "87629",
+      "ort_qid": "Q262684",
+      "ort": "Füssen",
+      "verein": "EV Füssen",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.ev-fuessen.de/ (UND_ERR_CONNECT_TIMEOUT)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Deggendorfer SC",
+      "team_id": "Deggendorfer SC",
+      "homepage": "https://www.dsc-eishockey.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Deggendorfer_SC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "Deggendorfer SC",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.dsc-eishockey.de/",
+        "https://www.dsc-eishockey.de/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.dsc-eishockey.de/tickets/",
+          "stelle": "s Eintrittspreise Saison 2026/27 Hier online Tickets kaufen Stehplatz Dauerkarten 2026/27 Regulär Erwachsener All-Inclusive: 500,00 € Basic: 420,00 €"
+        }
+      },
+      "instagram": [
+        "deggendorfersc"
+      ],
+      "emails": [
+        "tobias.blechinger@dsc-eishockey.de"
+      ],
+      "preise": [
+        {
+          "eur": 10,
+          "url": "https://www.dsc-eishockey.de/tickets/",
+          "stelle": "erwachsener 10,00 €"
+        },
+        {
+          "eur": 16.5,
+          "url": "https://www.dsc-eishockey.de/tickets/",
+          "stelle": "erwachsener 16,50 €"
+        },
+        {
+          "eur": 15.5,
+          "url": "https://www.dsc-eishockey.de/tickets/",
+          "stelle": "erwachsener 15,50 €"
+        },
+        {
+          "eur": 13,
+          "url": "https://www.dsc-eishockey.de/tickets/",
+          "stelle": "erwachsener 13,00 €"
+        },
+        {
+          "eur": 27,
+          "url": "https://www.dsc-eishockey.de/tickets/",
+          "stelle": "erwachsener 27,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://www.dsc-eishockey.de/",
+        "wie": "eingebunden auf https://www.dsc-eishockey.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Tölzer Löwen",
+      "team_id": "EC Bad Tölz",
+      "homepage": "https://toelzer-eissport.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/EC_Bad_T%C3%B6lz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "83646",
+      "ort_qid": "Q280491",
+      "ort": "Bad Tölz",
+      "verein": "Tölzer Löwen",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://toelzer-eissport.de/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Stuttgart Rebels",
+      "team_id": "Stuttgart Rebels",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Stuttgart_Rebels",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Stuttgart Rebels",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SC Riessersee",
+      "team_id": "SC Riessersee",
+      "homepage": "https://www.scriessersee.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Riessersee",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "82467",
+      "ort_qid": "Q127043",
+      "ort": "Garmisch-Partenkirchen",
+      "verein": "SC Riessersee",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.scriessersee.de/",
+        "https://www.scriessersee.de/tickets/online-ticket-shop",
+        "https://www.scriessersee.de/tickets/saison-dauerkarten",
+        "https://www.scriessersee.de/tickets/zehnertickets",
+        "https://www.scriessersee.de/tickets/gruppenangebote",
+        "https://www.scriessersee.de/tickets/gutscheine"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.scriessersee.de/",
+          "stelle": "SC Riessersee - Eishockey - Oberliga Süd Tickets Tagestickets Saison Dauerkarten Zehnertickets Gruppenangebote Gutscheine Tickets für notleidende Fan"
+        },
+        "abendkasse": {
+          "url": "https://www.scriessersee.de/tickets/online-ticket-shop",
+          "stelle": "isshop Tickets für unsere Heimspiele. An Spieltagen werden zudem zwei Abendkassen geöffnet. Ab 90 Minuten vor Spielbeginn werden dort Tickets mit eine"
+        },
+        "vorverkauf": {
+          "url": "https://www.scriessersee.de/tickets/online-ticket-shop",
+          "stelle": "mit einer zusätzlichen Servicegebühr in Höhe von € 1,00 verkauft. Im Vorverkauf sind die Tickets ohne Gebühren in unserer Geschäftsstelle erhältlich."
+        },
+        "von_hand": {
+          "url": "https://www.scriessersee.de/tickets/saison-dauerkarten",
+          "stelle": "nlineshop erworben haben oder einen bestehenden Account besitzen eine Reservierung im „Mein Konto“-Bereich für eine Premium-Dauerkarte vor. Sollte ei"
+        }
+      },
+      "instagram": [
+        "scriessersee"
+      ],
+      "emails": [
+        "info@scr.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://www.scriessersee.de/tickets/online-ticket-shop",
+        "wie": "eingebunden auf https://www.scriessersee.de/tickets/online-ticket-shop"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Lindau Islanders",
+      "team_id": "EV Lindau",
+      "homepage": "https://evlindau.com",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/EV_Lindau",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "Lindau Islanders",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://evlindau.com/",
+        "https://evlindau.com/tickets/infos-preise/",
+        "https://evlindau.com/tickets/evl-fanartikel/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "nur_abendkasse": {
+          "url": "https://evlindau.com/tickets/infos-preise/",
+          "stelle": "hsene mit 2 Kinder 500 € *** 10 Spiele zahlen und 11 Spiele sehen *** Nur an der Tages/Abendkasse! 10 für 11er-Karte normal 140 Euro 10 für 11er-Karte ermäßigt 120 Eur"
+        },
+        "abendkasse": {
+          "url": "https://evlindau.com/tickets/infos-preise/",
+          "stelle": "r 500 € *** 10 Spiele zahlen und 11 Spiele sehen *** Nur an der Tages/Abendkasse! 10 für 11er-Karte normal 140 Euro 10 für 11er-Karte ermäßigt 120 Eur"
+        },
+        "dauerkarte": {
+          "url": "https://evlindau.com/tickets/infos-preise/",
+          "stelle": "e für die Spielsaison 2026|2027 Personen, welche als Neuerwerber eine Dauerkarte kaufen möchten, können diese ausschließlich über die Homepage der EV"
+        }
+      },
+      "instagram": [
+        "lindau_islanders"
+      ],
+      "emails": [
+        "gst@evlindau.com",
+        "fanshop@evlindau.com",
+        "mkorb@evlindau.com"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://evlindau.com/",
+        "wie": "eingebunden auf https://evlindau.com/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Heilbronner Falken",
+      "team_id": "Heilbronner Falken",
+      "homepage": "http://www.heilbronner-falken.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Heilbronner_Falken",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Heilbronner Falken",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.hec-falken.de/",
+        "https://www.hec-falken.de/tickets/",
+        "https://www.hec-falken.de/unser-line-up-fuer-das-heimspiel-gegen-die-hc-tigers-steht/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.hec-falken.de/tickets/",
+          "stelle": "DEN PREISEN Online Tickets ZUM ONLINE SHOP Dauerkarte ZU DEN PREISEN Vorverkauf ADRESSEN DER AUSGABESTELLEN ZEHNERKARTE ZU DEN PREISEN SPRADE TV AUSW"
+        },
+        "dauerkarte": {
+          "url": "https://www.hec-falken.de/tickets/",
+          "stelle": "N TICKETS EINZELTICKETS ZU DEN PREISEN Online Tickets ZUM ONLINE SHOP Dauerkarte ZU DEN PREISEN Vorverkauf ADRESSEN DER AUSGABESTELLEN ZEHNERKARTE ZU"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "info@hec-falken.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "EC Peiting",
+      "team_id": "EC Peiting",
+      "homepage": "https://www.ec-peiting.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/EC_Peiting",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "EC Peiting",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.ec-peiting.de/",
+        "https://www.ec-peiting.de/allgemeine-geschaeftsbedingungen-online-ticketverkauf/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.ec-peiting.de/",
+          "stelle": "immer up to date! Check out Anfrage Eiszeit Sie möchten eine Eiszeit reservieren? Benutzen Sie dieses Formular für die Kontaktaufnahme mit Andreas H"
+        },
+        "dauerkarte": {
+          "url": "https://www.ec-peiting.de/",
+          "stelle": "milienkarten gelten für zwei Erwachsene und zwei Kinder (der Familie) Saisonkarten gelten für Vorbereitung und Hauptrunde Saisonkarteninhaber bekommen"
+        }
+      },
+      "instagram": [
+        "ecpeiting"
+      ],
+      "emails": [
+        "peter.gast@ecpeiting.de",
+        "gerhard.weyrich@ecpeiting.de"
+      ],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://www.ec-peiting.de/",
+          "stelle": "erwachsene 15,00 €"
+        },
+        {
+          "eur": 19,
+          "url": "https://www.ec-peiting.de/",
+          "stelle": "erwachsene 19,00 €"
+        }
+      ],
+      "anbieter": {
+        "name": "pretix",
+        "beleg": "https://www.ec-peiting.de/",
+        "wie": "eingebunden auf https://www.ec-peiting.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "EHF Passau Black Hawks",
+      "team_id": "EHF Passau Black Hawks",
+      "homepage": "https://blackhawks-passau.com",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/EHF_Passau_Black_Hawks",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "EHF Passau Black Hawks",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://blackhawks-passau.com/",
+        "https://blackhawks-passau.com/tickets/",
+        "https://blackhawks-passau.com/dauerkarten/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://blackhawks-passau.com/",
+          "stelle": "ck Hawks Young Hawks Laufschule Förderverein Schlittschuhkurs Tickets Dauerkarten Fanshop Verein Mitarbeiter Downloads Partner Sprade-TV Jobs Menü Bla"
+        },
+        "abendkasse": {
+          "url": "https://blackhawks-passau.com/tickets/",
+          "stelle": "t dir deine Tickets entweder online über www.etix.com oder an unserer Abendkasse sichern. Abendkasse Online Abendkasse ermäßigt Online ermäßigt Stehpl"
+        },
+        "vorverkauf": {
+          "url": "https://blackhawks-passau.com/tickets/",
+          "stelle": "e Preise gelten bei Kauf über das Onlineportal www.etix.com zzgl. der Vorverkaufsgebühr des Ticketing-Dienstleisters. Ermäßigte Preise gelten: für Stu"
+        },
+        "bar": {
+          "url": "https://blackhawks-passau.com/dauerkarten/",
+          "stelle": "nausweis) Zahlungsart Überweisung (IBAN: DE73 7405 0000 0031 2544 77) Barzahlung bei der Abholung Zusendung Versand (5€) Abhloung Eis-Arena Zustimmung"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "kontakt@blackhawks-passau.de",
+        "geschaeftsstelle@blackhawkspassau.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Etix",
+        "beleg": "https://blackhawks-passau.com/",
+        "wie": "eingebunden auf https://blackhawks-passau.com/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Höchstadter EC",
+      "team_id": "Höchstadter EC",
+      "homepage": "https://www.hoechstadtalligators.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/H%C3%B6chstadter_EC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "Höchstadter EC",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.hoechstadtalligators.de/",
+        "https://www.hoechstadtalligators.de/tickets",
+        "https://www.hoechstadtalligators.de/dauerkarten",
+        "https://www.hoechstadtalligators.de/eintritt"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.hoechstadtalligators.de/",
+          "stelle": "anshop fanshop live&tickets onlinetickets dauerkarten eintrittspreise abendkasse eishalle & anfahrt agb / stadionordnung sprade.tv sprade.tv highlight"
+        },
+        "dauerkarte": {
+          "url": "https://www.hoechstadtalligators.de/",
+          "stelle": "downloads fanclubs online fanshop fanshop live&tickets onlinetickets dauerkarten eintrittspreise abendkasse eishalle & anfahrt agb / stadionordnung s"
+        },
+        "vorverkauf": {
+          "url": "https://www.hoechstadtalligators.de/tickets",
+          "stelle": "seren Ticket-onlineshop: Infos zu den Onlinetickets Alles Weitere zum Vorverkauf für die Heimspiele des HEC: Informationen zum Vorverkauf Unsere Premi"
+        },
+        "von_hand": {
+          "url": "https://www.hoechstadtalligators.de/dauerkarten",
+          "stelle": "rteninhaberinnen und -inhaber haben wir bereits in unserem System als Reservierung angelegt, so dass die Dauerkarte nur noch verlängert werden muss:"
+        },
+        "nur_abendkasse": {
+          "url": "https://www.hoechstadtalligators.de/eintritt",
+          "stelle": "i einem B Ausweis: Freikarte für eine Begleitperson. Die Tickets sind nur an der Abendkasse erhältlich und nur nach Vorlage des entsprechenden Nachweises. ​ ** K"
+        },
+        "bar": {
+          "url": "https://www.hoechstadtalligators.de/eintritt",
+          "stelle": "n e statt. ​ An der Abendkasse bieten wir auch Kartenzahlung an. Eine Barzahlung ist natürlich weiterhin möglich. ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ * Er"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Etix",
+        "beleg": "https://www.hoechstadtalligators.de/",
+        "wie": "eingebunden auf https://www.hoechstadtalligators.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Erding Gladiators",
+      "team_id": "TSV Erding",
+      "homepage": "https://www.fc-erding.de",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_Erding",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q980",
+      "ort": "Bayern",
+      "verein": "Erding Gladiators",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fc-herzogstadt.de/",
+        "https://fc-herzogstadt.de/heimspiele/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fc_herzogstadt"
+      ],
+      "emails": [
+        "abteilungsleitung@fc-herzogstadt.de"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "ESV Kaufbeuren",
+      "team_id": "ESV Kaufbeuren",
+      "homepage": "https://www.esvk.de/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/ESV_Kaufbeuren",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": "87600",
+      "ort_qid": "Q14805",
+      "ort": "Kaufbeuren",
+      "verein": "ESV Kaufbeuren",
+      "land": "BY",
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.esvk.de/",
+        "https://www.esvk.de/heimspiel/energie-schwaben-arena.html",
+        "https://www.esvk.de/heimspiel/vip-lounge.html",
+        "https://www.esvk.de/heimspiel/die-vip-kabine.html",
+        "https://www.esvk.de/heimspiel/kontakt-und-bargeldloses-bezahlsystem.html",
+        "https://www.esvk.de/tickets.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.esvk.de/",
+          "stelle": "es Bezahlsystem Livestream auf SpradeTV Eisplan Tickets Online-Ticket Vorverkauf Ticket-Zweitmarkt Dauerkarte Gruppentickets Gutscheine Ticket-AGB Obe"
+        },
+        "dauerkarte": {
+          "url": "https://www.esvk.de/",
+          "stelle": "f SpradeTV Eisplan Tickets Online-Ticket Vorverkauf Ticket-Zweitmarkt Dauerkarte Gruppentickets Gutscheine Ticket-AGB Oberliga Süd Tabelle Spielplan A"
+        },
+        "bar": {
+          "url": "https://www.esvk.de/",
+          "stelle": "ielplan energie schwaben arena VIP-Lounge Die VIP-Kabine Kontakt- und Bargeldloses Bezahlsystem Livestream auf SpradeTV Eisplan Tickets Online-Tick"
+        },
+        "von_hand": {
+          "url": "https://www.esvk.de/heimspiel/vip-lounge.html",
+          "stelle": "s Spielerlebnis Blick auf die Eisfläche vom VIP Raum aus möglich Tischreservierungen mit Firmenlogo Bestes und reichhaltiges Speisenbüffet (Vorspeise"
+        },
+        "abendkasse": {
+          "url": "https://www.esvk.de/heimspiel/kontakt-und-bargeldloses-bezahlsystem.html",
+          "stelle": "ten NFC (Near Field Communication) Chip versehen ist. Achtung: An den Abendkassen kann aus technischen Gründen leider nur mit Bargeld bezahlt werden."
+        }
+      },
+      "instagram": [
+        "esv_kaufbeuren"
+      ],
+      "emails": [
+        "claus.tenambergen@esvk.de"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://www.esvk.de/",
+        "wie": "eingebunden auf https://www.esvk.de/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "HC Tigers",
+      "team_id": "HC Tigers",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HC_Tigers",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Eishockey-Oberliga_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "HC Tigers",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    }
+  ]
+}
