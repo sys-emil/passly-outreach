@@ -15,7 +15,7 @@ Vereine unter 30 Punkten schickt er nur grob (Name, Liga, Verkaufsweg, Punkte) f
 ohne Kontakte und Entwürfe; die vollen Daten bleiben in `ergebnisse/`.
 Nach jedem Rechercheauftrag `npm run sync` anbieten, nicht ungefragt senden.
 
-**Verschickt wird nichts.** Keine Mail, keine DM, kein Formular. Du lieferst Fakten,
+**Verschickt wird nichts.** Keine Mail, keine DM, kein Formular. Erstkontakt ist ein Brief (`npm run briefe`, Vorlagen für Lücke, Kultur und Wechsel), weil Mail und DM ohne Einwilligung unzulässig sind (siehe `anleitung/entwurf.md`). Die Spur „Wechsel“ (Vereine mit Anbieter, `wechselwert` in `bewertung.mjs`) zählt genauso wie die Lücke. Du lieferst Fakten,
 Rangfolge und Entwürfe; Emil nimmt den Kontakt selbst auf (§ 7 UWG, siehe README).
 
 ## Auftrag

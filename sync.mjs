@@ -84,6 +84,7 @@ for (const liga of ligen) {
         entwurf: r.entwurf ?? null,
         mail: r.mail ?? null,
         wechsel: w,
+        brief: r.brief ?? null,
       },
       recherchiert_am: r.meta.recherchiert_am ?? null,
     });

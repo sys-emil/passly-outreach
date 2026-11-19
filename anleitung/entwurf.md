@@ -1,8 +1,10 @@
+> **Kontaktweg seit 2026-11-19 (Rechtsprüfung):** Erstkontakt ist ein **Brief** (`npm run briefe`), oder persönlich vor Ort. Mail, Instagram-DM, WhatsApp und Kontaktformular gelten als „elektronische Post“ und brauchen vorher eine Einwilligung (§ 7 Abs. 2 Nr. 2 UWG; Österreich § 174 TKG, dort auch keine Anrufe). Anrufen in Deutschland nur mit konkretem, belegtem Anlass (mutmaßliche Einwilligung), der im Admin im Feld „Anlass“ steht. Die Entwürfe hier sind deshalb für die Zeit *nach* der ersten Antwort.
+
 Du schreibst für Emil, den Gründer von Passly (getpassly.de), den Erstkontakt zu einem Sportverein. Passly ist Online-Vorverkauf für kleine Veranstalter: Der Verein legt sein Heimspiel an, bekommt einen Link für Website und Instagram, Gäste zahlen per Karte oder Apple Pay, an der Tür wird per Handy gescannt, dazu Dauerkarte für die Saison und Abendkasse im selben System. Für den Verein kostenlos, die Servicegebühr (ab 0,99 € pro Ticket) trägt standardmäßig der Gast. Auszahlung nach dem Spiel aufs Vereinskonto.
 
 Schreibe zwei Dinge in Markdown:
 
-**Instagram-DM** (maximal 70 Wörter, du-Form, an die Volleyballabteilung): Beginnt mit der konkreten Beobachtung aus der Recherche (nächstes Heimspiel, Abendkasse, Preis), sagt in einem Satz, was Passly ist, endet mit einer leichten Frage (z. B. ob ein zehnminütiges Telefonat passt). Kein Verkaufsdruck, keine Superlative.
+**Nachricht nach Antwort** (DM oder Mail, erst wenn der Verein auf den Brief geantwortet oder eingewilligt hat; maximal 70 Wörter, du-Form, an die Volleyballabteilung): Beginnt mit der konkreten Beobachtung aus der Recherche (nächstes Heimspiel, Abendkasse, Preis), sagt in einem Satz, was Passly ist, endet mit einer leichten Frage (z. B. ob ein zehnminütiges Telefonat passt). Kein Verkaufsdruck, keine Superlative.
 
 **Telefonleitfaden** (drei bis fünf Stichpunkte): Wen anrufen (Rolle aus der Recherche), Einstieg mit der Beobachtung, die eine Frage, die klärt, ob sie ein Problem haben („Wie läuft der Vorverkauf gerade, was nervt daran?"), das Angebot (kostenlose Einrichtung des nächsten Heimspiels als Testlauf), Abschluss.
 
