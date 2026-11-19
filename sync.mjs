@@ -14,7 +14,7 @@
 // Kontaktstatus (outreach_status) fasst er nie an. Die Punkte rechnet
 // bewertung.mjs, dieselbe Formel wie Bericht und Übersicht.
 //
-// Seit 2026-11-16 (Emils Wunsch): Vereine unter SCHWELLE Punkten gehen nur
+// Seit 2026-11-16 (Emils Wunsch): Vereine ohne Anbieter unter SCHWELLE Punkten gehen nur
 // grob in die Datenbank (Name, Liga, Ort, Verkaufsweg, Anbieter, Punkte) und
 // zählen nur in der Statistik. Kontakte, Entwürfe, Quellen und Gründe bleiben
 // hier im Repo; die Produktions-DB hält so keine privaten Adressen von
@@ -24,7 +24,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { bewerte } from './bewertung.mjs';
+import { bewerte, wechselwert } from './bewertung.mjs';
 
 const SCHWELLE = 30;
 const HERE = path.dirname(fileURLToPath(import.meta.url));
@@ -49,7 +49,9 @@ for (const liga of ligen) {
     const e = r.ergebnis;
     const b = bewerte(r);
     const fakten = r.meta.pruefung?.fakten;
-    if (b.punkte < SCHWELLE) {
+    const w = wechselwert(r);
+    // Seit 2026-11-19: Vereine mit Anbieter gehen immer voll, sie sind die Wechsel-Spur.
+    if (b.punkte < SCHWELLE && !w) {
       vereine.push({
         id: `${liga}/${f.replace(/\.json$/, '')}`,
         liga, liga_name: r.verein.liga_name, sport: r.verein.sport, name: r.verein.name,
@@ -81,6 +83,7 @@ for (const liga of ligen) {
         ohne_beleg: fakten ? Object.entries(fakten).filter(([, v]) => v.length === 0).map(([k]) => k) : [],
         entwurf: r.entwurf ?? null,
         mail: r.mail ?? null,
+        wechsel: w,
       },
       recherchiert_am: r.meta.recherchiert_am ?? null,
     });
@@ -100,6 +103,7 @@ if (args.includes('--probe')) {
   for (const v of vereine) sport[v.sport] = (sport[v.sport] ?? 0) + 1;
   console.log('Sportarten:', sport);
   console.log(`grob (unter ${SCHWELLE}):`, vereine.filter((v) => v.daten.grob).length);
+  console.log('Wechsel ab 50:', vereine.filter((v) => (v.daten.wechsel?.punkte ?? 0) >= 50).length);
   console.log('Kandidaten ab 45:', vereine.filter((v) => v.punkte >= 45).length);
   process.exit(0);
 }
