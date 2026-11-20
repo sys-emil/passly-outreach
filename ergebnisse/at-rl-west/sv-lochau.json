@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "SV Lochau",
+    "ort": "Lochau",
+    "land": "AT",
+    "liga": "at-rl-west",
+    "liga_name": "Regionalliga West (Fußball, AT, 3. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.svlochau.at/",
+    "vorverkauf": "eintritt_frei",
+    "anbieter": null,
+    "eintritt_frei": true,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "svl1946",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "„freier Eintritt bei allen Meisterschaftsspielen des SVL in der Saison 2026/2027“.",
+    "quellen": [
+      "https://www.svlochau.at/",
+      "https://www.svlochau.at/shop/saisonkarten-mitgliedschaften-vip-karten/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.svlochau.at/",
+      "https://www.svlochau.at/shop/saisonkarten-mitgliedschaften-vip-karten/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.svlochau.at/",
+      "https://www.svlochau.at/shop/saisonkarten-mitgliedschaften-vip-karten/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "instagram": [
+          "https://www.svlochau.at/",
+          "https://www.svlochau.at/shop/saisonkarten-mitgliedschaften-vip-karten/"
+        ],
+        "vorverkauf": [
+          "https://www.svlochau.at/shop/saisonkarten-mitgliedschaften-vip-karten/"
+        ]
+      }
+    }
+  }
+}

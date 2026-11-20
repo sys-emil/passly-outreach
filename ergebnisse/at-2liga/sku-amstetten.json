@@ -1,0 +1,59 @@
+{
+  "verein": {
+    "name": "SKU Amstetten",
+    "ort": "Amstetten",
+    "land": "AT",
+    "liga": "at-2liga",
+    "liga_name": "2. Liga (Fußball, AT, 2. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.sku-amstetten.at/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": true,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "skuamstetten",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von SKU Amstetten nennen weder Eintrittspreise noch einen Kartenweg.",
+    "quellen": [
+      "https://www.sku-amstetten.at/",
+      "https://www.sku-amstetten.at/admiral-2-liga/spielplan",
+      "https://www.sku-amstetten.at/teams/amateure/spielplan"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.sku-amstetten.at/",
+      "https://www.sku-amstetten.at/admiral-2-liga/spielplan",
+      "https://www.sku-amstetten.at/teams/amateure/spielplan"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.sku-amstetten.at/",
+      "https://www.sku-amstetten.at/admiral-2-liga/spielplan",
+      "https://www.sku-amstetten.at/teams/amateure/spielplan"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "instagram": [
+          "https://www.sku-amstetten.at/",
+          "https://www.sku-amstetten.at/admiral-2-liga/spielplan",
+          "https://www.sku-amstetten.at/teams/amateure/spielplan"
+        ]
+      }
+    }
+  }
+}

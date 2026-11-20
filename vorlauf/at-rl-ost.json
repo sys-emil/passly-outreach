@@ -1,0 +1,514 @@
+{
+  "liga": "at-rl-ost",
+  "stand": "2026-11-20",
+  "quelle": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+  "abrufe": 38,
+  "teams": [
+    {
+      "verband_name": "FC Marchfeld Donauauen",
+      "team_id": "FC Marchfeld Donauauen",
+      "homepage": "http://www.sc-mannsdorf.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Marchfeld_Donauauen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q691717",
+      "ort": "Mannsdorf an der Donau",
+      "verein": "FC Marchfeld Donauauen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.sc-mannsdorf.at/ (ENOTFOUND)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Oberwart",
+      "team_id": "SV Oberwart",
+      "homepage": "http://www.sv-oberwart.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Oberwart",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q671259",
+      "ort": "Oberwart",
+      "verein": "SV Oberwart",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sv-oberwart.at/",
+        "https://www.sv-oberwart.at/verein/tickets/",
+        "https://www.sv-oberwart.at/ticket-shop/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.sv-oberwart.at/verein/tickets/",
+          "stelle": "ticket € 16,00 Tagesticket, ermäßigt* € 14,00 Tagesticket VIP € 75,00 Saisonkarte, Vollpreis € 210,00 Saisonkarte, ermäßigt* € 180,00 Saisonkarte Partn"
+        }
+      },
+      "instagram": [
+        "rhornmedia",
+        "svoberwart1912"
+      ],
+      "emails": [
+        "presse@sv-oberwart.at"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://www.sv-oberwart.at/ticket-shop/",
+        "wie": "eingebunden auf https://www.sv-oberwart.at/ticket-shop/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Kremser SC",
+      "team_id": "Kremser SC",
+      "homepage": "https://kremsersc.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kremser_SC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q131266",
+      "ort": "Krems",
+      "verein": "Kremser SC",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://kremsersc.at/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "office@kremsersc.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FCM Traiskirchen",
+      "team_id": "FCM Traiskirchen",
+      "homepage": "http://www.fcm-traiskirchen.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FCM_Traiskirchen",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q659950",
+      "ort": "Traiskirchen",
+      "verein": "FCM Traiskirchen",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fcm-traiskirchen.at/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fcmtraiskirchen1927"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Wiener Sport-Club",
+      "team_id": "Wiener Sport-Club",
+      "homepage": "https://wsc.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Wiener_Sport-Club",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1741",
+      "ort": "Wien",
+      "verein": "Wiener Sport-Club",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://wsc.at (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SC-ESV Parndorf 1919",
+      "team_id": "SC-ESV Parndorf 1919",
+      "homepage": "http://www.sc-esv-parndorf.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC-ESV_Parndorf_1919",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q660886",
+      "ort": "Parndorf",
+      "verein": "SC-ESV Parndorf 1919",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.sc-esv-parndorf.at (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SC Wiener Viktoria",
+      "team_id": "SC Wiener Viktoria",
+      "homepage": "http://www.wiener-viktoria.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Wiener_Viktoria",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1741",
+      "ort": "Wien",
+      "verein": "SC Wiener Viktoria",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.wiener-viktoria.at/",
+        "https://www.wiener-viktoria.at/wiener-viktoria-ticket-shop/",
+        "https://www.wiener-viktoria.at/wiener-viktoria-ticket-shop/?s="
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "mailto:s.wilhelm@wiener-viktoria.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SR Donaufeld",
+      "team_id": "SR Donaufeld Wien",
+      "homepage": "http://www.srdonaufeld.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SR_Donaufeld_Wien",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1741",
+      "ort": "Wien",
+      "verein": "SR Donaufeld",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.srdonaufeld.at/ (ENOTFOUND)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "USV Scheiblingkirchen-Warth",
+      "team_id": "USV Scheiblingkirchen-Warth",
+      "homepage": "http://www.usv-scheiblingkirchen-warth.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/USV_Scheiblingkirchen-Warth",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q685101",
+      "ort": "Warth",
+      "verein": "USV Scheiblingkirchen-Warth",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.usv-scheiblingkirchen-warth.at/fussball/news/"
+      ],
+      "nicht_lesbar": [
+        "http://www.usv-scheiblingkirchen-warth.at/fussball/news/fussball/news/detail/News/detail/weiter-gehts-heimspielauftakt-1619/ (HTTP 404)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Gloggnitz",
+      "team_id": "SV Gloggnitz",
+      "homepage": "http://www.sv-gloggnitz.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Gloggnitz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "SV Gloggnitz",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sv-gloggnitz.at/",
+        "https://www.sv-gloggnitz.at/saison/km1/tickets",
+        "https://www.sv-gloggnitz.at/nachwuchs/heimspiele"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Mattersburger SV 2020",
+      "team_id": "Mattersburger SV 2020",
+      "homepage": "https://www.msv2020.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Mattersburger_SV_2020",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q250832",
+      "ort": "Mattersburg",
+      "verein": "Mattersburger SV 2020",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.msv2020.at/",
+        "https://www.msv2020.at/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.msv2020.at/tickets/",
+          "stelle": "f zahlreiche Unterstützung bei den Heimspielen! Dauerkarte: Sitzplatz reservieren Wenn Sie im Besitz einer Dauerkarte sind, können Sie für € 35,&#821"
+        },
+        "dauerkarte": {
+          "url": "https://www.msv2020.at/tickets/",
+          "stelle": "MSV 2020 freut sich auf zahlreiche Unterstützung bei den Heimspielen! Dauerkarte: Sitzplatz reservieren Wenn Sie im Besitz einer Dauerkarte sind, könn"
+        }
+      },
+      "instagram": [
+        "msv__2020"
+      ],
+      "emails": [
+        "buchhaltung@msv2020.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Donau Wien",
+      "team_id": "SV Donau Wien",
+      "homepage": "http://www.svdonau.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Donau_Wien",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1277513",
+      "ort": "Kaisermühlen",
+      "verein": "SV Donau Wien",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.svdonau.at/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "svd1910@svdonau.at",
+        "Svd1910@svdonau.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Leobendorf",
+      "team_id": "SV Leobendorf",
+      "homepage": "https://www.svleobendorf.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Leobendorf",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q162982",
+      "ort": "Leobendorf",
+      "verein": "SV Leobendorf",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.svleobendorf.at/",
+        "https://www.svleobendorf.at/sieg-der-km-ii-in-gaubitsch-01-die-km-spielt-am-samstag-um-1500-daheim-gegen-sv-donau/",
+        "https://www.svleobendorf.at/zwischenstand-im-heimspiel-der-km-ii-gegen-goellersdorf-02-die-km-spielt-um-20h-daheim-gegen-gloggnitz/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "sv_sparkasse_leobendorf_"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Favoritner AC",
+      "team_id": "Favoritner AC",
+      "homepage": "https://fav.ac/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Favoritner_AC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1741",
+      "ort": "Wien",
+      "verein": "Favoritner AC",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://fav.ac/ (CERT_HAS_EXPIRED)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Horn",
+      "team_id": "SV Horn",
+      "homepage": "http://www.svhorn.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Horn",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q659918",
+      "ort": "Horn",
+      "verein": "SV Horn",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.svhorn.at/",
+        "https://www.svhorn.at/tickets/tageskarten",
+        "https://www.svhorn.at/tickets/saisonkarten",
+        "https://www.svhorn.at/profis/spielvorschau/letztes-saisonheimspiel-gegen-den-wiener-sportclub"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.svhorn.at/",
+          "stelle": "Nachwuchs U14 U13 U12 U11 U10 U9 U7 U6 Spielpläne Tickets Tageskarten Saisonkarten Online-Tickets Partner VIP Club Freundeskreis Freunde des SV Horn Pr"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "office@svhorn.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Wienerberg",
+      "team_id": "SV Wienerberg",
+      "homepage": "http://www.sv-wienerberg.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Wienerberg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1741",
+      "ort": "Wien",
+      "verein": "SV Wienerberg",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.sv-wienerberg.at/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    }
+  ]
+}

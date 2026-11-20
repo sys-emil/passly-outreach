@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "Alpla HC Hard",
+    "ort": "Hard",
+    "land": "AT",
+    "liga": "at-hla",
+    "liga_name": "HLA Meisterliga (Handball, AT, 1. Liga)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "http://www.hchard.at/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (eingebunden auf https://www.hchard.at/: https://www.hchard.at/).",
+    "quellen": [
+      "https://www.hchard.at/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.hchard.at/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Alpla HC Hard“. Gelesen: https://www.hchard.at/. Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hchard.at/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "anbieter": []
+      },
+      "sicherheit_vorher": "hoch"
+    }
+  }
+}

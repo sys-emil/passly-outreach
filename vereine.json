@@ -947,6 +947,97 @@
         "url": "https://www.amateur-theatre-wiki.gwi.uni-muenchen.de/"
       },
       "vereine": []
+    },
+    "at-hla": {
+      "name": "HLA Meisterliga (Handball, AT, 1. Liga)",
+      "sport": "Handball",
+      "land": "AT",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27",
+        "staffel": "Hauptrunde"
+      },
+      "vereine": []
+    },
+    "at-bb-superliga": {
+      "name": "Basketball Superliga (AT, 1. Liga)",
+      "sport": "Basketball",
+      "land": "AT",
+      "quelle": {
+        "typ": "wikiliste",
+        "seite": "Basketball_Superliga",
+        "abschnitte": [
+          "Spielstätten"
+        ],
+        "format": "tabelle"
+      },
+      "vereine": []
+    },
+    "at-2liga": {
+      "name": "2. Liga (Fußball, AT, 2. Liga)",
+      "sport": "Fußball",
+      "land": "AT",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+        "staffel": "Zweite Leistungsstufe – 2. Liga"
+      },
+      "vereine": []
+    },
+    "at-rl-ost": {
+      "name": "Regionalliga Ost (Fußball, AT, 3. Liga)",
+      "sport": "Fußball",
+      "land": "AT",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+        "staffel": "Regionalliga Ost"
+      },
+      "vereine": []
+    },
+    "at-rl-sued-stmk": {
+      "name": "Regionalliga Süd, Steiermark (Fußball, AT, 3. Liga)",
+      "sport": "Fußball",
+      "land": "AT",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+        "staffel": "Steiermark-Gruppe"
+      },
+      "vereine": []
+    },
+    "at-rl-sued-ktn": {
+      "name": "Regionalliga Süd, Kärnten (Fußball, AT, 3. Liga)",
+      "sport": "Fußball",
+      "land": "AT",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+        "staffel": "Kärnten-Gruppe"
+      },
+      "vereine": []
+    },
+    "at-rl-nord": {
+      "name": "Regionalliga Nord (Fußball, AT, 3. Liga)",
+      "sport": "Fußball",
+      "land": "AT",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+        "staffel": "Regionalliga Nord"
+      },
+      "vereine": []
+    },
+    "at-rl-west": {
+      "name": "Regionalliga West (Fußball, AT, 3. Liga)",
+      "sport": "Fußball",
+      "land": "AT",
+      "quelle": {
+        "typ": "wikipedia",
+        "seite": "%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+        "staffel": "Regionalliga West"
+      },
+      "vereine": []
     }
   }
 }

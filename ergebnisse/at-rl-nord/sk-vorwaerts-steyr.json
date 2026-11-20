@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "SK Vorwärts Steyr",
+    "ort": "Steyr",
+    "land": "AT",
+    "liga": "at-rl-nord",
+    "liga_name": "Regionalliga Nord (Fußball, AT, 3. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.vorwaerts-steyr.at/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "skvorwaerts",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim Light (eingebunden auf https://www.vorwaerts-steyr.at/heidelbeerhugo/: https://www.vorwaerts-steyr.at/heidelbeerhugo/).",
+    "quellen": [
+      "https://www.vorwaerts-steyr.at/heidelbeerhugo/",
+      "https://www.vorwaerts-steyr.at/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 5,
+    "quellen_belegt": [
+      "https://www.vorwaerts-steyr.at/heidelbeerhugo/",
+      "https://www.vorwaerts-steyr.at/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „SK Vorwärts Steyr“. Gelesen: https://www.vorwaerts-steyr.at/, https://www.vorwaerts-steyr.at/ticketpreise/, https://www.vorwaerts-steyr.at/spieltagsangebote/, https://www.vorwaerts-steyr.at/heidelbeerhugo/. Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.vorwaerts-steyr.at/heidelbeerhugo/",
+      "https://www.vorwaerts-steyr.at/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "anbieter": [
+          "https://www.vorwaerts-steyr.at/heidelbeerhugo/"
+        ],
+        "instagram": [
+          "https://www.vorwaerts-steyr.at/heidelbeerhugo/",
+          "https://www.vorwaerts-steyr.at/"
+        ]
+      }
+    }
+  }
+}

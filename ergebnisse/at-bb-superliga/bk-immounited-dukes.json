@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "BK IMMOunited Dukes",
+    "ort": "Klosterneuburg",
+    "land": "AT",
+    "liga": "at-bb-superliga",
+    "liga_name": "Basketball Superliga (AT, 1. Liga)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "http://www.bk-klosterneuburg.at",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketshop",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "bk_dukes",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website verkauft Tickets online (eigener Ticketshop). „Eintritt ist kostenlos, allerdings ist kein eigener Sitzplatz vorgesehen“ „Die Tribüne hinter dem Korb (Kategorie 3) ist ausschließlich für Nachwuchsspieler und -spielerinnen des BK reserviert“ „„Ein Teil jedes BK Dukes-Tickets unterstützt zertifizierte Klimaprojekte mit Karbon-X“",
+    "quellen": [
+      "https://bk-klosterneuburg.at/",
+      "https://bk-klosterneuburg.at/termine/",
+      "https://bk-klosterneuburg.at/tickets/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://bk-klosterneuburg.at/",
+      "https://bk-klosterneuburg.at/termine/",
+      "https://bk-klosterneuburg.at/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://bk-klosterneuburg.at/",
+      "https://bk-klosterneuburg.at/termine/",
+      "https://bk-klosterneuburg.at/tickets/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "instagram": [
+          "https://bk-klosterneuburg.at/",
+          "https://bk-klosterneuburg.at/termine/",
+          "https://bk-klosterneuburg.at/tickets/"
+        ],
+        "anbieter": [
+          "https://bk-klosterneuburg.at/tickets/"
+        ]
+      }
+    }
+  }
+}

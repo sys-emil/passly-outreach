@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "UBSC Raiffeisen Graz",
+    "ort": "Graz",
+    "land": "AT",
+    "liga": "at-bb-superliga",
+    "liga_name": "Basketball Superliga (AT, 1. Liga)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "http://www.ubsc-graz.at",
+    "vorverkauf": "anbieter",
+    "anbieter": "leoticket",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über leoticket (eingebunden auf https://www.eagles-graz.at/tickets/: https://www.eagles-graz.at/tickets/).",
+    "quellen": [
+      "https://www.eagles-graz.at/tickets/",
+      "https://de.wikipedia.org/wiki/Basketball_Superliga"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.eagles-graz.at/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/Basketball_Superliga"
+    ],
+    "notiz": "Ohne Modell geklärt. WIKILISTE-Name „UBSC Raiffeisen Graz“. Gelesen: https://www.eagles-graz.at/, https://www.eagles-graz.at/tickets/, https://www.eagles-graz.at/spielplan/. Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.eagles-graz.at/tickets/",
+      "https://de.wikipedia.org/wiki/Basketball_Superliga"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "anbieter": [
+          "https://www.eagles-graz.at/tickets/"
+        ]
+      }
+    }
+  }
+}

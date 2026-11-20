@@ -1,0 +1,59 @@
+{
+  "verein": {
+    "name": "First Vienna FC",
+    "ort": "Wien",
+    "land": "AT",
+    "liga": "at-2liga",
+    "liga_name": "2. Liga (Fußball, AT, 2. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.firstviennafc.at/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "firstviennafc1894",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von First Vienna FC nennen weder Eintrittspreise noch einen Kartenweg.",
+    "quellen": [
+      "https://www.firstviennafc.at/",
+      "https://www.firstviennafc.at/termine.html",
+      "https://www.firstviennafc.at/kampfmannschaft/spieltermine.html"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.firstviennafc.at/",
+      "https://www.firstviennafc.at/termine.html",
+      "https://www.firstviennafc.at/kampfmannschaft/spieltermine.html"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.firstviennafc.at/",
+      "https://www.firstviennafc.at/termine.html",
+      "https://www.firstviennafc.at/kampfmannschaft/spieltermine.html"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "instagram": [
+          "https://www.firstviennafc.at/",
+          "https://www.firstviennafc.at/termine.html",
+          "https://www.firstviennafc.at/kampfmannschaft/spieltermine.html"
+        ]
+      }
+    }
+  }
+}

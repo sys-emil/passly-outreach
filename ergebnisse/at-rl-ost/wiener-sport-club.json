@@ -1,0 +1,48 @@
+{
+  "verein": {
+    "name": "Wiener Sport-Club",
+    "ort": "Wien",
+    "land": "AT",
+    "liga": "at-rl-ost",
+    "liga_name": "Regionalliga Ost (Fußball, AT, 3. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://wsc.at",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von Wiener Sport-Club nennen weder Eintrittspreise noch einen Kartenweg.",
+    "quellen": [
+      "https://wsc.at/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 1,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://wsc.at/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://wsc.at/"
+    ],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

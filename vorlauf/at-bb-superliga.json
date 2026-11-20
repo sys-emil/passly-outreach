@@ -1,0 +1,399 @@
+{
+  "liga": "at-bb-superliga",
+  "stand": "2026-11-20",
+  "quelle": "https://de.wikipedia.org/wiki/Basketball_Superliga",
+  "abrufe": 33,
+  "teams": [
+    {
+      "verband_name": "UBSC Raiffeisen Graz",
+      "team_id": "UBSC Raiffeisen Graz",
+      "homepage": "http://www.ubsc-graz.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/UBSC_Raiffeisen_Graz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Basketball_Superliga",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q13298",
+      "ort": "Graz",
+      "verein": "UBSC Raiffeisen Graz",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.eagles-graz.at/",
+        "https://www.eagles-graz.at/tickets/",
+        "https://www.eagles-graz.at/spielplan/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "office@eagles-graz.at"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "leoticket",
+        "beleg": "https://www.eagles-graz.at/tickets/",
+        "wie": "eingebunden auf https://www.eagles-graz.at/tickets/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "UNGER STEEL Gunners Oberwart",
+      "team_id": "Oberwart Gunners",
+      "homepage": "https://www.gunners.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Oberwart_Gunners",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Basketball_Superliga",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q671259",
+      "ort": "Oberwart",
+      "verein": "UNGER STEEL Gunners Oberwart",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.gunners.at/",
+        "https://www.gunners.at/tickets",
+        "https://www.gunners.at/tickets/tageskarten",
+        "https://www.gunners.at/tickets/blue-white-card-dauerkarte",
+        "https://www.gunners.at/tickets/silver-card-unterstuetzerkarte",
+        "https://www.gunners.at/tickets/gold-card-/-cremesso-gold-lounge"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.gunners.at/tickets",
+          "stelle": "White-Card Der Klassiker mehr Informationen Silver-Card ALL INCLUSIVE Dauerkarte mehr Informationen Gold-Card Die VIP-Karte für den den exklusiven Gen"
+        },
+        "abendkasse": {
+          "url": "https://www.gunners.at/tickets/tageskarten",
+          "stelle": "- € 15,- Preise inkl. Mehrwertsteuer. Kein Online-Tageskartenverkauf. Abendkasse: Sporthalle Oberwart Tickets sind ab einer Stunde vor Spielbeginn dir"
+        },
+        "von_hand": {
+          "url": "https://www.gunners.at/tickets/blue-white-card-dauerkarte",
+          "stelle": "bezahlen Sie bequem per Kreditkarte oder eps-Überweisung! Online-Dauerkartenbestellung Bestellung per E-Mail PDF-Formular downloaden, ausfüllen und bitte per E-Mail an office(at)gunners.at senden. Sie erhalten Ihre Dauerkarte nach Zah"
+        },
+        "eintritt_frei": {
+          "url": "https://www.gunners.at/tickets/blue-white-card-dauerkarte",
+          "stelle": "ang & Platzierungsgruppe), OHNE PLAY OFF, OHNE Basketball Austria Cup Freier Eintritt bei allen Vorbereitungsspielen in der Sporthalle Oberwart 2x bring yo"
+        }
+      },
+      "instagram": [
+        "oberwart.gunners"
+      ],
+      "emails": [
+        "office@gunners.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Raiffeisen Swans Gmunden",
+      "team_id": "Swans Gmunden",
+      "homepage": "http://www.basketswans.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Swans_Gmunden",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Basketball_Superliga",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q430449",
+      "ort": "Gmunden",
+      "verein": "Raiffeisen Swans Gmunden",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.basketswans.at/",
+        "https://www.basketswans.at/bsl/tickets",
+        "https://www.basketswans.at/b2l/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.basketswans.at/bsl/tickets",
+          "stelle": "Vorbereitungs- und Freundschaftsspiele (ausgenommen Cup-Finalturnier) reservierter Sitzplatz (Sektor F/G/L/M/A) 265,00 inkl 20% Ust. (165,00 inkl. 20"
+        },
+        "dauerkarte": {
+          "url": "https://www.basketswans.at/bsl/tickets",
+          "stelle": "Pensionisten, Präsenz- bzw. Zivildiener gegen Vorlage eines Ausweises SAISONKARTEN (Der Kauf von Saisonkarten ist nur bis 31.10.2026 möglich!) Preislis"
+        }
+      },
+      "instagram": [
+        "swansgmunden"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Raiffeisen Flyers Wels",
+      "team_id": "Raiffeisen Flyers Wels",
+      "homepage": "http://www.wbcwels.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Raiffeisen_Flyers_Wels",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Basketball_Superliga",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q178582",
+      "ort": "Wels",
+      "verein": "Raiffeisen Flyers Wels",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.wbcwels.at/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "CITIES Panthers Fürstenfeld",
+      "team_id": "BSC Raiffeisen Panthers Fürstenfeld",
+      "homepage": "http://www.panthers.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/BSC_Raiffeisen_Panthers_F%C3%BCrstenfeld",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Basketball_Superliga",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q661272",
+      "ort": "Fürstenfeld",
+      "verein": "CITIES Panthers Fürstenfeld",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.panthers.at/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.panthers.at/",
+          "stelle": "ie Rubrik „Seinerzeit“ mit historischen Zeitungsberichten, eine Ticketreservierung und vieles mehr. Sei dabei und werde oder bleibe Teil der großen B"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "office@panthers.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Arkadia Traiskirchen Lions",
+      "team_id": "Arkadia Traiskirchen Lions",
+      "homepage": "https://www.traiskirchen-lions.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Arkadia_Traiskirchen_Lions",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Basketball_Superliga",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q659950",
+      "ort": "Traiskirchen",
+      "verein": "Arkadia Traiskirchen Lions",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.traiskirchen-lions.at/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.traiskirchen-lions.at/",
+          "stelle": "wn 01 days 12 hrs 18 mins 04 secs Saison 2026 / 2027 Hole jetzt deine Dauerkarte Alle Heimspiele im druck.at LIONS DOME &ndash; die Preise bleiben gle"
+        }
+      },
+      "instagram": [
+        "traiskirchen_lions"
+      ],
+      "emails": [
+        "office@traiskirchen-lions.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Kapfenberg Bulls",
+      "team_id": "Kapfenberg Bulls (Basketball)",
+      "homepage": "https://bulls-basketball.eu/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kapfenberg_Bulls_(Basketball)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Basketball_Superliga",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q623049",
+      "ort": "Kapfenberg",
+      "verein": "Kapfenberg Bulls",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://bulls.media/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "BC Vienna",
+      "team_id": "BC Vienna",
+      "homepage": "https://bcvienna.com",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/BC_Vienna",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Basketball_Superliga",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1741",
+      "ort": "Wien",
+      "verein": "BC Vienna",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://bcvienna.com/",
+        "https://bcvienna.com/tickets/",
+        "https://bcvienna.com/en/tickets-en/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "bc.vienna"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SKN St. Pölten Basketball",
+      "team_id": "UBC St. Pölten",
+      "homepage": "http://www.ubc-stp.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/UBC_St._P%C3%B6lten",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Basketball_Superliga",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q82500",
+      "ort": "St. Pölten",
+      "verein": "SKN St. Pölten Basketball",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.skn-basketball.at/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "office@skn-basketball.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "BK IMMOunited Dukes",
+      "team_id": "BK Klosterneuburg",
+      "homepage": "http://www.bk-klosterneuburg.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/BK_Klosterneuburg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Basketball_Superliga",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q487522",
+      "ort": "Klosterneuburg",
+      "verein": "BK IMMOunited Dukes",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://bk-klosterneuburg.at/",
+        "https://bk-klosterneuburg.at/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://bk-klosterneuburg.at/tickets/",
+          "stelle": "e 3) ist ausschließlich für Nachwuchsspieler und -spielerinnen des BK reserviert. Tickets für die Spiele der BK Karbon-X Dukes und BK Raiffeisen Duch"
+        },
+        "dauerkarte": {
+          "url": "https://bk-klosterneuburg.at/tickets/",
+          "stelle": "ickets melden Sie sich bitte per Mail an: ticket@bk-klosterneuburg.at Saisonkarten können auf Anfrage gekauft werden. WIE LÖSE ICH EINEN CODE EIN? Die"
+        }
+      },
+      "instagram": [
+        "bk_dukes",
+        "bk.duchess",
+        "basket.dukes.duchess"
+      ],
+      "emails": [
+        "ticket@bk-klosterneuburg.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "COLDAMARIS BBC Nord Dragonz",
+      "team_id": "BBC Nord Dragonz",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/BBC_Nord_Dragonz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/Basketball_Superliga",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "COLDAMARIS BBC Nord Dragonz",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    }
+  ]
+}

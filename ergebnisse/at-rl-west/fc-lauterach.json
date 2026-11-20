@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "FC Lauterach",
+    "ort": "Lauterach",
+    "land": "AT",
+    "liga": "at-rl-west",
+    "liga_name": "Regionalliga West (Fußball, AT, 3. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.fc-lauterach.com/",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "fclauterach1946",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von FC Lauterach nennen weder Eintrittspreise noch einen Kartenweg.",
+    "quellen": [
+      "https://fc-lauterach.com/",
+      "https://fc-lauterach.com/spielplan.html",
+      "https://fc-lauterach.com/goennerkarte.html"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://fc-lauterach.com/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://fc-lauterach.com/",
+      "https://fc-lauterach.com/spielplan.html",
+      "https://fc-lauterach.com/goennerkarte.html"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://fc-lauterach.com/spielplan.html",
+      "https://fc-lauterach.com/goennerkarte.html"
+    ],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "instagram": [
+          "https://fc-lauterach.com/"
+        ]
+      }
+    }
+  }
+}

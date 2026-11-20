@@ -1,0 +1,64 @@
+{
+  "verein": {
+    "name": "FC Blau-Weiß Linz",
+    "ort": "Linz",
+    "land": "AT",
+    "liga": "at-2liga",
+    "liga_name": "2. Liga (Fußball, AT, 2. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://blauweiss-linz.at/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketshop",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "blauweisslinz",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website verkauft Tickets online (eigener Ticketshop). „In unserem LINZ AG Familiensektor erhalten Kinder und Jugendliche bis 18 Jahren kostenlosen Eintritt“ „Nehmen Sie Platz auf Ihren reservierten VIP-Plätzen inkl“ „Die Tagestickets für die Heimspiele unserer Frauenmannschaft FC Blau-Weiß Linz/Kleinmünchen sind lediglich am Spieltag vor Ort an der Abendkassa erhältlich“",
+    "quellen": [
+      "https://blauweiss-linz.at/",
+      "https://blauweiss-linz.at/ticketinfos/",
+      "https://blauweiss-linz.at/news/neuigkeiten/ticketinfo-heimspiel-gegen-sk-sturm-graz-ii/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://blauweiss-linz.at/",
+      "https://blauweiss-linz.at/ticketinfos/",
+      "https://blauweiss-linz.at/news/neuigkeiten/ticketinfo-heimspiel-gegen-sk-sturm-graz-ii/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). Frauenteam nur an der Abendkassa. Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://blauweiss-linz.at/",
+      "https://blauweiss-linz.at/ticketinfos/",
+      "https://blauweiss-linz.at/news/neuigkeiten/ticketinfo-heimspiel-gegen-sk-sturm-graz-ii/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "instagram": [
+          "https://blauweiss-linz.at/",
+          "https://blauweiss-linz.at/ticketinfos/",
+          "https://blauweiss-linz.at/news/neuigkeiten/ticketinfo-heimspiel-gegen-sk-sturm-graz-ii/"
+        ],
+        "anbieter": []
+      }
+    }
+  },
+  "brief": {
+    "anschrift": "FC Blau-Weiß Linz\nStraßerau 3\n4020 Linz",
+    "text": "[Dein Name]\n[Anschrift laut Impressum von getpassly.de]\n\n[Ort], [Datum]\n\nTicketing für eure Heimspiele: ein Vorschlag\n\nLiebe Verantwortliche von FC Blau-Weiß Linz,\n\nIhr verkauft eure Tickets schon online über euren eigenen Ticketshop. Deshalb nur eine kurze Frage: Seid ihr damit rundum zufrieden?\n\nPassly ist eine Ticketplattform für Vereine und Veranstalter. Gäste kaufen vorab per Karte oder Apple Pay, an der Tür scannt euer Team einen wechselnden QR-Code mit dem Handy, und Abendkassa und Dauerkarten laufen im selben System. Für euch ist das kostenlos: Die Servicegebühr zahlt der Gast mit dem Ticket, der Ticketpreis kommt vollständig bei euch an.\n\nMein Vorschlag: Ihr probiert Passly bei einem einzelnen Spiel aus, etwa einem Derby oder einem Sonderspiel, parallel zu eurem jetzigen System und ohne Verpflichtung, sofern euer Vertrag das zulässt. Wenn ihr Lust habt, meldet euch einfach per Mail an [E-Mail] oder unter [Telefon]. Mehr dazu unter getpassly.de/sportvereine.\n\nViele Grüße\n[Dein Name]\n\nDatenschutz: Eure Anschrift stammt von der öffentlichen Website https://blauweiss-linz.at/impressum/. Wir nutzen sie nur für dieses Schreiben. Wenn ihr keine weitere Post von uns möchtet, genügt eine kurze Nachricht, dann löschen wir eure Daten. Mehr unter getpassly.de/datenschutz."
+  }
+}

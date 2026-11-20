@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "WAT Atzgersdorf",
+    "ort": "Wien",
+    "land": "AT",
+    "liga": "at-hla",
+    "liga_name": "HLA Meisterliga (Handball, AT, 1. Liga)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.atzgersdorf.info/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "wat.atzgersdorf",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim Light (eingebunden auf https://www.atzgersdorf.info/Webshop/Ticketshop.html: https://www.atzgersdorf.info/Webshop/Ticketshop.html).",
+    "quellen": [
+      "https://www.atzgersdorf.info/Webshop/Ticketshop.html",
+      "https://www.atzgersdorf.info/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.atzgersdorf.info/Webshop/Ticketshop.html",
+      "https://www.atzgersdorf.info/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „WAT Atzgersdorf“. Gelesen: https://www.atzgersdorf.info/, https://www.atzgersdorf.info/Saison/Newsbeitrag.html?newsID=%7B6160E454-E441-11F1-8916-309C23AC5997%7D, https://www.atzgersdorf.info/Webshop/Ticketshop.html. Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.atzgersdorf.info/Webshop/Ticketshop.html",
+      "https://www.atzgersdorf.info/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "anbieter": [
+          "https://www.atzgersdorf.info/Webshop/Ticketshop.html"
+        ],
+        "instagram": [
+          "https://www.atzgersdorf.info/Webshop/Ticketshop.html",
+          "https://www.atzgersdorf.info/"
+        ]
+      }
+    }
+  }
+}

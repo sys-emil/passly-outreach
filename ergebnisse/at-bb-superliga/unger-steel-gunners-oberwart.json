@@ -1,0 +1,60 @@
+{
+  "verein": {
+    "name": "UNGER STEEL Gunners Oberwart",
+    "ort": "Oberwart",
+    "land": "AT",
+    "liga": "at-bb-superliga",
+    "liga_name": "Basketball Superliga (AT, 1. Liga)",
+    "sport": "Basketball"
+  },
+  "ergebnis": {
+    "website": "https://www.gunners.at/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketshop",
+    "eintritt_frei": true,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "oberwart.gunners",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website verkauft Tickets online (eigener Ticketshop).",
+    "quellen": [
+      "https://www.gunners.at/",
+      "https://www.gunners.at/termine",
+      "https://www.gunners.at/termine/gunners-kalender"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.gunners.at/",
+      "https://www.gunners.at/termine",
+      "https://www.gunners.at/termine/gunners-kalender"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.gunners.at/",
+      "https://www.gunners.at/termine",
+      "https://www.gunners.at/termine/gunners-kalender"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "instagram": [
+          "https://www.gunners.at/",
+          "https://www.gunners.at/termine",
+          "https://www.gunners.at/termine/gunners-kalender"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

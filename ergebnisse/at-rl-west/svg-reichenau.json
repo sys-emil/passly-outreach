@@ -1,0 +1,51 @@
+{
+  "verein": {
+    "name": "SVG Reichenau",
+    "ort": "Innsbruck",
+    "land": "AT",
+    "liga": "at-rl-west",
+    "liga_name": "Regionalliga West (Fußball, AT, 3. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.svg-reichenau.at",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von SVG Reichenau nennen weder Eintrittspreise noch einen Kartenweg.",
+    "quellen": [
+      "https://www.svg-reichenau.at/",
+      "https://www.svg-reichenau.at/Newsdetails.135.0.html?&cHash=a9a54be8090287b2ccdd3348131e46e2&tx_ttnews%5Btt_news%5D=504"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.svg-reichenau.at/",
+      "https://www.svg-reichenau.at/Newsdetails.135.0.html?&cHash=a9a54be8090287b2ccdd3348131e46e2&tx_ttnews%5Btt_news%5D=504"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.svg-reichenau.at/",
+      "https://www.svg-reichenau.at/Newsdetails.135.0.html?&cHash=a9a54be8090287b2ccdd3348131e46e2&tx_ttnews%5Btt_news%5D=504"
+    ],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {},
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

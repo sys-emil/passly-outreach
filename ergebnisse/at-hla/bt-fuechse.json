@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "BT Füchse",
+    "land": "AT",
+    "liga": "at-hla",
+    "liga_name": "HLA Meisterliga (Handball, AT, 1. Liga)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "https://www.bt-fuechse.at/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Wix Events",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Wix Events (Wix-Events-Shop auf https://www.bt-fuechse.at/: https://www.bt-fuechse.at/).",
+    "quellen": [
+      "https://www.bt-fuechse.at/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.bt-fuechse.at/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „BT Füchse“. Gelesen: https://www.bt-fuechse.at/, https://www.bt-fuechse.at/saison. Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.bt-fuechse.at/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "anbieter": [
+          "https://www.bt-fuechse.at/",
+          "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27"
+        ]
+      }
+    }
+  }
+}

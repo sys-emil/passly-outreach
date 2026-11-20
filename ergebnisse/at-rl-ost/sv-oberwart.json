@@ -1,0 +1,55 @@
+{
+  "verein": {
+    "name": "SV Oberwart",
+    "ort": "Oberwart",
+    "land": "AT",
+    "liga": "at-rl-ost",
+    "liga_name": "Regionalliga Ost (Fußball, AT, 3. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.sv-oberwart.at/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim Light (eingebunden auf https://www.sv-oberwart.at/ticket-shop/: https://www.sv-oberwart.at/ticket-shop/).",
+    "quellen": [
+      "https://www.sv-oberwart.at/ticket-shop/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 4,
+    "quellen_belegt": [
+      "https://www.sv-oberwart.at/ticket-shop/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „SV Oberwart“. Mehrere Instagram-Konten verlinkt: rhornmedia, svoberwart1912. Gelesen: https://www.sv-oberwart.at/, https://www.sv-oberwart.at/verein/tickets/, https://www.sv-oberwart.at/ticket-shop/. Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.sv-oberwart.at/ticket-shop/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "anbieter": [
+          "https://www.sv-oberwart.at/ticket-shop/"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "SK Austria Klagenfurt",
+    "ort": "Kärnten",
+    "land": "AT",
+    "liga": "at-rl-sued-ktn",
+    "liga_name": "Regionalliga Süd, Kärnten (Fußball, AT, 3. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.skaustriaklagenfurt.at/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketshop",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "austria.klagenfurt",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website verkauft Tickets online (eigener Ticketshop). „Vorverkaufs-Start und Ticket-Aktionen vor allen anderen“ „Weitere Informationen zum Vorverkauf, zu den auftretenden Künstlern und zum Ablauf der Veranstaltung folgen in Kürze“",
+    "quellen": [
+      "https://austriaklagenfurt.at/",
+      "https://austriaklagenfurt.at/tickets",
+      "https://austriaklagenfurt.at/tickets/veranstaltung/e1793614668745"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://austriaklagenfurt.at/",
+      "https://austriaklagenfurt.at/tickets",
+      "https://austriaklagenfurt.at/tickets/veranstaltung/e1793614668745"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://austriaklagenfurt.at/",
+      "https://austriaklagenfurt.at/tickets",
+      "https://austriaklagenfurt.at/tickets/veranstaltung/e1793614668745"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "anbieter": [
+          "https://austriaklagenfurt.at/"
+        ],
+        "instagram": [
+          "https://austriaklagenfurt.at/",
+          "https://austriaklagenfurt.at/tickets",
+          "https://austriaklagenfurt.at/tickets/veranstaltung/e1793614668745"
+        ]
+      }
+    }
+  }
+}

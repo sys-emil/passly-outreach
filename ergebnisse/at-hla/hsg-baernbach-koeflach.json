@@ -1,0 +1,61 @@
+{
+  "verein": {
+    "name": "HSG Bärnbach/Köflach",
+    "ort": "Bärnbach",
+    "land": "AT",
+    "liga": "at-hla",
+    "liga_name": "HLA Meisterliga (Handball, AT, 1. Liga)",
+    "sport": "Handball"
+  },
+  "ergebnis": {
+    "website": "http://www.hsgbk.at/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Online-Vorverkauf (Anbieter nicht erkannt)",
+    "eintritt_frei": null,
+    "ticketpreis_eur": 15,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "hsg_xentis_lipizzanerheimat",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website verkauft Tickets online (Online-Vorverkauf (Anbieter nicht erkannt)). „com — Karten können ausgedruckt oder digital mitgebracht werden“ „Kein Problem: Die Abendkassa öffnet an Spieltagen mit Future-Team-Vorspiel 2 Stunden 15 Minuten vor Anpfiff, sonst eine Stunde vorher, und schließt 30 Minuten nach Spielbeginn“ „Karten für einzelne Spiele gibt es vorab online sowie an der Abendkassa“",
+    "quellen": [
+      "https://www.hsgbk.at/",
+      "https://www.hsgbk.at/spielplan/",
+      "https://www.hsgbk.at/tickets-kaufen/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.hsgbk.at/",
+      "https://www.hsgbk.at/spielplan/",
+      "https://www.hsgbk.at/tickets-kaufen/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). „Karten für einzelne Spiele gibt es vorab online sowie an der Abendkassa“. Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.hsgbk.at/",
+      "https://www.hsgbk.at/spielplan/",
+      "https://www.hsgbk.at/tickets-kaufen/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "instagram": [
+          "https://www.hsgbk.at/",
+          "https://www.hsgbk.at/spielplan/",
+          "https://www.hsgbk.at/tickets-kaufen/"
+        ],
+        "ticketpreis_eur": [],
+        "anbieter": []
+      }
+    }
+  }
+}

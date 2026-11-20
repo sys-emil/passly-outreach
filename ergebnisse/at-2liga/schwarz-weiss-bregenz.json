@@ -1,0 +1,53 @@
+{
+  "verein": {
+    "name": "Schwarz-Weiß Bregenz",
+    "ort": "Bregenz",
+    "land": "AT",
+    "liga": "at-2liga",
+    "liga_name": "2. Liga (Fußball, AT, 2. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://sw-bregenz.at/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Eventim (eingebunden auf https://sw-bregenz.at/: https://sw-bregenz.at/).",
+    "quellen": [
+      "https://sw-bregenz.at/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://sw-bregenz.at/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Schwarz-Weiß Bregenz“. Gelesen: https://sw-bregenz.at/, https://sw-bregenz.at/der-saisonkartenverkauf-startet/. Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://sw-bregenz.at/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "anbieter": []
+      },
+      "sicherheit_vorher": "hoch"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "verein": {
+    "name": "SC Weiz",
+    "ort": "Weiz",
+    "land": "AT",
+    "liga": "at-rl-sued-stmk",
+    "liga_name": "Regionalliga Süd, Steiermark (Fußball, AT, 3. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.sc-weiz.at/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website verkauft Tickets online (Eventim Light).",
+    "quellen": [
+      "https://www.sc-weiz.at/",
+      "https://www.sc-weiz.at/tickets/"
+    ],
+    "sicherheit": "niedrig"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://www.sc-weiz.at/"
+    ],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.sc-weiz.at/",
+      "https://www.sc-weiz.at/tickets/"
+    ],
+    "quellen_nicht_pruefbar": [
+      "https://www.sc-weiz.at/tickets/"
+    ],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "anbieter": []
+      },
+      "sicherheit_vorher": "mittel"
+    }
+  }
+}

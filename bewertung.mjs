@@ -36,7 +36,7 @@ export function bewerte(r) {
   else if (e.sicherheit === 'niedrig') add(-10, 'Einordnung unsicher');
   if (r.meta.quellen_belegt.length === 0) add(-10, 'keine belegte Quelle');
   // Zweit- und Nachwuchsteams verkaufen fast nie selbst (Shop und Konto gehören der ersten Mannschaft).
-  if (/\bII\b|\bBSP\b|\bVCO\b|\bBBA\b|YoungStars|Junior|Academy|Akademie/i.test(r.verein.name)) add(-25, 'Zweit- oder Nachwuchsteam');
+  if (/\bII\b|\bBSP\b|\bVCO\b|\bBBA\b|YoungStars|Junior|Academy|Akademie|Amateure|Young Violets|Liefering|Junge Wikinger/i.test(r.verein.name)) add(-25, 'Zweit- oder Nachwuchsteam');
 
   return { punkte: Math.max(0, Math.min(100, p)), gruende };
 }
@@ -47,8 +47,9 @@ export function bewerte(r) {
 // „Seid ihr zufrieden? Ein Event kostenlos mit Passly testen, parallel zum jetzigen System.“
 // Eigene Skala neben `bewerte`, damit sich beide Ranglisten nicht verdrängen.
 const LIGA_GROESSE = [
-  [/^(rl-|eh-oberliga|gfl$|prob$)/, 20, 'große Liga'],
-  [/^(oberliga|bayernliga|hessenliga|mittelrheinliga|bremen-liga|nofv-|hb3-|vbl-pro|gfl2|eh-|hbf2|fbl2|ringen)/, 12, 'mittlere Liga'],
+  // Österreich (seit 2026-11-20): Land etwa ein Zehntel so groß, die erste und zweite Liga dort zählen als groß.
+  [/^(rl-|eh-oberliga|gfl$|prob$|at-hla|at-bb-superliga|at-2liga)/, 20, 'große Liga'],
+  [/^(oberliga|bayernliga|hessenliga|mittelrheinliga|bremen-liga|nofv-|hb3-|vbl-pro|gfl2|eh-|hbf2|fbl2|ringen|at-rl-)/, 12, 'mittlere Liga'],
   [/^(vbl-|bb-rl1|kultur-muc-privattheater|kultur-muc-kleinkunst)/, 8, 'kleinere Liga oder Bühne'],
 ];
 const ANBIETER_ANLASS = [
@@ -81,6 +82,6 @@ export function wechselwert(r) {
   if (r.verein.land === 'BY') add(10, 'Bayern, Besuch möglich');
   if (e.sicherheit === 'niedrig') add(-10, 'Einordnung unsicher');
   if (KEIN_ZIEL.test(text)) add(-40, 'kein Zielkunde (Profiklub, Kette, Ausland oder Dublette)');
-  if (/\bII\b|\bIII\b|\bBSP\b|YoungStars|Junior|Academy|Akademie|Talents/i.test(r.verein.name)) add(-30, 'Zweit- oder Nachwuchsteam');
+  if (/\bII\b|\bIII\b|\bBSP\b|YoungStars|Junior|Academy|Akademie|Talents|Amateure|Young Violets|Liefering|Junge Wikinger/i.test(r.verein.name)) add(-30, 'Zweit- oder Nachwuchsteam');
   return { punkte: Math.max(0, Math.min(100, p)), gruende };
 }

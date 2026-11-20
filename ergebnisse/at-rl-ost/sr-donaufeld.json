@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "SR Donaufeld",
+    "ort": "Wien",
+    "land": "AT",
+    "liga": "at-rl-ost",
+    "liga_name": "Regionalliga Ost (Fußball, AT, 3. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.sr-donaufeld.at/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "sr_donaufeld",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website verkauft Tickets online (Eventim Light).",
+    "quellen": [
+      "https://www.sr-donaufeld.at/",
+      "https://www.sr-donaufeld.at/tickets"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://www.sr-donaufeld.at/",
+      "https://www.sr-donaufeld.at/tickets"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.sr-donaufeld.at/",
+      "https://www.sr-donaufeld.at/tickets"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "instagram": [
+          "https://www.sr-donaufeld.at/",
+          "https://www.sr-donaufeld.at/tickets"
+        ],
+        "anbieter": [
+          "https://www.sr-donaufeld.at/tickets"
+        ]
+      }
+    }
+  }
+}

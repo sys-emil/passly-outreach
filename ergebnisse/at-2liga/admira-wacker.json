@@ -1,0 +1,60 @@
+{
+  "verein": {
+    "name": "Admira Wacker",
+    "ort": "Mödling",
+    "land": "AT",
+    "liga": "at-2liga",
+    "liga_name": "2. Liga (Fußball, AT, 2. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://admirawacker.at/",
+    "vorverkauf": "anbieter",
+    "anbieter": "eigener Ticketshop",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "admirawacker",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website verkauft Tickets online (eigener Ticketshop). „Sichern Sie sich Ihr Admira-Ticket bequem online – ganz ohne Anstellen an der Kassa“ „Am Spieltag : Direkt an der Kassa (Haupttribüne) ab 1,5 Stunden vor Anpfiff“ „Pressekassa : Öffnet 3 Stunden vor Spielbeginn“",
+    "quellen": [
+      "https://admirawacker.at/",
+      "https://admirawacker.at/profis/matchcenter-panthers/",
+      "https://admirawacker.at/fans/tickets/"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://admirawacker.at/",
+      "https://admirawacker.at/profis/matchcenter-panthers/",
+      "https://admirawacker.at/fans/tickets/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://admirawacker.at/",
+      "https://admirawacker.at/profis/matchcenter-panthers/",
+      "https://admirawacker.at/fans/tickets/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "instagram": [
+          "https://admirawacker.at/",
+          "https://admirawacker.at/profis/matchcenter-panthers/",
+          "https://admirawacker.at/fans/tickets/"
+        ],
+        "anbieter": []
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "verein": {
+    "name": "Kapfenberger SV",
+    "ort": "Kapfenberg",
+    "land": "AT",
+    "liga": "at-2liga",
+    "liga_name": "2. Liga (Fußball, AT, 2. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.ksv1919.at/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Etix",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "kapfenbergersv1919",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Verkauft Tickets online über Etix (eingebunden auf https://ksv1919.at/: https://ksv1919.at/).",
+    "quellen": [
+      "https://ksv1919.at/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27"
+    ],
+    "sicherheit": "hoch"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "vorlauf.mjs (ohne Modell)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://ksv1919.at/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27"
+    ],
+    "notiz": "Ohne Modell geklärt. Wikipedia-Name „Kapfenberger SV“. Gelesen: https://ksv1919.at/, https://ksv1919.at/tickets/ticket-information/. Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://ksv1919.at/",
+      "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "anbieter": [
+          "https://ksv1919.at/"
+        ],
+        "instagram": [
+          "https://ksv1919.at/"
+        ]
+      }
+    }
+  }
+}

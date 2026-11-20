@@ -1,0 +1,62 @@
+{
+  "verein": {
+    "name": "SC Imst",
+    "ort": "Imst",
+    "land": "AT",
+    "liga": "at-rl-west",
+    "liga_name": "Regionalliga West (Fußball, AT, 3. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "https://www.scimst.at/",
+    "vorverkauf": "anbieter",
+    "anbieter": "Eventim Light",
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": "sc_sparkasse_imst1933",
+    "ansprechperson": null,
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Website verkauft Tickets online (Eventim Light). „Für alle Heimspieltermine ist eine Ticket Reservierung notwendig“ „at/ticket oder bei unseren Vorverkaufsstellen, die…“",
+    "quellen": [
+      "https://www.scimst.at/",
+      "https://www.scimst.at/ticket/",
+      "https://www.scimst.at/spielplan/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 3,
+    "quellen_belegt": [
+      "https://www.scimst.at/",
+      "https://www.scimst.at/ticket/",
+      "https://www.scimst.at/spielplan/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://www.scimst.at/",
+      "https://www.scimst.at/ticket/",
+      "https://www.scimst.at/spielplan/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "instagram": [
+          "https://www.scimst.at/",
+          "https://www.scimst.at/ticket/",
+          "https://www.scimst.at/spielplan/"
+        ],
+        "anbieter": [
+          "https://www.scimst.at/ticket/"
+        ]
+      }
+    }
+  }
+}

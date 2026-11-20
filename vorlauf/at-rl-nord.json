@@ -1,0 +1,483 @@
+{
+  "liga": "at-rl-nord",
+  "stand": "2026-11-20",
+  "quelle": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+  "abrufe": 40,
+  "teams": [
+    {
+      "verband_name": "SV Wallern",
+      "team_id": "SV Wallern",
+      "homepage": "https://www.sv-wallern.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Wallern",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q667857",
+      "ort": "Wallern an der Trattnach",
+      "verein": "SV Wallern",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sv-wallern.at/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.sv-wallern.at/",
+          "stelle": "ader KM 24/25 Spielplan 24/25 Nachwuchs Tennis News Die Sektion Platz-Reservierung Platzregeln &#038; Tarife Bogenschießen News Bogensport SV Wallern"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Union Gurten",
+      "team_id": "Union Gurten",
+      "homepage": "http://www.union-gurten.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Union_Gurten",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q695242",
+      "ort": "Gurten",
+      "verein": "Union Gurten",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.union-gurten.at/",
+        "http://www.union-gurten.at/tickets.html",
+        "https://www.union-gurten.at/tickets.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "nur_abendkasse": {
+          "url": "http://www.union-gurten.at/tickets.html",
+          "stelle": "s 15 Jahre Karten für die Heimspiele der Union Raiffeisen Gurten sind ausschließlich an der Tageskasse erhältlich. © 2026 Union Raiffeisen Gurten. Designed By Bluesteps IT"
+        },
+        "abendkasse": {
+          "url": "http://www.union-gurten.at/tickets.html",
+          "stelle": "die Heimspiele der Union Raiffeisen Gurten sind ausschließlich an der Tageskasse erhältlich. © 2026 Union Raiffeisen Gurten. Designed By Bluesteps IT"
+        }
+      },
+      "instagram": [
+        "uniongurten"
+      ],
+      "emails": [
+        "info@union-gurten.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Wals-Grünau",
+      "team_id": "SV Wals-Grünau",
+      "homepage": "http://www.sv-gruenau.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Wals-Gr%C3%BCnau",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "SV Wals-Grünau",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "http://www.sv-gruenau.com/",
+        "http://www.sv-gruenau.com/eintritsspreise.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "http://www.sv-gruenau.com/eintritsspreise.html",
+          "stelle": "dliche ab dem 15. Lebensjahr bis zur Volljährigkeit (18. Geburtstag). TAGESKASSE | Regionalliga Nord Erwachsene Frauen/Männer € 12,0 0 Ermäßigt* € 10,"
+        }
+      },
+      "instagram": [
+        "svgruenau"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keiner",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "LASK Amateure OÖ",
+      "team_id": "LASK Amateure OÖ",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/LASK_Amateure_O%C3%96",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "LASK Amateure OÖ",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Kuchl",
+      "team_id": "SV Kuchl",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Kuchl",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q255581",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Kuchl",
+      "verein": "SV Kuchl",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Grödig",
+      "team_id": "SV Grödig",
+      "homepage": "http://www.sv-groedig.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Gr%C3%B6dig",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q257324",
+      "ort": "Grödig",
+      "verein": "SV Grödig",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://sv-groedig.at/",
+        "https://sv-groedig.at/tickets/",
+        "https://sv-groedig.at/tickets/fanclub/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://sv-groedig.at/tickets/",
+          "stelle": "nsjahr) haben freien Zutritt (ohne Sitzplatz). Gerne nehmen wir Deine Ticket-Bestellung per mail über tickets@sv-groedig.at entgegen. VEREINSANSCHRIFT SV GRÖDIG Pröts"
+        },
+        "dauerkarte": {
+          "url": "https://sv-groedig.at/tickets/",
+          "stelle": "/ Impressum ÜBERSICHT TICKETPREISE Regional Liga – Saison 2026/27 ABO DAUERKARTE – SAISON 2026/27 ABO DAUERKARTE – VOLLPREIS € 140 Kein Topspiel-Zusch"
+        }
+      },
+      "instagram": [
+        "svgroedig1948"
+      ],
+      "emails": [
+        "office@sv-groedig.at",
+        "tickets@sv-groedig.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Bad Schallerbach",
+      "team_id": "SV Bad Schallerbach",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Bad_Schallerbach",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "SV Bad Schallerbach",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "TSV St. Johann",
+      "team_id": "TSV St. Johann",
+      "homepage": "http://www.tsvmcdonalds.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/TSV_St._Johann",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "TSV St. Johann",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.tsvmcdonalds.at (HTTP 503)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SK Vorwärts Steyr",
+      "team_id": "SK Vorwärts Steyr",
+      "homepage": "http://www.vorwaerts-steyr.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SK_Vorw%C3%A4rts_Steyr",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q260320",
+      "ort": "Steyr",
+      "verein": "SK Vorwärts Steyr",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.vorwaerts-steyr.at/",
+        "https://www.vorwaerts-steyr.at/ticketpreise/",
+        "https://www.vorwaerts-steyr.at/spieltagsangebote/",
+        "https://www.vorwaerts-steyr.at/heidelbeerhugo/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.vorwaerts-steyr.at/ticketpreise/",
+          "stelle": "auch wenn diese bereits in den Vorjahren benutzt wurden. Wenn möglich reservieren wir ihren Sitzplatz aber gerne. Ost- und Südtribüne regulär SKV-Mit"
+        },
+        "dauerkarte": {
+          "url": "https://www.vorwaerts-steyr.at/ticketpreise/",
+          "stelle": "tzplatz Kinder & Schüler (bis zum vollendeten 15. Lj.)**: € 6,- € 5,- Dauerkarten Mitglieder profitieren von deutlich günstigeren Preisen. Jetzt Mitgl"
+        }
+      },
+      "instagram": [
+        "skvorwaerts"
+      ],
+      "emails": [
+        "office@vorwaerts-steyr.at",
+        "s.waldbauer@vorwaerts-steyr.at"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://www.vorwaerts-steyr.at/heidelbeerhugo/",
+        "wie": "eingebunden auf https://www.vorwaerts-steyr.at/heidelbeerhugo/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "SU Bad Leonfelden",
+      "team_id": "SU Bad Leonfelden",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SU_Bad_Leonfelden",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q663179",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Bad Leonfelden",
+      "verein": "SU Bad Leonfelden",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Seekirchen 1945",
+      "team_id": "SV Seekirchen 1945",
+      "homepage": "http://www.svseekirchen.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Seekirchen_1945",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q280588",
+      "ort": "Seekirchen am Wallersee",
+      "verein": "SV Seekirchen 1945",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.svseekirchen.at/ (leer, lädt per JavaScript)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Junge Wikinger Ried",
+      "team_id": "Junge Wikinger Ried",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Junge_Wikinger_Ried",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Junge Wikinger Ried",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "UFC Hallein",
+      "team_id": "UFC Hallein",
+      "homepage": "https://ufchallein.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/UFC_Hallein",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q255684",
+      "ort": "Hallein",
+      "verein": "UFC Hallein",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://ufchallein.at/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "office@ufchallein.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Union Dietach",
+      "team_id": "Union Dietach",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Union_Dietach",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "Union Dietach",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Pinzgau Saalfelden",
+      "team_id": "FC Pinzgau Saalfelden",
+      "homepage": "http://www.fc-pinzgau.at/pages/FC.Pinzgau.asp",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Pinzgau_Saalfelden",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q183228",
+      "ort": "Saalfelden am Steinernen Meer",
+      "verein": "FC Pinzgau Saalfelden",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.fc-pinzgau.at/pages/FC.Pinzgau.asp (HTTP 404)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    }
+  ]
+}

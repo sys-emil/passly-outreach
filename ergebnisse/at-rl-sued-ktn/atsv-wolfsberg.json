@@ -1,0 +1,59 @@
+{
+  "verein": {
+    "name": "ATSV Wolfsberg",
+    "ort": "Wolfsberg",
+    "land": "AT",
+    "liga": "at-rl-sued-ktn",
+    "liga_name": "Regionalliga Süd, Kärnten (Fußball, AT, 3. Liga)",
+    "sport": "Fußball"
+  },
+  "ergebnis": {
+    "website": "http://www.atsvwolfsberg.at//",
+    "vorverkauf": "keine_angabe",
+    "anbieter": null,
+    "eintritt_frei": null,
+    "ticketpreis_eur": null,
+    "halle": null,
+    "kapazitaet": null,
+    "instagram": null,
+    "ansprechperson": {
+      "name": null,
+      "rolle": "Verein",
+      "kontakt": "ottowegscheider55@gmail.com"
+    },
+    "naechstes_heimspiel": null,
+    "beobachtung": "Die Seiten von ATSV Wolfsberg nennen weder Eintrittspreise noch einen Kartenweg.",
+    "quellen": [
+      "https://atsvwolfsberg.at/",
+      "https://atsvwolfsberg.at/abo-ticketpreise/"
+    ],
+    "sicherheit": "mittel"
+  },
+  "meta": {
+    "recherchiert_am": "2026-11-20",
+    "modell": "claude-opus-5-5 (Claude Code Sitzung, Abrufe per fetch/curl)",
+    "schritte": 2,
+    "quellen_belegt": [
+      "https://atsvwolfsberg.at/",
+      "https://atsvwolfsberg.at/abo-ticketpreise/"
+    ],
+    "quellen_nur_suchtreffer": [],
+    "quellen_nicht_nachvollziehbar": [],
+    "notiz": "Österreich: Erstkontakt nur per Brief oder persönlich (§ 174 TKG). Brief erst versenden, wenn die Umsatzsteuer für Österreich geklärt ist (EU-Kleinunternehmerverfahren oder Registrierung).",
+    "kosten_usd": 0,
+    "quellen_selbst_angegeben": [
+      "https://atsvwolfsberg.at/",
+      "https://atsvwolfsberg.at/abo-ticketpreise/"
+    ],
+    "quellen_nicht_pruefbar": [],
+    "pruefung": {
+      "am": "2026-11-20",
+      "fakten": {
+        "ansprechperson": [
+          "https://atsvwolfsberg.at/",
+          "https://atsvwolfsberg.at/abo-ticketpreise/"
+        ]
+      }
+    }
+  }
+}

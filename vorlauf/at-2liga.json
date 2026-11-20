@@ -1,0 +1,573 @@
+{
+  "liga": "at-2liga",
+  "stand": "2026-11-20",
+  "quelle": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+  "abrufe": 47,
+  "teams": [
+    {
+      "verband_name": "FC Blau-Weiß Linz",
+      "team_id": "FC Blau-Weiß Linz",
+      "homepage": "https://blauweiss-linz.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Blau-Wei%C3%9F_Linz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q41329",
+      "ort": "Linz",
+      "verein": "FC Blau-Weiß Linz",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://blauweiss-linz.at/",
+        "https://blauweiss-linz.at/ticketinfos/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://blauweiss-linz.at/ticketinfos/",
+          "stelle": "rungen aufgrund der Anstoßzeiten möglich). Nehmen Sie Platz auf Ihren reservierten VIP-Plätzen inkl. Komfort-Sitzplatz und bedienen Sie sich bei unse"
+        },
+        "dauerkarte": {
+          "url": "https://blauweiss-linz.at/ticketinfos/",
+          "stelle": "der ADMIRAL 2. Liga für die Saison 2026/27. zum Ticketkauf BLAU WEISS DAUERKARTE Für die Saison 2026/27 sind keine Dauerkarten mehr erhältlich. Weiter"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "office@blauweiss-linz.at",
+        "ticket@blauweiss-linz.at",
+        "business@blauweiss-linz.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "First Vienna FC",
+      "team_id": "First Vienna FC",
+      "homepage": "http://www.firstviennafc.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/First_Vienna_FC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1741",
+      "ort": "Wien",
+      "verein": "First Vienna FC",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.firstviennafc.at/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "firstviennafc1894"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Young Violets Austria Wien",
+      "team_id": "Young Violets Austria Wien",
+      "homepage": "http://www.fk-austria.at/en/teams/second-team-squad/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Young_Violets_Austria_Wien",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Young Violets Austria Wien",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "http://www.fk-austria.at/en/teams/second-team-squad/ (HTTP 404)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Liefering",
+      "team_id": "FC Liefering",
+      "homepage": "https://www.fc-liefering.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Liefering",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q263768",
+      "ort": "Liefering",
+      "verein": "FC Liefering",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://www.fc-liefering.at/ (HTTP 503)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SV Austria Salzburg",
+      "team_id": "SV Austria Salzburg (2005)",
+      "homepage": "https://www.austria-salzburg.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SV_Austria_Salzburg_(2005)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q34713",
+      "ort": "Salzburg",
+      "verein": "SV Austria Salzburg",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.austria-salzburg.at/",
+        "https://www.austria-salzburg.at/news/violetter-das-spieltagsmagazin/",
+        "https://www.austria-salzburg.at/svas/tickets-und-abokarte/",
+        "https://www.austria-salzburg.at/verein/tickets-und-abokarte/abo/",
+        "https://www.austria-salzburg.at/verein/tickets-und-abokarte/tageskarten-2026-27/",
+        "https://www.austria-salzburg.at/svas/tickets-und-abokarte/club-33-abo-tageskarten/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.austria-salzburg.at/",
+          "stelle": "Abokarten 2026/27 Tageskarten 2026/27 CLUB.33 Abo &#038; Tageskarten Vorverkauf Ticket-Shop Fanshop Downloads Fans Austria Salzburg-Stadion Club.33 K"
+        },
+        "von_hand": {
+          "url": "https://www.austria-salzburg.at/svas/tickets-und-abokarte/",
+          "stelle": "00,- EUR 1100,- Club.33 Kind EUR 600,- EUR 550,- Aufpreis Förderabo - reservierter Parkplatz EUR 100,- EUR 90,- Vorverkauf Karten für alle Sektoren f"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Admira Wacker",
+      "team_id": "Admira Wacker",
+      "homepage": "https://admirawacker.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Admira_Wacker",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q277965",
+      "ort": "Mödling",
+      "verein": "Admira Wacker",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://admirawacker.at/",
+        "https://admirawacker.at/spieltagsangebote/",
+        "https://admirawacker.at/fans/tickets/",
+        "https://admirawacker.at/business/business-tickets/",
+        "https://admirawacker.at/alle-infos-zum-heimspiel-gegen-den-fc-wacker-innsbruck/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://admirawacker.at/fans/tickets/",
+          "stelle": "fahrer ist kostenlos. Auf Grund begrenzter Kapazitäten muss jedoch im Vorverkauf eine Zutrittsberechtigung abgeholt werden. Einer Begleitperson wird f"
+        },
+        "von_hand": {
+          "url": "https://admirawacker.at/fans/tickets/",
+          "stelle": "nschaft in der DATENPOL ARENA . Kontakt Für weitere Informationen zur Ticketbestellung steht Ihnen unser Office gerne per Mail zur Verfügung: office@admirawacker.at Informationen für Menschen mit"
+        }
+      },
+      "instagram": [
+        "admirawacker"
+      ],
+      "emails": [
+        "office@admirawacker.at",
+        "fanshop@flyeralarmadmira.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "FC Wacker Innsbruck",
+      "team_id": "FC Wacker Innsbruck (2002)",
+      "homepage": "https://fc-wacker-innsbruck.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Wacker_Innsbruck_(2002)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1735",
+      "ort": "Innsbruck",
+      "verein": "FC Wacker Innsbruck",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fc-wacker-innsbruck.at/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "fcwackerinnsbruck"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SKU Amstetten",
+      "team_id": "SKU Amstetten",
+      "homepage": "https://www.sku-amstetten.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SKU_Amstetten",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q251231",
+      "ort": "Amstetten",
+      "verein": "SKU Amstetten",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.sku-amstetten.at/",
+        "https://www.sku-amstetten.at/fanzone/eintrittspreise"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "eintritt_frei": {
+          "url": "https://www.sku-amstetten.at/fanzone/eintrittspreise",
+          "stelle": "isonkartenbesitzer (2. Bundesliga und/oder 1. Landesliga) inkludiert. Freier Eintritt für Rollstuhlfahrer (inkl. Begleitperson) Der SKU Ertl Glas Amstetten"
+        },
+        "dauerkarte": {
+          "url": "https://www.sku-amstetten.at/fanzone/eintrittspreise",
+          "stelle": "tsspielen des SKU Ertl Glas Amstetten in der 2. Liga freien Eintritt. Saisonkarten 2. Bundesliga 2026/27 € 185,- Vollpreis € 140,- ermäßigt (Pensionist"
+        }
+      },
+      "instagram": [
+        "skuamstetten"
+      ],
+      "emails": [
+        "bs@skuam.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "eintritt_frei",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Schwarz-Weiß Bregenz",
+      "team_id": "Schwarz-Weiß Bregenz (2005)",
+      "homepage": "https://sw-bregenz.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Schwarz-Wei%C3%9F_Bregenz_(2005)",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1737",
+      "ort": "Bregenz",
+      "verein": "Schwarz-Weiß Bregenz",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://sw-bregenz.at/",
+        "https://sw-bregenz.at/der-saisonkartenverkauf-startet/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://sw-bregenz.at/",
+          "stelle": "häftsstelle © 2026 | SC Schwarz Weiß Bregenz Spielbetriebs GmbH TICKETVORVERKAUF FÜR DIE LETZTEN BEIDEN HEIMSPIELE DES JAHRES GESTARTET ZUM TICKETSHOP"
+        },
+        "dauerkarte": {
+          "url": "https://sw-bregenz.at/",
+          "stelle": "E LETZTEN BEIDEN HEIMSPIELE DES JAHRES GESTARTET ZUM TICKETSHOP JETZT DAUERKARTE SICHERN! ALLE INFOS SCHWARZ WEISS BREGENZ X TOCHIGI CITY ALLE INFOS J"
+        },
+        "von_hand": {
+          "url": "https://sw-bregenz.at/der-saisonkartenverkauf-startet/",
+          "stelle": "nhaber der letzten Saison haben ihre alten Plätze noch bis inkl. 8.8. reserviert und können diese verlängern. Schickt dazu bitte eine Mail mit Betref"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "tickets@sw-bregenz.at"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://sw-bregenz.at/",
+        "wie": "eingebunden auf https://sw-bregenz.at/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "ASK Voitsberg",
+      "team_id": "ASK Voitsberg",
+      "homepage": "https://vereine.fussballoesterreich.at/AskSparkasseStadtwerkeVoitsberg/News/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/ASK_Voitsberg",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q660453",
+      "ort": "Voitsberg",
+      "verein": "ASK Voitsberg",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [
+        "https://vereine.fussballoesterreich.at/AskSparkasseStadtwerkeVoitsberg/News/ (HTTP 503)"
+      ],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SKN St. Pölten",
+      "team_id": "SKN St. Pölten",
+      "homepage": "https://www.skn-stpoelten.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SKN_St._P%C3%B6lten",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q82500",
+      "ort": "St. Pölten",
+      "verein": "SKN St. Pölten",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.skn-stpoelten.at/",
+        "https://www.skn-stpoelten.at/maenner/werbung-spieltag/",
+        "https://www.skn-stpoelten.at/tickets/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "von_hand": {
+          "url": "https://www.skn-stpoelten.at/tickets/",
+          "stelle": "is und auf Schoß des Erwachsenen Preise HYPO NOE Lounge: Tagesticket (reservierter Platz am Stehtisch) um € 180,- exkl. Ust – Anfragen per Mail an ti"
+        }
+      },
+      "instagram": [
+        "sknstpoelten"
+      ],
+      "emails": [
+        "office@skn-stpoelten.at",
+        "ticket@skn-stp.at",
+        "sales@skn-stp.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SK Sturm Graz II",
+      "team_id": "SK Sturm Graz II",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SK_Sturm_Graz_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "SK Sturm Graz II",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Floridsdorfer AC",
+      "team_id": "Floridsdorfer AC",
+      "homepage": "https://fac.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Floridsdorfer_AC",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1741",
+      "ort": "Wien",
+      "verein": "Floridsdorfer AC",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://fac.at/",
+        "https://fac.at/tickets/onlinetickets/",
+        "https://fac.at/tickets/tageskarten/",
+        "https://fac.at/tickets/abo-karten-2/",
+        "https://fac.at/tickets/amateure/",
+        "https://fac.at/tickets/frauen/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "floridsdorfer_ac",
+        "spg_fac_essling"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SK Rapid Wien II",
+      "team_id": "SK Rapid Wien II",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SK_Rapid_Wien_II",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "verein": "SK Rapid Wien II",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "zweitteam",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": null,
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Kapfenberger SV",
+      "team_id": "Kapfenberger SV",
+      "homepage": "https://www.ksv1919.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Kapfenberger_SV",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q623049",
+      "ort": "Kapfenberg",
+      "verein": "Kapfenberger SV",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://ksv1919.at/",
+        "https://ksv1919.at/tickets/ticket-information/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://ksv1919.at/tickets/ticket-information/",
+          "stelle": "unseren ONLINE Ticketshop bis zu 15% günstiger erhältlich als an der Tageskasse. Ticket-Shop Stehplatz & Gästesektor (Tageskasse / Online) Erwachsene"
+        },
+        "dauerkarte": {
+          "url": "https://ksv1919.at/tickets/ticket-information/",
+          "stelle": "Y € 150,00 Kinder 11-14 Jahre In Begleitung eines Erwachsenen € 50,00 Saisonkarten Sichern Sie sich Ihren Stammplatz im Falkenhorst! Alle Infos zum KSV"
+        }
+      },
+      "instagram": [
+        "kapfenbergersv1919"
+      ],
+      "emails": [
+        "info@ksv1919.at"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Etix",
+        "beleg": "https://ksv1919.at/",
+        "wie": "eingebunden auf https://ksv1919.at/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "FC Hertha Wels",
+      "team_id": "FC Hertha Wels",
+      "homepage": null,
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/FC_Hertha_Wels",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Fu%C3%9Fballmeisterschaft_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q178582",
+      "verband_hinweis": "keine Website in Wikidata und Infobox",
+      "ort": "Wels",
+      "verein": "FC Hertha Wels",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "unbekannt",
+      "braucht_modell": true
+    }
+  ]
+}

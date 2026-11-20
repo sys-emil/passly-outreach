@@ -1,0 +1,489 @@
+{
+  "liga": "at-hla",
+  "stand": "2026-11-20",
+  "quelle": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27",
+  "abrufe": 46,
+  "teams": [
+    {
+      "verband_name": "Handball Tirol",
+      "team_id": "Handball Tirol",
+      "homepage": "http://www.handball-tirol.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Handball_Tirol",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "Handball Tirol",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.handball-tirol.at/",
+        "https://www.handball-tirol.at/tickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [],
+      "preise": [
+        {
+          "eur": 18,
+          "url": "https://www.handball-tirol.at/tickets",
+          "stelle": "ticket normal 18 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "SC Ferlach",
+      "team_id": "SC Ferlach",
+      "homepage": "http://www.scferlach.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/SC_Ferlach",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q610514",
+      "ort": "Ferlach",
+      "verein": "SC Ferlach",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://sc-ferlach.at/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [],
+      "emails": [
+        "kontakt@scferlach.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Handballclub Fivers Margareten",
+      "team_id": "Handballclub Fivers Margareten",
+      "homepage": "https://www.fivers.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Handballclub_Fivers_Margareten",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1741",
+      "ort": "Wien",
+      "verein": "Handballclub Fivers Margareten",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.fivers.at/",
+        "https://www.fivers.at/tickets-und-heimhalle/",
+        "https://www.fivers.at/2026/11/heimspiel-gegen-linz-fivers-wollen-wieder-ihr-wahres-gesicht-zeigen/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://www.fivers.at/tickets-und-heimhalle/",
+          "stelle": "e 3 1050 Wien Tel.: +43/1/4000-51262 TICKETS SAISON 2025/26 Der Kartenvorverkauf über ticketmaster die beste Möglichkeit, um sicher an ein Ticket zu g"
+        },
+        "von_hand": {
+          "url": "https://www.fivers.at/tickets-und-heimhalle/",
+          "stelle": "Einlass vorzuweisen! &#8211; FIVERS LOUNGE – VIP-Tagesticket: € 75.- Reservierter Sitzplatz auf der VIP-Tribüne Zutritt zur klimatisierten FIVERS LO"
+        },
+        "bar": {
+          "url": "https://www.fivers.at/tickets-und-heimhalle/",
+          "stelle": "Spieltag noch Tickets verfügbar sein, können diese an der Tageskassa (nur Barzahlung möglich!) erworben werden. KARTENPREISE HLA MEISTERLIGA ÖHB CU"
+        }
+      },
+      "instagram": [
+        "fivers_handball_team"
+      ],
+      "emails": [
+        "office@fivers.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "Bregenz Handball",
+      "team_id": "Bregenz Handball",
+      "homepage": "http://www.bregenz-handball.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Bregenz_Handball",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1737",
+      "ort": "Bregenz",
+      "verein": "Bregenz Handball",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://bregenz-handball.at/home",
+        "https://bregenz-handball.at/tickets/erstellung-einzeltickets"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://bregenz-handball.at/tickets/erstellung-einzeltickets",
+          "stelle": "sch, nachhaltig. Mit ein paar wenigen Klicks kannst du deine digitale Dauerkarte in ein Einzelticket verwandeln und diese an Freunde oder Bekannte wei"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Reservix",
+        "beleg": "https://bregenz-handball.at/home",
+        "wie": "eingebunden auf https://bregenz-handball.at/home"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "HSG Bärnbach/Köflach",
+      "team_id": "HSG Bärnbach/Köflach",
+      "homepage": "http://www.hsgbk.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HSG_B%C3%A4rnbach%2FK%C3%B6flach",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q672629",
+      "ort": "Bärnbach",
+      "verein": "HSG Bärnbach/Köflach",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.hsgbk.at/",
+        "https://www.hsgbk.at/spieltagsvorschau/",
+        "https://www.hsgbk.at/tickets-kaufen/",
+        "https://www.hsgbk.at/tickets/",
+        "https://www.hsgbk.at/saisonkarten/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.hsgbk.at/",
+          "stelle": "hulkooperation Schuljahr 2025 – 26 Tickets Tickets kaufen Ticketinfos Saisonkarten Mitgliedschaft Partner Shop Kontakt Zwischen hellem und dunklem Ersc"
+        },
+        "von_hand": {
+          "url": "https://www.hsgbk.at/tickets/",
+          "stelle": "en. Bei Tageskarten gilt freie Platzwahl — bitte die für Saisonkarten reservierten Plätze frei lassen. Wer bekommt den ermäßigten Preis? Jugendliche"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "office@hsgbk.at"
+      ],
+      "preise": [
+        {
+          "eur": 15,
+          "url": "https://www.hsgbk.at/tickets/",
+          "stelle": "tageskarten vollpreis: 15 euro"
+        }
+      ],
+      "anbieter": null,
+      "vorschlag": "manuell",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "HC Linz AG",
+      "team_id": "HC Linz AG",
+      "homepage": "https://www.hclinz.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HC_Linz_AG",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q41329",
+      "ort": "Linz",
+      "verein": "HC Linz AG",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.hclinz.at/",
+        "https://www.hclinz.at/saison/tickets/",
+        "https://www.hclinz.at/2026/11/12/samstag-heimspieldoppel-in-der-sport-ms-kleinmuenchen/",
+        "https://www.hclinz.at/2026/11/09/dienstag-nachtragsheimspiel-gegen-roomz-jags-voeslau/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.hclinz.at/saison/tickets/",
+          "stelle": "REIER EINTRITT mit tagesgültigem LINZ AG LINIEN-Ticket ONLINE TICKETS SAISONKARTEN ERWACHSENE € 150.- Die Saisonkarte 2026/27 ist gültig für alle Heims"
+        }
+      },
+      "instagram": [
+        "hclinzag"
+      ],
+      "emails": [
+        "office@hclinz.at"
+      ],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "BT Füchse",
+      "team_id": "BT Füchse",
+      "homepage": "https://www.bt-fuechse.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/BT_F%C3%BCchse",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": null,
+      "verein": "BT Füchse",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.bt-fuechse.at/",
+        "https://www.bt-fuechse.at/saison"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.bt-fuechse.at/",
+          "stelle": "rtner Unsere Partner Partner werden Nachhaltigkeit Fanbereich Fanshop Saisonkarten / Tickets Mehr Use tab to navigate through the menu items. Kein Punk"
+        }
+      },
+      "instagram": [],
+      "emails": [
+        "office@bt-fuechse.at"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Wix Events",
+        "beleg": "https://www.bt-fuechse.at/",
+        "wie": "Wix-Events-Shop auf https://www.bt-fuechse.at/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "HSG Graz",
+      "team_id": "HSG Graz",
+      "homepage": "https://hsggraz.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/HSG_Graz",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q13298",
+      "ort": "Graz",
+      "verein": "HSG Graz",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://hsggraz.at/",
+        "https://hsggraz.at/tickets/",
+        "https://hsggraz.at/spieltagsmagazin/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://hsggraz.at/tickets/",
+          "stelle": "r dein Ticket für die Heimspiele der HSG Holding Graz Tickets sind im Vorverkauf über unseren Webshop erhältlich. Zum Webshop Tageskarte € 17 Ermäßigt"
+        },
+        "von_hand": {
+          "url": "https://hsggraz.at/tickets/",
+          "stelle": "eimspiel der HSG Holding Graz im Raiffeisen Sportpark, Saison 2026/27 Vorbestellen Mehrere Vereine SUPERABO 2026/27 € 200 Alle Heimspiele von HSG Hold"
+        },
+        "dauerkarte": {
+          "url": "https://hsggraz.at/tickets/",
+          "stelle": "op erhältlich. Zum Webshop Tageskarte € 17 Ermäßigt* € 15 Zum Webshop Saisonkarte € 170 Zugang zu jedem Heimspiel der HSG Holding Graz im Raiffeisen Sp"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://hsggraz.at/",
+        "wie": "eingebunden auf https://hsggraz.at/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Jags Vöslau",
+      "team_id": "Jags Vöslau",
+      "homepage": "https://www.jags.at",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Jags_V%C3%B6slau",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q798800",
+      "ort": "Bad Vöslau",
+      "verein": "Jags Vöslau",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.jags.at/",
+        "https://www.jags.at/event-details/heimspiel-vs-alpla-hc-hard"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "abendkasse": {
+          "url": "https://www.jags.at/event-details/heimspiel-vs-alpla-hc-hard",
+          "stelle": "gendspiele 18:30 Uhr | HLA MEISTERLIGA 🎟️ Tickets sind direkt an der Abendkasse erhältlich 🥨 Für Speisen und Getränke ist vor Ort gesorgt Mehr anzei"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Wix Events",
+        "beleg": "https://www.jags.at/",
+        "wie": "Wix-Events-Shop auf https://www.jags.at/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "Alpla HC Hard",
+      "team_id": "Alpla HC Hard",
+      "homepage": "http://www.hchard.at/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/Alpla_HC_Hard",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q699612",
+      "ort": "Hard",
+      "verein": "Alpla HC Hard",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.hchard.at/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "dauerkarte": {
+          "url": "https://www.hchard.at/",
+          "stelle": "ktualisieren Sie Ihren Browser damit die Seite verwendet werden kann. Saisonkarten 26/27 Tickets facebook instagram-original youtube Mannschaften Nachw"
+        }
+      },
+      "instagram": [],
+      "emails": [],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim",
+        "beleg": "https://www.hchard.at/",
+        "wie": "eingebunden auf https://www.hchard.at/"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    },
+    {
+      "verband_name": "UHK Krems",
+      "team_id": "UHK Krems",
+      "homepage": "http://www.uhk-krems.com/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/UHK_Krems",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q131266",
+      "ort": "Krems",
+      "verein": "UHK Krems",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://uhk-krems.com/",
+        "https://uhk-krems.com/ticketinfo/"
+      ],
+      "nicht_lesbar": [],
+      "funde": {
+        "vorverkauf": {
+          "url": "https://uhk-krems.com/ticketinfo/",
+          "stelle": "den.at (ausgenommen VIP). Für die Fans bedeutet dies, dass ein online Vorverkauf von Tages- und Saisonkarten möglich ist. Die Tageskarten können ausge"
+        },
+        "von_hand": {
+          "url": "https://uhk-krems.com/ticketinfo/",
+          "stelle": "tritt bei allen Heimspielen , die Nutzung der ACCURATA Lounge und der reservierte Sitzbereich für VIP-Gäste. Der Zutritt ist ausschließlich mit VIP-B"
+        },
+        "dauerkarte": {
+          "url": "https://uhk-krems.com/ticketinfo/",
+          "stelle": "Für die Fans bedeutet dies, dass ein online Vorverkauf von Tages- und Saisonkarten möglich ist. Die Tageskarten können ausgedruckt oder digital beim Ei"
+        }
+      },
+      "instagram": [
+        "uhkkrems"
+      ],
+      "emails": [],
+      "preise": [],
+      "anbieter": null,
+      "vorschlag": "keine_angabe",
+      "braucht_modell": true
+    },
+    {
+      "verband_name": "WAT Atzgersdorf",
+      "team_id": "WAT Atzgersdorf",
+      "homepage": "https://www.atzgersdorf.info/",
+      "ticketlink": null,
+      "verband_team_url": "https://de.wikipedia.org/wiki/WAT_Atzgersdorf",
+      "verband_kontakt_url": "https://de.wikipedia.org/wiki/%C3%96sterreichische_Handballmeisterschaft_%28M%C3%A4nner%29_2026/27",
+      "verband_kontakte": [],
+      "verband_emails": [],
+      "plz": null,
+      "ort_qid": "Q1741",
+      "ort": "Wien",
+      "verein": "WAT Atzgersdorf",
+      "land": null,
+      "land_aus_plz": true,
+      "typ": "verein",
+      "gelesen": [
+        "https://www.atzgersdorf.info/",
+        "https://www.atzgersdorf.info/Saison/Newsbeitrag.html?newsID=%7B6160E454-E441-11F1-8916-309C23AC5997%7D",
+        "https://www.atzgersdorf.info/Webshop/Ticketshop.html"
+      ],
+      "nicht_lesbar": [],
+      "funde": {},
+      "instagram": [
+        "wat.atzgersdorf"
+      ],
+      "emails": [
+        "office@handball-atzgersdorf.at"
+      ],
+      "preise": [],
+      "anbieter": {
+        "name": "Eventim Light",
+        "beleg": "https://www.atzgersdorf.info/Webshop/Ticketshop.html",
+        "wie": "eingebunden auf https://www.atzgersdorf.info/Webshop/Ticketshop.html"
+      },
+      "vorschlag": "anbieter",
+      "braucht_modell": false
+    }
+  ]
+}
