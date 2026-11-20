@@ -363,6 +363,8 @@ async function stufe0WikiListe(q) {
       for (const zeile of text.split(/\n\|-[^\n]*/).slice(1)) {
         const zellen = zeile.split(/\n\|/).map((z) => z.trim()).filter(Boolean);
         if (!zellen.length || /^!/.test(zellen[0])) continue;
+        // zeilenFilter (seit 2026-11-20, AlpsHL): nur Zeilen, deren Wikitext passt, z. B. „AUT“.
+        if (q.zeilenFilter && !new RegExp(q.zeilenFilter).test(zeile)) continue;
         const link = zellen[0].match(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/);
         const web = zeile.match(/\[(https?:\/\/[^\s\]]+)/)?.[1] ?? null;
         eintraege.push({ name: sauber(link ? (link[2] ?? link[1]) : zellen[0]), artikel: link?.[1] ?? null, web });

@@ -1038,6 +1038,21 @@
         "staffel": "Regionalliga West"
       },
       "vereine": []
+    },
+    "at-alpshl": {
+      "name": "Alps Hockey League, österreichische Teams (Eishockey)",
+      "sport": "Eishockey",
+      "land": "AT",
+      "quelle": {
+        "typ": "wikiliste",
+        "seite": "Alps_Hockey_League",
+        "abschnitte": [
+          "Teilnehmer"
+        ],
+        "format": "tabelle",
+        "zeilenFilter": "\\{\\{AUT"
+      },
+      "vereine": []
     }
   }
 }
